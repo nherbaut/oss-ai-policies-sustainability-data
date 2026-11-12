@@ -1,0 +1,51 @@
+hash: 4692e1e411a617b19cfebc445c03f8760b55420e32fe0bc0d88cb1552ca9ff08
+id: qda-source-428@qda-case-104
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 104
+    date: '2026-11-05 22:19:55'
+    fid: 428
+    id: 428
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 267
+  content_sha256: 4692e1e411a617b19cfebc445c03f8760b55420e32fe0bc0d88cb1552ca9ff08
+  date: '2026-11-05 22:19:55'
+  id: 428
+  import_metadata:
+    entity: SillyTavern/SillyTavern
+    provenance:
+    - accessed_at: '2026-11-05T19:11:59.276742+00:00'
+      id: corpus-104-purpose
+      original_file_sha256: 4692e1e411a617b19cfebc445c03f8760b55420e32fe0bc0d88cb1552ca9ff08
+      path: analysis/corpus-assessment/sources/corpus-104-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-104-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/SillyTavern/SillyTavern/8172dcd0ee672d3cd9a5e5f7af134f91a45cd2b8/README.md
+      role: purpose_statement_candidate
+      sha256: 4692e1e411a617b19cfebc445c03f8760b55420e32fe0bc0d88cb1552ca9ff08
+      url: https://github.com/SillyTavern/SillyTavern/blob/8172dcd0ee672d3cd9a5e5f7af134f91a45cd2b8/README.md
+      version: 8172dcd0ee672d3cd9a5e5f7af134f91a45cd2b8
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 4692e1e411a617b19cfebc445c03f8760b55420e32fe0bc0d88cb1552ca9ff08
+  mediapath: /docs/SillyTavern__SillyTavern--purpose_statement_candidate--4692e1e411a6.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    SillyTavern/SillyTavern\",\n  \"text_sha256\": \"4692e1e411a617b19cfebc445c03f8760b55420e32fe0bc0d88cb1552ca9ff08\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-104-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"4692e1e411a617b19cfebc445c03f8760b55420e32fe0bc0d88cb1552ca9ff08\",\n    \
+    \  \"id\": \"corpus-104-purpose\",\n      \"url\": \"https://github.com/SillyTavern/SillyTavern/blob/8172dcd0ee672d3cd9a5e5f7af134f91a45cd2b8/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/SillyTavern/SillyTavern/8172dcd0ee672d3cd9a5e5f7af134f91a45cd2b8/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:59.276742+00:00\",\n      \"version\"\
+    : \"8172dcd0ee672d3cd9a5e5f7af134f91a45cd2b8\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-104-purpose.raw.md\"\
+    ,\n      \"sha256\": \"4692e1e411a617b19cfebc445c03f8760b55420e32fe0bc0d88cb1552ca9ff08\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: SillyTavern__SillyTavern--purpose_statement_candidate--4692e1e411a6.md
+  owner: NicolasH
+  risid: null
+name: SillyTavern__SillyTavern--purpose_statement_candidate--4692e1e411a6.md
+path: corpus/qda-case-104/428.txt

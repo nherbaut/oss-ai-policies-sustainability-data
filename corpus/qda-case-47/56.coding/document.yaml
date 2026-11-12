@@ -1,0 +1,43 @@
+hash: 97f4d8aabd157aa02d7f23c9960ac63f9de3e37a2e928b6914427c5f7c093523
+id: qda-source-56@qda-case-47
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 47
+    date: '2026-11-05 22:19:55'
+    fid: 56
+    id: 55
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12660
+  content_sha256: 97f4d8aabd157aa02d7f23c9960ac63f9de3e37a2e928b6914427c5f7c093523
+  date: '2026-11-05 22:19:55'
+  id: 56
+  import_metadata:
+    entity: bytedance/deer-flow
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 97f4d8aabd157aa02d7f23c9960ac63f9de3e37a2e928b6914427c5f7c093523
+      path: data/281/policies/bytedance/deer-flow/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/bytedance/deer-flow/blob/de55982c5acd6edf5ccaa1a3a1d20a65185325ee/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 97f4d8aabd157aa02d7f23c9960ac63f9de3e37a2e928b6914427c5f7c093523
+  mediapath: /docs/bytedance__deer-flow--contributing--97f4d8aabd15.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    bytedance/deer-flow\",\n  \"text_sha256\": \"97f4d8aabd157aa02d7f23c9960ac63f9de3e37a2e928b6914427c5f7c093523\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/bytedance/deer-flow/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"97f4d8aabd157aa02d7f23c9960ac63f9de3e37a2e928b6914427c5f7c093523\"\
+    ,\n      \"source_url_cell\": \"https://github.com/bytedance/deer-flow/blob/de55982c5acd6edf5ccaa1a3a1d20a65185325ee/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: bytedance__deer-flow--contributing--97f4d8aabd15.md
+  owner: NicolasH
+  risid: null
+name: bytedance__deer-flow--contributing--97f4d8aabd15.md
+path: corpus/qda-case-47/56.txt

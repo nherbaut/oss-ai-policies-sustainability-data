@@ -1,0 +1,51 @@
+hash: 73586ae05d3463977f4b17d205ea71894a36ba1cb3c2c7ebe08d81956e5aac3c
+id: qda-source-512@qda-case-191
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 191
+    date: '2026-11-05 22:19:55'
+    fid: 512
+    id: 512
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 547
+  content_sha256: 73586ae05d3463977f4b17d205ea71894a36ba1cb3c2c7ebe08d81956e5aac3c
+  date: '2026-11-05 22:19:55'
+  id: 512
+  import_metadata:
+    entity: twpayne/chezmoi
+    provenance:
+    - accessed_at: '2026-11-05T19:12:07.743836+00:00'
+      id: corpus-191-purpose
+      original_file_sha256: 73586ae05d3463977f4b17d205ea71894a36ba1cb3c2c7ebe08d81956e5aac3c
+      path: analysis/corpus-assessment/sources/corpus-191-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-191-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/twpayne/chezmoi/320bb1d424836eb7cb42d191e4989c2c181167b9/README.md
+      role: purpose_statement_candidate
+      sha256: 73586ae05d3463977f4b17d205ea71894a36ba1cb3c2c7ebe08d81956e5aac3c
+      url: https://github.com/twpayne/chezmoi/blob/320bb1d424836eb7cb42d191e4989c2c181167b9/README.md
+      version: 320bb1d424836eb7cb42d191e4989c2c181167b9
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 73586ae05d3463977f4b17d205ea71894a36ba1cb3c2c7ebe08d81956e5aac3c
+  mediapath: /docs/twpayne__chezmoi--purpose_statement_candidate--73586ae05d34.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    twpayne/chezmoi\",\n  \"text_sha256\": \"73586ae05d3463977f4b17d205ea71894a36ba1cb3c2c7ebe08d81956e5aac3c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-191-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"73586ae05d3463977f4b17d205ea71894a36ba1cb3c2c7ebe08d81956e5aac3c\",\n    \
+    \  \"id\": \"corpus-191-purpose\",\n      \"url\": \"https://github.com/twpayne/chezmoi/blob/320bb1d424836eb7cb42d191e4989c2c181167b9/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/twpayne/chezmoi/320bb1d424836eb7cb42d191e4989c2c181167b9/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:07.743836+00:00\",\n      \"version\"\
+    : \"320bb1d424836eb7cb42d191e4989c2c181167b9\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-191-purpose.raw.md\"\
+    ,\n      \"sha256\": \"73586ae05d3463977f4b17d205ea71894a36ba1cb3c2c7ebe08d81956e5aac3c\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: twpayne__chezmoi--purpose_statement_candidate--73586ae05d34.md
+  owner: NicolasH
+  risid: null
+name: twpayne__chezmoi--purpose_statement_candidate--73586ae05d34.md
+path: corpus/qda-case-191/512.txt

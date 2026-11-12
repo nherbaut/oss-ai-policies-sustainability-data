@@ -1,0 +1,43 @@
+hash: a4539672b2589c41548f5381ca89e2171cbd5bae814942c835f2ccb91177bbee
+id: qda-source-152@qda-case-135
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 135
+    date: '2026-11-05 22:19:55'
+    fid: 152
+    id: 151
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8357
+  content_sha256: a4539672b2589c41548f5381ca89e2171cbd5bae814942c835f2ccb91177bbee
+  date: '2026-11-05 22:19:55'
+  id: 152
+  import_metadata:
+    entity: x64dbg/x64dbg
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: fbcd3bab1d8bc9cd762cc06a36d3e9402ffab9bfb9ef5c5dc8183cb1e3e54a69
+      path: data/281/policies/x64dbg/x64dbg/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/x64dbg/x64dbg/blob/77a7ed00b81e0d614c53712ff2f0236920949c2e/.github/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: a4539672b2589c41548f5381ca89e2171cbd5bae814942c835f2ccb91177bbee
+  mediapath: /docs/x64dbg__x64dbg--contributing--a4539672b258.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    x64dbg/x64dbg\",\n  \"text_sha256\": \"a4539672b2589c41548f5381ca89e2171cbd5bae814942c835f2ccb91177bbee\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/x64dbg/x64dbg/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"fbcd3bab1d8bc9cd762cc06a36d3e9402ffab9bfb9ef5c5dc8183cb1e3e54a69\"\
+    ,\n      \"source_url_cell\": \"https://github.com/x64dbg/x64dbg/blob/77a7ed00b81e0d614c53712ff2f0236920949c2e/.github/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: x64dbg__x64dbg--contributing--a4539672b258.md
+  owner: NicolasH
+  risid: null
+name: x64dbg__x64dbg--contributing--a4539672b258.md
+path: corpus/qda-case-135/152.txt

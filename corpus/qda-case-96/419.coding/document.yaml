@@ -1,0 +1,58 @@
+hash: a67bdc4d8e696c05559bfd33dfe76feccafe230ded8d86cfc5a0f5d4e97dd5b1
+id: qda-source-419@qda-case-96
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 96
+    date: '2026-11-05 22:19:55'
+    fid: 419
+    id: 419
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 40418
+  content_sha256: a67bdc4d8e696c05559bfd33dfe76feccafe230ded8d86cfc5a0f5d4e97dd5b1
+  date: '2026-11-05 22:19:55'
+  id: 419
+  import_metadata:
+    conversion:
+      converted_sha256: a67bdc4d8e696c05559bfd33dfe76feccafe230ded8d86cfc5a0f5d4e97dd5b1
+      original_sha256: ee5f369bf28c8375f63f1470d51e09c072841bb037dc424e43351e1e436dfa2f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: farion1231/cc-switch
+    provenance:
+    - accessed_at: '2026-11-05T19:11:58.380564+00:00'
+      id: corpus-096-purpose
+      original_file_sha256: ee5f369bf28c8375f63f1470d51e09c072841bb037dc424e43351e1e436dfa2f
+      path: analysis/corpus-assessment/sources/corpus-096-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-096-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/farion1231/cc-switch/f6e37ed99443890a865669e28bf1caf5e85d466d/README.md
+      role: purpose_statement_candidate
+      sha256: ee5f369bf28c8375f63f1470d51e09c072841bb037dc424e43351e1e436dfa2f
+      url: https://github.com/farion1231/cc-switch/blob/f6e37ed99443890a865669e28bf1caf5e85d466d/README.md
+      version: f6e37ed99443890a865669e28bf1caf5e85d466d
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ee5f369bf28c8375f63f1470d51e09c072841bb037dc424e43351e1e436dfa2f
+  mediapath: /docs/farion1231__cc-switch--purpose_statement_candidate--ee5f369bf28c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    farion1231/cc-switch\",\n  \"text_sha256\": \"ee5f369bf28c8375f63f1470d51e09c072841bb037dc424e43351e1e436dfa2f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-096-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"ee5f369bf28c8375f63f1470d51e09c072841bb037dc424e43351e1e436dfa2f\",\n    \
+    \  \"id\": \"corpus-096-purpose\",\n      \"url\": \"https://github.com/farion1231/cc-switch/blob/f6e37ed99443890a865669e28bf1caf5e85d466d/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/farion1231/cc-switch/f6e37ed99443890a865669e28bf1caf5e85d466d/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:58.380564+00:00\",\n      \"version\"\
+    : \"f6e37ed99443890a865669e28bf1caf5e85d466d\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-096-purpose.raw.md\"\
+    ,\n      \"sha256\": \"ee5f369bf28c8375f63f1470d51e09c072841bb037dc424e43351e1e436dfa2f\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"ee5f369bf28c8375f63f1470d51e09c072841bb037dc424e43351e1e436dfa2f\"\
+    ,\n    \"converted_sha256\": \"a67bdc4d8e696c05559bfd33dfe76feccafe230ded8d86cfc5a0f5d4e97dd5b1\"\
+    \n  }\n}"
+  name: farion1231__cc-switch--purpose_statement_candidate--ee5f369bf28c.md
+  owner: NicolasH
+  risid: null
+name: farion1231__cc-switch--purpose_statement_candidate--ee5f369bf28c.md
+path: corpus/qda-case-96/419.txt

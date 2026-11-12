@@ -1,0 +1,43 @@
+hash: bb5d86c2644f1cf2af760ca10656a60a18f14848413708a135b56ce684aefd56
+id: qda-source-111@qda-case-98
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 98
+    date: '2026-11-05 22:19:55'
+    fid: 111
+    id: 110
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1349
+  content_sha256: bb5d86c2644f1cf2af760ca10656a60a18f14848413708a135b56ce684aefd56
+  date: '2026-11-05 22:19:55'
+  id: 111
+  import_metadata:
+    entity: cloudreve/cloudreve
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: bb5d86c2644f1cf2af760ca10656a60a18f14848413708a135b56ce684aefd56
+      path: data/281/policies/cloudreve/cloudreve/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/cloudreve/cloudreve/blob/0bb0ab833571d380153edd3529e01a7957b8b4ce/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: bb5d86c2644f1cf2af760ca10656a60a18f14848413708a135b56ce684aefd56
+  mediapath: /docs/cloudreve__cloudreve--contributing--bb5d86c2644f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    cloudreve/cloudreve\",\n  \"text_sha256\": \"bb5d86c2644f1cf2af760ca10656a60a18f14848413708a135b56ce684aefd56\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/cloudreve/cloudreve/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"bb5d86c2644f1cf2af760ca10656a60a18f14848413708a135b56ce684aefd56\"\
+    ,\n      \"source_url_cell\": \"https://github.com/cloudreve/cloudreve/blob/0bb0ab833571d380153edd3529e01a7957b8b4ce/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: cloudreve__cloudreve--contributing--bb5d86c2644f.md
+  owner: NicolasH
+  risid: null
+name: cloudreve__cloudreve--contributing--bb5d86c2644f.md
+path: corpus/qda-case-98/111.txt

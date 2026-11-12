@@ -1,0 +1,58 @@
+hash: 61aa8c1a26a19e244a76bcdce7e34d34f17f243feafc1807be40aad33a13739c
+id: qda-source-476@qda-case-157
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 157
+    date: '2026-11-05 22:19:55'
+    fid: 476
+    id: 476
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5179
+  content_sha256: 61aa8c1a26a19e244a76bcdce7e34d34f17f243feafc1807be40aad33a13739c
+  date: '2026-11-05 22:19:55'
+  id: 476
+  import_metadata:
+    conversion:
+      converted_sha256: 61aa8c1a26a19e244a76bcdce7e34d34f17f243feafc1807be40aad33a13739c
+      original_sha256: c7888d1ae1cc64a9019b18964e44b13f31f9d04607ff18771f2358a8c766f3dd
+      version: oss-ai-policies/clean-markdown-v1
+    entity: TecharoHQ/anubis
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.560349+00:00'
+      id: corpus-157-purpose
+      original_file_sha256: c7888d1ae1cc64a9019b18964e44b13f31f9d04607ff18771f2358a8c766f3dd
+      path: analysis/corpus-assessment/sources/corpus-157-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-157-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/TecharoHQ/anubis/59bd4f6eea08919494ec567bccc7d1a8f51e8de4/README.md
+      role: purpose_statement_candidate
+      sha256: c7888d1ae1cc64a9019b18964e44b13f31f9d04607ff18771f2358a8c766f3dd
+      url: https://github.com/TecharoHQ/anubis/blob/59bd4f6eea08919494ec567bccc7d1a8f51e8de4/README.md
+      version: 59bd4f6eea08919494ec567bccc7d1a8f51e8de4
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: c7888d1ae1cc64a9019b18964e44b13f31f9d04607ff18771f2358a8c766f3dd
+  mediapath: /docs/TecharoHQ__anubis--purpose_statement_candidate--c7888d1ae1cc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    TecharoHQ/anubis\",\n  \"text_sha256\": \"c7888d1ae1cc64a9019b18964e44b13f31f9d04607ff18771f2358a8c766f3dd\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-157-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"c7888d1ae1cc64a9019b18964e44b13f31f9d04607ff18771f2358a8c766f3dd\",\n    \
+    \  \"id\": \"corpus-157-purpose\",\n      \"url\": \"https://github.com/TecharoHQ/anubis/blob/59bd4f6eea08919494ec567bccc7d1a8f51e8de4/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/TecharoHQ/anubis/59bd4f6eea08919494ec567bccc7d1a8f51e8de4/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.560349+00:00\",\n      \"version\"\
+    : \"59bd4f6eea08919494ec567bccc7d1a8f51e8de4\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-157-purpose.raw.md\"\
+    ,\n      \"sha256\": \"c7888d1ae1cc64a9019b18964e44b13f31f9d04607ff18771f2358a8c766f3dd\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"c7888d1ae1cc64a9019b18964e44b13f31f9d04607ff18771f2358a8c766f3dd\"\
+    ,\n    \"converted_sha256\": \"61aa8c1a26a19e244a76bcdce7e34d34f17f243feafc1807be40aad33a13739c\"\
+    \n  }\n}"
+  name: TecharoHQ__anubis--purpose_statement_candidate--c7888d1ae1cc.md
+  owner: NicolasH
+  risid: null
+name: TecharoHQ__anubis--purpose_statement_candidate--c7888d1ae1cc.md
+path: corpus/qda-case-157/476.txt

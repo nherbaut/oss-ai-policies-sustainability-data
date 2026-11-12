@@ -1,0 +1,58 @@
+hash: 4fdf3dee88e6573c18f6d8c606e367e91e7cebedced993f46376c05a8b39fb07
+id: qda-source-401@qda-case-77
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 77
+    date: '2026-11-05 22:19:55'
+    fid: 401
+    id: 401
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3092
+  content_sha256: 4fdf3dee88e6573c18f6d8c606e367e91e7cebedced993f46376c05a8b39fb07
+  date: '2026-11-05 22:19:55'
+  id: 401
+  import_metadata:
+    conversion:
+      converted_sha256: 4fdf3dee88e6573c18f6d8c606e367e91e7cebedced993f46376c05a8b39fb07
+      original_sha256: 907b44f4727089c4475a5f9342e76ed2cdb39cac5619feb4ed9c5c065f5cc559
+      version: oss-ai-policies/clean-markdown-v1
+    entity: duckdb/duckdb
+    provenance:
+    - accessed_at: '2026-11-05T19:11:56.678590+00:00'
+      id: corpus-077-purpose
+      original_file_sha256: 907b44f4727089c4475a5f9342e76ed2cdb39cac5619feb4ed9c5c065f5cc559
+      path: analysis/corpus-assessment/sources/corpus-077-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-077-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/duckdb/duckdb/7c0fa265df67f4d8ed5cc4f94910c5677d127afd/README.md
+      role: purpose_statement_candidate
+      sha256: 907b44f4727089c4475a5f9342e76ed2cdb39cac5619feb4ed9c5c065f5cc559
+      url: https://github.com/duckdb/duckdb/blob/7c0fa265df67f4d8ed5cc4f94910c5677d127afd/README.md
+      version: 7c0fa265df67f4d8ed5cc4f94910c5677d127afd
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 907b44f4727089c4475a5f9342e76ed2cdb39cac5619feb4ed9c5c065f5cc559
+  mediapath: /docs/duckdb__duckdb--purpose_statement_candidate--907b44f47270.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    duckdb/duckdb\",\n  \"text_sha256\": \"907b44f4727089c4475a5f9342e76ed2cdb39cac5619feb4ed9c5c065f5cc559\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-077-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"907b44f4727089c4475a5f9342e76ed2cdb39cac5619feb4ed9c5c065f5cc559\",\n    \
+    \  \"id\": \"corpus-077-purpose\",\n      \"url\": \"https://github.com/duckdb/duckdb/blob/7c0fa265df67f4d8ed5cc4f94910c5677d127afd/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/duckdb/duckdb/7c0fa265df67f4d8ed5cc4f94910c5677d127afd/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:56.678590+00:00\",\n      \"version\"\
+    : \"7c0fa265df67f4d8ed5cc4f94910c5677d127afd\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-077-purpose.raw.md\"\
+    ,\n      \"sha256\": \"907b44f4727089c4475a5f9342e76ed2cdb39cac5619feb4ed9c5c065f5cc559\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"907b44f4727089c4475a5f9342e76ed2cdb39cac5619feb4ed9c5c065f5cc559\"\
+    ,\n    \"converted_sha256\": \"4fdf3dee88e6573c18f6d8c606e367e91e7cebedced993f46376c05a8b39fb07\"\
+    \n  }\n}"
+  name: duckdb__duckdb--purpose_statement_candidate--907b44f47270.md
+  owner: NicolasH
+  risid: null
+name: duckdb__duckdb--purpose_statement_candidate--907b44f47270.md
+path: corpus/qda-case-77/401.txt

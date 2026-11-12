@@ -1,0 +1,58 @@
+hash: 99869b74409ab3474c880a68808fb0cba5af3c958ac3e189e76b1a2b5e495d36
+id: qda-source-346@qda-case-32
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 32
+    date: '2026-11-05 22:19:55'
+    fid: 346
+    id: 346
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3859
+  content_sha256: 99869b74409ab3474c880a68808fb0cba5af3c958ac3e189e76b1a2b5e495d36
+  date: '2026-11-05 22:19:55'
+  id: 346
+  import_metadata:
+    conversion:
+      converted_sha256: 99869b74409ab3474c880a68808fb0cba5af3c958ac3e189e76b1a2b5e495d36
+      original_sha256: d40d35d459d5590bf6cc94559ea65e6f55c2e034b9f5fb9cadf16fc0b224f79a
+      version: oss-ai-policies/clean-markdown-v1
+    entity: hashicorp/terraform
+    provenance:
+    - accessed_at: '2026-11-05T19:11:51.534980+00:00'
+      id: corpus-032-purpose
+      original_file_sha256: d40d35d459d5590bf6cc94559ea65e6f55c2e034b9f5fb9cadf16fc0b224f79a
+      path: analysis/corpus-assessment/sources/corpus-032-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-032-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/hashicorp/terraform/0c717ce992cf424ae09e1c3feed5dd5eaa078f0f/README.md
+      role: purpose_statement_candidate
+      sha256: d40d35d459d5590bf6cc94559ea65e6f55c2e034b9f5fb9cadf16fc0b224f79a
+      url: https://github.com/hashicorp/terraform/blob/0c717ce992cf424ae09e1c3feed5dd5eaa078f0f/README.md
+      version: 0c717ce992cf424ae09e1c3feed5dd5eaa078f0f
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: d40d35d459d5590bf6cc94559ea65e6f55c2e034b9f5fb9cadf16fc0b224f79a
+  mediapath: /docs/hashicorp__terraform--purpose_statement_candidate--d40d35d459d5.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    hashicorp/terraform\",\n  \"text_sha256\": \"d40d35d459d5590bf6cc94559ea65e6f55c2e034b9f5fb9cadf16fc0b224f79a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-032-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"d40d35d459d5590bf6cc94559ea65e6f55c2e034b9f5fb9cadf16fc0b224f79a\",\n    \
+    \  \"id\": \"corpus-032-purpose\",\n      \"url\": \"https://github.com/hashicorp/terraform/blob/0c717ce992cf424ae09e1c3feed5dd5eaa078f0f/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/hashicorp/terraform/0c717ce992cf424ae09e1c3feed5dd5eaa078f0f/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:51.534980+00:00\",\n      \"version\"\
+    : \"0c717ce992cf424ae09e1c3feed5dd5eaa078f0f\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-032-purpose.raw.md\"\
+    ,\n      \"sha256\": \"d40d35d459d5590bf6cc94559ea65e6f55c2e034b9f5fb9cadf16fc0b224f79a\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"d40d35d459d5590bf6cc94559ea65e6f55c2e034b9f5fb9cadf16fc0b224f79a\"\
+    ,\n    \"converted_sha256\": \"99869b74409ab3474c880a68808fb0cba5af3c958ac3e189e76b1a2b5e495d36\"\
+    \n  }\n}"
+  name: hashicorp__terraform--purpose_statement_candidate--d40d35d459d5.md
+  owner: NicolasH
+  risid: null
+name: hashicorp__terraform--purpose_statement_candidate--d40d35d459d5.md
+path: corpus/qda-case-32/346.txt

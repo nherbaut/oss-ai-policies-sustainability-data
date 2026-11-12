@@ -1,0 +1,58 @@
+hash: 4064ca609d2f256f7d954926ca47cc3c55788d7a844c191aa3baad86a01f483e
+id: qda-source-387@qda-case-66
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 66
+    date: '2026-11-05 22:19:55'
+    fid: 387
+    id: 387
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8097
+  content_sha256: 4064ca609d2f256f7d954926ca47cc3c55788d7a844c191aa3baad86a01f483e
+  date: '2026-11-05 22:19:55'
+  id: 387
+  import_metadata:
+    conversion:
+      converted_sha256: 4064ca609d2f256f7d954926ca47cc3c55788d7a844c191aa3baad86a01f483e
+      original_sha256: d9a95b35ea6fd3670103bd40662a336e26578f00442131393f46acd3e1c6ad54
+      version: oss-ai-policies/clean-markdown-v1
+    entity: PROJ (OSGeo)
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.587010+00:00'
+      id: corpus-066-ai_policy-1
+      original_file_sha256: d9a95b35ea6fd3670103bd40662a336e26578f00442131393f46acd3e1c6ad54
+      path: analysis/corpus-assessment/sources/corpus-066-ai_policy-1.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-066-ai_policy-1.rst
+      resolved_url: https://raw.githubusercontent.com/OSGeo/PROJ/master/docs/source/community/ai_tool_policy.rst
+      role: supplementary_policy
+      sha256: 9f3205f7d98c506b3b1a94a140f6eb6dd8353aa4ff6afd498e3fd73b1ca4daa2
+      url: https://github.com/OSGeo/PROJ/blob/master/docs/source/community/ai_tool_policy.rst
+      version: master
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: d9a95b35ea6fd3670103bd40662a336e26578f00442131393f46acd3e1c6ad54
+  mediapath: /docs/PROJ__OSGeo--supplementary_policy--d9a95b35ea6f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    PROJ (OSGeo)\",\n  \"text_sha256\": \"d9a95b35ea6fd3670103bd40662a336e26578f00442131393f46acd3e1c6ad54\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-066-ai_policy-1.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"d9a95b35ea6fd3670103bd40662a336e26578f00442131393f46acd3e1c6ad54\",\n    \
+    \  \"id\": \"corpus-066-ai_policy-1\",\n      \"url\": \"https://github.com/OSGeo/PROJ/blob/master/docs/source/community/ai_tool_policy.rst\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/OSGeo/PROJ/master/docs/source/community/ai_tool_policy.rst\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:55.587010+00:00\",\n      \"version\"\
+    : \"master\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-066-ai_policy-1.rst\"\
+    ,\n      \"sha256\": \"9f3205f7d98c506b3b1a94a140f6eb6dd8353aa4ff6afd498e3fd73b1ca4daa2\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"d9a95b35ea6fd3670103bd40662a336e26578f00442131393f46acd3e1c6ad54\"\
+    ,\n    \"converted_sha256\": \"4064ca609d2f256f7d954926ca47cc3c55788d7a844c191aa3baad86a01f483e\"\
+    \n  }\n}"
+  name: PROJ__OSGeo--supplementary_policy--d9a95b35ea6f.md
+  owner: NicolasH
+  risid: null
+name: PROJ__OSGeo--supplementary_policy--d9a95b35ea6f.md
+path: corpus/qda-case-66/387.txt

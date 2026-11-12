@@ -1,0 +1,58 @@
+hash: 279787cf5d34981340df3dddaf94e65826fe26d0a93662abd0ee4a0ab06a7130
+id: qda-source-499@qda-case-179
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 179
+    date: '2026-11-05 22:19:55'
+    fid: 499
+    id: 499
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7052
+  content_sha256: 279787cf5d34981340df3dddaf94e65826fe26d0a93662abd0ee4a0ab06a7130
+  date: '2026-11-05 22:19:55'
+  id: 499
+  import_metadata:
+    conversion:
+      converted_sha256: 279787cf5d34981340df3dddaf94e65826fe26d0a93662abd0ee4a0ab06a7130
+      original_sha256: 10234284e50e0e6b1421dbab9ebfc44a98055c6d43410ffce39626c6d605ecb8
+      version: oss-ai-policies/clean-markdown-v1
+    entity: JuliaLang/julia
+    provenance:
+    - accessed_at: '2026-11-05T19:12:06.243266+00:00'
+      id: corpus-179-purpose
+      original_file_sha256: 10234284e50e0e6b1421dbab9ebfc44a98055c6d43410ffce39626c6d605ecb8
+      path: analysis/corpus-assessment/sources/corpus-179-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-179-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/JuliaLang/julia/4f31ca4e7aeae318ce98a7c320d715976861f88d/README.md
+      role: purpose_statement_candidate
+      sha256: 10234284e50e0e6b1421dbab9ebfc44a98055c6d43410ffce39626c6d605ecb8
+      url: https://github.com/JuliaLang/julia/blob/4f31ca4e7aeae318ce98a7c320d715976861f88d/README.md
+      version: 4f31ca4e7aeae318ce98a7c320d715976861f88d
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 10234284e50e0e6b1421dbab9ebfc44a98055c6d43410ffce39626c6d605ecb8
+  mediapath: /docs/JuliaLang__julia--purpose_statement_candidate--10234284e50e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    JuliaLang/julia\",\n  \"text_sha256\": \"10234284e50e0e6b1421dbab9ebfc44a98055c6d43410ffce39626c6d605ecb8\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-179-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"10234284e50e0e6b1421dbab9ebfc44a98055c6d43410ffce39626c6d605ecb8\",\n    \
+    \  \"id\": \"corpus-179-purpose\",\n      \"url\": \"https://github.com/JuliaLang/julia/blob/4f31ca4e7aeae318ce98a7c320d715976861f88d/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/JuliaLang/julia/4f31ca4e7aeae318ce98a7c320d715976861f88d/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:06.243266+00:00\",\n      \"version\"\
+    : \"4f31ca4e7aeae318ce98a7c320d715976861f88d\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-179-purpose.raw.md\"\
+    ,\n      \"sha256\": \"10234284e50e0e6b1421dbab9ebfc44a98055c6d43410ffce39626c6d605ecb8\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"10234284e50e0e6b1421dbab9ebfc44a98055c6d43410ffce39626c6d605ecb8\"\
+    ,\n    \"converted_sha256\": \"279787cf5d34981340df3dddaf94e65826fe26d0a93662abd0ee4a0ab06a7130\"\
+    \n  }\n}"
+  name: JuliaLang__julia--purpose_statement_candidate--10234284e50e.md
+  owner: NicolasH
+  risid: null
+name: JuliaLang__julia--purpose_statement_candidate--10234284e50e.md
+path: corpus/qda-case-179/499.txt

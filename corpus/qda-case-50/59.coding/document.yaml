@@ -1,0 +1,50 @@
+hash: c4c948f0d8af47eb9636ec2d329b5dc0fc9faca27c511e410ec2a4ff57bd00fb
+id: qda-source-59@qda-case-50
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 50
+    date: '2026-11-05 22:19:55'
+    fid: 59
+    id: 58
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10466
+  content_sha256: c4c948f0d8af47eb9636ec2d329b5dc0fc9faca27c511e410ec2a4ff57bd00fb
+  date: '2026-11-05 22:19:55'
+  id: 59
+  import_metadata:
+    conversion:
+      converted_sha256: c4c948f0d8af47eb9636ec2d329b5dc0fc9faca27c511e410ec2a4ff57bd00fb
+      original_sha256: f5c65a53c4fc45b15421ce6fddaa27edd40e2336e7c0a366fdc9197aac4cb023
+      version: oss-ai-policies/clean-markdown-v1
+    entity: suitenumerique/docs
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: f5c65a53c4fc45b15421ce6fddaa27edd40e2336e7c0a366fdc9197aac4cb023
+      path: data/281/policies/suitenumerique/docs/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/suitenumerique/docs/blob/8d2dd5b565396c42e3526bd71e0c4fc20acc6393/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: f5c65a53c4fc45b15421ce6fddaa27edd40e2336e7c0a366fdc9197aac4cb023
+  mediapath: /docs/suitenumerique__docs--contributing--f5c65a53c4fc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    suitenumerique/docs\",\n  \"text_sha256\": \"f5c65a53c4fc45b15421ce6fddaa27edd40e2336e7c0a366fdc9197aac4cb023\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/suitenumerique/docs/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"f5c65a53c4fc45b15421ce6fddaa27edd40e2336e7c0a366fdc9197aac4cb023\"\
+    ,\n      \"source_url_cell\": \"https://github.com/suitenumerique/docs/blob/8d2dd5b565396c42e3526bd71e0c4fc20acc6393/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"f5c65a53c4fc45b15421ce6fddaa27edd40e2336e7c0a366fdc9197aac4cb023\"\
+    ,\n    \"converted_sha256\": \"c4c948f0d8af47eb9636ec2d329b5dc0fc9faca27c511e410ec2a4ff57bd00fb\"\
+    \n  }\n}"
+  name: suitenumerique__docs--contributing--f5c65a53c4fc.md
+  owner: NicolasH
+  risid: null
+name: suitenumerique__docs--contributing--f5c65a53c4fc.md
+path: corpus/qda-case-50/59.txt

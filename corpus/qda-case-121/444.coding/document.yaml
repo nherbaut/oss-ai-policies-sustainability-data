@@ -1,0 +1,51 @@
+hash: 974d947749c0959da42556a21f87463b47f7439d3be56a3d3d4a5ad454e5005a
+id: qda-source-444@qda-case-121
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 121
+    date: '2026-11-05 22:19:55'
+    fid: 444
+    id: 444
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4670
+  content_sha256: 974d947749c0959da42556a21f87463b47f7439d3be56a3d3d4a5ad454e5005a
+  date: '2026-11-05 22:19:55'
+  id: 444
+  import_metadata:
+    entity: directus/directus
+    provenance:
+    - accessed_at: '2026-11-05T19:24:22.349657+00:00'
+      id: corpus-121-followup
+      original_file_sha256: 974d947749c0959da42556a21f87463b47f7439d3be56a3d3d4a5ad454e5005a
+      path: analysis/corpus-assessment/sources/corpus-121-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-121-followup.raw.md
+      resolved_url: https://raw.githubusercontent.com/directus/directus/240b801568b4cd99676dc69adc22682800215654/directus/readme.md
+      role: purpose_statement_candidate
+      sha256: 974d947749c0959da42556a21f87463b47f7439d3be56a3d3d4a5ad454e5005a
+      url: https://github.com/directus/directus/blob/240b801568b4cd99676dc69adc22682800215654/directus/readme.md
+      version: 240b801568b4cd99676dc69adc22682800215654
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 974d947749c0959da42556a21f87463b47f7439d3be56a3d3d4a5ad454e5005a
+  mediapath: /docs/directus__directus--purpose_statement_candidate--974d947749c0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    directus/directus\",\n  \"text_sha256\": \"974d947749c0959da42556a21f87463b47f7439d3be56a3d3d4a5ad454e5005a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-121-followup.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"974d947749c0959da42556a21f87463b47f7439d3be56a3d3d4a5ad454e5005a\",\n    \
+    \  \"id\": \"corpus-121-followup\",\n      \"url\": \"https://github.com/directus/directus/blob/240b801568b4cd99676dc69adc22682800215654/directus/readme.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/directus/directus/240b801568b4cd99676dc69adc22682800215654/directus/readme.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:24:22.349657+00:00\",\n      \"version\"\
+    : \"240b801568b4cd99676dc69adc22682800215654\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-121-followup.raw.md\"\
+    ,\n      \"sha256\": \"974d947749c0959da42556a21f87463b47f7439d3be56a3d3d4a5ad454e5005a\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: directus__directus--purpose_statement_candidate--974d947749c0.md
+  owner: NicolasH
+  risid: null
+name: directus__directus--purpose_statement_candidate--974d947749c0.md
+path: corpus/qda-case-121/444.txt

@@ -1,0 +1,57 @@
+hash: 050bc63d8992cc0ee8db3088312139e4c4b147f75b89d19c500fe4a21118a924
+id: qda-source-595@qda-case-274
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 274
+    date: '2026-11-05 22:19:55'
+    fid: 595
+    id: 595
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2566
+  content_sha256: 050bc63d8992cc0ee8db3088312139e4c4b147f75b89d19c500fe4a21118a924
+  date: '2026-11-05 22:19:55'
+  id: 595
+  import_metadata:
+    conversion:
+      converted_sha256: 050bc63d8992cc0ee8db3088312139e4c4b147f75b89d19c500fe4a21118a924
+      original_sha256: 0e7fff866dcb70b343fbc71c65cb0305d1014d7758d735ab10a1739287e35793
+      version: oss-ai-policies/clean-markdown-v1
+    entity: AFNix
+    provenance:
+    - accessed_at: '2026-11-05T19:14:19.481397+00:00'
+      id: corpus-274-followup
+      original_file_sha256: 0e7fff866dcb70b343fbc71c65cb0305d1014d7758d735ab10a1739287e35793
+      path: analysis/corpus-assessment/sources/corpus-274-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-274-followup.html
+      resolved_url: https://afnix.fr/en/
+      role: purpose_statement_candidate
+      sha256: 6c4cd9a41ff96c8f9b8419c92ccd4e00e2cb6237d78554f11595a43957b3eeeb
+      url: https://afnix.fr/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 0e7fff866dcb70b343fbc71c65cb0305d1014d7758d735ab10a1739287e35793
+  mediapath: /docs/AFNix--purpose_statement_candidate--0e7fff866dcb.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    AFNix\",\n  \"text_sha256\": \"0e7fff866dcb70b343fbc71c65cb0305d1014d7758d735ab10a1739287e35793\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-274-followup.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0e7fff866dcb70b343fbc71c65cb0305d1014d7758d735ab10a1739287e35793\",\n    \
+    \  \"id\": \"corpus-274-followup\",\n      \"url\": \"https://afnix.fr/\",\n \
+    \     \"resolved_url\": \"https://afnix.fr/en/\",\n      \"accessed_at\": \"2026-11-05T19:14:19.481397+00:00\"\
+    ,\n      \"version\": null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-274-followup.html\"\
+    ,\n      \"sha256\": \"6c4cd9a41ff96c8f9b8419c92ccd4e00e2cb6237d78554f11595a43957b3eeeb\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"0e7fff866dcb70b343fbc71c65cb0305d1014d7758d735ab10a1739287e35793\"\
+    ,\n    \"converted_sha256\": \"050bc63d8992cc0ee8db3088312139e4c4b147f75b89d19c500fe4a21118a924\"\
+    \n  }\n}"
+  name: AFNix--purpose_statement_candidate--0e7fff866dcb.md
+  owner: NicolasH
+  risid: null
+name: AFNix--purpose_statement_candidate--0e7fff866dcb.md
+path: corpus/qda-case-274/595.txt

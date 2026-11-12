@@ -1,0 +1,58 @@
+hash: e27f6ca8eb9d118476d51b88abde4fc9a38f17f7d2971cdad80047fa85a6fdaa
+id: qda-source-529@qda-case-205
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 205
+    date: '2026-11-05 22:19:55'
+    fid: 529
+    id: 529
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 42775
+  content_sha256: e27f6ca8eb9d118476d51b88abde4fc9a38f17f7d2971cdad80047fa85a6fdaa
+  date: '2026-11-05 22:19:55'
+  id: 529
+  import_metadata:
+    conversion:
+      converted_sha256: e27f6ca8eb9d118476d51b88abde4fc9a38f17f7d2971cdad80047fa85a6fdaa
+      original_sha256: 11ffd22e4cc78189b3efc8511ff473d3fe73cb046fcb2697ffe36eb7aa83cf91
+      version: oss-ai-policies/clean-markdown-v1
+    entity: lint-staged/lint-staged
+    provenance:
+    - accessed_at: '2026-11-05T19:12:10.024694+00:00'
+      id: corpus-205-purpose
+      original_file_sha256: 11ffd22e4cc78189b3efc8511ff473d3fe73cb046fcb2697ffe36eb7aa83cf91
+      path: analysis/corpus-assessment/sources/corpus-205-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-205-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/lint-staged/lint-staged/8289e6031230f46aa228f2d2d650aff0b98131bf/README.md
+      role: purpose_statement_candidate
+      sha256: 11ffd22e4cc78189b3efc8511ff473d3fe73cb046fcb2697ffe36eb7aa83cf91
+      url: https://github.com/lint-staged/lint-staged/blob/8289e6031230f46aa228f2d2d650aff0b98131bf/README.md
+      version: 8289e6031230f46aa228f2d2d650aff0b98131bf
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 11ffd22e4cc78189b3efc8511ff473d3fe73cb046fcb2697ffe36eb7aa83cf91
+  mediapath: /docs/lint-staged__lint-staged--purpose_statement_candidate--11ffd22e4cc7.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    lint-staged/lint-staged\",\n  \"text_sha256\": \"11ffd22e4cc78189b3efc8511ff473d3fe73cb046fcb2697ffe36eb7aa83cf91\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-205-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"11ffd22e4cc78189b3efc8511ff473d3fe73cb046fcb2697ffe36eb7aa83cf91\",\n    \
+    \  \"id\": \"corpus-205-purpose\",\n      \"url\": \"https://github.com/lint-staged/lint-staged/blob/8289e6031230f46aa228f2d2d650aff0b98131bf/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/lint-staged/lint-staged/8289e6031230f46aa228f2d2d650aff0b98131bf/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:10.024694+00:00\",\n      \"version\"\
+    : \"8289e6031230f46aa228f2d2d650aff0b98131bf\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-205-purpose.raw.md\"\
+    ,\n      \"sha256\": \"11ffd22e4cc78189b3efc8511ff473d3fe73cb046fcb2697ffe36eb7aa83cf91\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"11ffd22e4cc78189b3efc8511ff473d3fe73cb046fcb2697ffe36eb7aa83cf91\"\
+    ,\n    \"converted_sha256\": \"e27f6ca8eb9d118476d51b88abde4fc9a38f17f7d2971cdad80047fa85a6fdaa\"\
+    \n  }\n}"
+  name: lint-staged__lint-staged--purpose_statement_candidate--11ffd22e4cc7.md
+  owner: NicolasH
+  risid: null
+name: lint-staged__lint-staged--purpose_statement_candidate--11ffd22e4cc7.md
+path: corpus/qda-case-205/529.txt

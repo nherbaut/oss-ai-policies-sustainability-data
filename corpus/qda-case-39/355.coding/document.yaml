@@ -1,0 +1,51 @@
+hash: 09a0dd2f7391b6f3229ca573c6891f92b7e50da476459c7a655025540c1cd2b0
+id: qda-source-355@qda-case-39
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 39
+    date: '2026-11-05 22:19:55'
+    fid: 355
+    id: 355
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3263
+  content_sha256: 09a0dd2f7391b6f3229ca573c6891f92b7e50da476459c7a655025540c1cd2b0
+  date: '2026-11-05 22:19:55'
+  id: 355
+  import_metadata:
+    entity: Linux Kernel
+    provenance:
+    - accessed_at: '2026-11-05T19:11:52.543618+00:00'
+      id: corpus-039-ai_policy-1
+      original_file_sha256: 09a0dd2f7391b6f3229ca573c6891f92b7e50da476459c7a655025540c1cd2b0
+      path: analysis/corpus-assessment/sources/corpus-039-ai_policy-1.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-039-ai_policy-1.rst
+      resolved_url: https://raw.githubusercontent.com/torvalds/linux/master/Documentation/process/coding-assistants.rst
+      role: supplementary_policy
+      sha256: 9e5b0b0141195df17150125b7c087a06fa38eacd4c96e03dd5eba0f27a56d17b
+      url: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+      version: master
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 09a0dd2f7391b6f3229ca573c6891f92b7e50da476459c7a655025540c1cd2b0
+  mediapath: /docs/Linux__Kernel--supplementary_policy--09a0dd2f7391.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Linux Kernel\",\n  \"text_sha256\": \"09a0dd2f7391b6f3229ca573c6891f92b7e50da476459c7a655025540c1cd2b0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-039-ai_policy-1.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"09a0dd2f7391b6f3229ca573c6891f92b7e50da476459c7a655025540c1cd2b0\",\n    \
+    \  \"id\": \"corpus-039-ai_policy-1\",\n      \"url\": \"https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/torvalds/linux/master/Documentation/process/coding-assistants.rst\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:52.543618+00:00\",\n      \"version\"\
+    : \"master\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-039-ai_policy-1.rst\"\
+    ,\n      \"sha256\": \"9e5b0b0141195df17150125b7c087a06fa38eacd4c96e03dd5eba0f27a56d17b\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: Linux__Kernel--supplementary_policy--09a0dd2f7391.md
+  owner: NicolasH
+  risid: null
+name: Linux__Kernel--supplementary_policy--09a0dd2f7391.md
+path: corpus/qda-case-39/355.txt

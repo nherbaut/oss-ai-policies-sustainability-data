@@ -1,0 +1,51 @@
+hash: 694e8653a25b8f50d3bc772bd84b088e72ac56b2477f38134996189f8ab26a2c
+id: qda-source-328@qda-case-14
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 14
+    date: '2026-11-05 22:19:55'
+    fid: 328
+    id: 328
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6442
+  content_sha256: 694e8653a25b8f50d3bc772bd84b088e72ac56b2477f38134996189f8ab26a2c
+  date: '2026-11-05 22:19:55'
+  id: 328
+  import_metadata:
+    entity: nextcloud/server
+    provenance:
+    - accessed_at: '2026-11-05T16:00:22.866844+00:00'
+      id: 24-purpose
+      original_file_sha256: 694e8653a25b8f50d3bc772bd84b088e72ac56b2477f38134996189f8ab26a2c
+      path: analysis/feasibility-pilot/sources/24-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/24-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/nextcloud/server/795b12252df8c7f863544716f2c80292bde5ed52/README.md
+      role: purpose_statement_candidate
+      sha256: 694e8653a25b8f50d3bc772bd84b088e72ac56b2477f38134996189f8ab26a2c
+      url: https://github.com/nextcloud/server/blob/795b12252df8c7f863544716f2c80292bde5ed52/README.md
+      version: 795b12252df8c7f863544716f2c80292bde5ed52
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 694e8653a25b8f50d3bc772bd84b088e72ac56b2477f38134996189f8ab26a2c
+  mediapath: /docs/nextcloud__server--purpose_statement_candidate--694e8653a25b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    nextcloud/server\",\n  \"text_sha256\": \"694e8653a25b8f50d3bc772bd84b088e72ac56b2477f38134996189f8ab26a2c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/24-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"694e8653a25b8f50d3bc772bd84b088e72ac56b2477f38134996189f8ab26a2c\",\n    \
+    \  \"id\": \"24-purpose\",\n      \"url\": \"https://github.com/nextcloud/server/blob/795b12252df8c7f863544716f2c80292bde5ed52/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/nextcloud/server/795b12252df8c7f863544716f2c80292bde5ed52/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:22.866844+00:00\",\n      \"version\"\
+    : \"795b12252df8c7f863544716f2c80292bde5ed52\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/24-purpose.raw.md\"\
+    ,\n      \"sha256\": \"694e8653a25b8f50d3bc772bd84b088e72ac56b2477f38134996189f8ab26a2c\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: nextcloud__server--purpose_statement_candidate--694e8653a25b.md
+  owner: NicolasH
+  risid: null
+name: nextcloud__server--purpose_statement_candidate--694e8653a25b.md
+path: corpus/qda-case-14/328.txt

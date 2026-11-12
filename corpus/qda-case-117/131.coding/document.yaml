@@ -1,0 +1,43 @@
+hash: fe8f3a7be5a0514a2d9f095385fdc5599fe5f96bc06517c8cd20e5caff56c8a4
+id: qda-source-131@qda-case-117
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 117
+    date: '2026-11-05 22:19:55'
+    fid: 131
+    id: 130
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5469
+  content_sha256: fe8f3a7be5a0514a2d9f095385fdc5599fe5f96bc06517c8cd20e5caff56c8a4
+  date: '2026-11-05 22:19:55'
+  id: 131
+  import_metadata:
+    entity: wasp-lang/wasp
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: fe8f3a7be5a0514a2d9f095385fdc5599fe5f96bc06517c8cd20e5caff56c8a4
+      path: data/281/policies/wasp-lang/wasp/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/wasp-lang/wasp/blob/6525ba109dd49a51c9591001b37b08bcd7aa590a/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: fe8f3a7be5a0514a2d9f095385fdc5599fe5f96bc06517c8cd20e5caff56c8a4
+  mediapath: /docs/wasp-lang__wasp--contributing--fe8f3a7be5a0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    wasp-lang/wasp\",\n  \"text_sha256\": \"fe8f3a7be5a0514a2d9f095385fdc5599fe5f96bc06517c8cd20e5caff56c8a4\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/wasp-lang/wasp/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"fe8f3a7be5a0514a2d9f095385fdc5599fe5f96bc06517c8cd20e5caff56c8a4\"\
+    ,\n      \"source_url_cell\": \"https://github.com/wasp-lang/wasp/blob/6525ba109dd49a51c9591001b37b08bcd7aa590a/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: wasp-lang__wasp--contributing--fe8f3a7be5a0.md
+  owner: NicolasH
+  risid: null
+name: wasp-lang__wasp--contributing--fe8f3a7be5a0.md
+path: corpus/qda-case-117/131.txt

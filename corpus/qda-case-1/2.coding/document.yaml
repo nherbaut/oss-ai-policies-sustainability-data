@@ -1,0 +1,43 @@
+hash: 5caa8fd8288fbd6a705dfe5206ff1bb782fb7b2d19224d827b325ad6b7b7819f
+id: qda-source-2@qda-case-1
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 1
+    date: '2026-11-05 22:19:55'
+    fid: 2
+    id: 1
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 16776
+  content_sha256: 5caa8fd8288fbd6a705dfe5206ff1bb782fb7b2d19224d827b325ad6b7b7819f
+  date: '2026-11-05 22:19:55'
+  id: 2
+  import_metadata:
+    entity: ratatui/ratatui
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 5caa8fd8288fbd6a705dfe5206ff1bb782fb7b2d19224d827b325ad6b7b7819f
+      path: data/281/policies/ratatui/ratatui/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/ratatui/ratatui/blob/506bedbf157eaaf1e9d5df77f9a5f380203112bc/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 5caa8fd8288fbd6a705dfe5206ff1bb782fb7b2d19224d827b325ad6b7b7819f
+  mediapath: /docs/ratatui__ratatui--contributing--5caa8fd8288f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ratatui/ratatui\",\n  \"text_sha256\": \"5caa8fd8288fbd6a705dfe5206ff1bb782fb7b2d19224d827b325ad6b7b7819f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/ratatui/ratatui/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"5caa8fd8288fbd6a705dfe5206ff1bb782fb7b2d19224d827b325ad6b7b7819f\"\
+    ,\n      \"source_url_cell\": \"https://github.com/ratatui/ratatui/blob/506bedbf157eaaf1e9d5df77f9a5f380203112bc/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: ratatui__ratatui--contributing--5caa8fd8288f.md
+  owner: NicolasH
+  risid: null
+name: ratatui__ratatui--contributing--5caa8fd8288f.md
+path: corpus/qda-case-1/2.txt

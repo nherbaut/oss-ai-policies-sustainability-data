@@ -1,0 +1,58 @@
+hash: b80b824715af0686b0a6d4f42b37f3853be1579d335220a60609177586930041
+id: qda-source-562@qda-case-240
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 240
+    date: '2026-11-05 22:19:55'
+    fid: 562
+    id: 562
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 55669
+  content_sha256: b80b824715af0686b0a6d4f42b37f3853be1579d335220a60609177586930041
+  date: '2026-11-05 22:19:55'
+  id: 562
+  import_metadata:
+    conversion:
+      converted_sha256: b80b824715af0686b0a6d4f42b37f3853be1579d335220a60609177586930041
+      original_sha256: 6d598c12744e70258ce26f0174a31f000512098aea7962947d676ca0f70c379f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: microsoft/playwright-mcp
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.014148+00:00'
+      id: corpus-240-purpose
+      original_file_sha256: 6d598c12744e70258ce26f0174a31f000512098aea7962947d676ca0f70c379f
+      path: analysis/corpus-assessment/sources/corpus-240-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-240-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/microsoft/playwright-mcp/55679f5f3d4b4f3e2534ec0ce2fc5683ba2eaf3f/README.md
+      role: purpose_statement_candidate
+      sha256: 6d598c12744e70258ce26f0174a31f000512098aea7962947d676ca0f70c379f
+      url: https://github.com/microsoft/playwright-mcp/blob/55679f5f3d4b4f3e2534ec0ce2fc5683ba2eaf3f/README.md
+      version: 55679f5f3d4b4f3e2534ec0ce2fc5683ba2eaf3f
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 6d598c12744e70258ce26f0174a31f000512098aea7962947d676ca0f70c379f
+  mediapath: /docs/microsoft__playwright-mcp--purpose_statement_candidate--6d598c12744e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    microsoft/playwright-mcp\",\n  \"text_sha256\": \"6d598c12744e70258ce26f0174a31f000512098aea7962947d676ca0f70c379f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-240-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"6d598c12744e70258ce26f0174a31f000512098aea7962947d676ca0f70c379f\",\n    \
+    \  \"id\": \"corpus-240-purpose\",\n      \"url\": \"https://github.com/microsoft/playwright-mcp/blob/55679f5f3d4b4f3e2534ec0ce2fc5683ba2eaf3f/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/microsoft/playwright-mcp/55679f5f3d4b4f3e2534ec0ce2fc5683ba2eaf3f/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.014148+00:00\",\n      \"version\"\
+    : \"55679f5f3d4b4f3e2534ec0ce2fc5683ba2eaf3f\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-240-purpose.raw.md\"\
+    ,\n      \"sha256\": \"6d598c12744e70258ce26f0174a31f000512098aea7962947d676ca0f70c379f\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"6d598c12744e70258ce26f0174a31f000512098aea7962947d676ca0f70c379f\"\
+    ,\n    \"converted_sha256\": \"b80b824715af0686b0a6d4f42b37f3853be1579d335220a60609177586930041\"\
+    \n  }\n}"
+  name: microsoft__playwright-mcp--purpose_statement_candidate--6d598c12744e.md
+  owner: NicolasH
+  risid: null
+name: microsoft__playwright-mcp--purpose_statement_candidate--6d598c12744e.md
+path: corpus/qda-case-240/562.txt

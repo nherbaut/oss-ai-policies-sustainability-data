@@ -1,0 +1,43 @@
+hash: 6ae35053f2f4bf6a556ae9ce71090504062cda2cf85f6170d955426dcc7d2cbe
+id: qda-source-107@qda-case-94
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 94
+    date: '2026-11-05 22:19:55'
+    fid: 107
+    id: 106
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9624
+  content_sha256: 6ae35053f2f4bf6a556ae9ce71090504062cda2cf85f6170d955426dcc7d2cbe
+  date: '2026-11-05 22:19:55'
+  id: 107
+  import_metadata:
+    entity: systemd/systemd
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 6ae35053f2f4bf6a556ae9ce71090504062cda2cf85f6170d955426dcc7d2cbe
+      path: data/281/policies/systemd/systemd/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/systemd/systemd/blob/afff448cf47659a91a8b2ba74e26449dead48f32/docs/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 6ae35053f2f4bf6a556ae9ce71090504062cda2cf85f6170d955426dcc7d2cbe
+  mediapath: /docs/systemd__systemd--contributing--6ae35053f2f4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    systemd/systemd\",\n  \"text_sha256\": \"6ae35053f2f4bf6a556ae9ce71090504062cda2cf85f6170d955426dcc7d2cbe\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/systemd/systemd/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"6ae35053f2f4bf6a556ae9ce71090504062cda2cf85f6170d955426dcc7d2cbe\"\
+    ,\n      \"source_url_cell\": \"https://github.com/systemd/systemd/blob/afff448cf47659a91a8b2ba74e26449dead48f32/docs/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: systemd__systemd--contributing--6ae35053f2f4.md
+  owner: NicolasH
+  risid: null
+name: systemd__systemd--contributing--6ae35053f2f4.md
+path: corpus/qda-case-94/107.txt

@@ -1,0 +1,43 @@
+hash: 8e9ec2e046e56f06d32d9a2e7b58d287daffa94e608b27d7760533478baffd94
+id: qda-source-181@qda-case-163
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 163
+    date: '2026-11-05 22:19:55'
+    fid: 181
+    id: 180
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4297
+  content_sha256: 8e9ec2e046e56f06d32d9a2e7b58d287daffa94e608b27d7760533478baffd94
+  date: '2026-11-05 22:19:55'
+  id: 181
+  import_metadata:
+    entity: TibixDev/winboat
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 8e9ec2e046e56f06d32d9a2e7b58d287daffa94e608b27d7760533478baffd94
+      path: data/281/policies/TibixDev/winboat/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/TibixDev/winboat/blob/c6af4a5030ca036489f8851fee06f463ff1dd163/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 8e9ec2e046e56f06d32d9a2e7b58d287daffa94e608b27d7760533478baffd94
+  mediapath: /docs/TibixDev__winboat--contributing--8e9ec2e046e5.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    TibixDev/winboat\",\n  \"text_sha256\": \"8e9ec2e046e56f06d32d9a2e7b58d287daffa94e608b27d7760533478baffd94\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/TibixDev/winboat/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"8e9ec2e046e56f06d32d9a2e7b58d287daffa94e608b27d7760533478baffd94\"\
+    ,\n      \"source_url_cell\": \"https://github.com/TibixDev/winboat/blob/c6af4a5030ca036489f8851fee06f463ff1dd163/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: TibixDev__winboat--contributing--8e9ec2e046e5.md
+  owner: NicolasH
+  risid: null
+name: TibixDev__winboat--contributing--8e9ec2e046e5.md
+path: corpus/qda-case-163/181.txt

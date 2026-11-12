@@ -1,0 +1,50 @@
+hash: fc667344515846536cdbc848bb21e70f8a2284ca5a5c0a7e55a2119fee4fa612
+id: qda-source-299@qda-case-277
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 277
+    date: '2026-11-05 22:19:55'
+    fid: 299
+    id: 298
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7649
+  content_sha256: fc667344515846536cdbc848bb21e70f8a2284ca5a5c0a7e55a2119fee4fa612
+  date: '2026-11-05 22:19:55'
+  id: 299
+  import_metadata:
+    conversion:
+      converted_sha256: fc667344515846536cdbc848bb21e70f8a2284ca5a5c0a7e55a2119fee4fa612
+      original_sha256: c7ac4e38caa546aaee7df0efc6cdbc30f184b437f14c2fc68e491b218c70cf59
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Linux Foundation
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: c7ac4e38caa546aaee7df0efc6cdbc30f184b437f14c2fc68e491b218c70cf59
+      path: data/281/policies/Linux Foundation/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://www.linuxfoundation.org/legal/generative-ai
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: c7ac4e38caa546aaee7df0efc6cdbc30f184b437f14c2fc68e491b218c70cf59
+  mediapath: /docs/Linux__Foundation--ai_policy--c7ac4e38caa5.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Linux Foundation\",\n  \"text_sha256\": \"c7ac4e38caa546aaee7df0efc6cdbc30f184b437f14c2fc68e491b218c70cf59\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Linux Foundation/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"c7ac4e38caa546aaee7df0efc6cdbc30f184b437f14c2fc68e491b218c70cf59\"\
+    ,\n      \"source_url_cell\": \"https://www.linuxfoundation.org/legal/generative-ai\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"c7ac4e38caa546aaee7df0efc6cdbc30f184b437f14c2fc68e491b218c70cf59\"\
+    ,\n    \"converted_sha256\": \"fc667344515846536cdbc848bb21e70f8a2284ca5a5c0a7e55a2119fee4fa612\"\
+    \n  }\n}"
+  name: Linux__Foundation--ai_policy--c7ac4e38caa5.md
+  owner: NicolasH
+  risid: null
+name: Linux__Foundation--ai_policy--c7ac4e38caa5.md
+path: corpus/qda-case-277/299.txt

@@ -1,0 +1,58 @@
+hash: f8e3502f0191d663f4e379430bd4d4829951ae7f06e4c49e611b802d458064f0
+id: qda-source-421@qda-case-98
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 98
+    date: '2026-11-05 22:19:55'
+    fid: 421
+    id: 421
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3323
+  content_sha256: f8e3502f0191d663f4e379430bd4d4829951ae7f06e4c49e611b802d458064f0
+  date: '2026-11-05 22:19:55'
+  id: 421
+  import_metadata:
+    conversion:
+      converted_sha256: f8e3502f0191d663f4e379430bd4d4829951ae7f06e4c49e611b802d458064f0
+      original_sha256: 8aabd10da4bc5862e0794d0a9206283f2a551e47484e9bcd6c6aef31b4a3db55
+      version: oss-ai-policies/clean-markdown-v1
+    entity: cloudreve/cloudreve
+    provenance:
+    - accessed_at: '2026-11-05T19:11:58.776409+00:00'
+      id: corpus-098-purpose
+      original_file_sha256: 8aabd10da4bc5862e0794d0a9206283f2a551e47484e9bcd6c6aef31b4a3db55
+      path: analysis/corpus-assessment/sources/corpus-098-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-098-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/cloudreve/cloudreve/0bb0ab833571d380153edd3529e01a7957b8b4ce/README.md
+      role: purpose_statement_candidate
+      sha256: 8aabd10da4bc5862e0794d0a9206283f2a551e47484e9bcd6c6aef31b4a3db55
+      url: https://github.com/cloudreve/cloudreve/blob/0bb0ab833571d380153edd3529e01a7957b8b4ce/README.md
+      version: 0bb0ab833571d380153edd3529e01a7957b8b4ce
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 8aabd10da4bc5862e0794d0a9206283f2a551e47484e9bcd6c6aef31b4a3db55
+  mediapath: /docs/cloudreve__cloudreve--purpose_statement_candidate--8aabd10da4bc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    cloudreve/cloudreve\",\n  \"text_sha256\": \"8aabd10da4bc5862e0794d0a9206283f2a551e47484e9bcd6c6aef31b4a3db55\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-098-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"8aabd10da4bc5862e0794d0a9206283f2a551e47484e9bcd6c6aef31b4a3db55\",\n    \
+    \  \"id\": \"corpus-098-purpose\",\n      \"url\": \"https://github.com/cloudreve/cloudreve/blob/0bb0ab833571d380153edd3529e01a7957b8b4ce/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/cloudreve/cloudreve/0bb0ab833571d380153edd3529e01a7957b8b4ce/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:58.776409+00:00\",\n      \"version\"\
+    : \"0bb0ab833571d380153edd3529e01a7957b8b4ce\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-098-purpose.raw.md\"\
+    ,\n      \"sha256\": \"8aabd10da4bc5862e0794d0a9206283f2a551e47484e9bcd6c6aef31b4a3db55\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"8aabd10da4bc5862e0794d0a9206283f2a551e47484e9bcd6c6aef31b4a3db55\"\
+    ,\n    \"converted_sha256\": \"f8e3502f0191d663f4e379430bd4d4829951ae7f06e4c49e611b802d458064f0\"\
+    \n  }\n}"
+  name: cloudreve__cloudreve--purpose_statement_candidate--8aabd10da4bc.md
+  owner: NicolasH
+  risid: null
+name: cloudreve__cloudreve--purpose_statement_candidate--8aabd10da4bc.md
+path: corpus/qda-case-98/421.txt

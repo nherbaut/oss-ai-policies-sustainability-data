@@ -1,0 +1,43 @@
+hash: 6a634270a2b4df6f981a6af2221ffad8701fe17115c296a8cb49c91efe8379e9
+id: qda-source-273@qda-case-251
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 251
+    date: '2026-11-05 22:19:55'
+    fid: 273
+    id: 272
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3369
+  content_sha256: 6a634270a2b4df6f981a6af2221ffad8701fe17115c296a8cb49c91efe8379e9
+  date: '2026-11-05 22:19:55'
+  id: 273
+  import_metadata:
+    entity: amir1376/ab-download-manager
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 6a634270a2b4df6f981a6af2221ffad8701fe17115c296a8cb49c91efe8379e9
+      path: data/281/policies/amir1376/ab-download-manager/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/amir1376/ab-download-manager/blob/a5b0e8a5628087fafc600106f9405aba4db694fa/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 6a634270a2b4df6f981a6af2221ffad8701fe17115c296a8cb49c91efe8379e9
+  mediapath: /docs/amir1376__ab-download-manager--contributing--6a634270a2b4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    amir1376/ab-download-manager\",\n  \"text_sha256\": \"6a634270a2b4df6f981a6af2221ffad8701fe17115c296a8cb49c91efe8379e9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/amir1376/ab-download-manager/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"6a634270a2b4df6f981a6af2221ffad8701fe17115c296a8cb49c91efe8379e9\"\
+    ,\n      \"source_url_cell\": \"https://github.com/amir1376/ab-download-manager/blob/a5b0e8a5628087fafc600106f9405aba4db694fa/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: amir1376__ab-download-manager--contributing--6a634270a2b4.md
+  owner: NicolasH
+  risid: null
+name: amir1376__ab-download-manager--contributing--6a634270a2b4.md
+path: corpus/qda-case-251/273.txt

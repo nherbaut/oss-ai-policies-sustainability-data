@@ -1,0 +1,58 @@
+hash: b895901fc403a6bdadc1150e644c229ccc1b926db956f7ac3d15dbe4c864bd2d
+id: qda-source-437@qda-case-114
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 114
+    date: '2026-11-05 22:19:55'
+    fid: 437
+    id: 437
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6199
+  content_sha256: b895901fc403a6bdadc1150e644c229ccc1b926db956f7ac3d15dbe4c864bd2d
+  date: '2026-11-05 22:19:55'
+  id: 437
+  import_metadata:
+    conversion:
+      converted_sha256: b895901fc403a6bdadc1150e644c229ccc1b926db956f7ac3d15dbe4c864bd2d
+      original_sha256: 0cf0b6a17186588d0dfabb1fd6cc3544b1934a378788017315d53af6d55d824a
+      version: oss-ai-policies/clean-markdown-v1
+    entity: python-attrs
+    provenance:
+    - accessed_at: '2026-11-05T19:12:00.381047+00:00'
+      id: corpus-114-purpose
+      original_file_sha256: 0cf0b6a17186588d0dfabb1fd6cc3544b1934a378788017315d53af6d55d824a
+      path: analysis/corpus-assessment/sources/corpus-114-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-114-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/python-attrs/attrs/main/README.md
+      role: purpose_statement_candidate
+      sha256: 0cf0b6a17186588d0dfabb1fd6cc3544b1934a378788017315d53af6d55d824a
+      url: https://github.com/python-attrs/attrs/blob/main/README.md
+      version: main
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 0cf0b6a17186588d0dfabb1fd6cc3544b1934a378788017315d53af6d55d824a
+  mediapath: /docs/python-attrs--purpose_statement_candidate--0cf0b6a17186.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    python-attrs\",\n  \"text_sha256\": \"0cf0b6a17186588d0dfabb1fd6cc3544b1934a378788017315d53af6d55d824a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-114-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0cf0b6a17186588d0dfabb1fd6cc3544b1934a378788017315d53af6d55d824a\",\n    \
+    \  \"id\": \"corpus-114-purpose\",\n      \"url\": \"https://github.com/python-attrs/attrs/blob/main/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/python-attrs/attrs/main/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:00.381047+00:00\",\n      \"version\"\
+    : \"main\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-114-purpose.raw.md\"\
+    ,\n      \"sha256\": \"0cf0b6a17186588d0dfabb1fd6cc3544b1934a378788017315d53af6d55d824a\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"0cf0b6a17186588d0dfabb1fd6cc3544b1934a378788017315d53af6d55d824a\"\
+    ,\n    \"converted_sha256\": \"b895901fc403a6bdadc1150e644c229ccc1b926db956f7ac3d15dbe4c864bd2d\"\
+    \n  }\n}"
+  name: python-attrs--purpose_statement_candidate--0cf0b6a17186.md
+  owner: NicolasH
+  risid: null
+name: python-attrs--purpose_statement_candidate--0cf0b6a17186.md
+path: corpus/qda-case-114/437.txt

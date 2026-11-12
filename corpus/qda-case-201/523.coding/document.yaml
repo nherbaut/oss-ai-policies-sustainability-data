@@ -1,0 +1,58 @@
+hash: 697ca6ea4d2cc97d341e81e857b1c4928f6566a3a2d34507b4abe1a8d5cade68
+id: qda-source-523@qda-case-201
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 201
+    date: '2026-11-05 22:19:55'
+    fid: 523
+    id: 523
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4173
+  content_sha256: 697ca6ea4d2cc97d341e81e857b1c4928f6566a3a2d34507b4abe1a8d5cade68
+  date: '2026-11-05 22:19:55'
+  id: 523
+  import_metadata:
+    conversion:
+      converted_sha256: 697ca6ea4d2cc97d341e81e857b1c4928f6566a3a2d34507b4abe1a8d5cade68
+      original_sha256: 0dd7c6ea42dc74f2d1949ec0217e15ecf348d6194757bf3d97af22834aeea1ae
+      version: oss-ai-policies/clean-markdown-v1
+    entity: alacritty/alacritty
+    provenance:
+    - accessed_at: '2026-11-05T19:12:08.945245+00:00'
+      id: corpus-201-purpose
+      original_file_sha256: 0dd7c6ea42dc74f2d1949ec0217e15ecf348d6194757bf3d97af22834aeea1ae
+      path: analysis/corpus-assessment/sources/corpus-201-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-201-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/alacritty/alacritty/852e971cddfabe222d2d5bcda466e130f53af207/README.md
+      role: purpose_statement_candidate
+      sha256: 0dd7c6ea42dc74f2d1949ec0217e15ecf348d6194757bf3d97af22834aeea1ae
+      url: https://github.com/alacritty/alacritty/blob/852e971cddfabe222d2d5bcda466e130f53af207/README.md
+      version: 852e971cddfabe222d2d5bcda466e130f53af207
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 0dd7c6ea42dc74f2d1949ec0217e15ecf348d6194757bf3d97af22834aeea1ae
+  mediapath: /docs/alacritty__alacritty--purpose_statement_candidate--0dd7c6ea42dc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    alacritty/alacritty\",\n  \"text_sha256\": \"0dd7c6ea42dc74f2d1949ec0217e15ecf348d6194757bf3d97af22834aeea1ae\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-201-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0dd7c6ea42dc74f2d1949ec0217e15ecf348d6194757bf3d97af22834aeea1ae\",\n    \
+    \  \"id\": \"corpus-201-purpose\",\n      \"url\": \"https://github.com/alacritty/alacritty/blob/852e971cddfabe222d2d5bcda466e130f53af207/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/alacritty/alacritty/852e971cddfabe222d2d5bcda466e130f53af207/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:08.945245+00:00\",\n      \"version\"\
+    : \"852e971cddfabe222d2d5bcda466e130f53af207\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-201-purpose.raw.md\"\
+    ,\n      \"sha256\": \"0dd7c6ea42dc74f2d1949ec0217e15ecf348d6194757bf3d97af22834aeea1ae\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"0dd7c6ea42dc74f2d1949ec0217e15ecf348d6194757bf3d97af22834aeea1ae\"\
+    ,\n    \"converted_sha256\": \"697ca6ea4d2cc97d341e81e857b1c4928f6566a3a2d34507b4abe1a8d5cade68\"\
+    \n  }\n}"
+  name: alacritty__alacritty--purpose_statement_candidate--0dd7c6ea42dc.md
+  owner: NicolasH
+  risid: null
+name: alacritty__alacritty--purpose_statement_candidate--0dd7c6ea42dc.md
+path: corpus/qda-case-201/523.txt

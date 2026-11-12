@@ -1,0 +1,58 @@
+hash: 35ac329d398eea433863d2d67ee060656f855942109ffb2d0576d38391a782e0
+id: qda-source-551@qda-case-227
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 227
+    date: '2026-11-05 22:19:55'
+    fid: 551
+    id: 551
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4691
+  content_sha256: 35ac329d398eea433863d2d67ee060656f855942109ffb2d0576d38391a782e0
+  date: '2026-11-05 22:19:55'
+  id: 551
+  import_metadata:
+    conversion:
+      converted_sha256: 35ac329d398eea433863d2d67ee060656f855942109ffb2d0576d38391a782e0
+      original_sha256: 71b6d252d8def7bed6b5645a6bc9686ee020c9e237e10a200ab51bf6c6481e33
+      version: oss-ai-policies/clean-markdown-v1
+    entity: cryptomator/cryptomator
+    provenance:
+    - accessed_at: '2026-11-05T19:12:12.653181+00:00'
+      id: corpus-227-purpose
+      original_file_sha256: 71b6d252d8def7bed6b5645a6bc9686ee020c9e237e10a200ab51bf6c6481e33
+      path: analysis/corpus-assessment/sources/corpus-227-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-227-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/cryptomator/cryptomator/688d1a4a24a32fb401041946f0f612e6b42598d5/README.md
+      role: purpose_statement_candidate
+      sha256: 71b6d252d8def7bed6b5645a6bc9686ee020c9e237e10a200ab51bf6c6481e33
+      url: https://github.com/cryptomator/cryptomator/blob/688d1a4a24a32fb401041946f0f612e6b42598d5/README.md
+      version: 688d1a4a24a32fb401041946f0f612e6b42598d5
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 71b6d252d8def7bed6b5645a6bc9686ee020c9e237e10a200ab51bf6c6481e33
+  mediapath: /docs/cryptomator__cryptomator--purpose_statement_candidate--71b6d252d8de.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    cryptomator/cryptomator\",\n  \"text_sha256\": \"71b6d252d8def7bed6b5645a6bc9686ee020c9e237e10a200ab51bf6c6481e33\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-227-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"71b6d252d8def7bed6b5645a6bc9686ee020c9e237e10a200ab51bf6c6481e33\",\n    \
+    \  \"id\": \"corpus-227-purpose\",\n      \"url\": \"https://github.com/cryptomator/cryptomator/blob/688d1a4a24a32fb401041946f0f612e6b42598d5/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/cryptomator/cryptomator/688d1a4a24a32fb401041946f0f612e6b42598d5/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:12.653181+00:00\",\n      \"version\"\
+    : \"688d1a4a24a32fb401041946f0f612e6b42598d5\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-227-purpose.raw.md\"\
+    ,\n      \"sha256\": \"71b6d252d8def7bed6b5645a6bc9686ee020c9e237e10a200ab51bf6c6481e33\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"71b6d252d8def7bed6b5645a6bc9686ee020c9e237e10a200ab51bf6c6481e33\"\
+    ,\n    \"converted_sha256\": \"35ac329d398eea433863d2d67ee060656f855942109ffb2d0576d38391a782e0\"\
+    \n  }\n}"
+  name: cryptomator__cryptomator--purpose_statement_candidate--71b6d252d8de.md
+  owner: NicolasH
+  risid: null
+name: cryptomator__cryptomator--purpose_statement_candidate--71b6d252d8de.md
+path: corpus/qda-case-227/551.txt

@@ -1,0 +1,43 @@
+hash: 61cc782cd28d27135a1a652008013dfd9602333b12c8a4b5e596eb465e676294
+id: qda-source-265@qda-case-243
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 243
+    date: '2026-11-05 22:19:55'
+    fid: 265
+    id: 264
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2596
+  content_sha256: 61cc782cd28d27135a1a652008013dfd9602333b12c8a4b5e596eb465e676294
+  date: '2026-11-05 22:19:55'
+  id: 265
+  import_metadata:
+    entity: DayuanJiang/next-ai-draw-io
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 61cc782cd28d27135a1a652008013dfd9602333b12c8a4b5e596eb465e676294
+      path: data/281/policies/DayuanJiang/next-ai-draw-io/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/DayuanJiang/next-ai-draw-io/blob/4b072283202d3fe4869acd847ee897ad1165d73d/.github/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 61cc782cd28d27135a1a652008013dfd9602333b12c8a4b5e596eb465e676294
+  mediapath: /docs/DayuanJiang__next-ai-draw-io--contributing--61cc782cd28d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    DayuanJiang/next-ai-draw-io\",\n  \"text_sha256\": \"61cc782cd28d27135a1a652008013dfd9602333b12c8a4b5e596eb465e676294\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/DayuanJiang/next-ai-draw-io/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"61cc782cd28d27135a1a652008013dfd9602333b12c8a4b5e596eb465e676294\"\
+    ,\n      \"source_url_cell\": \"https://github.com/DayuanJiang/next-ai-draw-io/blob/4b072283202d3fe4869acd847ee897ad1165d73d/.github/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: DayuanJiang__next-ai-draw-io--contributing--61cc782cd28d.md
+  owner: NicolasH
+  risid: null
+name: DayuanJiang__next-ai-draw-io--contributing--61cc782cd28d.md
+path: corpus/qda-case-243/265.txt

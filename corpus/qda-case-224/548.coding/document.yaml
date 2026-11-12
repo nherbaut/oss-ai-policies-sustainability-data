@@ -1,0 +1,58 @@
+hash: 71b18d4f9be57722d9bade4799c4da535df651c00a25c27a02d383a32b6d8fce
+id: qda-source-548@qda-case-224
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 224
+    date: '2026-11-05 22:19:55'
+    fid: 548
+    id: 548
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4296
+  content_sha256: 71b18d4f9be57722d9bade4799c4da535df651c00a25c27a02d383a32b6d8fce
+  date: '2026-11-05 22:19:55'
+  id: 548
+  import_metadata:
+    conversion:
+      converted_sha256: 71b18d4f9be57722d9bade4799c4da535df651c00a25c27a02d383a32b6d8fce
+      original_sha256: 54ba0e48784c802b74040242a647a27d8cb08bc6c67154df0dbb47efcbd1ad4e
+      version: oss-ai-policies/clean-markdown-v1
+    entity: atuinsh/atuin
+    provenance:
+    - accessed_at: '2026-11-05T19:12:12.431603+00:00'
+      id: corpus-224-purpose
+      original_file_sha256: 54ba0e48784c802b74040242a647a27d8cb08bc6c67154df0dbb47efcbd1ad4e
+      path: analysis/corpus-assessment/sources/corpus-224-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-224-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/atuinsh/atuin/4aea14ae86f5efad23b9236f5d5de206a35efed3/README.md
+      role: purpose_statement_candidate
+      sha256: 54ba0e48784c802b74040242a647a27d8cb08bc6c67154df0dbb47efcbd1ad4e
+      url: https://github.com/atuinsh/atuin/blob/4aea14ae86f5efad23b9236f5d5de206a35efed3/README.md
+      version: 4aea14ae86f5efad23b9236f5d5de206a35efed3
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 54ba0e48784c802b74040242a647a27d8cb08bc6c67154df0dbb47efcbd1ad4e
+  mediapath: /docs/atuinsh__atuin--purpose_statement_candidate--54ba0e48784c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    atuinsh/atuin\",\n  \"text_sha256\": \"54ba0e48784c802b74040242a647a27d8cb08bc6c67154df0dbb47efcbd1ad4e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-224-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"54ba0e48784c802b74040242a647a27d8cb08bc6c67154df0dbb47efcbd1ad4e\",\n    \
+    \  \"id\": \"corpus-224-purpose\",\n      \"url\": \"https://github.com/atuinsh/atuin/blob/4aea14ae86f5efad23b9236f5d5de206a35efed3/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/atuinsh/atuin/4aea14ae86f5efad23b9236f5d5de206a35efed3/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:12.431603+00:00\",\n      \"version\"\
+    : \"4aea14ae86f5efad23b9236f5d5de206a35efed3\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-224-purpose.raw.md\"\
+    ,\n      \"sha256\": \"54ba0e48784c802b74040242a647a27d8cb08bc6c67154df0dbb47efcbd1ad4e\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"54ba0e48784c802b74040242a647a27d8cb08bc6c67154df0dbb47efcbd1ad4e\"\
+    ,\n    \"converted_sha256\": \"71b18d4f9be57722d9bade4799c4da535df651c00a25c27a02d383a32b6d8fce\"\
+    \n  }\n}"
+  name: atuinsh__atuin--purpose_statement_candidate--54ba0e48784c.md
+  owner: NicolasH
+  risid: null
+name: atuinsh__atuin--purpose_statement_candidate--54ba0e48784c.md
+path: corpus/qda-case-224/548.txt

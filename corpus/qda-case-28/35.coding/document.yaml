@@ -1,0 +1,43 @@
+hash: 8f53a842fbafa48b4dfddd64a0a3d2208b0b72f7cf78841b1a044b7599cb174e
+id: qda-source-35@qda-case-28
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 28
+    date: '2026-11-05 22:19:55'
+    fid: 35
+    id: 34
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3151
+  content_sha256: 8f53a842fbafa48b4dfddd64a0a3d2208b0b72f7cf78841b1a044b7599cb174e
+  date: '2026-11-05 22:19:55'
+  id: 35
+  import_metadata:
+    entity: oracle/graal
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 8f53a842fbafa48b4dfddd64a0a3d2208b0b72f7cf78841b1a044b7599cb174e
+      path: data/281/policies/oracle/graal/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://github.com/oracle/graal/blob/be9330615b04b742baa98e503f32b1d169a99129/CODING_ASSISTANTS.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 8f53a842fbafa48b4dfddd64a0a3d2208b0b72f7cf78841b1a044b7599cb174e
+  mediapath: /docs/oracle__graal--other_policy--8f53a842fbaf.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    oracle/graal\",\n  \"text_sha256\": \"8f53a842fbafa48b4dfddd64a0a3d2208b0b72f7cf78841b1a044b7599cb174e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/oracle/graal/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"8f53a842fbafa48b4dfddd64a0a3d2208b0b72f7cf78841b1a044b7599cb174e\"\
+    ,\n      \"source_url_cell\": \"https://github.com/oracle/graal/blob/be9330615b04b742baa98e503f32b1d169a99129/CODING_ASSISTANTS.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: oracle__graal--other_policy--8f53a842fbaf.md
+  owner: NicolasH
+  risid: null
+name: oracle__graal--other_policy--8f53a842fbaf.md
+path: corpus/qda-case-28/35.txt

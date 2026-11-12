@@ -1,0 +1,51 @@
+hash: afbf1d18b2db1e599d378a6fd7a518a9c887b155adc2e8a6b722c919e44e25d1
+id: qda-source-522@qda-case-200
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 200
+    date: '2026-11-05 22:19:55'
+    fid: 522
+    id: 522
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2951
+  content_sha256: afbf1d18b2db1e599d378a6fd7a518a9c887b155adc2e8a6b722c919e44e25d1
+  date: '2026-11-05 22:19:55'
+  id: 522
+  import_metadata:
+    entity: obsproject/obs-studio
+    provenance:
+    - accessed_at: '2026-11-05T19:12:08.927616+00:00'
+      id: corpus-200-purpose
+      original_file_sha256: afbf1d18b2db1e599d378a6fd7a518a9c887b155adc2e8a6b722c919e44e25d1
+      path: analysis/corpus-assessment/sources/corpus-200-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-200-purpose.rst
+      resolved_url: https://raw.githubusercontent.com/obsproject/obs-studio/9d38a938318aa32906e3727be30a972a3ecd0d94/README.rst
+      role: purpose_statement_candidate
+      sha256: be2dff0124620dcd9d8d83ef9084b12d1e61e896d3295232501cb3ebd3f6a318
+      url: https://github.com/obsproject/obs-studio/blob/9d38a938318aa32906e3727be30a972a3ecd0d94/README.rst
+      version: 9d38a938318aa32906e3727be30a972a3ecd0d94
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: afbf1d18b2db1e599d378a6fd7a518a9c887b155adc2e8a6b722c919e44e25d1
+  mediapath: /docs/obsproject__obs-studio--purpose_statement_candidate--afbf1d18b2db.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    obsproject/obs-studio\",\n  \"text_sha256\": \"afbf1d18b2db1e599d378a6fd7a518a9c887b155adc2e8a6b722c919e44e25d1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-200-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"afbf1d18b2db1e599d378a6fd7a518a9c887b155adc2e8a6b722c919e44e25d1\",\n    \
+    \  \"id\": \"corpus-200-purpose\",\n      \"url\": \"https://github.com/obsproject/obs-studio/blob/9d38a938318aa32906e3727be30a972a3ecd0d94/README.rst\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/obsproject/obs-studio/9d38a938318aa32906e3727be30a972a3ecd0d94/README.rst\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:08.927616+00:00\",\n      \"version\"\
+    : \"9d38a938318aa32906e3727be30a972a3ecd0d94\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-200-purpose.rst\"\
+    ,\n      \"sha256\": \"be2dff0124620dcd9d8d83ef9084b12d1e61e896d3295232501cb3ebd3f6a318\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: obsproject__obs-studio--purpose_statement_candidate--afbf1d18b2db.md
+  owner: NicolasH
+  risid: null
+name: obsproject__obs-studio--purpose_statement_candidate--afbf1d18b2db.md
+path: corpus/qda-case-200/522.txt

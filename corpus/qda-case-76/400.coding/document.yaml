@@ -1,0 +1,51 @@
+hash: a69c389a49ae653616c0cac76b803ddca9ca5df98fd77c62d5677d4c1bd5916f
+id: qda-source-400@qda-case-76
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 76
+    date: '2026-11-05 22:19:55'
+    fid: 400
+    id: 400
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 21615
+  content_sha256: a69c389a49ae653616c0cac76b803ddca9ca5df98fd77c62d5677d4c1bd5916f
+  date: '2026-11-05 22:19:55'
+  id: 400
+  import_metadata:
+    entity: burntsushi/ripgrep
+    provenance:
+    - accessed_at: '2026-11-05T19:11:56.606681+00:00'
+      id: corpus-076-purpose
+      original_file_sha256: a69c389a49ae653616c0cac76b803ddca9ca5df98fd77c62d5677d4c1bd5916f
+      path: analysis/corpus-assessment/sources/corpus-076-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-076-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/burntsushi/ripgrep/5e16a5c9e57e81f6031a23faa2ace52205fa8242/README.md
+      role: purpose_statement_candidate
+      sha256: a69c389a49ae653616c0cac76b803ddca9ca5df98fd77c62d5677d4c1bd5916f
+      url: https://github.com/burntsushi/ripgrep/blob/5e16a5c9e57e81f6031a23faa2ace52205fa8242/README.md
+      version: 5e16a5c9e57e81f6031a23faa2ace52205fa8242
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: a69c389a49ae653616c0cac76b803ddca9ca5df98fd77c62d5677d4c1bd5916f
+  mediapath: /docs/burntsushi__ripgrep--purpose_statement_candidate--a69c389a49ae.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    burntsushi/ripgrep\",\n  \"text_sha256\": \"a69c389a49ae653616c0cac76b803ddca9ca5df98fd77c62d5677d4c1bd5916f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-076-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"a69c389a49ae653616c0cac76b803ddca9ca5df98fd77c62d5677d4c1bd5916f\",\n    \
+    \  \"id\": \"corpus-076-purpose\",\n      \"url\": \"https://github.com/burntsushi/ripgrep/blob/5e16a5c9e57e81f6031a23faa2ace52205fa8242/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/burntsushi/ripgrep/5e16a5c9e57e81f6031a23faa2ace52205fa8242/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:56.606681+00:00\",\n      \"version\"\
+    : \"5e16a5c9e57e81f6031a23faa2ace52205fa8242\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-076-purpose.raw.md\"\
+    ,\n      \"sha256\": \"a69c389a49ae653616c0cac76b803ddca9ca5df98fd77c62d5677d4c1bd5916f\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: burntsushi__ripgrep--purpose_statement_candidate--a69c389a49ae.md
+  owner: NicolasH
+  risid: null
+name: burntsushi__ripgrep--purpose_statement_candidate--a69c389a49ae.md
+path: corpus/qda-case-76/400.txt

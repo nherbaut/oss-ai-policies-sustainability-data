@@ -1,0 +1,58 @@
+hash: 4cc1c3cd97778a2265df7900523c31dbb4634dc979e0a9f3a7665b8782229201
+id: qda-source-443@qda-case-120
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 120
+    date: '2026-11-05 22:19:55'
+    fid: 443
+    id: 443
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3143
+  content_sha256: 4cc1c3cd97778a2265df7900523c31dbb4634dc979e0a9f3a7665b8782229201
+  date: '2026-11-05 22:19:55'
+  id: 443
+  import_metadata:
+    conversion:
+      converted_sha256: 4cc1c3cd97778a2265df7900523c31dbb4634dc979e0a9f3a7665b8782229201
+      original_sha256: 7a7a682255483a7ed9c254597c0f490c2b58835df5f08f2ef519bdf7d6931793
+      version: oss-ai-policies/clean-markdown-v1
+    entity: block/goose
+    provenance:
+    - accessed_at: '2026-11-05T19:12:01.080210+00:00'
+      id: corpus-120-purpose
+      original_file_sha256: 7a7a682255483a7ed9c254597c0f490c2b58835df5f08f2ef519bdf7d6931793
+      path: analysis/corpus-assessment/sources/corpus-120-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-120-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/block/goose/e7c33077cd2be15413a084a4896f91210a496ed4/README.md
+      role: purpose_statement_candidate
+      sha256: 7a7a682255483a7ed9c254597c0f490c2b58835df5f08f2ef519bdf7d6931793
+      url: https://github.com/block/goose/blob/e7c33077cd2be15413a084a4896f91210a496ed4/README.md
+      version: e7c33077cd2be15413a084a4896f91210a496ed4
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 7a7a682255483a7ed9c254597c0f490c2b58835df5f08f2ef519bdf7d6931793
+  mediapath: /docs/block__goose--purpose_statement_candidate--7a7a68225548.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    block/goose\",\n  \"text_sha256\": \"7a7a682255483a7ed9c254597c0f490c2b58835df5f08f2ef519bdf7d6931793\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-120-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"7a7a682255483a7ed9c254597c0f490c2b58835df5f08f2ef519bdf7d6931793\",\n    \
+    \  \"id\": \"corpus-120-purpose\",\n      \"url\": \"https://github.com/block/goose/blob/e7c33077cd2be15413a084a4896f91210a496ed4/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/block/goose/e7c33077cd2be15413a084a4896f91210a496ed4/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:01.080210+00:00\",\n      \"version\"\
+    : \"e7c33077cd2be15413a084a4896f91210a496ed4\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-120-purpose.raw.md\"\
+    ,\n      \"sha256\": \"7a7a682255483a7ed9c254597c0f490c2b58835df5f08f2ef519bdf7d6931793\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"7a7a682255483a7ed9c254597c0f490c2b58835df5f08f2ef519bdf7d6931793\"\
+    ,\n    \"converted_sha256\": \"4cc1c3cd97778a2265df7900523c31dbb4634dc979e0a9f3a7665b8782229201\"\
+    \n  }\n}"
+  name: block__goose--purpose_statement_candidate--7a7a68225548.md
+  owner: NicolasH
+  risid: null
+name: block__goose--purpose_statement_candidate--7a7a68225548.md
+path: corpus/qda-case-120/443.txt

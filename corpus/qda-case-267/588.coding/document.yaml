@@ -1,0 +1,58 @@
+hash: fad35635174befed4e9785c3ba649fff6a551b62152e24c3e526142764f5b098
+id: qda-source-588@qda-case-267
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 267
+    date: '2026-11-05 22:19:55'
+    fid: 588
+    id: 588
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 14164
+  content_sha256: fad35635174befed4e9785c3ba649fff6a551b62152e24c3e526142764f5b098
+  date: '2026-11-05 22:19:55'
+  id: 588
+  import_metadata:
+    conversion:
+      converted_sha256: fad35635174befed4e9785c3ba649fff6a551b62152e24c3e526142764f5b098
+      original_sha256: 4c527f31385780613f0bc7eef3e51b0c4aadddd8fda715331effdd914d26ab4f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: spree/spree
+    provenance:
+    - accessed_at: '2026-11-05T19:12:15.872501+00:00'
+      id: corpus-267-purpose
+      original_file_sha256: 4c527f31385780613f0bc7eef3e51b0c4aadddd8fda715331effdd914d26ab4f
+      path: analysis/corpus-assessment/sources/corpus-267-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-267-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/spree/spree/a5d65fae59eb89acb02292f1f5f1ba6b0bdc55a2/README.md
+      role: purpose_statement_candidate
+      sha256: 4c527f31385780613f0bc7eef3e51b0c4aadddd8fda715331effdd914d26ab4f
+      url: https://github.com/spree/spree/blob/a5d65fae59eb89acb02292f1f5f1ba6b0bdc55a2/README.md
+      version: a5d65fae59eb89acb02292f1f5f1ba6b0bdc55a2
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 4c527f31385780613f0bc7eef3e51b0c4aadddd8fda715331effdd914d26ab4f
+  mediapath: /docs/spree__spree--purpose_statement_candidate--4c527f313857.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    spree/spree\",\n  \"text_sha256\": \"4c527f31385780613f0bc7eef3e51b0c4aadddd8fda715331effdd914d26ab4f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-267-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"4c527f31385780613f0bc7eef3e51b0c4aadddd8fda715331effdd914d26ab4f\",\n    \
+    \  \"id\": \"corpus-267-purpose\",\n      \"url\": \"https://github.com/spree/spree/blob/a5d65fae59eb89acb02292f1f5f1ba6b0bdc55a2/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/spree/spree/a5d65fae59eb89acb02292f1f5f1ba6b0bdc55a2/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:15.872501+00:00\",\n      \"version\"\
+    : \"a5d65fae59eb89acb02292f1f5f1ba6b0bdc55a2\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-267-purpose.raw.md\"\
+    ,\n      \"sha256\": \"4c527f31385780613f0bc7eef3e51b0c4aadddd8fda715331effdd914d26ab4f\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"4c527f31385780613f0bc7eef3e51b0c4aadddd8fda715331effdd914d26ab4f\"\
+    ,\n    \"converted_sha256\": \"fad35635174befed4e9785c3ba649fff6a551b62152e24c3e526142764f5b098\"\
+    \n  }\n}"
+  name: spree__spree--purpose_statement_candidate--4c527f313857.md
+  owner: NicolasH
+  risid: null
+name: spree__spree--purpose_statement_candidate--4c527f313857.md
+path: corpus/qda-case-267/588.txt

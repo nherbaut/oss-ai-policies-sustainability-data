@@ -1,0 +1,58 @@
+hash: 815c7973c6c9a5ffb134d3a46670a667de0742aea4a26cb34950f42e9b7b9354
+id: qda-source-566@qda-case-244
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 244
+    date: '2026-11-05 22:19:55'
+    fid: 566
+    id: 566
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11109
+  content_sha256: 815c7973c6c9a5ffb134d3a46670a667de0742aea4a26cb34950f42e9b7b9354
+  date: '2026-11-05 22:19:55'
+  id: 566
+  import_metadata:
+    conversion:
+      converted_sha256: 815c7973c6c9a5ffb134d3a46670a667de0742aea4a26cb34950f42e9b7b9354
+      original_sha256: 52b71a7a36059aaa3449c2f64cdf97b2893b5b097e4269aed67bd2bb2e5a9733
+      version: oss-ai-policies/clean-markdown-v1
+    entity: kriasoft/react-starter-kit
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.349970+00:00'
+      id: corpus-244-purpose
+      original_file_sha256: 52b71a7a36059aaa3449c2f64cdf97b2893b5b097e4269aed67bd2bb2e5a9733
+      path: analysis/corpus-assessment/sources/corpus-244-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-244-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/kriasoft/react-starter-kit/3c5132eb3d0a02dc8090eb6248f8959744e18d12/README.md
+      role: purpose_statement_candidate
+      sha256: 52b71a7a36059aaa3449c2f64cdf97b2893b5b097e4269aed67bd2bb2e5a9733
+      url: https://github.com/kriasoft/react-starter-kit/blob/3c5132eb3d0a02dc8090eb6248f8959744e18d12/README.md
+      version: 3c5132eb3d0a02dc8090eb6248f8959744e18d12
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 52b71a7a36059aaa3449c2f64cdf97b2893b5b097e4269aed67bd2bb2e5a9733
+  mediapath: /docs/kriasoft__react-starter-kit--purpose_statement_candidate--52b71a7a3605.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    kriasoft/react-starter-kit\",\n  \"text_sha256\": \"52b71a7a36059aaa3449c2f64cdf97b2893b5b097e4269aed67bd2bb2e5a9733\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-244-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"52b71a7a36059aaa3449c2f64cdf97b2893b5b097e4269aed67bd2bb2e5a9733\",\n    \
+    \  \"id\": \"corpus-244-purpose\",\n      \"url\": \"https://github.com/kriasoft/react-starter-kit/blob/3c5132eb3d0a02dc8090eb6248f8959744e18d12/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/kriasoft/react-starter-kit/3c5132eb3d0a02dc8090eb6248f8959744e18d12/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.349970+00:00\",\n      \"version\"\
+    : \"3c5132eb3d0a02dc8090eb6248f8959744e18d12\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-244-purpose.raw.md\"\
+    ,\n      \"sha256\": \"52b71a7a36059aaa3449c2f64cdf97b2893b5b097e4269aed67bd2bb2e5a9733\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"52b71a7a36059aaa3449c2f64cdf97b2893b5b097e4269aed67bd2bb2e5a9733\"\
+    ,\n    \"converted_sha256\": \"815c7973c6c9a5ffb134d3a46670a667de0742aea4a26cb34950f42e9b7b9354\"\
+    \n  }\n}"
+  name: kriasoft__react-starter-kit--purpose_statement_candidate--52b71a7a3605.md
+  owner: NicolasH
+  risid: null
+name: kriasoft__react-starter-kit--purpose_statement_candidate--52b71a7a3605.md
+path: corpus/qda-case-244/566.txt

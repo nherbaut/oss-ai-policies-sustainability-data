@@ -1,0 +1,58 @@
+hash: 111e89b0de79423c9a885b336249d2a9e913f4b26ccbdd1ea1309d7faf511b37
+id: qda-source-565@qda-case-243
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 243
+    date: '2026-11-05 22:19:55'
+    fid: 565
+    id: 565
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10400
+  content_sha256: 111e89b0de79423c9a885b336249d2a9e913f4b26ccbdd1ea1309d7faf511b37
+  date: '2026-11-05 22:19:55'
+  id: 565
+  import_metadata:
+    conversion:
+      converted_sha256: 111e89b0de79423c9a885b336249d2a9e913f4b26ccbdd1ea1309d7faf511b37
+      original_sha256: df0b928a7100e0328d6c6d3338cd468dba7327f10e6fe08708a6c8829c621c06
+      version: oss-ai-policies/clean-markdown-v1
+    entity: DayuanJiang/next-ai-draw-io
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.338937+00:00'
+      id: corpus-243-purpose
+      original_file_sha256: df0b928a7100e0328d6c6d3338cd468dba7327f10e6fe08708a6c8829c621c06
+      path: analysis/corpus-assessment/sources/corpus-243-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-243-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/DayuanJiang/next-ai-draw-io/4b072283202d3fe4869acd847ee897ad1165d73d/README.md
+      role: purpose_statement_candidate
+      sha256: df0b928a7100e0328d6c6d3338cd468dba7327f10e6fe08708a6c8829c621c06
+      url: https://github.com/DayuanJiang/next-ai-draw-io/blob/4b072283202d3fe4869acd847ee897ad1165d73d/README.md
+      version: 4b072283202d3fe4869acd847ee897ad1165d73d
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: df0b928a7100e0328d6c6d3338cd468dba7327f10e6fe08708a6c8829c621c06
+  mediapath: /docs/DayuanJiang__next-ai-draw-io--purpose_statement_candidate--df0b928a7100.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    DayuanJiang/next-ai-draw-io\",\n  \"text_sha256\": \"df0b928a7100e0328d6c6d3338cd468dba7327f10e6fe08708a6c8829c621c06\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-243-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"df0b928a7100e0328d6c6d3338cd468dba7327f10e6fe08708a6c8829c621c06\",\n    \
+    \  \"id\": \"corpus-243-purpose\",\n      \"url\": \"https://github.com/DayuanJiang/next-ai-draw-io/blob/4b072283202d3fe4869acd847ee897ad1165d73d/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/DayuanJiang/next-ai-draw-io/4b072283202d3fe4869acd847ee897ad1165d73d/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.338937+00:00\",\n      \"version\"\
+    : \"4b072283202d3fe4869acd847ee897ad1165d73d\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-243-purpose.raw.md\"\
+    ,\n      \"sha256\": \"df0b928a7100e0328d6c6d3338cd468dba7327f10e6fe08708a6c8829c621c06\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"df0b928a7100e0328d6c6d3338cd468dba7327f10e6fe08708a6c8829c621c06\"\
+    ,\n    \"converted_sha256\": \"111e89b0de79423c9a885b336249d2a9e913f4b26ccbdd1ea1309d7faf511b37\"\
+    \n  }\n}"
+  name: DayuanJiang__next-ai-draw-io--purpose_statement_candidate--df0b928a7100.md
+  owner: NicolasH
+  risid: null
+name: DayuanJiang__next-ai-draw-io--purpose_statement_candidate--df0b928a7100.md
+path: corpus/qda-case-243/565.txt

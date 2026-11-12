@@ -1,0 +1,43 @@
+hash: 37fd24f379192f24cf3946516e783b49398c86994a058fb1a64a27fbe3b64c0e
+id: qda-source-257@qda-case-235
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 235
+    date: '2026-11-05 22:19:55'
+    fid: 257
+    id: 256
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4771
+  content_sha256: 37fd24f379192f24cf3946516e783b49398c86994a058fb1a64a27fbe3b64c0e
+  date: '2026-11-05 22:19:55'
+  id: 257
+  import_metadata:
+    entity: wavetermdev/waveterm
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 37fd24f379192f24cf3946516e783b49398c86994a058fb1a64a27fbe3b64c0e
+      path: data/281/policies/wavetermdev/waveterm/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/wavetermdev/waveterm/blob/c99022c15bd1f17273728e728a61743e690d6423/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 37fd24f379192f24cf3946516e783b49398c86994a058fb1a64a27fbe3b64c0e
+  mediapath: /docs/wavetermdev__waveterm--contributing--37fd24f37919.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    wavetermdev/waveterm\",\n  \"text_sha256\": \"37fd24f379192f24cf3946516e783b49398c86994a058fb1a64a27fbe3b64c0e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/wavetermdev/waveterm/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"37fd24f379192f24cf3946516e783b49398c86994a058fb1a64a27fbe3b64c0e\"\
+    ,\n      \"source_url_cell\": \"https://github.com/wavetermdev/waveterm/blob/c99022c15bd1f17273728e728a61743e690d6423/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: wavetermdev__waveterm--contributing--37fd24f37919.md
+  owner: NicolasH
+  risid: null
+name: wavetermdev__waveterm--contributing--37fd24f37919.md
+path: corpus/qda-case-235/257.txt

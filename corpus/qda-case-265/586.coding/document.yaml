@@ -1,0 +1,58 @@
+hash: 236d46c6b7196927327083b5f08ddcca7fc162283e2e35c925efbb4d91650466
+id: qda-source-586@qda-case-265
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 265
+    date: '2026-11-05 22:19:55'
+    fid: 586
+    id: 586
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12739
+  content_sha256: 236d46c6b7196927327083b5f08ddcca7fc162283e2e35c925efbb4d91650466
+  date: '2026-11-05 22:19:55'
+  id: 586
+  import_metadata:
+    conversion:
+      converted_sha256: 236d46c6b7196927327083b5f08ddcca7fc162283e2e35c925efbb4d91650466
+      original_sha256: cada2d22c597b1f6a4e483dab1662c9697bdc09fdc39cc116e59ae3039eb36e5
+      version: oss-ai-policies/clean-markdown-v1
+    entity: gradio-app/gradio
+    provenance:
+    - accessed_at: '2026-11-05T19:12:15.797322+00:00'
+      id: corpus-265-purpose
+      original_file_sha256: cada2d22c597b1f6a4e483dab1662c9697bdc09fdc39cc116e59ae3039eb36e5
+      path: analysis/corpus-assessment/sources/corpus-265-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-265-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/gradio-app/gradio/ec3c6735a1df6824fe9d4cd9938ef8d0fbf41fc8/README.md
+      role: purpose_statement_candidate
+      sha256: cada2d22c597b1f6a4e483dab1662c9697bdc09fdc39cc116e59ae3039eb36e5
+      url: https://github.com/gradio-app/gradio/blob/ec3c6735a1df6824fe9d4cd9938ef8d0fbf41fc8/README.md
+      version: ec3c6735a1df6824fe9d4cd9938ef8d0fbf41fc8
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: cada2d22c597b1f6a4e483dab1662c9697bdc09fdc39cc116e59ae3039eb36e5
+  mediapath: /docs/gradio-app__gradio--purpose_statement_candidate--cada2d22c597.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    gradio-app/gradio\",\n  \"text_sha256\": \"cada2d22c597b1f6a4e483dab1662c9697bdc09fdc39cc116e59ae3039eb36e5\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-265-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"cada2d22c597b1f6a4e483dab1662c9697bdc09fdc39cc116e59ae3039eb36e5\",\n    \
+    \  \"id\": \"corpus-265-purpose\",\n      \"url\": \"https://github.com/gradio-app/gradio/blob/ec3c6735a1df6824fe9d4cd9938ef8d0fbf41fc8/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/gradio-app/gradio/ec3c6735a1df6824fe9d4cd9938ef8d0fbf41fc8/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:15.797322+00:00\",\n      \"version\"\
+    : \"ec3c6735a1df6824fe9d4cd9938ef8d0fbf41fc8\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-265-purpose.raw.md\"\
+    ,\n      \"sha256\": \"cada2d22c597b1f6a4e483dab1662c9697bdc09fdc39cc116e59ae3039eb36e5\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"cada2d22c597b1f6a4e483dab1662c9697bdc09fdc39cc116e59ae3039eb36e5\"\
+    ,\n    \"converted_sha256\": \"236d46c6b7196927327083b5f08ddcca7fc162283e2e35c925efbb4d91650466\"\
+    \n  }\n}"
+  name: gradio-app__gradio--purpose_statement_candidate--cada2d22c597.md
+  owner: NicolasH
+  risid: null
+name: gradio-app__gradio--purpose_statement_candidate--cada2d22c597.md
+path: corpus/qda-case-265/586.txt

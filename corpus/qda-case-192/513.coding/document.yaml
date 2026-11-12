@@ -1,0 +1,58 @@
+hash: 9a25bb886b120a8416c2b1de1633eb0cb20da372867ce13b222b46442af8d1eb
+id: qda-source-513@qda-case-192
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 192
+    date: '2026-11-05 22:19:55'
+    fid: 513
+    id: 513
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 177586
+  content_sha256: 9a25bb886b120a8416c2b1de1633eb0cb20da372867ce13b222b46442af8d1eb
+  date: '2026-11-05 22:19:55'
+  id: 513
+  import_metadata:
+    conversion:
+      converted_sha256: 9a25bb886b120a8416c2b1de1633eb0cb20da372867ce13b222b46442af8d1eb
+      original_sha256: e2cba02409fcbeee8008ccabae078b026e903f8eddd0980e9371848ba36053cd
+      version: oss-ai-policies/clean-markdown-v1
+    entity: yt-dlp/yt-dlp
+    provenance:
+    - accessed_at: '2026-11-05T19:12:07.908600+00:00'
+      id: corpus-192-purpose
+      original_file_sha256: e2cba02409fcbeee8008ccabae078b026e903f8eddd0980e9371848ba36053cd
+      path: analysis/corpus-assessment/sources/corpus-192-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-192-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/yt-dlp/yt-dlp/aefce1eea4d0b6bab1ec2bd3beff09bff91a39c8/README.md
+      role: purpose_statement_candidate
+      sha256: e2cba02409fcbeee8008ccabae078b026e903f8eddd0980e9371848ba36053cd
+      url: https://github.com/yt-dlp/yt-dlp/blob/aefce1eea4d0b6bab1ec2bd3beff09bff91a39c8/README.md
+      version: aefce1eea4d0b6bab1ec2bd3beff09bff91a39c8
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e2cba02409fcbeee8008ccabae078b026e903f8eddd0980e9371848ba36053cd
+  mediapath: /docs/yt-dlp__yt-dlp--purpose_statement_candidate--e2cba02409fc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    yt-dlp/yt-dlp\",\n  \"text_sha256\": \"e2cba02409fcbeee8008ccabae078b026e903f8eddd0980e9371848ba36053cd\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-192-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e2cba02409fcbeee8008ccabae078b026e903f8eddd0980e9371848ba36053cd\",\n    \
+    \  \"id\": \"corpus-192-purpose\",\n      \"url\": \"https://github.com/yt-dlp/yt-dlp/blob/aefce1eea4d0b6bab1ec2bd3beff09bff91a39c8/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/yt-dlp/yt-dlp/aefce1eea4d0b6bab1ec2bd3beff09bff91a39c8/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:07.908600+00:00\",\n      \"version\"\
+    : \"aefce1eea4d0b6bab1ec2bd3beff09bff91a39c8\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-192-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e2cba02409fcbeee8008ccabae078b026e903f8eddd0980e9371848ba36053cd\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e2cba02409fcbeee8008ccabae078b026e903f8eddd0980e9371848ba36053cd\"\
+    ,\n    \"converted_sha256\": \"9a25bb886b120a8416c2b1de1633eb0cb20da372867ce13b222b46442af8d1eb\"\
+    \n  }\n}"
+  name: yt-dlp__yt-dlp--purpose_statement_candidate--e2cba02409fc.md
+  owner: NicolasH
+  risid: null
+name: yt-dlp__yt-dlp--purpose_statement_candidate--e2cba02409fc.md
+path: corpus/qda-case-192/513.txt

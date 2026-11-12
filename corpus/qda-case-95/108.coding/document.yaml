@@ -1,0 +1,43 @@
+hash: 1e6722664dcbecb673acd4e908804d32df2aba14d7c1797c83c891c2838ea30d
+id: qda-source-108@qda-case-95
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 95
+    date: '2026-11-05 22:19:55'
+    fid: 108
+    id: 107
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4718
+  content_sha256: 1e6722664dcbecb673acd4e908804d32df2aba14d7c1797c83c891c2838ea30d
+  date: '2026-11-05 22:19:55'
+  id: 108
+  import_metadata:
+    entity: tracel-ai/burn
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 1e6722664dcbecb673acd4e908804d32df2aba14d7c1797c83c891c2838ea30d
+      path: data/281/policies/tracel-ai/burn/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/tracel-ai/burn/blob/bd6e8fa2f23c2ecea1044af149bdc9e698a0848d/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 1e6722664dcbecb673acd4e908804d32df2aba14d7c1797c83c891c2838ea30d
+  mediapath: /docs/tracel-ai__burn--contributing--1e6722664dcb.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    tracel-ai/burn\",\n  \"text_sha256\": \"1e6722664dcbecb673acd4e908804d32df2aba14d7c1797c83c891c2838ea30d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/tracel-ai/burn/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"1e6722664dcbecb673acd4e908804d32df2aba14d7c1797c83c891c2838ea30d\"\
+    ,\n      \"source_url_cell\": \"https://github.com/tracel-ai/burn/blob/bd6e8fa2f23c2ecea1044af149bdc9e698a0848d/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: tracel-ai__burn--contributing--1e6722664dcb.md
+  owner: NicolasH
+  risid: null
+name: tracel-ai__burn--contributing--1e6722664dcb.md
+path: corpus/qda-case-95/108.txt

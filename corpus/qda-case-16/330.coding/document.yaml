@@ -1,0 +1,58 @@
+hash: b46b27424e1feecf2ee282b08c9f14b802ca0adb70239998f94af2a021186bfa
+id: qda-source-330@qda-case-16
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 16
+    date: '2026-11-05 22:19:55'
+    fid: 330
+    id: 330
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8707
+  content_sha256: b46b27424e1feecf2ee282b08c9f14b802ca0adb70239998f94af2a021186bfa
+  date: '2026-11-05 22:19:55'
+  id: 330
+  import_metadata:
+    conversion:
+      converted_sha256: b46b27424e1feecf2ee282b08c9f14b802ca0adb70239998f94af2a021186bfa
+      original_sha256: 3aca1d5b8a910e156a30473c4c81c3809213fdece35f9095dee522d61623426f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: diesel-rs/diesel
+    provenance:
+    - accessed_at: '2026-11-05T19:19:40.790891+00:00'
+      id: corpus-016-followup
+      original_file_sha256: 3aca1d5b8a910e156a30473c4c81c3809213fdece35f9095dee522d61623426f
+      path: analysis/corpus-assessment/sources/corpus-016-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-016-followup.html
+      resolved_url: https://nlnet.nl/foundation/policies/generativeAI/2.0/
+      role: supplementary_policy
+      sha256: 4b5006a06ea8cbf962ac416c9efbb808efc9abf50f2dd71177091551430afc87
+      url: https://nlnet.nl/foundation/policies/generativeAI/2.0
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 3aca1d5b8a910e156a30473c4c81c3809213fdece35f9095dee522d61623426f
+  mediapath: /docs/diesel-rs__diesel--supplementary_policy--3aca1d5b8a91.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    diesel-rs/diesel\",\n  \"text_sha256\": \"3aca1d5b8a910e156a30473c4c81c3809213fdece35f9095dee522d61623426f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-016-followup.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"3aca1d5b8a910e156a30473c4c81c3809213fdece35f9095dee522d61623426f\",\n    \
+    \  \"id\": \"corpus-016-followup\",\n      \"url\": \"https://nlnet.nl/foundation/policies/generativeAI/2.0\"\
+    ,\n      \"resolved_url\": \"https://nlnet.nl/foundation/policies/generativeAI/2.0/\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:19:40.790891+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-016-followup.html\"\
+    ,\n      \"sha256\": \"4b5006a06ea8cbf962ac416c9efbb808efc9abf50f2dd71177091551430afc87\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"3aca1d5b8a910e156a30473c4c81c3809213fdece35f9095dee522d61623426f\"\
+    ,\n    \"converted_sha256\": \"b46b27424e1feecf2ee282b08c9f14b802ca0adb70239998f94af2a021186bfa\"\
+    \n  }\n}"
+  name: diesel-rs__diesel--supplementary_policy--3aca1d5b8a91.md
+  owner: NicolasH
+  risid: null
+name: diesel-rs__diesel--supplementary_policy--3aca1d5b8a91.md
+path: corpus/qda-case-16/330.txt

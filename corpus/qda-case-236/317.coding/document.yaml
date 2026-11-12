@@ -1,0 +1,58 @@
+hash: 6023060e3bcb0bac435a83043cd288e28f05b72c1a1d980735d879a9c8f9f750
+id: qda-source-317@qda-case-236
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 236
+    date: '2026-11-05 22:19:55'
+    fid: 317
+    id: 317
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 35597
+  content_sha256: 6023060e3bcb0bac435a83043cd288e28f05b72c1a1d980735d879a9c8f9f750
+  date: '2026-11-05 22:19:55'
+  id: 317
+  import_metadata:
+    conversion:
+      converted_sha256: 6023060e3bcb0bac435a83043cd288e28f05b72c1a1d980735d879a9c8f9f750
+      original_sha256: a7afacb8e5590f62e8ff892e516a8cf0672811655019a791112fdbf9c7cdd27e
+      version: oss-ai-policies/clean-markdown-v1
+    entity: scalar/scalar
+    provenance:
+    - accessed_at: '2026-11-05T16:00:21.672841+00:00'
+      id: 13-purpose
+      original_file_sha256: a7afacb8e5590f62e8ff892e516a8cf0672811655019a791112fdbf9c7cdd27e
+      path: analysis/feasibility-pilot/sources/13-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/13-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/scalar/scalar/27b2b9f37411836cb2c863a50b6bd19e160ec898/README.md
+      role: purpose_statement_candidate
+      sha256: a7afacb8e5590f62e8ff892e516a8cf0672811655019a791112fdbf9c7cdd27e
+      url: https://github.com/scalar/scalar/blob/27b2b9f37411836cb2c863a50b6bd19e160ec898/README.md
+      version: 27b2b9f37411836cb2c863a50b6bd19e160ec898
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: a7afacb8e5590f62e8ff892e516a8cf0672811655019a791112fdbf9c7cdd27e
+  mediapath: /docs/scalar__scalar--purpose_statement_candidate--a7afacb8e559.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    scalar/scalar\",\n  \"text_sha256\": \"a7afacb8e5590f62e8ff892e516a8cf0672811655019a791112fdbf9c7cdd27e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/13-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"a7afacb8e5590f62e8ff892e516a8cf0672811655019a791112fdbf9c7cdd27e\",\n    \
+    \  \"id\": \"13-purpose\",\n      \"url\": \"https://github.com/scalar/scalar/blob/27b2b9f37411836cb2c863a50b6bd19e160ec898/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/scalar/scalar/27b2b9f37411836cb2c863a50b6bd19e160ec898/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:21.672841+00:00\",\n      \"version\"\
+    : \"27b2b9f37411836cb2c863a50b6bd19e160ec898\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/13-purpose.raw.md\"\
+    ,\n      \"sha256\": \"a7afacb8e5590f62e8ff892e516a8cf0672811655019a791112fdbf9c7cdd27e\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"a7afacb8e5590f62e8ff892e516a8cf0672811655019a791112fdbf9c7cdd27e\"\
+    ,\n    \"converted_sha256\": \"6023060e3bcb0bac435a83043cd288e28f05b72c1a1d980735d879a9c8f9f750\"\
+    \n  }\n}"
+  name: scalar__scalar--purpose_statement_candidate--a7afacb8e559.md
+  owner: NicolasH
+  risid: null
+name: scalar__scalar--purpose_statement_candidate--a7afacb8e559.md
+path: corpus/qda-case-236/317.txt

@@ -1,0 +1,58 @@
+hash: de9a5e5f80a5444fa3a83cad766d0325ac33e5ce7f18451f64f0a4709e9e2f2e
+id: qda-source-339@qda-case-25
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 25
+    date: '2026-11-05 22:19:55'
+    fid: 339
+    id: 339
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 14453
+  content_sha256: de9a5e5f80a5444fa3a83cad766d0325ac33e5ce7f18451f64f0a4709e9e2f2e
+  date: '2026-11-05 22:19:55'
+  id: 339
+  import_metadata:
+    conversion:
+      converted_sha256: de9a5e5f80a5444fa3a83cad766d0325ac33e5ce7f18451f64f0a4709e9e2f2e
+      original_sha256: 494ca680332f964fb2fe4faa5f0588cb050ec7f1f89a3c2c7a66f47d0b298dd0
+      version: oss-ai-policies/clean-markdown-v1
+    entity: apache/kafka
+    provenance:
+    - accessed_at: '2026-11-05T19:11:50.532577+00:00'
+      id: corpus-025-purpose
+      original_file_sha256: 494ca680332f964fb2fe4faa5f0588cb050ec7f1f89a3c2c7a66f47d0b298dd0
+      path: analysis/corpus-assessment/sources/corpus-025-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-025-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/apache/kafka/75e66426bf533b97898e7c558bd96712dd61c440/README.md
+      role: purpose_statement_candidate
+      sha256: 494ca680332f964fb2fe4faa5f0588cb050ec7f1f89a3c2c7a66f47d0b298dd0
+      url: https://github.com/apache/kafka/blob/75e66426bf533b97898e7c558bd96712dd61c440/README.md
+      version: 75e66426bf533b97898e7c558bd96712dd61c440
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 494ca680332f964fb2fe4faa5f0588cb050ec7f1f89a3c2c7a66f47d0b298dd0
+  mediapath: /docs/apache__kafka--purpose_statement_candidate--494ca680332f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    apache/kafka\",\n  \"text_sha256\": \"494ca680332f964fb2fe4faa5f0588cb050ec7f1f89a3c2c7a66f47d0b298dd0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-025-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"494ca680332f964fb2fe4faa5f0588cb050ec7f1f89a3c2c7a66f47d0b298dd0\",\n    \
+    \  \"id\": \"corpus-025-purpose\",\n      \"url\": \"https://github.com/apache/kafka/blob/75e66426bf533b97898e7c558bd96712dd61c440/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/apache/kafka/75e66426bf533b97898e7c558bd96712dd61c440/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:50.532577+00:00\",\n      \"version\"\
+    : \"75e66426bf533b97898e7c558bd96712dd61c440\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-025-purpose.raw.md\"\
+    ,\n      \"sha256\": \"494ca680332f964fb2fe4faa5f0588cb050ec7f1f89a3c2c7a66f47d0b298dd0\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"494ca680332f964fb2fe4faa5f0588cb050ec7f1f89a3c2c7a66f47d0b298dd0\"\
+    ,\n    \"converted_sha256\": \"de9a5e5f80a5444fa3a83cad766d0325ac33e5ce7f18451f64f0a4709e9e2f2e\"\
+    \n  }\n}"
+  name: apache__kafka--purpose_statement_candidate--494ca680332f.md
+  owner: NicolasH
+  risid: null
+name: apache__kafka--purpose_statement_candidate--494ca680332f.md
+path: corpus/qda-case-25/339.txt

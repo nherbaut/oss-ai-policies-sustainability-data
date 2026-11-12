@@ -1,0 +1,58 @@
+hash: c4f63b648bc3f6730e58ad1202dc2502d9992bf2c40a7b8c9382d31dd121a9c1
+id: qda-source-438@qda-case-115
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 115
+    date: '2026-11-05 22:19:55'
+    fid: 438
+    id: 438
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5060
+  content_sha256: c4f63b648bc3f6730e58ad1202dc2502d9992bf2c40a7b8c9382d31dd121a9c1
+  date: '2026-11-05 22:19:55'
+  id: 438
+  import_metadata:
+    conversion:
+      converted_sha256: c4f63b648bc3f6730e58ad1202dc2502d9992bf2c40a7b8c9382d31dd121a9c1
+      original_sha256: 10874bf65319af3d6afc596865fa39c0b32b5cbc547b0fba98016f7a5276d445
+      version: oss-ai-policies/clean-markdown-v1
+    entity: clickhouse/clickhouse
+    provenance:
+    - accessed_at: '2026-11-05T19:12:00.382342+00:00'
+      id: corpus-115-purpose
+      original_file_sha256: 10874bf65319af3d6afc596865fa39c0b32b5cbc547b0fba98016f7a5276d445
+      path: analysis/corpus-assessment/sources/corpus-115-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-115-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/clickhouse/clickhouse/fbe8cc8ffada1a7e28d419909a1c723f317f21f1/README.md
+      role: purpose_statement_candidate
+      sha256: 10874bf65319af3d6afc596865fa39c0b32b5cbc547b0fba98016f7a5276d445
+      url: https://github.com/clickhouse/clickhouse/blob/fbe8cc8ffada1a7e28d419909a1c723f317f21f1/README.md
+      version: fbe8cc8ffada1a7e28d419909a1c723f317f21f1
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 10874bf65319af3d6afc596865fa39c0b32b5cbc547b0fba98016f7a5276d445
+  mediapath: /docs/clickhouse__clickhouse--purpose_statement_candidate--10874bf65319.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    clickhouse/clickhouse\",\n  \"text_sha256\": \"10874bf65319af3d6afc596865fa39c0b32b5cbc547b0fba98016f7a5276d445\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-115-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"10874bf65319af3d6afc596865fa39c0b32b5cbc547b0fba98016f7a5276d445\",\n    \
+    \  \"id\": \"corpus-115-purpose\",\n      \"url\": \"https://github.com/clickhouse/clickhouse/blob/fbe8cc8ffada1a7e28d419909a1c723f317f21f1/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/clickhouse/clickhouse/fbe8cc8ffada1a7e28d419909a1c723f317f21f1/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:00.382342+00:00\",\n      \"version\"\
+    : \"fbe8cc8ffada1a7e28d419909a1c723f317f21f1\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-115-purpose.raw.md\"\
+    ,\n      \"sha256\": \"10874bf65319af3d6afc596865fa39c0b32b5cbc547b0fba98016f7a5276d445\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"10874bf65319af3d6afc596865fa39c0b32b5cbc547b0fba98016f7a5276d445\"\
+    ,\n    \"converted_sha256\": \"c4f63b648bc3f6730e58ad1202dc2502d9992bf2c40a7b8c9382d31dd121a9c1\"\
+    \n  }\n}"
+  name: clickhouse__clickhouse--purpose_statement_candidate--10874bf65319.md
+  owner: NicolasH
+  risid: null
+name: clickhouse__clickhouse--purpose_statement_candidate--10874bf65319.md
+path: corpus/qda-case-115/438.txt

@@ -1,0 +1,58 @@
+hash: e2f47e89ed395dc9bff3ebcb3973f8f17b5353f5a0341108b169b25721499690
+id: qda-source-347@qda-case-33
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 33
+    date: '2026-11-05 22:19:55'
+    fid: 347
+    id: 347
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 21730
+  content_sha256: e2f47e89ed395dc9bff3ebcb3973f8f17b5353f5a0341108b169b25721499690
+  date: '2026-11-05 22:19:55'
+  id: 347
+  import_metadata:
+    conversion:
+      converted_sha256: e2f47e89ed395dc9bff3ebcb3973f8f17b5353f5a0341108b169b25721499690
+      original_sha256: f8f0141a033083b0f6c60feeff6bcb6d0c9b67ced499220b53f881cbfa068bfa
+      version: oss-ai-policies/clean-markdown-v1
+    entity: mudler/LocalAI
+    provenance:
+    - accessed_at: '2026-11-05T19:11:51.633801+00:00'
+      id: corpus-033-purpose
+      original_file_sha256: f8f0141a033083b0f6c60feeff6bcb6d0c9b67ced499220b53f881cbfa068bfa
+      path: analysis/corpus-assessment/sources/corpus-033-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-033-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/mudler/LocalAI/a23fcc90c36b49439a1a3bd785f8854c1816021e/README.md
+      role: purpose_statement_candidate
+      sha256: f8f0141a033083b0f6c60feeff6bcb6d0c9b67ced499220b53f881cbfa068bfa
+      url: https://github.com/mudler/LocalAI/blob/a23fcc90c36b49439a1a3bd785f8854c1816021e/README.md
+      version: a23fcc90c36b49439a1a3bd785f8854c1816021e
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: f8f0141a033083b0f6c60feeff6bcb6d0c9b67ced499220b53f881cbfa068bfa
+  mediapath: /docs/mudler__LocalAI--purpose_statement_candidate--f8f0141a0330.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    mudler/LocalAI\",\n  \"text_sha256\": \"f8f0141a033083b0f6c60feeff6bcb6d0c9b67ced499220b53f881cbfa068bfa\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-033-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"f8f0141a033083b0f6c60feeff6bcb6d0c9b67ced499220b53f881cbfa068bfa\",\n    \
+    \  \"id\": \"corpus-033-purpose\",\n      \"url\": \"https://github.com/mudler/LocalAI/blob/a23fcc90c36b49439a1a3bd785f8854c1816021e/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/mudler/LocalAI/a23fcc90c36b49439a1a3bd785f8854c1816021e/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:51.633801+00:00\",\n      \"version\"\
+    : \"a23fcc90c36b49439a1a3bd785f8854c1816021e\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-033-purpose.raw.md\"\
+    ,\n      \"sha256\": \"f8f0141a033083b0f6c60feeff6bcb6d0c9b67ced499220b53f881cbfa068bfa\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"f8f0141a033083b0f6c60feeff6bcb6d0c9b67ced499220b53f881cbfa068bfa\"\
+    ,\n    \"converted_sha256\": \"e2f47e89ed395dc9bff3ebcb3973f8f17b5353f5a0341108b169b25721499690\"\
+    \n  }\n}"
+  name: mudler__LocalAI--purpose_statement_candidate--f8f0141a0330.md
+  owner: NicolasH
+  risid: null
+name: mudler__LocalAI--purpose_statement_candidate--f8f0141a0330.md
+path: corpus/qda-case-33/347.txt

@@ -1,0 +1,58 @@
+hash: 55a60944b9ba305cd5248770e0c5a8568118bf355bfe57f723a1d743b7cb10f7
+id: qda-source-585@qda-case-264
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 264
+    date: '2026-11-05 22:19:55'
+    fid: 585
+    id: 585
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5026
+  content_sha256: 55a60944b9ba305cd5248770e0c5a8568118bf355bfe57f723a1d743b7cb10f7
+  date: '2026-11-05 22:19:55'
+  id: 585
+  import_metadata:
+    conversion:
+      converted_sha256: 55a60944b9ba305cd5248770e0c5a8568118bf355bfe57f723a1d743b7cb10f7
+      original_sha256: cd67d01f164a3f2b3ba1a8c43700a7154140a10f6fdf76d7e75cba5dc718fa2b
+      version: oss-ai-policies/clean-markdown-v1
+    entity: immich-app/immich
+    provenance:
+    - accessed_at: '2026-11-05T19:12:15.775575+00:00'
+      id: corpus-264-purpose
+      original_file_sha256: cd67d01f164a3f2b3ba1a8c43700a7154140a10f6fdf76d7e75cba5dc718fa2b
+      path: analysis/corpus-assessment/sources/corpus-264-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-264-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/immich-app/immich/d8ed7d7bb9d5a816ba55abda0123cfb543b04050/README.md
+      role: purpose_statement_candidate
+      sha256: cd67d01f164a3f2b3ba1a8c43700a7154140a10f6fdf76d7e75cba5dc718fa2b
+      url: https://github.com/immich-app/immich/blob/d8ed7d7bb9d5a816ba55abda0123cfb543b04050/README.md
+      version: d8ed7d7bb9d5a816ba55abda0123cfb543b04050
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: cd67d01f164a3f2b3ba1a8c43700a7154140a10f6fdf76d7e75cba5dc718fa2b
+  mediapath: /docs/immich-app__immich--purpose_statement_candidate--cd67d01f164a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    immich-app/immich\",\n  \"text_sha256\": \"cd67d01f164a3f2b3ba1a8c43700a7154140a10f6fdf76d7e75cba5dc718fa2b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-264-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"cd67d01f164a3f2b3ba1a8c43700a7154140a10f6fdf76d7e75cba5dc718fa2b\",\n    \
+    \  \"id\": \"corpus-264-purpose\",\n      \"url\": \"https://github.com/immich-app/immich/blob/d8ed7d7bb9d5a816ba55abda0123cfb543b04050/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/immich-app/immich/d8ed7d7bb9d5a816ba55abda0123cfb543b04050/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:15.775575+00:00\",\n      \"version\"\
+    : \"d8ed7d7bb9d5a816ba55abda0123cfb543b04050\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-264-purpose.raw.md\"\
+    ,\n      \"sha256\": \"cd67d01f164a3f2b3ba1a8c43700a7154140a10f6fdf76d7e75cba5dc718fa2b\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"cd67d01f164a3f2b3ba1a8c43700a7154140a10f6fdf76d7e75cba5dc718fa2b\"\
+    ,\n    \"converted_sha256\": \"55a60944b9ba305cd5248770e0c5a8568118bf355bfe57f723a1d743b7cb10f7\"\
+    \n  }\n}"
+  name: immich-app__immich--purpose_statement_candidate--cd67d01f164a.md
+  owner: NicolasH
+  risid: null
+name: immich-app__immich--purpose_statement_candidate--cd67d01f164a.md
+path: corpus/qda-case-264/585.txt

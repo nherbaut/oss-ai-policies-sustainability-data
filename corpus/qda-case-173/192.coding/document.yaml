@@ -1,0 +1,43 @@
+hash: f5f65794852960c27687e4ee83e22c45c1483013f7a637726af16584ffe3c49f
+id: qda-source-192@qda-case-173
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 173
+    date: '2026-11-05 22:19:55'
+    fid: 192
+    id: 191
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3455
+  content_sha256: f5f65794852960c27687e4ee83e22c45c1483013f7a637726af16584ffe3c49f
+  date: '2026-11-05 22:19:55'
+  id: 192
+  import_metadata:
+    entity: nuitka/nuitka
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: f5f65794852960c27687e4ee83e22c45c1483013f7a637726af16584ffe3c49f
+      path: data/281/policies/nuitka/nuitka/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/nuitka/nuitka/blob/8b0d96cf424fbc3902a3d93cce4fdcb855d347f4/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: f5f65794852960c27687e4ee83e22c45c1483013f7a637726af16584ffe3c49f
+  mediapath: /docs/nuitka__nuitka--contributing--f5f657948529.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    nuitka/nuitka\",\n  \"text_sha256\": \"f5f65794852960c27687e4ee83e22c45c1483013f7a637726af16584ffe3c49f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/nuitka/nuitka/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"f5f65794852960c27687e4ee83e22c45c1483013f7a637726af16584ffe3c49f\"\
+    ,\n      \"source_url_cell\": \"https://github.com/nuitka/nuitka/blob/8b0d96cf424fbc3902a3d93cce4fdcb855d347f4/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: nuitka__nuitka--contributing--f5f657948529.md
+  owner: NicolasH
+  risid: null
+name: nuitka__nuitka--contributing--f5f657948529.md
+path: corpus/qda-case-173/192.txt

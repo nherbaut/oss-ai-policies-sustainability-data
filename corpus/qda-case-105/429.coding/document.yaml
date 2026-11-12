@@ -1,0 +1,58 @@
+hash: 2feabdad6ef13615105d259ff884c787a6c8704f21c927bc578d3d48f71569ad
+id: qda-source-429@qda-case-105
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 105
+    date: '2026-11-05 22:19:55'
+    fid: 429
+    id: 429
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9214
+  content_sha256: 2feabdad6ef13615105d259ff884c787a6c8704f21c927bc578d3d48f71569ad
+  date: '2026-11-05 22:19:55'
+  id: 429
+  import_metadata:
+    conversion:
+      converted_sha256: 2feabdad6ef13615105d259ff884c787a6c8704f21c927bc578d3d48f71569ad
+      original_sha256: 8cdc170ad5a8382a836e026cfc7a1f9f898f121a6da0d32e10cffa5bec8ff7ea
+      version: oss-ai-policies/clean-markdown-v1
+    entity: agentscope-ai/agentscope
+    provenance:
+    - accessed_at: '2026-11-05T19:11:59.378158+00:00'
+      id: corpus-105-purpose
+      original_file_sha256: 8cdc170ad5a8382a836e026cfc7a1f9f898f121a6da0d32e10cffa5bec8ff7ea
+      path: analysis/corpus-assessment/sources/corpus-105-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-105-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/agentscope-ai/agentscope/89ce2cf6666ec6f699d55f3e930e7582e85bc8a9/README.md
+      role: purpose_statement_candidate
+      sha256: 8cdc170ad5a8382a836e026cfc7a1f9f898f121a6da0d32e10cffa5bec8ff7ea
+      url: https://github.com/agentscope-ai/agentscope/blob/89ce2cf6666ec6f699d55f3e930e7582e85bc8a9/README.md
+      version: 89ce2cf6666ec6f699d55f3e930e7582e85bc8a9
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 8cdc170ad5a8382a836e026cfc7a1f9f898f121a6da0d32e10cffa5bec8ff7ea
+  mediapath: /docs/agentscope-ai__agentscope--purpose_statement_candidate--8cdc170ad5a8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    agentscope-ai/agentscope\",\n  \"text_sha256\": \"8cdc170ad5a8382a836e026cfc7a1f9f898f121a6da0d32e10cffa5bec8ff7ea\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-105-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"8cdc170ad5a8382a836e026cfc7a1f9f898f121a6da0d32e10cffa5bec8ff7ea\",\n    \
+    \  \"id\": \"corpus-105-purpose\",\n      \"url\": \"https://github.com/agentscope-ai/agentscope/blob/89ce2cf6666ec6f699d55f3e930e7582e85bc8a9/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/agentscope-ai/agentscope/89ce2cf6666ec6f699d55f3e930e7582e85bc8a9/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:59.378158+00:00\",\n      \"version\"\
+    : \"89ce2cf6666ec6f699d55f3e930e7582e85bc8a9\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-105-purpose.raw.md\"\
+    ,\n      \"sha256\": \"8cdc170ad5a8382a836e026cfc7a1f9f898f121a6da0d32e10cffa5bec8ff7ea\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"8cdc170ad5a8382a836e026cfc7a1f9f898f121a6da0d32e10cffa5bec8ff7ea\"\
+    ,\n    \"converted_sha256\": \"2feabdad6ef13615105d259ff884c787a6c8704f21c927bc578d3d48f71569ad\"\
+    \n  }\n}"
+  name: agentscope-ai__agentscope--purpose_statement_candidate--8cdc170ad5a8.md
+  owner: NicolasH
+  risid: null
+name: agentscope-ai__agentscope--purpose_statement_candidate--8cdc170ad5a8.md
+path: corpus/qda-case-105/429.txt

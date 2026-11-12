@@ -1,0 +1,58 @@
+hash: d4a2d71068dddd8ec14879f2e23136eb13a38e20d154e9a2089fa81ac7b62720
+id: qda-source-353@qda-case-37
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 37
+    date: '2026-11-05 22:19:55'
+    fid: 353
+    id: 353
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7600
+  content_sha256: d4a2d71068dddd8ec14879f2e23136eb13a38e20d154e9a2089fa81ac7b62720
+  date: '2026-11-05 22:19:55'
+  id: 353
+  import_metadata:
+    conversion:
+      converted_sha256: d4a2d71068dddd8ec14879f2e23136eb13a38e20d154e9a2089fa81ac7b62720
+      original_sha256: 82218af890676b9a7915e7458a147b59604b3017f78100aa52ebdf92a05bde64
+      version: oss-ai-policies/clean-markdown-v1
+    entity: NLnet
+    provenance:
+    - accessed_at: '2026-11-05T19:11:52.243451+00:00'
+      id: corpus-037-purpose
+      original_file_sha256: 82218af890676b9a7915e7458a147b59604b3017f78100aa52ebdf92a05bde64
+      path: analysis/corpus-assessment/sources/corpus-037-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-037-purpose.html
+      resolved_url: https://nlnet.nl/foundation/
+      role: purpose_statement_candidate
+      sha256: 5d79a0e1c79dcbf3dd4ec02f3837679d9079f7c792f3fd26009aa1c545a0e51a
+      url: https://nlnet.nl/foundation/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 82218af890676b9a7915e7458a147b59604b3017f78100aa52ebdf92a05bde64
+  mediapath: /docs/NLnet--purpose_statement_candidate--82218af89067.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    NLnet\",\n  \"text_sha256\": \"82218af890676b9a7915e7458a147b59604b3017f78100aa52ebdf92a05bde64\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-037-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"82218af890676b9a7915e7458a147b59604b3017f78100aa52ebdf92a05bde64\",\n    \
+    \  \"id\": \"corpus-037-purpose\",\n      \"url\": \"https://nlnet.nl/foundation/\"\
+    ,\n      \"resolved_url\": \"https://nlnet.nl/foundation/\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:11:52.243451+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-037-purpose.html\",\n      \"sha256\"\
+    : \"5d79a0e1c79dcbf3dd4ec02f3837679d9079f7c792f3fd26009aa1c545a0e51a\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"82218af890676b9a7915e7458a147b59604b3017f78100aa52ebdf92a05bde64\"\
+    ,\n    \"converted_sha256\": \"d4a2d71068dddd8ec14879f2e23136eb13a38e20d154e9a2089fa81ac7b62720\"\
+    \n  }\n}"
+  name: NLnet--purpose_statement_candidate--82218af89067.md
+  owner: NicolasH
+  risid: null
+name: NLnet--purpose_statement_candidate--82218af89067.md
+path: corpus/qda-case-37/353.txt

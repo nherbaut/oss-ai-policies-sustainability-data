@@ -1,0 +1,51 @@
+hash: 2a5bf4a7ca47cb6daae8814b3d3275069a45666d9201558665e2a9fc0a022750
+id: qda-source-121@qda-case-107
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 107
+    date: '2026-11-05 22:19:55'
+    fid: 121
+    id: 120
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 20288
+  content_sha256: 2a5bf4a7ca47cb6daae8814b3d3275069a45666d9201558665e2a9fc0a022750
+  date: '2026-11-05 22:19:55'
+  id: 121
+  import_metadata:
+    conversion:
+      converted_sha256: 2a5bf4a7ca47cb6daae8814b3d3275069a45666d9201558665e2a9fc0a022750
+      original_sha256: eb97187908972754a0c1d979cfc8213a0b9609218a7f5bb9c8e880c8496185a5
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Oxide Computer (RFD 576)
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: eb97187908972754a0c1d979cfc8213a0b9609218a7f5bb9c8e880c8496185a5
+      path: data/281/policies/Oxide Computer (RFD 576)/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://rfd.shared.oxide.computer/rfd/0576
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: eb97187908972754a0c1d979cfc8213a0b9609218a7f5bb9c8e880c8496185a5
+  mediapath: /docs/Oxide__Computer__RFD__576--ai_policy--eb9718790897.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Oxide Computer (RFD 576)\",\n  \"text_sha256\": \"eb97187908972754a0c1d979cfc8213a0b9609218a7f5bb9c8e880c8496185a5\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Oxide Computer\
+    \ (RFD 576)/ai_policy.md\",\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\"\
+    : \"eb97187908972754a0c1d979cfc8213a0b9609218a7f5bb9c8e880c8496185a5\",\n    \
+    \  \"source_url_cell\": \"https://rfd.shared.oxide.computer/rfd/0576\",\n    \
+    \  \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original retrieval\
+    \ date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown for\
+    \ coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\":\
+    \ \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"eb97187908972754a0c1d979cfc8213a0b9609218a7f5bb9c8e880c8496185a5\"\
+    ,\n    \"converted_sha256\": \"2a5bf4a7ca47cb6daae8814b3d3275069a45666d9201558665e2a9fc0a022750\"\
+    \n  }\n}"
+  name: Oxide__Computer__RFD__576--ai_policy--eb9718790897.md
+  owner: NicolasH
+  risid: null
+name: Oxide__Computer__RFD__576--ai_policy--eb9718790897.md
+path: corpus/qda-case-107/121.txt

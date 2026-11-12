@@ -1,0 +1,58 @@
+hash: 9f6868427ff21117e8441b4c70f750aa8eb7e26bacfbc3019bda5dd35078bf08
+id: qda-source-321@qda-case-4
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 4
+    date: '2026-11-05 22:19:55'
+    fid: 321
+    id: 321
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 17401
+  content_sha256: 9f6868427ff21117e8441b4c70f750aa8eb7e26bacfbc3019bda5dd35078bf08
+  date: '2026-11-05 22:19:55'
+  id: 321
+  import_metadata:
+    conversion:
+      converted_sha256: 9f6868427ff21117e8441b4c70f750aa8eb7e26bacfbc3019bda5dd35078bf08
+      original_sha256: 0e03c7906e9d2c72cbc8ecbec24059c691e7a2c7ac9d20fe402d375ee22dad12
+      version: oss-ai-policies/clean-markdown-v1
+    entity: storybookjs/storybook
+    provenance:
+    - accessed_at: '2026-11-05T16:00:22.019939+00:00'
+      id: 17-purpose
+      original_file_sha256: 0e03c7906e9d2c72cbc8ecbec24059c691e7a2c7ac9d20fe402d375ee22dad12
+      path: analysis/feasibility-pilot/sources/17-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/17-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/storybookjs/storybook/5073688f5836ec16575855550ffbeb3e81ab1cf1/README.md
+      role: purpose_statement_candidate
+      sha256: 0e03c7906e9d2c72cbc8ecbec24059c691e7a2c7ac9d20fe402d375ee22dad12
+      url: https://github.com/storybookjs/storybook/blob/5073688f5836ec16575855550ffbeb3e81ab1cf1/README.md
+      version: 5073688f5836ec16575855550ffbeb3e81ab1cf1
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 0e03c7906e9d2c72cbc8ecbec24059c691e7a2c7ac9d20fe402d375ee22dad12
+  mediapath: /docs/storybookjs__storybook--purpose_statement_candidate--0e03c7906e9d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    storybookjs/storybook\",\n  \"text_sha256\": \"0e03c7906e9d2c72cbc8ecbec24059c691e7a2c7ac9d20fe402d375ee22dad12\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/17-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0e03c7906e9d2c72cbc8ecbec24059c691e7a2c7ac9d20fe402d375ee22dad12\",\n    \
+    \  \"id\": \"17-purpose\",\n      \"url\": \"https://github.com/storybookjs/storybook/blob/5073688f5836ec16575855550ffbeb3e81ab1cf1/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/storybookjs/storybook/5073688f5836ec16575855550ffbeb3e81ab1cf1/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:22.019939+00:00\",\n      \"version\"\
+    : \"5073688f5836ec16575855550ffbeb3e81ab1cf1\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/17-purpose.raw.md\"\
+    ,\n      \"sha256\": \"0e03c7906e9d2c72cbc8ecbec24059c691e7a2c7ac9d20fe402d375ee22dad12\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"0e03c7906e9d2c72cbc8ecbec24059c691e7a2c7ac9d20fe402d375ee22dad12\"\
+    ,\n    \"converted_sha256\": \"9f6868427ff21117e8441b4c70f750aa8eb7e26bacfbc3019bda5dd35078bf08\"\
+    \n  }\n}"
+  name: storybookjs__storybook--purpose_statement_candidate--0e03c7906e9d.md
+  owner: NicolasH
+  risid: null
+name: storybookjs__storybook--purpose_statement_candidate--0e03c7906e9d.md
+path: corpus/qda-case-4/321.txt

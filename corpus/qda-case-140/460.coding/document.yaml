@@ -1,0 +1,58 @@
+hash: 252ae5a73861a89c3c5190a33b0e463a9ef8919ca66e18a18f049716b88100a5
+id: qda-source-460@qda-case-140
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 140
+    date: '2026-11-05 22:19:55'
+    fid: 460
+    id: 460
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 29452
+  content_sha256: 252ae5a73861a89c3c5190a33b0e463a9ef8919ca66e18a18f049716b88100a5
+  date: '2026-11-05 22:19:55'
+  id: 460
+  import_metadata:
+    conversion:
+      converted_sha256: 252ae5a73861a89c3c5190a33b0e463a9ef8919ca66e18a18f049716b88100a5
+      original_sha256: 75e115ee77508aa3b0a2c8d5c6bccf2276b19bc7ca2bc207e5ecfd88553bcea0
+      version: oss-ai-policies/clean-markdown-v1
+    entity: winapps-org/winapps
+    provenance:
+    - accessed_at: '2026-11-05T19:12:02.296565+00:00'
+      id: corpus-140-purpose
+      original_file_sha256: 75e115ee77508aa3b0a2c8d5c6bccf2276b19bc7ca2bc207e5ecfd88553bcea0
+      path: analysis/corpus-assessment/sources/corpus-140-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-140-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/winapps-org/winapps/7f6b6abf575e3f93614aeeacb75b609372e7f1a6/README.md
+      role: purpose_statement_candidate
+      sha256: 75e115ee77508aa3b0a2c8d5c6bccf2276b19bc7ca2bc207e5ecfd88553bcea0
+      url: https://github.com/winapps-org/winapps/blob/7f6b6abf575e3f93614aeeacb75b609372e7f1a6/README.md
+      version: 7f6b6abf575e3f93614aeeacb75b609372e7f1a6
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 75e115ee77508aa3b0a2c8d5c6bccf2276b19bc7ca2bc207e5ecfd88553bcea0
+  mediapath: /docs/winapps-org__winapps--purpose_statement_candidate--75e115ee7750.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    winapps-org/winapps\",\n  \"text_sha256\": \"75e115ee77508aa3b0a2c8d5c6bccf2276b19bc7ca2bc207e5ecfd88553bcea0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-140-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"75e115ee77508aa3b0a2c8d5c6bccf2276b19bc7ca2bc207e5ecfd88553bcea0\",\n    \
+    \  \"id\": \"corpus-140-purpose\",\n      \"url\": \"https://github.com/winapps-org/winapps/blob/7f6b6abf575e3f93614aeeacb75b609372e7f1a6/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/winapps-org/winapps/7f6b6abf575e3f93614aeeacb75b609372e7f1a6/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:02.296565+00:00\",\n      \"version\"\
+    : \"7f6b6abf575e3f93614aeeacb75b609372e7f1a6\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-140-purpose.raw.md\"\
+    ,\n      \"sha256\": \"75e115ee77508aa3b0a2c8d5c6bccf2276b19bc7ca2bc207e5ecfd88553bcea0\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"75e115ee77508aa3b0a2c8d5c6bccf2276b19bc7ca2bc207e5ecfd88553bcea0\"\
+    ,\n    \"converted_sha256\": \"252ae5a73861a89c3c5190a33b0e463a9ef8919ca66e18a18f049716b88100a5\"\
+    \n  }\n}"
+  name: winapps-org__winapps--purpose_statement_candidate--75e115ee7750.md
+  owner: NicolasH
+  risid: null
+name: winapps-org__winapps--purpose_statement_candidate--75e115ee7750.md
+path: corpus/qda-case-140/460.txt

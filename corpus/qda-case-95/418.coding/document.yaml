@@ -1,0 +1,58 @@
+hash: bb0b9009f8e0ff4ebeae228b7c10ff14197ef49f9e7109a86be71ed62f1740a9
+id: qda-source-418@qda-case-95
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 95
+    date: '2026-11-05 22:19:55'
+    fid: 418
+    id: 418
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 24498
+  content_sha256: bb0b9009f8e0ff4ebeae228b7c10ff14197ef49f9e7109a86be71ed62f1740a9
+  date: '2026-11-05 22:19:55'
+  id: 418
+  import_metadata:
+    conversion:
+      converted_sha256: bb0b9009f8e0ff4ebeae228b7c10ff14197ef49f9e7109a86be71ed62f1740a9
+      original_sha256: 8d77c8895f8db2dce899925773a1890190b4a67e16ced195139984af825afbb9
+      version: oss-ai-policies/clean-markdown-v1
+    entity: tracel-ai/burn
+    provenance:
+    - accessed_at: '2026-11-05T19:11:58.322922+00:00'
+      id: corpus-095-purpose
+      original_file_sha256: 8d77c8895f8db2dce899925773a1890190b4a67e16ced195139984af825afbb9
+      path: analysis/corpus-assessment/sources/corpus-095-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-095-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/tracel-ai/burn/bd6e8fa2f23c2ecea1044af149bdc9e698a0848d/README.md
+      role: purpose_statement_candidate
+      sha256: 8d77c8895f8db2dce899925773a1890190b4a67e16ced195139984af825afbb9
+      url: https://github.com/tracel-ai/burn/blob/bd6e8fa2f23c2ecea1044af149bdc9e698a0848d/README.md
+      version: bd6e8fa2f23c2ecea1044af149bdc9e698a0848d
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 8d77c8895f8db2dce899925773a1890190b4a67e16ced195139984af825afbb9
+  mediapath: /docs/tracel-ai__burn--purpose_statement_candidate--8d77c8895f8d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    tracel-ai/burn\",\n  \"text_sha256\": \"8d77c8895f8db2dce899925773a1890190b4a67e16ced195139984af825afbb9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-095-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"8d77c8895f8db2dce899925773a1890190b4a67e16ced195139984af825afbb9\",\n    \
+    \  \"id\": \"corpus-095-purpose\",\n      \"url\": \"https://github.com/tracel-ai/burn/blob/bd6e8fa2f23c2ecea1044af149bdc9e698a0848d/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/tracel-ai/burn/bd6e8fa2f23c2ecea1044af149bdc9e698a0848d/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:58.322922+00:00\",\n      \"version\"\
+    : \"bd6e8fa2f23c2ecea1044af149bdc9e698a0848d\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-095-purpose.raw.md\"\
+    ,\n      \"sha256\": \"8d77c8895f8db2dce899925773a1890190b4a67e16ced195139984af825afbb9\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"8d77c8895f8db2dce899925773a1890190b4a67e16ced195139984af825afbb9\"\
+    ,\n    \"converted_sha256\": \"bb0b9009f8e0ff4ebeae228b7c10ff14197ef49f9e7109a86be71ed62f1740a9\"\
+    \n  }\n}"
+  name: tracel-ai__burn--purpose_statement_candidate--8d77c8895f8d.md
+  owner: NicolasH
+  risid: null
+name: tracel-ai__burn--purpose_statement_candidate--8d77c8895f8d.md
+path: corpus/qda-case-95/418.txt

@@ -1,0 +1,58 @@
+hash: dba2e469400d122f045f0f46a95e7fc1791aaacc9a339a4c859a7e7dd038ae07
+id: qda-source-533@qda-case-209
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 209
+    date: '2026-11-05 22:19:55'
+    fid: 533
+    id: 533
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 649
+  content_sha256: dba2e469400d122f045f0f46a95e7fc1791aaacc9a339a4c859a7e7dd038ae07
+  date: '2026-11-05 22:19:55'
+  id: 533
+  import_metadata:
+    conversion:
+      converted_sha256: dba2e469400d122f045f0f46a95e7fc1791aaacc9a339a4c859a7e7dd038ae07
+      original_sha256: e504fa3b0c599dce5e32e281e638ad1c29c88c9526464351f8f7baaa4f4bc6d9
+      version: oss-ai-policies/clean-markdown-v1
+    entity: gleam-lang/gleam
+    provenance:
+    - accessed_at: '2026-11-05T19:12:10.609424+00:00'
+      id: corpus-209-purpose
+      original_file_sha256: e504fa3b0c599dce5e32e281e638ad1c29c88c9526464351f8f7baaa4f4bc6d9
+      path: analysis/corpus-assessment/sources/corpus-209-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-209-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/gleam-lang/gleam/e8eb002a2c01ce3685acfd9108492c62ba5a7fa2/README.md
+      role: purpose_statement_candidate
+      sha256: e504fa3b0c599dce5e32e281e638ad1c29c88c9526464351f8f7baaa4f4bc6d9
+      url: https://github.com/gleam-lang/gleam/blob/e8eb002a2c01ce3685acfd9108492c62ba5a7fa2/README.md
+      version: e8eb002a2c01ce3685acfd9108492c62ba5a7fa2
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e504fa3b0c599dce5e32e281e638ad1c29c88c9526464351f8f7baaa4f4bc6d9
+  mediapath: /docs/gleam-lang__gleam--purpose_statement_candidate--e504fa3b0c59.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    gleam-lang/gleam\",\n  \"text_sha256\": \"e504fa3b0c599dce5e32e281e638ad1c29c88c9526464351f8f7baaa4f4bc6d9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-209-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e504fa3b0c599dce5e32e281e638ad1c29c88c9526464351f8f7baaa4f4bc6d9\",\n    \
+    \  \"id\": \"corpus-209-purpose\",\n      \"url\": \"https://github.com/gleam-lang/gleam/blob/e8eb002a2c01ce3685acfd9108492c62ba5a7fa2/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/gleam-lang/gleam/e8eb002a2c01ce3685acfd9108492c62ba5a7fa2/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:10.609424+00:00\",\n      \"version\"\
+    : \"e8eb002a2c01ce3685acfd9108492c62ba5a7fa2\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-209-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e504fa3b0c599dce5e32e281e638ad1c29c88c9526464351f8f7baaa4f4bc6d9\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e504fa3b0c599dce5e32e281e638ad1c29c88c9526464351f8f7baaa4f4bc6d9\"\
+    ,\n    \"converted_sha256\": \"dba2e469400d122f045f0f46a95e7fc1791aaacc9a339a4c859a7e7dd038ae07\"\
+    \n  }\n}"
+  name: gleam-lang__gleam--purpose_statement_candidate--e504fa3b0c59.md
+  owner: NicolasH
+  risid: null
+name: gleam-lang__gleam--purpose_statement_candidate--e504fa3b0c59.md
+path: corpus/qda-case-209/533.txt

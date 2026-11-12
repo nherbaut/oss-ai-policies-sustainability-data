@@ -1,0 +1,58 @@
+hash: 7c8f93aba1d10f0301b52d9e482ffb508f9e400acc4781f20cec754f5f71dae0
+id: qda-source-537@qda-case-213
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 213
+    date: '2026-11-05 22:19:55'
+    fid: 537
+    id: 537
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4355
+  content_sha256: 7c8f93aba1d10f0301b52d9e482ffb508f9e400acc4781f20cec754f5f71dae0
+  date: '2026-11-05 22:19:55'
+  id: 537
+  import_metadata:
+    conversion:
+      converted_sha256: 7c8f93aba1d10f0301b52d9e482ffb508f9e400acc4781f20cec754f5f71dae0
+      original_sha256: 1e740c17958fb067684239a9d0328b428f207fc304c57141b31ef36644fbd7a3
+      version: oss-ai-policies/clean-markdown-v1
+    entity: KDE (page GSoC)
+    provenance:
+    - accessed_at: '2026-11-05T19:12:10.923609+00:00'
+      id: corpus-213-purpose
+      original_file_sha256: 1e740c17958fb067684239a9d0328b428f207fc304c57141b31ef36644fbd7a3
+      path: analysis/corpus-assessment/sources/corpus-213-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-213-purpose.html
+      resolved_url: https://kde.org/community/whatiskde/
+      role: purpose_statement_candidate
+      sha256: 10d7aa1fd69920e77d3b17d18c498efe5e2d8f1c94fd4b9ee59741b7f52c0f89
+      url: https://kde.org/community/whatiskde/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 1e740c17958fb067684239a9d0328b428f207fc304c57141b31ef36644fbd7a3
+  mediapath: /docs/KDE__page__GSoC--purpose_statement_candidate--1e740c17958f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    KDE (page GSoC)\",\n  \"text_sha256\": \"1e740c17958fb067684239a9d0328b428f207fc304c57141b31ef36644fbd7a3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-213-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"1e740c17958fb067684239a9d0328b428f207fc304c57141b31ef36644fbd7a3\",\n    \
+    \  \"id\": \"corpus-213-purpose\",\n      \"url\": \"https://kde.org/community/whatiskde/\"\
+    ,\n      \"resolved_url\": \"https://kde.org/community/whatiskde/\",\n      \"\
+    accessed_at\": \"2026-11-05T19:12:10.923609+00:00\",\n      \"version\": null,\n\
+    \      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-213-purpose.html\"\
+    ,\n      \"sha256\": \"10d7aa1fd69920e77d3b17d18c498efe5e2d8f1c94fd4b9ee59741b7f52c0f89\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"1e740c17958fb067684239a9d0328b428f207fc304c57141b31ef36644fbd7a3\"\
+    ,\n    \"converted_sha256\": \"7c8f93aba1d10f0301b52d9e482ffb508f9e400acc4781f20cec754f5f71dae0\"\
+    \n  }\n}"
+  name: KDE__page__GSoC--purpose_statement_candidate--1e740c17958f.md
+  owner: NicolasH
+  risid: null
+name: KDE__page__GSoC--purpose_statement_candidate--1e740c17958f.md
+path: corpus/qda-case-213/537.txt

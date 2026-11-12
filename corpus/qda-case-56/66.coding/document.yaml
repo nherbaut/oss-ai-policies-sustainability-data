@@ -1,0 +1,43 @@
+hash: f32fd09b3380a47bce7fc926918f946c45085d8e4c9f7f6c4dc99fd45482700c
+id: qda-source-66@qda-case-56
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 56
+    date: '2026-11-05 22:19:55'
+    fid: 66
+    id: 65
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10151
+  content_sha256: f32fd09b3380a47bce7fc926918f946c45085d8e4c9f7f6c4dc99fd45482700c
+  date: '2026-11-05 22:19:55'
+  id: 66
+  import_metadata:
+    entity: elixir-lang/elixir
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: f32fd09b3380a47bce7fc926918f946c45085d8e4c9f7f6c4dc99fd45482700c
+      path: data/281/policies/elixir-lang/elixir/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/elixir-lang/elixir/blob/84f3ed66c9432a0adc0d3a1a0791f0492a3eb9ed/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: f32fd09b3380a47bce7fc926918f946c45085d8e4c9f7f6c4dc99fd45482700c
+  mediapath: /docs/elixir-lang__elixir--contributing--f32fd09b3380.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    elixir-lang/elixir\",\n  \"text_sha256\": \"f32fd09b3380a47bce7fc926918f946c45085d8e4c9f7f6c4dc99fd45482700c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/elixir-lang/elixir/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"f32fd09b3380a47bce7fc926918f946c45085d8e4c9f7f6c4dc99fd45482700c\"\
+    ,\n      \"source_url_cell\": \"https://github.com/elixir-lang/elixir/blob/84f3ed66c9432a0adc0d3a1a0791f0492a3eb9ed/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: elixir-lang__elixir--contributing--f32fd09b3380.md
+  owner: NicolasH
+  risid: null
+name: elixir-lang__elixir--contributing--f32fd09b3380.md
+path: corpus/qda-case-56/66.txt

@@ -1,0 +1,51 @@
+hash: 7ff4a9a612ab21189aa793fd43223bd854280a122ac12ce29f5bea84d5930a1d
+id: qda-source-446@qda-case-124
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 124
+    date: '2026-11-05 22:19:55'
+    fid: 446
+    id: 446
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3315
+  content_sha256: 7ff4a9a612ab21189aa793fd43223bd854280a122ac12ce29f5bea84d5930a1d
+  date: '2026-11-05 22:19:55'
+  id: 446
+  import_metadata:
+    entity: agentskills/agentskills
+    provenance:
+    - accessed_at: '2026-11-05T19:12:01.182994+00:00'
+      id: corpus-124-purpose
+      original_file_sha256: 7ff4a9a612ab21189aa793fd43223bd854280a122ac12ce29f5bea84d5930a1d
+      path: analysis/corpus-assessment/sources/corpus-124-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-124-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/agentskills/agentskills/38a2ff82958afee88dadf4831509e6f7e9d8ef4e/README.md
+      role: purpose_statement_candidate
+      sha256: 7ff4a9a612ab21189aa793fd43223bd854280a122ac12ce29f5bea84d5930a1d
+      url: https://github.com/agentskills/agentskills/blob/38a2ff82958afee88dadf4831509e6f7e9d8ef4e/README.md
+      version: 38a2ff82958afee88dadf4831509e6f7e9d8ef4e
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 7ff4a9a612ab21189aa793fd43223bd854280a122ac12ce29f5bea84d5930a1d
+  mediapath: /docs/agentskills__agentskills--purpose_statement_candidate--7ff4a9a612ab.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    agentskills/agentskills\",\n  \"text_sha256\": \"7ff4a9a612ab21189aa793fd43223bd854280a122ac12ce29f5bea84d5930a1d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-124-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"7ff4a9a612ab21189aa793fd43223bd854280a122ac12ce29f5bea84d5930a1d\",\n    \
+    \  \"id\": \"corpus-124-purpose\",\n      \"url\": \"https://github.com/agentskills/agentskills/blob/38a2ff82958afee88dadf4831509e6f7e9d8ef4e/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/agentskills/agentskills/38a2ff82958afee88dadf4831509e6f7e9d8ef4e/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:01.182994+00:00\",\n      \"version\"\
+    : \"38a2ff82958afee88dadf4831509e6f7e9d8ef4e\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-124-purpose.raw.md\"\
+    ,\n      \"sha256\": \"7ff4a9a612ab21189aa793fd43223bd854280a122ac12ce29f5bea84d5930a1d\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: agentskills__agentskills--purpose_statement_candidate--7ff4a9a612ab.md
+  owner: NicolasH
+  risid: null
+name: agentskills__agentskills--purpose_statement_candidate--7ff4a9a612ab.md
+path: corpus/qda-case-124/446.txt

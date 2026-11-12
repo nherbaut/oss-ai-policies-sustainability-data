@@ -1,0 +1,58 @@
+hash: 00ecb514bd92013f1958e430da1634e92ed3264908e9bddd53325556401b36f9
+id: qda-source-404@qda-case-80
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 80
+    date: '2026-11-05 22:19:55'
+    fid: 404
+    id: 404
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1021
+  content_sha256: 00ecb514bd92013f1958e430da1634e92ed3264908e9bddd53325556401b36f9
+  date: '2026-11-05 22:19:55'
+  id: 404
+  import_metadata:
+    conversion:
+      converted_sha256: 00ecb514bd92013f1958e430da1634e92ed3264908e9bddd53325556401b36f9
+      original_sha256: c9323e7aa986c97f7fdf1852785a3c01a389db90d4b495ff2a0df97326b60b7e
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Matplotlib
+    provenance:
+    - accessed_at: '2026-11-05T19:11:56.968876+00:00'
+      id: corpus-080-purpose
+      original_file_sha256: c9323e7aa986c97f7fdf1852785a3c01a389db90d4b495ff2a0df97326b60b7e
+      path: analysis/corpus-assessment/sources/corpus-080-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-080-purpose.html
+      resolved_url: https://matplotlib.org/stable/project/mission.html
+      role: purpose_statement_candidate
+      sha256: d03584afab6fb1ec87bee20eff369aae8c88e6550d9934a287b8644528b75d0c
+      url: https://matplotlib.org/stable/project/mission.html
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: c9323e7aa986c97f7fdf1852785a3c01a389db90d4b495ff2a0df97326b60b7e
+  mediapath: /docs/Matplotlib--purpose_statement_candidate--c9323e7aa986.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Matplotlib\",\n  \"text_sha256\": \"c9323e7aa986c97f7fdf1852785a3c01a389db90d4b495ff2a0df97326b60b7e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-080-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"c9323e7aa986c97f7fdf1852785a3c01a389db90d4b495ff2a0df97326b60b7e\",\n    \
+    \  \"id\": \"corpus-080-purpose\",\n      \"url\": \"https://matplotlib.org/stable/project/mission.html\"\
+    ,\n      \"resolved_url\": \"https://matplotlib.org/stable/project/mission.html\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:56.968876+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-080-purpose.html\"\
+    ,\n      \"sha256\": \"d03584afab6fb1ec87bee20eff369aae8c88e6550d9934a287b8644528b75d0c\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"c9323e7aa986c97f7fdf1852785a3c01a389db90d4b495ff2a0df97326b60b7e\"\
+    ,\n    \"converted_sha256\": \"00ecb514bd92013f1958e430da1634e92ed3264908e9bddd53325556401b36f9\"\
+    \n  }\n}"
+  name: Matplotlib--purpose_statement_candidate--c9323e7aa986.md
+  owner: NicolasH
+  risid: null
+name: Matplotlib--purpose_statement_candidate--c9323e7aa986.md
+path: corpus/qda-case-80/404.txt

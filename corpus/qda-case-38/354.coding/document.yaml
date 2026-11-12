@@ -1,0 +1,58 @@
+hash: 56035408eaecf64d3f8c29c36143ef2bb7ca27caef8d3ab8674c50b37fd1e205
+id: qda-source-354@qda-case-38
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 38
+    date: '2026-11-05 22:19:55'
+    fid: 354
+    id: 354
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 16432
+  content_sha256: 56035408eaecf64d3f8c29c36143ef2bb7ca27caef8d3ab8674c50b37fd1e205
+  date: '2026-11-05 22:19:55'
+  id: 354
+  import_metadata:
+    conversion:
+      converted_sha256: 56035408eaecf64d3f8c29c36143ef2bb7ca27caef8d3ab8674c50b37fd1e205
+      original_sha256: 38a89d44a6b7e952484b021619467ba9a8ff87703143aed4784f19c90268c0d5
+      version: oss-ai-policies/clean-markdown-v1
+    entity: OpenInfra Foundation
+    provenance:
+    - accessed_at: '2026-11-05T19:11:52.440554+00:00'
+      id: corpus-038-purpose
+      original_file_sha256: 38a89d44a6b7e952484b021619467ba9a8ff87703143aed4784f19c90268c0d5
+      path: analysis/corpus-assessment/sources/corpus-038-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-038-purpose.html
+      resolved_url: https://openinfra.org/about/
+      role: purpose_statement_candidate
+      sha256: f0f7d984c7dba05e3b08ac093cdb43767c644ddf775ccacb00a3f80c2a93719f
+      url: https://openinfra.org/about/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 38a89d44a6b7e952484b021619467ba9a8ff87703143aed4784f19c90268c0d5
+  mediapath: /docs/OpenInfra__Foundation--purpose_statement_candidate--38a89d44a6b7.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    OpenInfra Foundation\",\n  \"text_sha256\": \"38a89d44a6b7e952484b021619467ba9a8ff87703143aed4784f19c90268c0d5\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-038-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"38a89d44a6b7e952484b021619467ba9a8ff87703143aed4784f19c90268c0d5\",\n    \
+    \  \"id\": \"corpus-038-purpose\",\n      \"url\": \"https://openinfra.org/about/\"\
+    ,\n      \"resolved_url\": \"https://openinfra.org/about/\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:11:52.440554+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-038-purpose.html\",\n      \"sha256\"\
+    : \"f0f7d984c7dba05e3b08ac093cdb43767c644ddf775ccacb00a3f80c2a93719f\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"38a89d44a6b7e952484b021619467ba9a8ff87703143aed4784f19c90268c0d5\"\
+    ,\n    \"converted_sha256\": \"56035408eaecf64d3f8c29c36143ef2bb7ca27caef8d3ab8674c50b37fd1e205\"\
+    \n  }\n}"
+  name: OpenInfra__Foundation--purpose_statement_candidate--38a89d44a6b7.md
+  owner: NicolasH
+  risid: null
+name: OpenInfra__Foundation--purpose_statement_candidate--38a89d44a6b7.md
+path: corpus/qda-case-38/354.txt

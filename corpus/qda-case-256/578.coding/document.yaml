@@ -1,0 +1,51 @@
+hash: bc8212f221c3be7bda7376085c87815a49051848f91f21c085472c6bee34c924
+id: qda-source-578@qda-case-256
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 256
+    date: '2026-11-05 22:19:55'
+    fid: 578
+    id: 578
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2868
+  content_sha256: bc8212f221c3be7bda7376085c87815a49051848f91f21c085472c6bee34c924
+  date: '2026-11-05 22:19:55'
+  id: 578
+  import_metadata:
+    entity: rapptz/discord.py
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.967316+00:00'
+      id: corpus-256-purpose
+      original_file_sha256: bc8212f221c3be7bda7376085c87815a49051848f91f21c085472c6bee34c924
+      path: analysis/corpus-assessment/sources/corpus-256-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-256-purpose.rst
+      resolved_url: https://raw.githubusercontent.com/rapptz/discord.py/188d32d63221a986dee732ce6e620d0a267979cf/README.rst
+      role: purpose_statement_candidate
+      sha256: a41288217a14f3f68150020f2ce952977454bce00cc28b083e8da43f997782c9
+      url: https://github.com/rapptz/discord.py/blob/188d32d63221a986dee732ce6e620d0a267979cf/README.rst
+      version: 188d32d63221a986dee732ce6e620d0a267979cf
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: bc8212f221c3be7bda7376085c87815a49051848f91f21c085472c6bee34c924
+  mediapath: /docs/rapptz__discord.py--purpose_statement_candidate--bc8212f221c3.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rapptz/discord.py\",\n  \"text_sha256\": \"bc8212f221c3be7bda7376085c87815a49051848f91f21c085472c6bee34c924\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-256-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"bc8212f221c3be7bda7376085c87815a49051848f91f21c085472c6bee34c924\",\n    \
+    \  \"id\": \"corpus-256-purpose\",\n      \"url\": \"https://github.com/rapptz/discord.py/blob/188d32d63221a986dee732ce6e620d0a267979cf/README.rst\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/rapptz/discord.py/188d32d63221a986dee732ce6e620d0a267979cf/README.rst\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.967316+00:00\",\n      \"version\"\
+    : \"188d32d63221a986dee732ce6e620d0a267979cf\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-256-purpose.rst\"\
+    ,\n      \"sha256\": \"a41288217a14f3f68150020f2ce952977454bce00cc28b083e8da43f997782c9\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: rapptz__discord.py--purpose_statement_candidate--bc8212f221c3.md
+  owner: NicolasH
+  risid: null
+name: rapptz__discord.py--purpose_statement_candidate--bc8212f221c3.md
+path: corpus/qda-case-256/578.txt

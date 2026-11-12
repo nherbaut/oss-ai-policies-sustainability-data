@@ -1,0 +1,43 @@
+hash: e7ab52eb093e0bc2ffe1a71758128b5231c5894fc38e04ae3deb34a881e36a10
+id: qda-source-176@qda-case-158
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 158
+    date: '2026-11-05 22:19:55'
+    fid: 176
+    id: 175
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 473
+  content_sha256: e7ab52eb093e0bc2ffe1a71758128b5231c5894fc38e04ae3deb34a881e36a10
+  date: '2026-11-05 22:19:55'
+  id: 176
+  import_metadata:
+    entity: textualize/textual
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: e7ab52eb093e0bc2ffe1a71758128b5231c5894fc38e04ae3deb34a881e36a10
+      path: data/281/policies/textualize/textual/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/textualize/textual/blob/06dbeef4bb70fb718236aa418ed658ef4667a126/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: e7ab52eb093e0bc2ffe1a71758128b5231c5894fc38e04ae3deb34a881e36a10
+  mediapath: /docs/textualize__textual--ai_policy--e7ab52eb093e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    textualize/textual\",\n  \"text_sha256\": \"e7ab52eb093e0bc2ffe1a71758128b5231c5894fc38e04ae3deb34a881e36a10\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/textualize/textual/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"e7ab52eb093e0bc2ffe1a71758128b5231c5894fc38e04ae3deb34a881e36a10\"\
+    ,\n      \"source_url_cell\": \"https://github.com/textualize/textual/blob/06dbeef4bb70fb718236aa418ed658ef4667a126/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: textualize__textual--ai_policy--e7ab52eb093e.md
+  owner: NicolasH
+  risid: null
+name: textualize__textual--ai_policy--e7ab52eb093e.md
+path: corpus/qda-case-158/176.txt

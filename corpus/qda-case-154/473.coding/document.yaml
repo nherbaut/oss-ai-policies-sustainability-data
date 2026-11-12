@@ -1,0 +1,58 @@
+hash: 99e4eab79c6563a4bd3543d0e46eb92881081937d652dce421ad53d54754ba87
+id: qda-source-473@qda-case-154
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 154
+    date: '2026-11-05 22:19:55'
+    fid: 473
+    id: 473
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 20589
+  content_sha256: 99e4eab79c6563a4bd3543d0e46eb92881081937d652dce421ad53d54754ba87
+  date: '2026-11-05 22:19:55'
+  id: 473
+  import_metadata:
+    conversion:
+      converted_sha256: 99e4eab79c6563a4bd3543d0e46eb92881081937d652dce421ad53d54754ba87
+      original_sha256: 9bc1e888997b4db53efc8a8d1b0968d61650607e00f2b7fa21a207bcd9cc4322
+      version: oss-ai-policies/clean-markdown-v1
+    entity: ohmyzsh/ohmyzsh
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.509688+00:00'
+      id: corpus-154-purpose
+      original_file_sha256: 9bc1e888997b4db53efc8a8d1b0968d61650607e00f2b7fa21a207bcd9cc4322
+      path: analysis/corpus-assessment/sources/corpus-154-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-154-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/677a4592b18c08ddea737f8aca70bac0e9fc9313/README.md
+      role: purpose_statement_candidate
+      sha256: 9bc1e888997b4db53efc8a8d1b0968d61650607e00f2b7fa21a207bcd9cc4322
+      url: https://github.com/ohmyzsh/ohmyzsh/blob/677a4592b18c08ddea737f8aca70bac0e9fc9313/README.md
+      version: 677a4592b18c08ddea737f8aca70bac0e9fc9313
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9bc1e888997b4db53efc8a8d1b0968d61650607e00f2b7fa21a207bcd9cc4322
+  mediapath: /docs/ohmyzsh__ohmyzsh--purpose_statement_candidate--9bc1e888997b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ohmyzsh/ohmyzsh\",\n  \"text_sha256\": \"9bc1e888997b4db53efc8a8d1b0968d61650607e00f2b7fa21a207bcd9cc4322\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-154-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9bc1e888997b4db53efc8a8d1b0968d61650607e00f2b7fa21a207bcd9cc4322\",\n    \
+    \  \"id\": \"corpus-154-purpose\",\n      \"url\": \"https://github.com/ohmyzsh/ohmyzsh/blob/677a4592b18c08ddea737f8aca70bac0e9fc9313/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/677a4592b18c08ddea737f8aca70bac0e9fc9313/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.509688+00:00\",\n      \"version\"\
+    : \"677a4592b18c08ddea737f8aca70bac0e9fc9313\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-154-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9bc1e888997b4db53efc8a8d1b0968d61650607e00f2b7fa21a207bcd9cc4322\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9bc1e888997b4db53efc8a8d1b0968d61650607e00f2b7fa21a207bcd9cc4322\"\
+    ,\n    \"converted_sha256\": \"99e4eab79c6563a4bd3543d0e46eb92881081937d652dce421ad53d54754ba87\"\
+    \n  }\n}"
+  name: ohmyzsh__ohmyzsh--purpose_statement_candidate--9bc1e888997b.md
+  owner: NicolasH
+  risid: null
+name: ohmyzsh__ohmyzsh--purpose_statement_candidate--9bc1e888997b.md
+path: corpus/qda-case-154/473.txt

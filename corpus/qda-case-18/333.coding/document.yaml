@@ -1,0 +1,58 @@
+hash: 6eb21f66e1e190666fada66b6c992b52d71c3ba91c31d28f27627a073b761fd0
+id: qda-source-333@qda-case-18
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 18
+    date: '2026-11-05 22:19:55'
+    fid: 333
+    id: 333
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3605
+  content_sha256: 6eb21f66e1e190666fada66b6c992b52d71c3ba91c31d28f27627a073b761fd0
+  date: '2026-11-05 22:19:55'
+  id: 333
+  import_metadata:
+    conversion:
+      converted_sha256: 6eb21f66e1e190666fada66b6c992b52d71c3ba91c31d28f27627a073b761fd0
+      original_sha256: 6037339e92bb840e285ec99b7995bebf489129b7e22ab509f8093170aa9b7637
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Jellyfin
+    provenance:
+    - accessed_at: '2026-11-05T19:11:49.883056+00:00'
+      id: corpus-018-purpose
+      original_file_sha256: 6037339e92bb840e285ec99b7995bebf489129b7e22ab509f8093170aa9b7637
+      path: analysis/corpus-assessment/sources/corpus-018-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-018-purpose.html
+      resolved_url: https://jellyfin.org/
+      role: purpose_statement_candidate
+      sha256: fb35cc0aa5ae943ccf20efda16415f9aa52ced53893fcbb1674fcab8e3a3b72a
+      url: https://jellyfin.org/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 6037339e92bb840e285ec99b7995bebf489129b7e22ab509f8093170aa9b7637
+  mediapath: /docs/Jellyfin--purpose_statement_candidate--6037339e92bb.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Jellyfin\",\n  \"text_sha256\": \"6037339e92bb840e285ec99b7995bebf489129b7e22ab509f8093170aa9b7637\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-018-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"6037339e92bb840e285ec99b7995bebf489129b7e22ab509f8093170aa9b7637\",\n    \
+    \  \"id\": \"corpus-018-purpose\",\n      \"url\": \"https://jellyfin.org/\",\n\
+    \      \"resolved_url\": \"https://jellyfin.org/\",\n      \"accessed_at\": \"\
+    2026-11-05T19:11:49.883056+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-018-purpose.html\",\n      \"sha256\"\
+    : \"fb35cc0aa5ae943ccf20efda16415f9aa52ced53893fcbb1674fcab8e3a3b72a\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"6037339e92bb840e285ec99b7995bebf489129b7e22ab509f8093170aa9b7637\"\
+    ,\n    \"converted_sha256\": \"6eb21f66e1e190666fada66b6c992b52d71c3ba91c31d28f27627a073b761fd0\"\
+    \n  }\n}"
+  name: Jellyfin--purpose_statement_candidate--6037339e92bb.md
+  owner: NicolasH
+  risid: null
+name: Jellyfin--purpose_statement_candidate--6037339e92bb.md
+path: corpus/qda-case-18/333.txt

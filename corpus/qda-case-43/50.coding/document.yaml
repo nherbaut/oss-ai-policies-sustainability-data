@@ -1,0 +1,50 @@
+hash: 38a8acc20e9e2c3673d1c13cc9b8a2dd51a30ded8b43cf2de2def1fb283fec64
+id: qda-source-50@qda-case-43
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 43
+    date: '2026-11-05 22:19:55'
+    fid: 50
+    id: 49
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 13786
+  content_sha256: 38a8acc20e9e2c3673d1c13cc9b8a2dd51a30ded8b43cf2de2def1fb283fec64
+  date: '2026-11-05 22:19:55'
+  id: 50
+  import_metadata:
+    conversion:
+      converted_sha256: 38a8acc20e9e2c3673d1c13cc9b8a2dd51a30ded8b43cf2de2def1fb283fec64
+      original_sha256: ec2e3b152b1f15990cb8fad7b1f3144d051f4e27574b66d2ec023058038040c6
+      version: oss-ai-policies/clean-markdown-v1
+    entity: huggingface/transformers
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: ec2e3b152b1f15990cb8fad7b1f3144d051f4e27574b66d2ec023058038040c6
+      path: data/281/policies/huggingface/transformers/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/huggingface/transformers/blob/28596623762cb409bb1c9234f04bfb1269b1ece1/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ec2e3b152b1f15990cb8fad7b1f3144d051f4e27574b66d2ec023058038040c6
+  mediapath: /docs/huggingface__transformers--contributing--ec2e3b152b1f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    huggingface/transformers\",\n  \"text_sha256\": \"ec2e3b152b1f15990cb8fad7b1f3144d051f4e27574b66d2ec023058038040c6\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/huggingface/transformers/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"ec2e3b152b1f15990cb8fad7b1f3144d051f4e27574b66d2ec023058038040c6\"\
+    ,\n      \"source_url_cell\": \"https://github.com/huggingface/transformers/blob/28596623762cb409bb1c9234f04bfb1269b1ece1/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"ec2e3b152b1f15990cb8fad7b1f3144d051f4e27574b66d2ec023058038040c6\"\
+    ,\n    \"converted_sha256\": \"38a8acc20e9e2c3673d1c13cc9b8a2dd51a30ded8b43cf2de2def1fb283fec64\"\
+    \n  }\n}"
+  name: huggingface__transformers--contributing--ec2e3b152b1f.md
+  owner: NicolasH
+  risid: null
+name: huggingface__transformers--contributing--ec2e3b152b1f.md
+path: corpus/qda-case-43/50.txt

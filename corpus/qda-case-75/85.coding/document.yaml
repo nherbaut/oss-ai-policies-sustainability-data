@@ -1,0 +1,43 @@
+hash: e2963a522beb4cc81c6afa5810e8f40b9fad3f8775713346892a52e18fd34dd5
+id: qda-source-85@qda-case-75
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 75
+    date: '2026-11-05 22:19:55'
+    fid: 85
+    id: 84
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 13222
+  content_sha256: e2963a522beb4cc81c6afa5810e8f40b9fad3f8775713346892a52e18fd34dd5
+  date: '2026-11-05 22:19:55'
+  id: 85
+  import_metadata:
+    entity: apache/pulsar
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: e2963a522beb4cc81c6afa5810e8f40b9fad3f8775713346892a52e18fd34dd5
+      path: data/281/policies/apache/pulsar/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/apache/pulsar/blob/8576283da4ad3f3742168fc4bf4a527f31923297/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: e2963a522beb4cc81c6afa5810e8f40b9fad3f8775713346892a52e18fd34dd5
+  mediapath: /docs/apache__pulsar--contributing--e2963a522beb.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    apache/pulsar\",\n  \"text_sha256\": \"e2963a522beb4cc81c6afa5810e8f40b9fad3f8775713346892a52e18fd34dd5\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/apache/pulsar/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"e2963a522beb4cc81c6afa5810e8f40b9fad3f8775713346892a52e18fd34dd5\"\
+    ,\n      \"source_url_cell\": \"https://github.com/apache/pulsar/blob/8576283da4ad3f3742168fc4bf4a527f31923297/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: apache__pulsar--contributing--e2963a522beb.md
+  owner: NicolasH
+  risid: null
+name: apache__pulsar--contributing--e2963a522beb.md
+path: corpus/qda-case-75/85.txt

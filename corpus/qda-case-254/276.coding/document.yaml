@@ -1,0 +1,43 @@
+hash: b11b8ec92fa4c2c074e2a09a95189ae7551ee1447257344ba1d8b7aa57e2e592
+id: qda-source-276@qda-case-254
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 254
+    date: '2026-11-05 22:19:55'
+    fid: 276
+    id: 275
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4344
+  content_sha256: b11b8ec92fa4c2c074e2a09a95189ae7551ee1447257344ba1d8b7aa57e2e592
+  date: '2026-11-05 22:19:55'
+  id: 276
+  import_metadata:
+    entity: PostgREST/postgrest
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: b11b8ec92fa4c2c074e2a09a95189ae7551ee1447257344ba1d8b7aa57e2e592
+      path: data/281/policies/PostgREST/postgrest/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/PostgREST/postgrest/blob/c297d051dcce428a8e2ea8c8b44886c9a7893a93/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: b11b8ec92fa4c2c074e2a09a95189ae7551ee1447257344ba1d8b7aa57e2e592
+  mediapath: /docs/PostgREST__postgrest--contributing--b11b8ec92fa4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    PostgREST/postgrest\",\n  \"text_sha256\": \"b11b8ec92fa4c2c074e2a09a95189ae7551ee1447257344ba1d8b7aa57e2e592\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/PostgREST/postgrest/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"b11b8ec92fa4c2c074e2a09a95189ae7551ee1447257344ba1d8b7aa57e2e592\"\
+    ,\n      \"source_url_cell\": \"https://github.com/PostgREST/postgrest/blob/c297d051dcce428a8e2ea8c8b44886c9a7893a93/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: PostgREST__postgrest--contributing--b11b8ec92fa4.md
+  owner: NicolasH
+  risid: null
+name: PostgREST__postgrest--contributing--b11b8ec92fa4.md
+path: corpus/qda-case-254/276.txt

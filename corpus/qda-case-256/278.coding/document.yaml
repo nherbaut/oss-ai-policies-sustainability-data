@@ -1,0 +1,43 @@
+hash: 9a356c57c8bc50cd3b7cca9882effb6eae9706af012673bf2bac049238a03b80
+id: qda-source-278@qda-case-256
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 256
+    date: '2026-11-05 22:19:55'
+    fid: 278
+    id: 277
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3884
+  content_sha256: 9a356c57c8bc50cd3b7cca9882effb6eae9706af012673bf2bac049238a03b80
+  date: '2026-11-05 22:19:55'
+  id: 278
+  import_metadata:
+    entity: rapptz/discord.py
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 9a356c57c8bc50cd3b7cca9882effb6eae9706af012673bf2bac049238a03b80
+      path: data/281/policies/rapptz/discord.py/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/rapptz/discord.py/blob/188d32d63221a986dee732ce6e620d0a267979cf/.github/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 9a356c57c8bc50cd3b7cca9882effb6eae9706af012673bf2bac049238a03b80
+  mediapath: /docs/rapptz__discord.py--contributing--9a356c57c8bc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rapptz/discord.py\",\n  \"text_sha256\": \"9a356c57c8bc50cd3b7cca9882effb6eae9706af012673bf2bac049238a03b80\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/rapptz/discord.py/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"9a356c57c8bc50cd3b7cca9882effb6eae9706af012673bf2bac049238a03b80\"\
+    ,\n      \"source_url_cell\": \"https://github.com/rapptz/discord.py/blob/188d32d63221a986dee732ce6e620d0a267979cf/.github/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: rapptz__discord.py--contributing--9a356c57c8bc.md
+  owner: NicolasH
+  risid: null
+name: rapptz__discord.py--contributing--9a356c57c8bc.md
+path: corpus/qda-case-256/278.txt

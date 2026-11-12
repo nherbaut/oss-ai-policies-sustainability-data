@@ -1,0 +1,57 @@
+hash: 7e67fe358d904abb834a54f078e1588d9aef94210eca74fdbee6b49649afeedb
+id: qda-source-325@qda-case-10
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 10
+    date: '2026-11-05 22:19:55'
+    fid: 325
+    id: 325
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3003
+  content_sha256: 7e67fe358d904abb834a54f078e1588d9aef94210eca74fdbee6b49649afeedb
+  date: '2026-11-05 22:19:55'
+  id: 325
+  import_metadata:
+    conversion:
+      converted_sha256: 7e67fe358d904abb834a54f078e1588d9aef94210eca74fdbee6b49649afeedb
+      original_sha256: 3af79349ab03be7ec02214417a9bb239d5e95b606845336e35d70c11346c1d5c
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Forgejo
+    provenance:
+    - accessed_at: '2026-11-05T16:00:22.486688+00:00'
+      id: 21-purpose
+      original_file_sha256: 3af79349ab03be7ec02214417a9bb239d5e95b606845336e35d70c11346c1d5c
+      path: analysis/feasibility-pilot/sources/21-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/21-purpose.html
+      resolved_url: https://forgejo.org/
+      role: purpose_statement_candidate
+      sha256: 50aba0510fd297a0ca84af1f53ca1ec330640cb4a320e7b5d448494e4bd7c631
+      url: https://forgejo.org/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 3af79349ab03be7ec02214417a9bb239d5e95b606845336e35d70c11346c1d5c
+  mediapath: /docs/Forgejo--purpose_statement_candidate--3af79349ab03.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Forgejo\",\n  \"text_sha256\": \"3af79349ab03be7ec02214417a9bb239d5e95b606845336e35d70c11346c1d5c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/21-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"3af79349ab03be7ec02214417a9bb239d5e95b606845336e35d70c11346c1d5c\",\n    \
+    \  \"id\": \"21-purpose\",\n      \"url\": \"https://forgejo.org/\",\n      \"\
+    resolved_url\": \"https://forgejo.org/\",\n      \"accessed_at\": \"2026-11-05T16:00:22.486688+00:00\"\
+    ,\n      \"version\": null,\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/21-purpose.html\"\
+    ,\n      \"sha256\": \"50aba0510fd297a0ca84af1f53ca1ec330640cb4a320e7b5d448494e4bd7c631\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"3af79349ab03be7ec02214417a9bb239d5e95b606845336e35d70c11346c1d5c\"\
+    ,\n    \"converted_sha256\": \"7e67fe358d904abb834a54f078e1588d9aef94210eca74fdbee6b49649afeedb\"\
+    \n  }\n}"
+  name: Forgejo--purpose_statement_candidate--3af79349ab03.md
+  owner: NicolasH
+  risid: null
+name: Forgejo--purpose_statement_candidate--3af79349ab03.md
+path: corpus/qda-case-10/325.txt

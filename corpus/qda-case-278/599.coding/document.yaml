@@ -1,0 +1,58 @@
+hash: b25b163ed68c8b34be4acbd4d4040b89bc13d713ce1ec5aff6dd43a0f4ce5fd2
+id: qda-source-599@qda-case-278
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 278
+    date: '2026-11-05 22:19:55'
+    fid: 599
+    id: 599
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7362
+  content_sha256: b25b163ed68c8b34be4acbd4d4040b89bc13d713ce1ec5aff6dd43a0f4ce5fd2
+  date: '2026-11-05 22:19:55'
+  id: 599
+  import_metadata:
+    conversion:
+      converted_sha256: b25b163ed68c8b34be4acbd4d4040b89bc13d713ce1ec5aff6dd43a0f4ce5fd2
+      original_sha256: febe7e40ec0e731605078d234ee7d0696bea765566c3af2b84f05d907479fbaa
+      version: oss-ai-policies/clean-markdown-v1
+    entity: niri-wm/niri
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.870594+00:00'
+      id: corpus-278-purpose
+      original_file_sha256: febe7e40ec0e731605078d234ee7d0696bea765566c3af2b84f05d907479fbaa
+      path: analysis/corpus-assessment/sources/corpus-278-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-278-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/niri-wm/niri/0777769e719b7c9b7c980d4ea66288bfbb4da5b3/README.md
+      role: purpose_statement_candidate
+      sha256: febe7e40ec0e731605078d234ee7d0696bea765566c3af2b84f05d907479fbaa
+      url: https://github.com/niri-wm/niri/blob/0777769e719b7c9b7c980d4ea66288bfbb4da5b3/README.md
+      version: 0777769e719b7c9b7c980d4ea66288bfbb4da5b3
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: febe7e40ec0e731605078d234ee7d0696bea765566c3af2b84f05d907479fbaa
+  mediapath: /docs/niri-wm__niri--purpose_statement_candidate--febe7e40ec0e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    niri-wm/niri\",\n  \"text_sha256\": \"febe7e40ec0e731605078d234ee7d0696bea765566c3af2b84f05d907479fbaa\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-278-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"febe7e40ec0e731605078d234ee7d0696bea765566c3af2b84f05d907479fbaa\",\n    \
+    \  \"id\": \"corpus-278-purpose\",\n      \"url\": \"https://github.com/niri-wm/niri/blob/0777769e719b7c9b7c980d4ea66288bfbb4da5b3/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/niri-wm/niri/0777769e719b7c9b7c980d4ea66288bfbb4da5b3/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:16.870594+00:00\",\n      \"version\"\
+    : \"0777769e719b7c9b7c980d4ea66288bfbb4da5b3\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-278-purpose.raw.md\"\
+    ,\n      \"sha256\": \"febe7e40ec0e731605078d234ee7d0696bea765566c3af2b84f05d907479fbaa\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"febe7e40ec0e731605078d234ee7d0696bea765566c3af2b84f05d907479fbaa\"\
+    ,\n    \"converted_sha256\": \"b25b163ed68c8b34be4acbd4d4040b89bc13d713ce1ec5aff6dd43a0f4ce5fd2\"\
+    \n  }\n}"
+  name: niri-wm__niri--purpose_statement_candidate--febe7e40ec0e.md
+  owner: NicolasH
+  risid: null
+name: niri-wm__niri--purpose_statement_candidate--febe7e40ec0e.md
+path: corpus/qda-case-278/599.txt

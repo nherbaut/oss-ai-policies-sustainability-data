@@ -1,0 +1,58 @@
+hash: 16069e1ce02d6c4bb7141f008ad7cef3c136d81af47b8b2618af0970db1ee43a
+id: qda-source-461@qda-case-141
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 141
+    date: '2026-11-05 22:19:55'
+    fid: 461
+    id: 461
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 30811
+  content_sha256: 16069e1ce02d6c4bb7141f008ad7cef3c136d81af47b8b2618af0970db1ee43a
+  date: '2026-11-05 22:19:55'
+  id: 461
+  import_metadata:
+    conversion:
+      converted_sha256: 16069e1ce02d6c4bb7141f008ad7cef3c136d81af47b8b2618af0970db1ee43a
+      original_sha256: b8380da9ee2803cb0aa40e4aab845368ac75a2b97a43018a2f27bfab9edba9b3
+      version: oss-ai-policies/clean-markdown-v1
+    entity: ggml-org/llama.cpp
+    provenance:
+    - accessed_at: '2026-11-05T19:12:02.387693+00:00'
+      id: corpus-141-purpose
+      original_file_sha256: b8380da9ee2803cb0aa40e4aab845368ac75a2b97a43018a2f27bfab9edba9b3
+      path: analysis/corpus-assessment/sources/corpus-141-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-141-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/ggml-org/llama.cpp/505b1ed15ca80e2a19f12ff4ac365e40fb374053/README.md
+      role: purpose_statement_candidate
+      sha256: b8380da9ee2803cb0aa40e4aab845368ac75a2b97a43018a2f27bfab9edba9b3
+      url: https://github.com/ggml-org/llama.cpp/blob/505b1ed15ca80e2a19f12ff4ac365e40fb374053/README.md
+      version: 505b1ed15ca80e2a19f12ff4ac365e40fb374053
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b8380da9ee2803cb0aa40e4aab845368ac75a2b97a43018a2f27bfab9edba9b3
+  mediapath: /docs/ggml-org__llama.cpp--purpose_statement_candidate--b8380da9ee28.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ggml-org/llama.cpp\",\n  \"text_sha256\": \"b8380da9ee2803cb0aa40e4aab845368ac75a2b97a43018a2f27bfab9edba9b3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-141-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b8380da9ee2803cb0aa40e4aab845368ac75a2b97a43018a2f27bfab9edba9b3\",\n    \
+    \  \"id\": \"corpus-141-purpose\",\n      \"url\": \"https://github.com/ggml-org/llama.cpp/blob/505b1ed15ca80e2a19f12ff4ac365e40fb374053/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/ggml-org/llama.cpp/505b1ed15ca80e2a19f12ff4ac365e40fb374053/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:02.387693+00:00\",\n      \"version\"\
+    : \"505b1ed15ca80e2a19f12ff4ac365e40fb374053\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-141-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b8380da9ee2803cb0aa40e4aab845368ac75a2b97a43018a2f27bfab9edba9b3\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b8380da9ee2803cb0aa40e4aab845368ac75a2b97a43018a2f27bfab9edba9b3\"\
+    ,\n    \"converted_sha256\": \"16069e1ce02d6c4bb7141f008ad7cef3c136d81af47b8b2618af0970db1ee43a\"\
+    \n  }\n}"
+  name: ggml-org__llama.cpp--purpose_statement_candidate--b8380da9ee28.md
+  owner: NicolasH
+  risid: null
+name: ggml-org__llama.cpp--purpose_statement_candidate--b8380da9ee28.md
+path: corpus/qda-case-141/461.txt

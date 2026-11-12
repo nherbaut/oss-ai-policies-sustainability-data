@@ -1,0 +1,58 @@
+hash: 4ba761714f99ac8c03cd7fe477077c32852f6bd1404a40e512c858819d6bef0e
+id: qda-source-395@qda-case-73
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 73
+    date: '2026-11-05 22:19:55'
+    fid: 395
+    id: 395
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 14538
+  content_sha256: 4ba761714f99ac8c03cd7fe477077c32852f6bd1404a40e512c858819d6bef0e
+  date: '2026-11-05 22:19:55'
+  id: 395
+  import_metadata:
+    conversion:
+      converted_sha256: 4ba761714f99ac8c03cd7fe477077c32852f6bd1404a40e512c858819d6bef0e
+      original_sha256: f056dd5b66e0032a04e9473e479efccd7343ec5ff22b52921682974cea491ac2
+      version: oss-ai-policies/clean-markdown-v1
+    entity: containers/podman
+    provenance:
+    - accessed_at: '2026-11-05T19:11:56.181845+00:00'
+      id: corpus-073-purpose
+      original_file_sha256: f056dd5b66e0032a04e9473e479efccd7343ec5ff22b52921682974cea491ac2
+      path: analysis/corpus-assessment/sources/corpus-073-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-073-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/containers/podman/e19275f788aac690aa37476b33a38fca2e1c970b/README.md
+      role: purpose_statement_candidate
+      sha256: f056dd5b66e0032a04e9473e479efccd7343ec5ff22b52921682974cea491ac2
+      url: https://github.com/containers/podman/blob/e19275f788aac690aa37476b33a38fca2e1c970b/README.md
+      version: e19275f788aac690aa37476b33a38fca2e1c970b
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: f056dd5b66e0032a04e9473e479efccd7343ec5ff22b52921682974cea491ac2
+  mediapath: /docs/containers__podman--purpose_statement_candidate--f056dd5b66e0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    containers/podman\",\n  \"text_sha256\": \"f056dd5b66e0032a04e9473e479efccd7343ec5ff22b52921682974cea491ac2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-073-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"f056dd5b66e0032a04e9473e479efccd7343ec5ff22b52921682974cea491ac2\",\n    \
+    \  \"id\": \"corpus-073-purpose\",\n      \"url\": \"https://github.com/containers/podman/blob/e19275f788aac690aa37476b33a38fca2e1c970b/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/containers/podman/e19275f788aac690aa37476b33a38fca2e1c970b/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:56.181845+00:00\",\n      \"version\"\
+    : \"e19275f788aac690aa37476b33a38fca2e1c970b\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-073-purpose.raw.md\"\
+    ,\n      \"sha256\": \"f056dd5b66e0032a04e9473e479efccd7343ec5ff22b52921682974cea491ac2\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"f056dd5b66e0032a04e9473e479efccd7343ec5ff22b52921682974cea491ac2\"\
+    ,\n    \"converted_sha256\": \"4ba761714f99ac8c03cd7fe477077c32852f6bd1404a40e512c858819d6bef0e\"\
+    \n  }\n}"
+  name: containers__podman--purpose_statement_candidate--f056dd5b66e0.md
+  owner: NicolasH
+  risid: null
+name: containers__podman--purpose_statement_candidate--f056dd5b66e0.md
+path: corpus/qda-case-73/395.txt

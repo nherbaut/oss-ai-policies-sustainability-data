@@ -1,0 +1,51 @@
+hash: 0367519ea17939684b6841a593c57534ad0fbe9c2e4e4efd70536f694777942d
+id: qda-source-511@qda-case-190
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 190
+    date: '2026-11-05 22:19:55'
+    fid: 511
+    id: 511
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7700
+  content_sha256: 0367519ea17939684b6841a593c57534ad0fbe9c2e4e4efd70536f694777942d
+  date: '2026-11-05 22:19:55'
+  id: 511
+  import_metadata:
+    entity: icsharpcode/ilspy
+    provenance:
+    - accessed_at: '2026-11-05T19:12:07.730610+00:00'
+      id: corpus-190-purpose
+      original_file_sha256: 0367519ea17939684b6841a593c57534ad0fbe9c2e4e4efd70536f694777942d
+      path: analysis/corpus-assessment/sources/corpus-190-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-190-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/icsharpcode/ilspy/b888153f24357e4a0b475819bfb05c8c6c06cd0a/README.md
+      role: purpose_statement_candidate
+      sha256: 0367519ea17939684b6841a593c57534ad0fbe9c2e4e4efd70536f694777942d
+      url: https://github.com/icsharpcode/ilspy/blob/b888153f24357e4a0b475819bfb05c8c6c06cd0a/README.md
+      version: b888153f24357e4a0b475819bfb05c8c6c06cd0a
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 0367519ea17939684b6841a593c57534ad0fbe9c2e4e4efd70536f694777942d
+  mediapath: /docs/icsharpcode__ilspy--purpose_statement_candidate--0367519ea179.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    icsharpcode/ilspy\",\n  \"text_sha256\": \"0367519ea17939684b6841a593c57534ad0fbe9c2e4e4efd70536f694777942d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-190-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0367519ea17939684b6841a593c57534ad0fbe9c2e4e4efd70536f694777942d\",\n    \
+    \  \"id\": \"corpus-190-purpose\",\n      \"url\": \"https://github.com/icsharpcode/ilspy/blob/b888153f24357e4a0b475819bfb05c8c6c06cd0a/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/icsharpcode/ilspy/b888153f24357e4a0b475819bfb05c8c6c06cd0a/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:07.730610+00:00\",\n      \"version\"\
+    : \"b888153f24357e4a0b475819bfb05c8c6c06cd0a\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-190-purpose.raw.md\"\
+    ,\n      \"sha256\": \"0367519ea17939684b6841a593c57534ad0fbe9c2e4e4efd70536f694777942d\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: icsharpcode__ilspy--purpose_statement_candidate--0367519ea179.md
+  owner: NicolasH
+  risid: null
+name: icsharpcode__ilspy--purpose_statement_candidate--0367519ea179.md
+path: corpus/qda-case-190/511.txt

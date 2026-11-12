@@ -1,0 +1,58 @@
+hash: 10dc4ef6d3d7fbad16955ca52360a51f6f12499ab8f98e093a69c41271a6a415
+id: qda-source-500@qda-case-180
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 180
+    date: '2026-11-05 22:19:55'
+    fid: 500
+    id: 500
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 33316
+  content_sha256: 10dc4ef6d3d7fbad16955ca52360a51f6f12499ab8f98e093a69c41271a6a415
+  date: '2026-11-05 22:19:55'
+  id: 500
+  import_metadata:
+    conversion:
+      converted_sha256: 10dc4ef6d3d7fbad16955ca52360a51f6f12499ab8f98e093a69c41271a6a415
+      original_sha256: ed125e65f6ff31bdc69212e027c8239c552c4470077419868324efabc258adb0
+      version: oss-ai-policies/clean-markdown-v1
+    entity: crewAIInc/crewAI
+    provenance:
+    - accessed_at: '2026-11-05T19:12:06.428172+00:00'
+      id: corpus-180-purpose
+      original_file_sha256: ed125e65f6ff31bdc69212e027c8239c552c4470077419868324efabc258adb0
+      path: analysis/corpus-assessment/sources/corpus-180-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-180-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/crewAIInc/crewAI/da9902da4f366a2abd048b5dc2a4b38c721f72b8/README.md
+      role: purpose_statement_candidate
+      sha256: ed125e65f6ff31bdc69212e027c8239c552c4470077419868324efabc258adb0
+      url: https://github.com/crewAIInc/crewAI/blob/da9902da4f366a2abd048b5dc2a4b38c721f72b8/README.md
+      version: da9902da4f366a2abd048b5dc2a4b38c721f72b8
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ed125e65f6ff31bdc69212e027c8239c552c4470077419868324efabc258adb0
+  mediapath: /docs/crewAIInc__crewAI--purpose_statement_candidate--ed125e65f6ff.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    crewAIInc/crewAI\",\n  \"text_sha256\": \"ed125e65f6ff31bdc69212e027c8239c552c4470077419868324efabc258adb0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-180-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"ed125e65f6ff31bdc69212e027c8239c552c4470077419868324efabc258adb0\",\n    \
+    \  \"id\": \"corpus-180-purpose\",\n      \"url\": \"https://github.com/crewAIInc/crewAI/blob/da9902da4f366a2abd048b5dc2a4b38c721f72b8/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/crewAIInc/crewAI/da9902da4f366a2abd048b5dc2a4b38c721f72b8/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:06.428172+00:00\",\n      \"version\"\
+    : \"da9902da4f366a2abd048b5dc2a4b38c721f72b8\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-180-purpose.raw.md\"\
+    ,\n      \"sha256\": \"ed125e65f6ff31bdc69212e027c8239c552c4470077419868324efabc258adb0\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"ed125e65f6ff31bdc69212e027c8239c552c4470077419868324efabc258adb0\"\
+    ,\n    \"converted_sha256\": \"10dc4ef6d3d7fbad16955ca52360a51f6f12499ab8f98e093a69c41271a6a415\"\
+    \n  }\n}"
+  name: crewAIInc__crewAI--purpose_statement_candidate--ed125e65f6ff.md
+  owner: NicolasH
+  risid: null
+name: crewAIInc__crewAI--purpose_statement_candidate--ed125e65f6ff.md
+path: corpus/qda-case-180/500.txt

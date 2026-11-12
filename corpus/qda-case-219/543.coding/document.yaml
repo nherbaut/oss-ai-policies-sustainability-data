@@ -1,0 +1,58 @@
+hash: baaad1f7b257d70581e09f326ef91b5543aae499f0a62cfb2aa2c7d4d901b986
+id: qda-source-543@qda-case-219
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 219
+    date: '2026-11-05 22:19:55'
+    fid: 543
+    id: 543
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9872
+  content_sha256: baaad1f7b257d70581e09f326ef91b5543aae499f0a62cfb2aa2c7d4d901b986
+  date: '2026-11-05 22:19:55'
+  id: 543
+  import_metadata:
+    conversion:
+      converted_sha256: baaad1f7b257d70581e09f326ef91b5543aae499f0a62cfb2aa2c7d4d901b986
+      original_sha256: 44d8870d2d1de1f23832776477afc559d9d01b8e4aff74f2558eea205f96f24b
+      version: oss-ai-policies/clean-markdown-v1
+    entity: microsoft/VibeVoice
+    provenance:
+    - accessed_at: '2026-11-05T19:12:11.245388+00:00'
+      id: corpus-219-purpose
+      original_file_sha256: 44d8870d2d1de1f23832776477afc559d9d01b8e4aff74f2558eea205f96f24b
+      path: analysis/corpus-assessment/sources/corpus-219-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-219-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/microsoft/VibeVoice/303b2833e01cff4578ec278bbfe536da54bd19fe/README.md
+      role: purpose_statement_candidate
+      sha256: 44d8870d2d1de1f23832776477afc559d9d01b8e4aff74f2558eea205f96f24b
+      url: https://github.com/microsoft/VibeVoice/blob/303b2833e01cff4578ec278bbfe536da54bd19fe/README.md
+      version: 303b2833e01cff4578ec278bbfe536da54bd19fe
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 44d8870d2d1de1f23832776477afc559d9d01b8e4aff74f2558eea205f96f24b
+  mediapath: /docs/microsoft__VibeVoice--purpose_statement_candidate--44d8870d2d1d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    microsoft/VibeVoice\",\n  \"text_sha256\": \"44d8870d2d1de1f23832776477afc559d9d01b8e4aff74f2558eea205f96f24b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-219-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"44d8870d2d1de1f23832776477afc559d9d01b8e4aff74f2558eea205f96f24b\",\n    \
+    \  \"id\": \"corpus-219-purpose\",\n      \"url\": \"https://github.com/microsoft/VibeVoice/blob/303b2833e01cff4578ec278bbfe536da54bd19fe/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/microsoft/VibeVoice/303b2833e01cff4578ec278bbfe536da54bd19fe/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:11.245388+00:00\",\n      \"version\"\
+    : \"303b2833e01cff4578ec278bbfe536da54bd19fe\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-219-purpose.raw.md\"\
+    ,\n      \"sha256\": \"44d8870d2d1de1f23832776477afc559d9d01b8e4aff74f2558eea205f96f24b\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"44d8870d2d1de1f23832776477afc559d9d01b8e4aff74f2558eea205f96f24b\"\
+    ,\n    \"converted_sha256\": \"baaad1f7b257d70581e09f326ef91b5543aae499f0a62cfb2aa2c7d4d901b986\"\
+    \n  }\n}"
+  name: microsoft__VibeVoice--purpose_statement_candidate--44d8870d2d1d.md
+  owner: NicolasH
+  risid: null
+name: microsoft__VibeVoice--purpose_statement_candidate--44d8870d2d1d.md
+path: corpus/qda-case-219/543.txt

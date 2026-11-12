@@ -1,0 +1,58 @@
+hash: 4f0accf5168d7cfdea927469c7f6db3a1cbdca1963cbd2f17475e67ef4bda838
+id: qda-source-506@qda-case-185
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 185
+    date: '2026-11-05 22:19:55'
+    fid: 506
+    id: 506
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5308
+  content_sha256: 4f0accf5168d7cfdea927469c7f6db3a1cbdca1963cbd2f17475e67ef4bda838
+  date: '2026-11-05 22:19:55'
+  id: 506
+  import_metadata:
+    conversion:
+      converted_sha256: 4f0accf5168d7cfdea927469c7f6db3a1cbdca1963cbd2f17475e67ef4bda838
+      original_sha256: dfd9c1d882b63f3ef7dc493104f6b503a947fa688e28696448e24179e77f0143
+      version: oss-ai-policies/clean-markdown-v1
+    entity: lichess-org/lila
+    provenance:
+    - accessed_at: '2026-11-05T19:12:07.144425+00:00'
+      id: corpus-185-purpose
+      original_file_sha256: dfd9c1d882b63f3ef7dc493104f6b503a947fa688e28696448e24179e77f0143
+      path: analysis/corpus-assessment/sources/corpus-185-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-185-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/lichess-org/lila/cdad1c52a8fee807a94d914c5704b122abcebaed/README.md
+      role: purpose_statement_candidate
+      sha256: dfd9c1d882b63f3ef7dc493104f6b503a947fa688e28696448e24179e77f0143
+      url: https://github.com/lichess-org/lila/blob/cdad1c52a8fee807a94d914c5704b122abcebaed/README.md
+      version: cdad1c52a8fee807a94d914c5704b122abcebaed
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: dfd9c1d882b63f3ef7dc493104f6b503a947fa688e28696448e24179e77f0143
+  mediapath: /docs/lichess-org__lila--purpose_statement_candidate--dfd9c1d882b6.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    lichess-org/lila\",\n  \"text_sha256\": \"dfd9c1d882b63f3ef7dc493104f6b503a947fa688e28696448e24179e77f0143\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-185-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"dfd9c1d882b63f3ef7dc493104f6b503a947fa688e28696448e24179e77f0143\",\n    \
+    \  \"id\": \"corpus-185-purpose\",\n      \"url\": \"https://github.com/lichess-org/lila/blob/cdad1c52a8fee807a94d914c5704b122abcebaed/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/lichess-org/lila/cdad1c52a8fee807a94d914c5704b122abcebaed/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:07.144425+00:00\",\n      \"version\"\
+    : \"cdad1c52a8fee807a94d914c5704b122abcebaed\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-185-purpose.raw.md\"\
+    ,\n      \"sha256\": \"dfd9c1d882b63f3ef7dc493104f6b503a947fa688e28696448e24179e77f0143\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"dfd9c1d882b63f3ef7dc493104f6b503a947fa688e28696448e24179e77f0143\"\
+    ,\n    \"converted_sha256\": \"4f0accf5168d7cfdea927469c7f6db3a1cbdca1963cbd2f17475e67ef4bda838\"\
+    \n  }\n}"
+  name: lichess-org__lila--purpose_statement_candidate--dfd9c1d882b6.md
+  owner: NicolasH
+  risid: null
+name: lichess-org__lila--purpose_statement_candidate--dfd9c1d882b6.md
+path: corpus/qda-case-185/506.txt

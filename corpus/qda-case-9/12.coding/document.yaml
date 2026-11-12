@@ -1,0 +1,50 @@
+hash: 156b5d219c7d3ff2fa4994445eeaaf6e16cd8409fbc612abf93e2a1341c31ce8
+id: qda-source-12@qda-case-9
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 9
+    date: '2026-11-05 22:19:55'
+    fid: 12
+    id: 11
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6296
+  content_sha256: 156b5d219c7d3ff2fa4994445eeaaf6e16cd8409fbc612abf93e2a1341c31ce8
+  date: '2026-11-05 22:19:55'
+  id: 12
+  import_metadata:
+    conversion:
+      converted_sha256: 156b5d219c7d3ff2fa4994445eeaaf6e16cd8409fbc612abf93e2a1341c31ce8
+      original_sha256: 83cb0fb94cd34df5c0281c28153f9a170a27d7c8dc25039c5f97c44bc17413ea
+      version: oss-ai-policies/clean-markdown-v1
+    entity: SunPy
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 83cb0fb94cd34df5c0281c28153f9a170a27d7c8dc25039c5f97c44bc17413ea
+      path: data/281/policies/SunPy/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://docs.sunpy.org/en/latest/dev_guide/contents/ai_usage.html
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 83cb0fb94cd34df5c0281c28153f9a170a27d7c8dc25039c5f97c44bc17413ea
+  mediapath: /docs/SunPy--ai_policy--83cb0fb94cd3.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    SunPy\",\n  \"text_sha256\": \"83cb0fb94cd34df5c0281c28153f9a170a27d7c8dc25039c5f97c44bc17413ea\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/SunPy/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"83cb0fb94cd34df5c0281c28153f9a170a27d7c8dc25039c5f97c44bc17413ea\"\
+    ,\n      \"source_url_cell\": \"https://docs.sunpy.org/en/latest/dev_guide/contents/ai_usage.html\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"83cb0fb94cd34df5c0281c28153f9a170a27d7c8dc25039c5f97c44bc17413ea\"\
+    ,\n    \"converted_sha256\": \"156b5d219c7d3ff2fa4994445eeaaf6e16cd8409fbc612abf93e2a1341c31ce8\"\
+    \n  }\n}"
+  name: SunPy--ai_policy--83cb0fb94cd3.md
+  owner: NicolasH
+  risid: null
+name: SunPy--ai_policy--83cb0fb94cd3.md
+path: corpus/qda-case-9/12.txt

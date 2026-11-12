@@ -1,0 +1,58 @@
+hash: 5d47301339c6acb3606f2e7e38cf8481d9c72fe3768cecd06235dd99dce663cd
+id: qda-source-331@qda-case-16
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 16
+    date: '2026-11-05 22:19:55'
+    fid: 331
+    id: 331
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8086
+  content_sha256: 5d47301339c6acb3606f2e7e38cf8481d9c72fe3768cecd06235dd99dce663cd
+  date: '2026-11-05 22:19:55'
+  id: 331
+  import_metadata:
+    conversion:
+      converted_sha256: 5d47301339c6acb3606f2e7e38cf8481d9c72fe3768cecd06235dd99dce663cd
+      original_sha256: 9f415e09a4509e65b0ebc3c098e6ba0f03e0e23f81eea095dfe4cd35f2a99783
+      version: oss-ai-policies/clean-markdown-v1
+    entity: diesel-rs/diesel
+    provenance:
+    - accessed_at: '2026-11-05T19:11:49.882534+00:00'
+      id: corpus-016-purpose
+      original_file_sha256: 9f415e09a4509e65b0ebc3c098e6ba0f03e0e23f81eea095dfe4cd35f2a99783
+      path: analysis/corpus-assessment/sources/corpus-016-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-016-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/diesel-rs/diesel/d4378b5012ff44d870f6f75bd50c1e44779203a0/README.md
+      role: purpose_statement_candidate
+      sha256: 9f415e09a4509e65b0ebc3c098e6ba0f03e0e23f81eea095dfe4cd35f2a99783
+      url: https://github.com/diesel-rs/diesel/blob/d4378b5012ff44d870f6f75bd50c1e44779203a0/README.md
+      version: d4378b5012ff44d870f6f75bd50c1e44779203a0
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9f415e09a4509e65b0ebc3c098e6ba0f03e0e23f81eea095dfe4cd35f2a99783
+  mediapath: /docs/diesel-rs__diesel--purpose_statement_candidate--9f415e09a450.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    diesel-rs/diesel\",\n  \"text_sha256\": \"9f415e09a4509e65b0ebc3c098e6ba0f03e0e23f81eea095dfe4cd35f2a99783\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-016-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9f415e09a4509e65b0ebc3c098e6ba0f03e0e23f81eea095dfe4cd35f2a99783\",\n    \
+    \  \"id\": \"corpus-016-purpose\",\n      \"url\": \"https://github.com/diesel-rs/diesel/blob/d4378b5012ff44d870f6f75bd50c1e44779203a0/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/diesel-rs/diesel/d4378b5012ff44d870f6f75bd50c1e44779203a0/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:49.882534+00:00\",\n      \"version\"\
+    : \"d4378b5012ff44d870f6f75bd50c1e44779203a0\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-016-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9f415e09a4509e65b0ebc3c098e6ba0f03e0e23f81eea095dfe4cd35f2a99783\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9f415e09a4509e65b0ebc3c098e6ba0f03e0e23f81eea095dfe4cd35f2a99783\"\
+    ,\n    \"converted_sha256\": \"5d47301339c6acb3606f2e7e38cf8481d9c72fe3768cecd06235dd99dce663cd\"\
+    \n  }\n}"
+  name: diesel-rs__diesel--purpose_statement_candidate--9f415e09a450.md
+  owner: NicolasH
+  risid: null
+name: diesel-rs__diesel--purpose_statement_candidate--9f415e09a450.md
+path: corpus/qda-case-16/331.txt

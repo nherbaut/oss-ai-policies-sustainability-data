@@ -1,0 +1,58 @@
+hash: ab530d8f1f1edb50e6b7df7c9f66e891ef0d68a1af03b6a7fbf0239deb46983b
+id: qda-source-344@qda-case-30
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 30
+    date: '2026-11-05 22:19:55'
+    fid: 344
+    id: 344
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6060
+  content_sha256: ab530d8f1f1edb50e6b7df7c9f66e891ef0d68a1af03b6a7fbf0239deb46983b
+  date: '2026-11-05 22:19:55'
+  id: 344
+  import_metadata:
+    conversion:
+      converted_sha256: ab530d8f1f1edb50e6b7df7c9f66e891ef0d68a1af03b6a7fbf0239deb46983b
+      original_sha256: aaf74bd18a6e8be37979d98e267a8b1bb7241c8146a334f9091d1cdb22de8605
+      version: oss-ai-policies/clean-markdown-v1
+    entity: lynx-family/lynx
+    provenance:
+    - accessed_at: '2026-11-05T19:11:51.434908+00:00'
+      id: corpus-030-purpose
+      original_file_sha256: aaf74bd18a6e8be37979d98e267a8b1bb7241c8146a334f9091d1cdb22de8605
+      path: analysis/corpus-assessment/sources/corpus-030-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-030-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/lynx-family/lynx/659f2180e16e62e1eba9ec18d448e767d53d4abb/README.md
+      role: purpose_statement_candidate
+      sha256: aaf74bd18a6e8be37979d98e267a8b1bb7241c8146a334f9091d1cdb22de8605
+      url: https://github.com/lynx-family/lynx/blob/659f2180e16e62e1eba9ec18d448e767d53d4abb/README.md
+      version: 659f2180e16e62e1eba9ec18d448e767d53d4abb
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: aaf74bd18a6e8be37979d98e267a8b1bb7241c8146a334f9091d1cdb22de8605
+  mediapath: /docs/lynx-family__lynx--purpose_statement_candidate--aaf74bd18a6e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    lynx-family/lynx\",\n  \"text_sha256\": \"aaf74bd18a6e8be37979d98e267a8b1bb7241c8146a334f9091d1cdb22de8605\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-030-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"aaf74bd18a6e8be37979d98e267a8b1bb7241c8146a334f9091d1cdb22de8605\",\n    \
+    \  \"id\": \"corpus-030-purpose\",\n      \"url\": \"https://github.com/lynx-family/lynx/blob/659f2180e16e62e1eba9ec18d448e767d53d4abb/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/lynx-family/lynx/659f2180e16e62e1eba9ec18d448e767d53d4abb/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:51.434908+00:00\",\n      \"version\"\
+    : \"659f2180e16e62e1eba9ec18d448e767d53d4abb\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-030-purpose.raw.md\"\
+    ,\n      \"sha256\": \"aaf74bd18a6e8be37979d98e267a8b1bb7241c8146a334f9091d1cdb22de8605\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"aaf74bd18a6e8be37979d98e267a8b1bb7241c8146a334f9091d1cdb22de8605\"\
+    ,\n    \"converted_sha256\": \"ab530d8f1f1edb50e6b7df7c9f66e891ef0d68a1af03b6a7fbf0239deb46983b\"\
+    \n  }\n}"
+  name: lynx-family__lynx--purpose_statement_candidate--aaf74bd18a6e.md
+  owner: NicolasH
+  risid: null
+name: lynx-family__lynx--purpose_statement_candidate--aaf74bd18a6e.md
+path: corpus/qda-case-30/344.txt

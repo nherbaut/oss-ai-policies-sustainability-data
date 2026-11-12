@@ -1,0 +1,43 @@
+hash: e6ae29fc137802f0a1ee163c6575fb787f5afced84110132a1103a2c3142da90
+id: qda-source-7@qda-case-6
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 6
+    date: '2026-11-05 22:19:55'
+    fid: 7
+    id: 6
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3904
+  content_sha256: e6ae29fc137802f0a1ee163c6575fb787f5afced84110132a1103a2c3142da90
+  date: '2026-11-05 22:19:55'
+  id: 7
+  import_metadata:
+    entity: mastodon/mastodon
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: e6ae29fc137802f0a1ee163c6575fb787f5afced84110132a1103a2c3142da90
+      path: data/281/policies/mastodon/mastodon/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/mastodon/mastodon/blob/52e9ec7814fc971598696ba4bf33d06ac1a51938/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: e6ae29fc137802f0a1ee163c6575fb787f5afced84110132a1103a2c3142da90
+  mediapath: /docs/mastodon__mastodon--contributing--e6ae29fc1378.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    mastodon/mastodon\",\n  \"text_sha256\": \"e6ae29fc137802f0a1ee163c6575fb787f5afced84110132a1103a2c3142da90\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/mastodon/mastodon/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"e6ae29fc137802f0a1ee163c6575fb787f5afced84110132a1103a2c3142da90\"\
+    ,\n      \"source_url_cell\": \"https://github.com/mastodon/mastodon/blob/52e9ec7814fc971598696ba4bf33d06ac1a51938/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: mastodon__mastodon--contributing--e6ae29fc1378.md
+  owner: NicolasH
+  risid: null
+name: mastodon__mastodon--contributing--e6ae29fc1378.md
+path: corpus/qda-case-6/7.txt

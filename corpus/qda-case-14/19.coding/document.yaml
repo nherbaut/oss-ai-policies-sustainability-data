@@ -1,0 +1,43 @@
+hash: 1e4b71f830ddbdd968ca28eaed4b93a343c5b1ca02b4e71974c2a7a0d385992c
+id: qda-source-19@qda-case-14
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 14
+    date: '2026-11-05 22:19:55'
+    fid: 19
+    id: 18
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9013
+  content_sha256: 1e4b71f830ddbdd968ca28eaed4b93a343c5b1ca02b4e71974c2a7a0d385992c
+  date: '2026-11-05 22:19:55'
+  id: 19
+  import_metadata:
+    entity: nextcloud/server
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 1e4b71f830ddbdd968ca28eaed4b93a343c5b1ca02b4e71974c2a7a0d385992c
+      path: data/281/policies/nextcloud/server/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://github.com/nextcloud/.github/blob/master/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 1e4b71f830ddbdd968ca28eaed4b93a343c5b1ca02b4e71974c2a7a0d385992c
+  mediapath: /docs/nextcloud__server--other_policy--1e4b71f830dd.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    nextcloud/server\",\n  \"text_sha256\": \"1e4b71f830ddbdd968ca28eaed4b93a343c5b1ca02b4e71974c2a7a0d385992c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/nextcloud/server/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"1e4b71f830ddbdd968ca28eaed4b93a343c5b1ca02b4e71974c2a7a0d385992c\"\
+    ,\n      \"source_url_cell\": \"https://github.com/nextcloud/.github/blob/master/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: nextcloud__server--other_policy--1e4b71f830dd.md
+  owner: NicolasH
+  risid: null
+name: nextcloud__server--other_policy--1e4b71f830dd.md
+path: corpus/qda-case-14/19.txt

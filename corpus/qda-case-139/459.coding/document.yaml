@@ -1,0 +1,58 @@
+hash: 8f1e1ca9f67108a92fa825ce3ecc26781c114abe5801dd75ee8d7a645e0502f5
+id: qda-source-459@qda-case-139
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 139
+    date: '2026-11-05 22:19:55'
+    fid: 459
+    id: 459
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3474
+  content_sha256: 8f1e1ca9f67108a92fa825ce3ecc26781c114abe5801dd75ee8d7a645e0502f5
+  date: '2026-11-05 22:19:55'
+  id: 459
+  import_metadata:
+    conversion:
+      converted_sha256: 8f1e1ca9f67108a92fa825ce3ecc26781c114abe5801dd75ee8d7a645e0502f5
+      original_sha256: d7872d9c4ca070331d0008bbb1111d931e119a00a8ed0992fa4393a5de84135b
+      version: oss-ai-policies/clean-markdown-v1
+    entity: blakeblackshear/frigate
+    provenance:
+    - accessed_at: '2026-11-05T19:12:02.280319+00:00'
+      id: corpus-139-purpose
+      original_file_sha256: d7872d9c4ca070331d0008bbb1111d931e119a00a8ed0992fa4393a5de84135b
+      path: analysis/corpus-assessment/sources/corpus-139-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-139-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/blakeblackshear/frigate/a8eca68438579aef3326029080d911c89dd3e907/README.md
+      role: purpose_statement_candidate
+      sha256: d7872d9c4ca070331d0008bbb1111d931e119a00a8ed0992fa4393a5de84135b
+      url: https://github.com/blakeblackshear/frigate/blob/a8eca68438579aef3326029080d911c89dd3e907/README.md
+      version: a8eca68438579aef3326029080d911c89dd3e907
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: d7872d9c4ca070331d0008bbb1111d931e119a00a8ed0992fa4393a5de84135b
+  mediapath: /docs/blakeblackshear__frigate--purpose_statement_candidate--d7872d9c4ca0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    blakeblackshear/frigate\",\n  \"text_sha256\": \"d7872d9c4ca070331d0008bbb1111d931e119a00a8ed0992fa4393a5de84135b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-139-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"d7872d9c4ca070331d0008bbb1111d931e119a00a8ed0992fa4393a5de84135b\",\n    \
+    \  \"id\": \"corpus-139-purpose\",\n      \"url\": \"https://github.com/blakeblackshear/frigate/blob/a8eca68438579aef3326029080d911c89dd3e907/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/blakeblackshear/frigate/a8eca68438579aef3326029080d911c89dd3e907/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:02.280319+00:00\",\n      \"version\"\
+    : \"a8eca68438579aef3326029080d911c89dd3e907\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-139-purpose.raw.md\"\
+    ,\n      \"sha256\": \"d7872d9c4ca070331d0008bbb1111d931e119a00a8ed0992fa4393a5de84135b\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"d7872d9c4ca070331d0008bbb1111d931e119a00a8ed0992fa4393a5de84135b\"\
+    ,\n    \"converted_sha256\": \"8f1e1ca9f67108a92fa825ce3ecc26781c114abe5801dd75ee8d7a645e0502f5\"\
+    \n  }\n}"
+  name: blakeblackshear__frigate--purpose_statement_candidate--d7872d9c4ca0.md
+  owner: NicolasH
+  risid: null
+name: blakeblackshear__frigate--purpose_statement_candidate--d7872d9c4ca0.md
+path: corpus/qda-case-139/459.txt

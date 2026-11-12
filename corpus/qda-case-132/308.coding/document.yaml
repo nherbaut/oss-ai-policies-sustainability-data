@@ -1,0 +1,58 @@
+hash: 5b8148d0f52f40714c33095c46905b52a1c12b891ee22e10e51033e9da92d141
+id: qda-source-308@qda-case-132
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 132
+    date: '2026-11-05 22:19:55'
+    fid: 308
+    id: 308
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4962
+  content_sha256: 5b8148d0f52f40714c33095c46905b52a1c12b891ee22e10e51033e9da92d141
+  date: '2026-11-05 22:19:55'
+  id: 308
+  import_metadata:
+    conversion:
+      converted_sha256: 5b8148d0f52f40714c33095c46905b52a1c12b891ee22e10e51033e9da92d141
+      original_sha256: d225bee87b5023b28c76afba2ac2db4a69ba1e7a3e07c3247e67eb1a2d29f080
+      version: oss-ai-policies/clean-markdown-v1
+    entity: freecad/freecad
+    provenance:
+    - accessed_at: '2026-11-05T16:00:19.542077+00:00'
+      id: 04-purpose
+      original_file_sha256: d225bee87b5023b28c76afba2ac2db4a69ba1e7a3e07c3247e67eb1a2d29f080
+      path: analysis/feasibility-pilot/sources/04-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/04-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/freecad/freecad/02173427c469a27f28db0434decc1177225fa9d9/README.md
+      role: purpose_statement_candidate
+      sha256: d225bee87b5023b28c76afba2ac2db4a69ba1e7a3e07c3247e67eb1a2d29f080
+      url: https://github.com/freecad/freecad/blob/02173427c469a27f28db0434decc1177225fa9d9/README.md
+      version: 02173427c469a27f28db0434decc1177225fa9d9
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: d225bee87b5023b28c76afba2ac2db4a69ba1e7a3e07c3247e67eb1a2d29f080
+  mediapath: /docs/freecad__freecad--purpose_statement_candidate--d225bee87b50.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    freecad/freecad\",\n  \"text_sha256\": \"d225bee87b5023b28c76afba2ac2db4a69ba1e7a3e07c3247e67eb1a2d29f080\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/04-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"d225bee87b5023b28c76afba2ac2db4a69ba1e7a3e07c3247e67eb1a2d29f080\",\n    \
+    \  \"id\": \"04-purpose\",\n      \"url\": \"https://github.com/freecad/freecad/blob/02173427c469a27f28db0434decc1177225fa9d9/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/freecad/freecad/02173427c469a27f28db0434decc1177225fa9d9/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:19.542077+00:00\",\n      \"version\"\
+    : \"02173427c469a27f28db0434decc1177225fa9d9\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/04-purpose.raw.md\"\
+    ,\n      \"sha256\": \"d225bee87b5023b28c76afba2ac2db4a69ba1e7a3e07c3247e67eb1a2d29f080\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"d225bee87b5023b28c76afba2ac2db4a69ba1e7a3e07c3247e67eb1a2d29f080\"\
+    ,\n    \"converted_sha256\": \"5b8148d0f52f40714c33095c46905b52a1c12b891ee22e10e51033e9da92d141\"\
+    \n  }\n}"
+  name: freecad__freecad--purpose_statement_candidate--d225bee87b50.md
+  owner: NicolasH
+  risid: null
+name: freecad__freecad--purpose_statement_candidate--d225bee87b50.md
+path: corpus/qda-case-132/308.txt

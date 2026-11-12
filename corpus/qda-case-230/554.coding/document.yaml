@@ -1,0 +1,51 @@
+hash: ce3f909837c281d9b1127381c8796b67c846847197338c6d3cc9307d97212a54
+id: qda-source-554@qda-case-230
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 230
+    date: '2026-11-05 22:19:55'
+    fid: 554
+    id: 554
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12077
+  content_sha256: ce3f909837c281d9b1127381c8796b67c846847197338c6d3cc9307d97212a54
+  date: '2026-11-05 22:19:55'
+  id: 554
+  import_metadata:
+    entity: slint-ui/slint
+    provenance:
+    - accessed_at: '2026-11-05T19:12:13.139009+00:00'
+      id: corpus-230-purpose
+      original_file_sha256: ce3f909837c281d9b1127381c8796b67c846847197338c6d3cc9307d97212a54
+      path: analysis/corpus-assessment/sources/corpus-230-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-230-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/slint-ui/slint/a978809d37135b6d3abefb3f888baed7d1b41467/README.md
+      role: purpose_statement_candidate
+      sha256: ce3f909837c281d9b1127381c8796b67c846847197338c6d3cc9307d97212a54
+      url: https://github.com/slint-ui/slint/blob/a978809d37135b6d3abefb3f888baed7d1b41467/README.md
+      version: a978809d37135b6d3abefb3f888baed7d1b41467
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: ce3f909837c281d9b1127381c8796b67c846847197338c6d3cc9307d97212a54
+  mediapath: /docs/slint-ui__slint--purpose_statement_candidate--ce3f909837c2.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    slint-ui/slint\",\n  \"text_sha256\": \"ce3f909837c281d9b1127381c8796b67c846847197338c6d3cc9307d97212a54\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-230-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"ce3f909837c281d9b1127381c8796b67c846847197338c6d3cc9307d97212a54\",\n    \
+    \  \"id\": \"corpus-230-purpose\",\n      \"url\": \"https://github.com/slint-ui/slint/blob/a978809d37135b6d3abefb3f888baed7d1b41467/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/slint-ui/slint/a978809d37135b6d3abefb3f888baed7d1b41467/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:13.139009+00:00\",\n      \"version\"\
+    : \"a978809d37135b6d3abefb3f888baed7d1b41467\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-230-purpose.raw.md\"\
+    ,\n      \"sha256\": \"ce3f909837c281d9b1127381c8796b67c846847197338c6d3cc9307d97212a54\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: slint-ui__slint--purpose_statement_candidate--ce3f909837c2.md
+  owner: NicolasH
+  risid: null
+name: slint-ui__slint--purpose_statement_candidate--ce3f909837c2.md
+path: corpus/qda-case-230/554.txt

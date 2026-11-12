@@ -1,0 +1,58 @@
+hash: 8d4ab28a1194e4495fb575fcafbe01f0d48d6d29e37879146a709b28d8d52076
+id: qda-source-505@qda-case-184
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 184
+    date: '2026-11-05 22:19:55'
+    fid: 505
+    id: 505
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4702
+  content_sha256: 8d4ab28a1194e4495fb575fcafbe01f0d48d6d29e37879146a709b28d8d52076
+  date: '2026-11-05 22:19:55'
+  id: 505
+  import_metadata:
+    conversion:
+      converted_sha256: 8d4ab28a1194e4495fb575fcafbe01f0d48d6d29e37879146a709b28d8d52076
+      original_sha256: 41722ff4c19be2ca7b7a36e1e9fdbfe09d5003f9c74defca74d7ee50b2ec8073
+      version: oss-ai-policies/clean-markdown-v1
+    entity: letta-ai/letta
+    provenance:
+    - accessed_at: '2026-11-05T19:12:06.834321+00:00'
+      id: corpus-184-purpose
+      original_file_sha256: 41722ff4c19be2ca7b7a36e1e9fdbfe09d5003f9c74defca74d7ee50b2ec8073
+      path: analysis/corpus-assessment/sources/corpus-184-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-184-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/letta-ai/letta/b76da9092518cbaa2d09042e52fdcbde69243e18/README.md
+      role: purpose_statement_candidate
+      sha256: 41722ff4c19be2ca7b7a36e1e9fdbfe09d5003f9c74defca74d7ee50b2ec8073
+      url: https://github.com/letta-ai/letta/blob/b76da9092518cbaa2d09042e52fdcbde69243e18/README.md
+      version: b76da9092518cbaa2d09042e52fdcbde69243e18
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 41722ff4c19be2ca7b7a36e1e9fdbfe09d5003f9c74defca74d7ee50b2ec8073
+  mediapath: /docs/letta-ai__letta--purpose_statement_candidate--41722ff4c19b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    letta-ai/letta\",\n  \"text_sha256\": \"41722ff4c19be2ca7b7a36e1e9fdbfe09d5003f9c74defca74d7ee50b2ec8073\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-184-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"41722ff4c19be2ca7b7a36e1e9fdbfe09d5003f9c74defca74d7ee50b2ec8073\",\n    \
+    \  \"id\": \"corpus-184-purpose\",\n      \"url\": \"https://github.com/letta-ai/letta/blob/b76da9092518cbaa2d09042e52fdcbde69243e18/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/letta-ai/letta/b76da9092518cbaa2d09042e52fdcbde69243e18/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:06.834321+00:00\",\n      \"version\"\
+    : \"b76da9092518cbaa2d09042e52fdcbde69243e18\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-184-purpose.raw.md\"\
+    ,\n      \"sha256\": \"41722ff4c19be2ca7b7a36e1e9fdbfe09d5003f9c74defca74d7ee50b2ec8073\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"41722ff4c19be2ca7b7a36e1e9fdbfe09d5003f9c74defca74d7ee50b2ec8073\"\
+    ,\n    \"converted_sha256\": \"8d4ab28a1194e4495fb575fcafbe01f0d48d6d29e37879146a709b28d8d52076\"\
+    \n  }\n}"
+  name: letta-ai__letta--purpose_statement_candidate--41722ff4c19b.md
+  owner: NicolasH
+  risid: null
+name: letta-ai__letta--purpose_statement_candidate--41722ff4c19b.md
+path: corpus/qda-case-184/505.txt

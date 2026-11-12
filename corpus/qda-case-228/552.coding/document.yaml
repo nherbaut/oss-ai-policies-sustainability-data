@@ -1,0 +1,51 @@
+hash: e4abdca61bdc697505af2ed382d6b9094cc58ddc5e60c52381fb52f568161972
+id: qda-source-552@qda-case-228
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 228
+    date: '2026-11-05 22:19:55'
+    fid: 552
+    id: 552
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 19018
+  content_sha256: e4abdca61bdc697505af2ed382d6b9094cc58ddc5e60c52381fb52f568161972
+  date: '2026-11-05 22:19:55'
+  id: 552
+  import_metadata:
+    entity: m2team/nanazip
+    provenance:
+    - accessed_at: '2026-11-05T19:14:19.481020+00:00'
+      id: corpus-228-followup
+      original_file_sha256: e4abdca61bdc697505af2ed382d6b9094cc58ddc5e60c52381fb52f568161972
+      path: analysis/corpus-assessment/sources/corpus-228-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-228-followup.raw.md
+      resolved_url: https://raw.githubusercontent.com/m2team/nanazip/7551b164cb178f1b5b14e01969e5d16215bce275/ReadMe.md
+      role: purpose_statement_candidate
+      sha256: 20d5cb58fa4af921b28f1ae465dd038d34fbd71244478f4505c557b9a8206e68
+      url: https://github.com/m2team/nanazip/blob/7551b164cb178f1b5b14e01969e5d16215bce275/ReadMe.md
+      version: 7551b164cb178f1b5b14e01969e5d16215bce275
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: e4abdca61bdc697505af2ed382d6b9094cc58ddc5e60c52381fb52f568161972
+  mediapath: /docs/m2team__nanazip--purpose_statement_candidate--e4abdca61bdc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    m2team/nanazip\",\n  \"text_sha256\": \"e4abdca61bdc697505af2ed382d6b9094cc58ddc5e60c52381fb52f568161972\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-228-followup.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e4abdca61bdc697505af2ed382d6b9094cc58ddc5e60c52381fb52f568161972\",\n    \
+    \  \"id\": \"corpus-228-followup\",\n      \"url\": \"https://github.com/m2team/nanazip/blob/7551b164cb178f1b5b14e01969e5d16215bce275/ReadMe.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/m2team/nanazip/7551b164cb178f1b5b14e01969e5d16215bce275/ReadMe.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:14:19.481020+00:00\",\n      \"version\"\
+    : \"7551b164cb178f1b5b14e01969e5d16215bce275\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-228-followup.raw.md\"\
+    ,\n      \"sha256\": \"20d5cb58fa4af921b28f1ae465dd038d34fbd71244478f4505c557b9a8206e68\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: m2team__nanazip--purpose_statement_candidate--e4abdca61bdc.md
+  owner: NicolasH
+  risid: null
+name: m2team__nanazip--purpose_statement_candidate--e4abdca61bdc.md
+path: corpus/qda-case-228/552.txt

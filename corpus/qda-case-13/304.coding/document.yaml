@@ -1,0 +1,58 @@
+hash: 67a04d4ac426023859cfb16605bf4079000e684e7fd8566724b1db57209bd2f7
+id: qda-source-304@qda-case-13
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 13
+    date: '2026-11-05 22:19:55'
+    fid: 304
+    id: 304
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4097
+  content_sha256: 67a04d4ac426023859cfb16605bf4079000e684e7fd8566724b1db57209bd2f7
+  date: '2026-11-05 22:19:55'
+  id: 304
+  import_metadata:
+    conversion:
+      converted_sha256: 67a04d4ac426023859cfb16605bf4079000e684e7fd8566724b1db57209bd2f7
+      original_sha256: 108023f1608864c1b3c245c70f827eb4d5cd01d5e3747c31f7560930db5abc70
+      version: oss-ai-policies/clean-markdown-v1
+    entity: W3C
+    provenance:
+    - accessed_at: '2026-11-05T16:00:19.225041+00:00'
+      id: 01-purpose
+      original_file_sha256: 108023f1608864c1b3c245c70f827eb4d5cd01d5e3747c31f7560930db5abc70
+      path: analysis/feasibility-pilot/sources/01-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/01-purpose.html
+      resolved_url: https://www.w3.org/mission/
+      role: purpose_statement_candidate
+      sha256: d2c23c90fc4ac1c9a5c6d27222be93e5163f8ea878eb365d307751be2bd08f03
+      url: https://www.w3.org/mission/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 108023f1608864c1b3c245c70f827eb4d5cd01d5e3747c31f7560930db5abc70
+  mediapath: /docs/W3C--purpose_statement_candidate--108023f16088.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    W3C\",\n  \"text_sha256\": \"108023f1608864c1b3c245c70f827eb4d5cd01d5e3747c31f7560930db5abc70\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/01-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"108023f1608864c1b3c245c70f827eb4d5cd01d5e3747c31f7560930db5abc70\",\n    \
+    \  \"id\": \"01-purpose\",\n      \"url\": \"https://www.w3.org/mission/\",\n\
+    \      \"resolved_url\": \"https://www.w3.org/mission/\",\n      \"accessed_at\"\
+    : \"2026-11-05T16:00:19.225041+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/feasibility-pilot/sources/01-purpose.html\",\n      \"sha256\": \"\
+    d2c23c90fc4ac1c9a5c6d27222be93e5163f8ea878eb365d307751be2bd08f03\"\n    }\n  ],\n\
+    \  \"text_format\": \"Clean Markdown for coding; original corpus retained.\",\n\
+    \  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\",\n\
+    \    \"original_sha256\": \"108023f1608864c1b3c245c70f827eb4d5cd01d5e3747c31f7560930db5abc70\"\
+    ,\n    \"converted_sha256\": \"67a04d4ac426023859cfb16605bf4079000e684e7fd8566724b1db57209bd2f7\"\
+    \n  }\n}"
+  name: W3C--purpose_statement_candidate--108023f16088.md
+  owner: NicolasH
+  risid: null
+name: W3C--purpose_statement_candidate--108023f16088.md
+path: corpus/qda-case-13/304.txt

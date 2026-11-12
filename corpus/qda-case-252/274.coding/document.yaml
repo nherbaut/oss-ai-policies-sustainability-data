@@ -1,0 +1,43 @@
+hash: 57a0c0d2d9a94e115e2e3b08c53ed435fe9d58aca34e69f3ccd5843b7450b672
+id: qda-source-274@qda-case-252
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 252
+    date: '2026-11-05 22:19:55'
+    fid: 274
+    id: 273
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7613
+  content_sha256: 57a0c0d2d9a94e115e2e3b08c53ed435fe9d58aca34e69f3ccd5843b7450b672
+  date: '2026-11-05 22:19:55'
+  id: 274
+  import_metadata:
+    entity: aseprite/aseprite
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 57a0c0d2d9a94e115e2e3b08c53ed435fe9d58aca34e69f3ccd5843b7450b672
+      path: data/281/policies/aseprite/aseprite/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/aseprite/aseprite/blob/c4960507debebe9c5b3d4c79ee6be0946c936301/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 57a0c0d2d9a94e115e2e3b08c53ed435fe9d58aca34e69f3ccd5843b7450b672
+  mediapath: /docs/aseprite__aseprite--contributing--57a0c0d2d9a9.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    aseprite/aseprite\",\n  \"text_sha256\": \"57a0c0d2d9a94e115e2e3b08c53ed435fe9d58aca34e69f3ccd5843b7450b672\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/aseprite/aseprite/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"57a0c0d2d9a94e115e2e3b08c53ed435fe9d58aca34e69f3ccd5843b7450b672\"\
+    ,\n      \"source_url_cell\": \"https://github.com/aseprite/aseprite/blob/c4960507debebe9c5b3d4c79ee6be0946c936301/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: aseprite__aseprite--contributing--57a0c0d2d9a9.md
+  owner: NicolasH
+  risid: null
+name: aseprite__aseprite--contributing--57a0c0d2d9a9.md
+path: corpus/qda-case-252/274.txt

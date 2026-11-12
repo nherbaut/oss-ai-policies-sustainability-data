@@ -1,0 +1,58 @@
+hash: c662dd18b1ea44d631184329cfff8185439e1f42200a11b7fcf5e8447ac5ec1f
+id: qda-source-498@qda-case-178
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 178
+    date: '2026-11-05 22:19:55'
+    fid: 498
+    id: 498
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6302
+  content_sha256: c662dd18b1ea44d631184329cfff8185439e1f42200a11b7fcf5e8447ac5ec1f
+  date: '2026-11-05 22:19:55'
+  id: 498
+  import_metadata:
+    conversion:
+      converted_sha256: c662dd18b1ea44d631184329cfff8185439e1f42200a11b7fcf5e8447ac5ec1f
+      original_sha256: d6903c12f14ff825ed3ee324c32be8519e2cb6a767049b186304384adc19222b
+      version: oss-ai-policies/clean-markdown-v1
+    entity: goreleaser/goreleaser
+    provenance:
+    - accessed_at: '2026-11-05T19:12:06.041937+00:00'
+      id: corpus-178-purpose
+      original_file_sha256: d6903c12f14ff825ed3ee324c32be8519e2cb6a767049b186304384adc19222b
+      path: analysis/corpus-assessment/sources/corpus-178-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-178-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/goreleaser/goreleaser/ae4debbe4383dcc565f9251df2ea719501b8d9ea/README.md
+      role: purpose_statement_candidate
+      sha256: d6903c12f14ff825ed3ee324c32be8519e2cb6a767049b186304384adc19222b
+      url: https://github.com/goreleaser/goreleaser/blob/ae4debbe4383dcc565f9251df2ea719501b8d9ea/README.md
+      version: ae4debbe4383dcc565f9251df2ea719501b8d9ea
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: d6903c12f14ff825ed3ee324c32be8519e2cb6a767049b186304384adc19222b
+  mediapath: /docs/goreleaser__goreleaser--purpose_statement_candidate--d6903c12f14f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    goreleaser/goreleaser\",\n  \"text_sha256\": \"d6903c12f14ff825ed3ee324c32be8519e2cb6a767049b186304384adc19222b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-178-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"d6903c12f14ff825ed3ee324c32be8519e2cb6a767049b186304384adc19222b\",\n    \
+    \  \"id\": \"corpus-178-purpose\",\n      \"url\": \"https://github.com/goreleaser/goreleaser/blob/ae4debbe4383dcc565f9251df2ea719501b8d9ea/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/goreleaser/goreleaser/ae4debbe4383dcc565f9251df2ea719501b8d9ea/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:06.041937+00:00\",\n      \"version\"\
+    : \"ae4debbe4383dcc565f9251df2ea719501b8d9ea\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-178-purpose.raw.md\"\
+    ,\n      \"sha256\": \"d6903c12f14ff825ed3ee324c32be8519e2cb6a767049b186304384adc19222b\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"d6903c12f14ff825ed3ee324c32be8519e2cb6a767049b186304384adc19222b\"\
+    ,\n    \"converted_sha256\": \"c662dd18b1ea44d631184329cfff8185439e1f42200a11b7fcf5e8447ac5ec1f\"\
+    \n  }\n}"
+  name: goreleaser__goreleaser--purpose_statement_candidate--d6903c12f14f.md
+  owner: NicolasH
+  risid: null
+name: goreleaser__goreleaser--purpose_statement_candidate--d6903c12f14f.md
+path: corpus/qda-case-178/498.txt

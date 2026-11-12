@@ -1,0 +1,58 @@
+hash: 404c36b0be1b8ba781bcd9622ac2b008769c0da80ca7998a825e0b7f3815d21d
+id: qda-source-359@qda-case-40
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 40
+    date: '2026-11-05 22:19:55'
+    fid: 359
+    id: 359
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5350
+  content_sha256: 404c36b0be1b8ba781bcd9622ac2b008769c0da80ca7998a825e0b7f3815d21d
+  date: '2026-11-05 22:19:55'
+  id: 359
+  import_metadata:
+    conversion:
+      converted_sha256: 404c36b0be1b8ba781bcd9622ac2b008769c0da80ca7998a825e0b7f3815d21d
+      original_sha256: cce5fc8c89a6b13ae2354891441663643e7177812e5ff0b3bf12062e5b5f48d2
+      version: oss-ai-policies/clean-markdown-v1
+    entity: OpenSSL
+    provenance:
+    - accessed_at: '2026-11-05T19:11:52.699105+00:00'
+      id: corpus-040-purpose
+      original_file_sha256: cce5fc8c89a6b13ae2354891441663643e7177812e5ff0b3bf12062e5b5f48d2
+      path: analysis/corpus-assessment/sources/corpus-040-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-040-purpose.html
+      resolved_url: https://openssl-library.org/about/
+      role: purpose_statement_candidate
+      sha256: a3dff0581c54a161b17fd373002d88b8b0542111c68c57672da760b2574c0206
+      url: https://openssl-library.org/about/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: cce5fc8c89a6b13ae2354891441663643e7177812e5ff0b3bf12062e5b5f48d2
+  mediapath: /docs/OpenSSL--purpose_statement_candidate--cce5fc8c89a6.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    OpenSSL\",\n  \"text_sha256\": \"cce5fc8c89a6b13ae2354891441663643e7177812e5ff0b3bf12062e5b5f48d2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-040-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"cce5fc8c89a6b13ae2354891441663643e7177812e5ff0b3bf12062e5b5f48d2\",\n    \
+    \  \"id\": \"corpus-040-purpose\",\n      \"url\": \"https://openssl-library.org/about/\"\
+    ,\n      \"resolved_url\": \"https://openssl-library.org/about/\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:11:52.699105+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-040-purpose.html\",\n      \"sha256\"\
+    : \"a3dff0581c54a161b17fd373002d88b8b0542111c68c57672da760b2574c0206\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"cce5fc8c89a6b13ae2354891441663643e7177812e5ff0b3bf12062e5b5f48d2\"\
+    ,\n    \"converted_sha256\": \"404c36b0be1b8ba781bcd9622ac2b008769c0da80ca7998a825e0b7f3815d21d\"\
+    \n  }\n}"
+  name: OpenSSL--purpose_statement_candidate--cce5fc8c89a6.md
+  owner: NicolasH
+  risid: null
+name: OpenSSL--purpose_statement_candidate--cce5fc8c89a6.md
+path: corpus/qda-case-40/359.txt

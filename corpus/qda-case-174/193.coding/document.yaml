@@ -1,0 +1,43 @@
+hash: f449da788ce322ad6e2ecc8083f000f4af6e8c00ba0ba97f152a420f550085f2
+id: qda-source-193@qda-case-174
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 174
+    date: '2026-11-05 22:19:55'
+    fid: 193
+    id: 192
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8947
+  content_sha256: f449da788ce322ad6e2ecc8083f000f4af6e8c00ba0ba97f152a420f550085f2
+  date: '2026-11-05 22:19:55'
+  id: 193
+  import_metadata:
+    entity: owasp/cheatsheetseries
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: f449da788ce322ad6e2ecc8083f000f4af6e8c00ba0ba97f152a420f550085f2
+      path: data/281/policies/owasp/cheatsheetseries/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/owasp/cheatsheetseries/blob/ae0b3f22f5b24381455f742af9b5fa84063ad770/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: f449da788ce322ad6e2ecc8083f000f4af6e8c00ba0ba97f152a420f550085f2
+  mediapath: /docs/owasp__cheatsheetseries--contributing--f449da788ce3.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    owasp/cheatsheetseries\",\n  \"text_sha256\": \"f449da788ce322ad6e2ecc8083f000f4af6e8c00ba0ba97f152a420f550085f2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/owasp/cheatsheetseries/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"f449da788ce322ad6e2ecc8083f000f4af6e8c00ba0ba97f152a420f550085f2\"\
+    ,\n      \"source_url_cell\": \"https://github.com/owasp/cheatsheetseries/blob/ae0b3f22f5b24381455f742af9b5fa84063ad770/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: owasp__cheatsheetseries--contributing--f449da788ce3.md
+  owner: NicolasH
+  risid: null
+name: owasp__cheatsheetseries--contributing--f449da788ce3.md
+path: corpus/qda-case-174/193.txt

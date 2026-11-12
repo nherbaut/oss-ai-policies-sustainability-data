@@ -1,0 +1,58 @@
+hash: 54ca16a375dc90d289d738b3848b23c652d97d24906139e56dbdb010e2f8496d
+id: qda-source-337@qda-case-23
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 23
+    date: '2026-11-05 22:19:55'
+    fid: 337
+    id: 337
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 17224
+  content_sha256: 54ca16a375dc90d289d738b3848b23c652d97d24906139e56dbdb010e2f8496d
+  date: '2026-11-05 22:19:55'
+  id: 337
+  import_metadata:
+    conversion:
+      converted_sha256: 54ca16a375dc90d289d738b3848b23c652d97d24906139e56dbdb010e2f8496d
+      original_sha256: 05a0c0d7dd5938f2ff56f300ac4bc0c455e6d9210fbeceabc7f0c20e5f2899fc
+      version: oss-ai-policies/clean-markdown-v1
+    entity: seleniumhq/selenium
+    provenance:
+    - accessed_at: '2026-11-05T19:11:49.884528+00:00'
+      id: corpus-023-purpose
+      original_file_sha256: 05a0c0d7dd5938f2ff56f300ac4bc0c455e6d9210fbeceabc7f0c20e5f2899fc
+      path: analysis/corpus-assessment/sources/corpus-023-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-023-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/seleniumhq/selenium/9bc87cfd3b410b5cdd7f02850d5e6619f1f7e0ed/README.md
+      role: purpose_statement_candidate
+      sha256: 05a0c0d7dd5938f2ff56f300ac4bc0c455e6d9210fbeceabc7f0c20e5f2899fc
+      url: https://github.com/seleniumhq/selenium/blob/9bc87cfd3b410b5cdd7f02850d5e6619f1f7e0ed/README.md
+      version: 9bc87cfd3b410b5cdd7f02850d5e6619f1f7e0ed
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 05a0c0d7dd5938f2ff56f300ac4bc0c455e6d9210fbeceabc7f0c20e5f2899fc
+  mediapath: /docs/seleniumhq__selenium--purpose_statement_candidate--05a0c0d7dd59.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    seleniumhq/selenium\",\n  \"text_sha256\": \"05a0c0d7dd5938f2ff56f300ac4bc0c455e6d9210fbeceabc7f0c20e5f2899fc\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-023-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"05a0c0d7dd5938f2ff56f300ac4bc0c455e6d9210fbeceabc7f0c20e5f2899fc\",\n    \
+    \  \"id\": \"corpus-023-purpose\",\n      \"url\": \"https://github.com/seleniumhq/selenium/blob/9bc87cfd3b410b5cdd7f02850d5e6619f1f7e0ed/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/seleniumhq/selenium/9bc87cfd3b410b5cdd7f02850d5e6619f1f7e0ed/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:49.884528+00:00\",\n      \"version\"\
+    : \"9bc87cfd3b410b5cdd7f02850d5e6619f1f7e0ed\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-023-purpose.raw.md\"\
+    ,\n      \"sha256\": \"05a0c0d7dd5938f2ff56f300ac4bc0c455e6d9210fbeceabc7f0c20e5f2899fc\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"05a0c0d7dd5938f2ff56f300ac4bc0c455e6d9210fbeceabc7f0c20e5f2899fc\"\
+    ,\n    \"converted_sha256\": \"54ca16a375dc90d289d738b3848b23c652d97d24906139e56dbdb010e2f8496d\"\
+    \n  }\n}"
+  name: seleniumhq__selenium--purpose_statement_candidate--05a0c0d7dd59.md
+  owner: NicolasH
+  risid: null
+name: seleniumhq__selenium--purpose_statement_candidate--05a0c0d7dd59.md
+path: corpus/qda-case-23/337.txt

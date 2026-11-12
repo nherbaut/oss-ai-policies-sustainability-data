@@ -1,0 +1,58 @@
+hash: 2db70b3d5cd273414322761ef9824fd996a4f0e01e7356704755329711ff90f0
+id: qda-source-509@qda-case-188
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 188
+    date: '2026-11-05 22:19:55'
+    fid: 509
+    id: 509
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 13455
+  content_sha256: 2db70b3d5cd273414322761ef9824fd996a4f0e01e7356704755329711ff90f0
+  date: '2026-11-05 22:19:55'
+  id: 509
+  import_metadata:
+    conversion:
+      converted_sha256: 2db70b3d5cd273414322761ef9824fd996a4f0e01e7356704755329711ff90f0
+      original_sha256: 66415c8965246aff51858bfdf7abfa5446624795b49000898e0da54593e6eaf0
+      version: oss-ai-policies/clean-markdown-v1
+    entity: coollabsio/coolify
+    provenance:
+    - accessed_at: '2026-11-05T19:12:07.540002+00:00'
+      id: corpus-188-purpose
+      original_file_sha256: 66415c8965246aff51858bfdf7abfa5446624795b49000898e0da54593e6eaf0
+      path: analysis/corpus-assessment/sources/corpus-188-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-188-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/coollabsio/coolify/e7dff30b7c998c301fd91bd169727b90c59ec291/README.md
+      role: purpose_statement_candidate
+      sha256: 66415c8965246aff51858bfdf7abfa5446624795b49000898e0da54593e6eaf0
+      url: https://github.com/coollabsio/coolify/blob/e7dff30b7c998c301fd91bd169727b90c59ec291/README.md
+      version: e7dff30b7c998c301fd91bd169727b90c59ec291
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 66415c8965246aff51858bfdf7abfa5446624795b49000898e0da54593e6eaf0
+  mediapath: /docs/coollabsio__coolify--purpose_statement_candidate--66415c896524.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    coollabsio/coolify\",\n  \"text_sha256\": \"66415c8965246aff51858bfdf7abfa5446624795b49000898e0da54593e6eaf0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-188-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"66415c8965246aff51858bfdf7abfa5446624795b49000898e0da54593e6eaf0\",\n    \
+    \  \"id\": \"corpus-188-purpose\",\n      \"url\": \"https://github.com/coollabsio/coolify/blob/e7dff30b7c998c301fd91bd169727b90c59ec291/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/coollabsio/coolify/e7dff30b7c998c301fd91bd169727b90c59ec291/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:07.540002+00:00\",\n      \"version\"\
+    : \"e7dff30b7c998c301fd91bd169727b90c59ec291\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-188-purpose.raw.md\"\
+    ,\n      \"sha256\": \"66415c8965246aff51858bfdf7abfa5446624795b49000898e0da54593e6eaf0\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"66415c8965246aff51858bfdf7abfa5446624795b49000898e0da54593e6eaf0\"\
+    ,\n    \"converted_sha256\": \"2db70b3d5cd273414322761ef9824fd996a4f0e01e7356704755329711ff90f0\"\
+    \n  }\n}"
+  name: coollabsio__coolify--purpose_statement_candidate--66415c896524.md
+  owner: NicolasH
+  risid: null
+name: coollabsio__coolify--purpose_statement_candidate--66415c896524.md
+path: corpus/qda-case-188/509.txt

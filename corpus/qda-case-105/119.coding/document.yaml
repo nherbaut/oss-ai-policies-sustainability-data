@@ -1,0 +1,43 @@
+hash: 0bce7e06d00d865bf9460e81b7c1f77b136ff306fbd74d812ea677b83c3d3f4d
+id: qda-source-119@qda-case-105
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 105
+    date: '2026-11-05 22:19:55'
+    fid: 119
+    id: 118
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 16794
+  content_sha256: 0bce7e06d00d865bf9460e81b7c1f77b136ff306fbd74d812ea677b83c3d3f4d
+  date: '2026-11-05 22:19:55'
+  id: 119
+  import_metadata:
+    entity: agentscope-ai/agentscope
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 0bce7e06d00d865bf9460e81b7c1f77b136ff306fbd74d812ea677b83c3d3f4d
+      path: data/281/policies/agentscope-ai/agentscope/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/agentscope-ai/agentscope/blob/89ce2cf6666ec6f699d55f3e930e7582e85bc8a9/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 0bce7e06d00d865bf9460e81b7c1f77b136ff306fbd74d812ea677b83c3d3f4d
+  mediapath: /docs/agentscope-ai__agentscope--contributing--0bce7e06d00d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    agentscope-ai/agentscope\",\n  \"text_sha256\": \"0bce7e06d00d865bf9460e81b7c1f77b136ff306fbd74d812ea677b83c3d3f4d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/agentscope-ai/agentscope/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"0bce7e06d00d865bf9460e81b7c1f77b136ff306fbd74d812ea677b83c3d3f4d\"\
+    ,\n      \"source_url_cell\": \"https://github.com/agentscope-ai/agentscope/blob/89ce2cf6666ec6f699d55f3e930e7582e85bc8a9/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: agentscope-ai__agentscope--contributing--0bce7e06d00d.md
+  owner: NicolasH
+  risid: null
+name: agentscope-ai__agentscope--contributing--0bce7e06d00d.md
+path: corpus/qda-case-105/119.txt

@@ -1,0 +1,58 @@
+hash: 0c811a8ec01119d7b0044bb3f3c6ce56cd6a2662634059e398fccd1f8d1264d9
+id: qda-source-427@qda-case-103
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 103
+    date: '2026-11-05 22:19:55'
+    fid: 427
+    id: 427
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3889
+  content_sha256: 0c811a8ec01119d7b0044bb3f3c6ce56cd6a2662634059e398fccd1f8d1264d9
+  date: '2026-11-05 22:19:55'
+  id: 427
+  import_metadata:
+    conversion:
+      converted_sha256: 0c811a8ec01119d7b0044bb3f3c6ce56cd6a2662634059e398fccd1f8d1264d9
+      original_sha256: fef8bad5af359e0d921561202f30bc28224493851f7b5b113361c89c853a21d0
+      version: oss-ai-policies/clean-markdown-v1
+    entity: reflex-dev/reflex
+    provenance:
+    - accessed_at: '2026-11-05T19:11:59.275875+00:00'
+      id: corpus-103-purpose
+      original_file_sha256: fef8bad5af359e0d921561202f30bc28224493851f7b5b113361c89c853a21d0
+      path: analysis/corpus-assessment/sources/corpus-103-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-103-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/reflex-dev/reflex/34ee005724befc79b6593d240342d952a8fcc6f9/README.md
+      role: purpose_statement_candidate
+      sha256: fef8bad5af359e0d921561202f30bc28224493851f7b5b113361c89c853a21d0
+      url: https://github.com/reflex-dev/reflex/blob/34ee005724befc79b6593d240342d952a8fcc6f9/README.md
+      version: 34ee005724befc79b6593d240342d952a8fcc6f9
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: fef8bad5af359e0d921561202f30bc28224493851f7b5b113361c89c853a21d0
+  mediapath: /docs/reflex-dev__reflex--purpose_statement_candidate--fef8bad5af35.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    reflex-dev/reflex\",\n  \"text_sha256\": \"fef8bad5af359e0d921561202f30bc28224493851f7b5b113361c89c853a21d0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-103-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"fef8bad5af359e0d921561202f30bc28224493851f7b5b113361c89c853a21d0\",\n    \
+    \  \"id\": \"corpus-103-purpose\",\n      \"url\": \"https://github.com/reflex-dev/reflex/blob/34ee005724befc79b6593d240342d952a8fcc6f9/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/reflex-dev/reflex/34ee005724befc79b6593d240342d952a8fcc6f9/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:59.275875+00:00\",\n      \"version\"\
+    : \"34ee005724befc79b6593d240342d952a8fcc6f9\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-103-purpose.raw.md\"\
+    ,\n      \"sha256\": \"fef8bad5af359e0d921561202f30bc28224493851f7b5b113361c89c853a21d0\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"fef8bad5af359e0d921561202f30bc28224493851f7b5b113361c89c853a21d0\"\
+    ,\n    \"converted_sha256\": \"0c811a8ec01119d7b0044bb3f3c6ce56cd6a2662634059e398fccd1f8d1264d9\"\
+    \n  }\n}"
+  name: reflex-dev__reflex--purpose_statement_candidate--fef8bad5af35.md
+  owner: NicolasH
+  risid: null
+name: reflex-dev__reflex--purpose_statement_candidate--fef8bad5af35.md
+path: corpus/qda-case-103/427.txt

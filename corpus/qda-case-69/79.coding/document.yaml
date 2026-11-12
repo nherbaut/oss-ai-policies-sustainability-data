@@ -1,0 +1,43 @@
+hash: 523c18b995f8c908230dd452d46dca16d07829057e5c9b3342afdf794acb51ad
+id: qda-source-79@qda-case-69
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 69
+    date: '2026-11-05 22:19:55'
+    fid: 79
+    id: 78
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1818
+  content_sha256: 523c18b995f8c908230dd452d46dca16d07829057e5c9b3342afdf794acb51ad
+  date: '2026-11-05 22:19:55'
+  id: 79
+  import_metadata:
+    entity: pytorch/pytorch
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 523c18b995f8c908230dd452d46dca16d07829057e5c9b3342afdf794acb51ad
+      path: data/281/policies/pytorch/pytorch/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/pytorch/pytorch/blob/17c69925f67b564d6d50c32a2cf4036f483e0e1a/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 523c18b995f8c908230dd452d46dca16d07829057e5c9b3342afdf794acb51ad
+  mediapath: /docs/pytorch__pytorch--ai_policy--523c18b995f8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    pytorch/pytorch\",\n  \"text_sha256\": \"523c18b995f8c908230dd452d46dca16d07829057e5c9b3342afdf794acb51ad\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/pytorch/pytorch/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"523c18b995f8c908230dd452d46dca16d07829057e5c9b3342afdf794acb51ad\"\
+    ,\n      \"source_url_cell\": \"https://github.com/pytorch/pytorch/blob/17c69925f67b564d6d50c32a2cf4036f483e0e1a/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: pytorch__pytorch--ai_policy--523c18b995f8.md
+  owner: NicolasH
+  risid: null
+name: pytorch__pytorch--ai_policy--523c18b995f8.md
+path: corpus/qda-case-69/79.txt

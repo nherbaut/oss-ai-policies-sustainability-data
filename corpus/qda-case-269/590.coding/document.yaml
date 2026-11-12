@@ -1,0 +1,58 @@
+hash: 83c1faac2a422a7f41a77e281e2e080496fca7bb02e2b179a24f63c7502f91a5
+id: qda-source-590@qda-case-269
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 269
+    date: '2026-11-05 22:19:55'
+    fid: 590
+    id: 590
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 21356
+  content_sha256: 83c1faac2a422a7f41a77e281e2e080496fca7bb02e2b179a24f63c7502f91a5
+  date: '2026-11-05 22:19:55'
+  id: 590
+  import_metadata:
+    conversion:
+      converted_sha256: 83c1faac2a422a7f41a77e281e2e080496fca7bb02e2b179a24f63c7502f91a5
+      original_sha256: 31e19cf5ff75054f3fe040a3305dc37e62129e329558bf58ed236989bd2e8669
+      version: oss-ai-policies/clean-markdown-v1
+    entity: mintplex-labs/anything-llm
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.149764+00:00'
+      id: corpus-269-purpose
+      original_file_sha256: 31e19cf5ff75054f3fe040a3305dc37e62129e329558bf58ed236989bd2e8669
+      path: analysis/corpus-assessment/sources/corpus-269-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-269-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/mintplex-labs/anything-llm/61766d06b77b903f66dc4afd8dffb3a39012db14/README.md
+      role: purpose_statement_candidate
+      sha256: 31e19cf5ff75054f3fe040a3305dc37e62129e329558bf58ed236989bd2e8669
+      url: https://github.com/mintplex-labs/anything-llm/blob/61766d06b77b903f66dc4afd8dffb3a39012db14/README.md
+      version: 61766d06b77b903f66dc4afd8dffb3a39012db14
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 31e19cf5ff75054f3fe040a3305dc37e62129e329558bf58ed236989bd2e8669
+  mediapath: /docs/mintplex-labs__anything-llm--purpose_statement_candidate--31e19cf5ff75.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    mintplex-labs/anything-llm\",\n  \"text_sha256\": \"31e19cf5ff75054f3fe040a3305dc37e62129e329558bf58ed236989bd2e8669\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-269-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"31e19cf5ff75054f3fe040a3305dc37e62129e329558bf58ed236989bd2e8669\",\n    \
+    \  \"id\": \"corpus-269-purpose\",\n      \"url\": \"https://github.com/mintplex-labs/anything-llm/blob/61766d06b77b903f66dc4afd8dffb3a39012db14/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/mintplex-labs/anything-llm/61766d06b77b903f66dc4afd8dffb3a39012db14/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:16.149764+00:00\",\n      \"version\"\
+    : \"61766d06b77b903f66dc4afd8dffb3a39012db14\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-269-purpose.raw.md\"\
+    ,\n      \"sha256\": \"31e19cf5ff75054f3fe040a3305dc37e62129e329558bf58ed236989bd2e8669\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"31e19cf5ff75054f3fe040a3305dc37e62129e329558bf58ed236989bd2e8669\"\
+    ,\n    \"converted_sha256\": \"83c1faac2a422a7f41a77e281e2e080496fca7bb02e2b179a24f63c7502f91a5\"\
+    \n  }\n}"
+  name: mintplex-labs__anything-llm--purpose_statement_candidate--31e19cf5ff75.md
+  owner: NicolasH
+  risid: null
+name: mintplex-labs__anything-llm--purpose_statement_candidate--31e19cf5ff75.md
+path: corpus/qda-case-269/590.txt

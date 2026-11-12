@@ -1,0 +1,43 @@
+hash: 75254e2fd431ef6bfda0af5febd7bde36f787151cc8b3aefd3eeef21b5785321
+id: qda-source-295@qda-case-273
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 273
+    date: '2026-11-05 22:19:55'
+    fid: 295
+    id: 294
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2037
+  content_sha256: 75254e2fd431ef6bfda0af5febd7bde36f787151cc8b3aefd3eeef21b5785321
+  date: '2026-11-05 22:19:55'
+  id: 295
+  import_metadata:
+    entity: opentofu/opentofu
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 75254e2fd431ef6bfda0af5febd7bde36f787151cc8b3aefd3eeef21b5785321
+      path: data/281/policies/opentofu/opentofu/agent.md
+      retrieved_at: null
+      role: agent
+      source_url_cell: https://github.com/opentofu/opentofu/blob/af57c7a0e76b49c60040bb3bd8d0de58921400a9/AGENTS.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 75254e2fd431ef6bfda0af5febd7bde36f787151cc8b3aefd3eeef21b5785321
+  mediapath: /docs/opentofu__opentofu--agent--75254e2fd431.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    opentofu/opentofu\",\n  \"text_sha256\": \"75254e2fd431ef6bfda0af5febd7bde36f787151cc8b3aefd3eeef21b5785321\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/opentofu/opentofu/agent.md\"\
+    ,\n      \"role\": \"agent\",\n      \"original_file_sha256\": \"75254e2fd431ef6bfda0af5febd7bde36f787151cc8b3aefd3eeef21b5785321\"\
+    ,\n      \"source_url_cell\": \"https://github.com/opentofu/opentofu/blob/af57c7a0e76b49c60040bb3bd8d0de58921400a9/AGENTS.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: opentofu__opentofu--agent--75254e2fd431.md
+  owner: NicolasH
+  risid: null
+name: opentofu__opentofu--agent--75254e2fd431.md
+path: corpus/qda-case-273/295.txt

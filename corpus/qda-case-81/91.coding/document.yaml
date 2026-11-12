@@ -1,0 +1,43 @@
+hash: 5c4558ff1d99558db4b14fef884a75476b75c095b73de0877dbafd2d80d975d8
+id: qda-source-91@qda-case-81
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 81
+    date: '2026-11-05 22:19:55'
+    fid: 91
+    id: 90
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8187
+  content_sha256: 5c4558ff1d99558db4b14fef884a75476b75c095b73de0877dbafd2d80d975d8
+  date: '2026-11-05 22:19:55'
+  id: 91
+  import_metadata:
+    entity: tauri-apps/tauri
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 5c4558ff1d99558db4b14fef884a75476b75c095b73de0877dbafd2d80d975d8
+      path: data/281/policies/tauri-apps/tauri/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/tauri-apps/tauri/blob/5b19ac9f19956cf6a318f4f01ffbf17b73d0b3a1/.github/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 5c4558ff1d99558db4b14fef884a75476b75c095b73de0877dbafd2d80d975d8
+  mediapath: /docs/tauri-apps__tauri--contributing--5c4558ff1d99.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    tauri-apps/tauri\",\n  \"text_sha256\": \"5c4558ff1d99558db4b14fef884a75476b75c095b73de0877dbafd2d80d975d8\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/tauri-apps/tauri/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"5c4558ff1d99558db4b14fef884a75476b75c095b73de0877dbafd2d80d975d8\"\
+    ,\n      \"source_url_cell\": \"https://github.com/tauri-apps/tauri/blob/5b19ac9f19956cf6a318f4f01ffbf17b73d0b3a1/.github/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: tauri-apps__tauri--contributing--5c4558ff1d99.md
+  owner: NicolasH
+  risid: null
+name: tauri-apps__tauri--contributing--5c4558ff1d99.md
+path: corpus/qda-case-81/91.txt

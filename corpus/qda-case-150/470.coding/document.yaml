@@ -1,0 +1,58 @@
+hash: 0d7ad9dc659358cd07cf0e162e33dd42a175b368ec3af4c482d5295d60957195
+id: qda-source-470@qda-case-150
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 150
+    date: '2026-11-05 22:19:55'
+    fid: 470
+    id: 470
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5207
+  content_sha256: 0d7ad9dc659358cd07cf0e162e33dd42a175b368ec3af4c482d5295d60957195
+  date: '2026-11-05 22:19:55'
+  id: 470
+  import_metadata:
+    conversion:
+      converted_sha256: 0d7ad9dc659358cd07cf0e162e33dd42a175b368ec3af4c482d5295d60957195
+      original_sha256: b2cc8a8c80f2fcd8f82d659ff7e063c7b33f84f4da460720a88f97a7a7d655c6
+      version: oss-ai-policies/clean-markdown-v1
+    entity: keepassxreboot/keepassxc
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.213833+00:00'
+      id: corpus-150-purpose
+      original_file_sha256: b2cc8a8c80f2fcd8f82d659ff7e063c7b33f84f4da460720a88f97a7a7d655c6
+      path: analysis/corpus-assessment/sources/corpus-150-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-150-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/keepassxreboot/keepassxc/6a534f38c61295d60b0e937739a12511e76dbfeb/README.md
+      role: purpose_statement_candidate
+      sha256: b2cc8a8c80f2fcd8f82d659ff7e063c7b33f84f4da460720a88f97a7a7d655c6
+      url: https://github.com/keepassxreboot/keepassxc/blob/6a534f38c61295d60b0e937739a12511e76dbfeb/README.md
+      version: 6a534f38c61295d60b0e937739a12511e76dbfeb
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b2cc8a8c80f2fcd8f82d659ff7e063c7b33f84f4da460720a88f97a7a7d655c6
+  mediapath: /docs/keepassxreboot__keepassxc--purpose_statement_candidate--b2cc8a8c80f2.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    keepassxreboot/keepassxc\",\n  \"text_sha256\": \"b2cc8a8c80f2fcd8f82d659ff7e063c7b33f84f4da460720a88f97a7a7d655c6\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-150-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b2cc8a8c80f2fcd8f82d659ff7e063c7b33f84f4da460720a88f97a7a7d655c6\",\n    \
+    \  \"id\": \"corpus-150-purpose\",\n      \"url\": \"https://github.com/keepassxreboot/keepassxc/blob/6a534f38c61295d60b0e937739a12511e76dbfeb/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/keepassxreboot/keepassxc/6a534f38c61295d60b0e937739a12511e76dbfeb/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.213833+00:00\",\n      \"version\"\
+    : \"6a534f38c61295d60b0e937739a12511e76dbfeb\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-150-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b2cc8a8c80f2fcd8f82d659ff7e063c7b33f84f4da460720a88f97a7a7d655c6\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b2cc8a8c80f2fcd8f82d659ff7e063c7b33f84f4da460720a88f97a7a7d655c6\"\
+    ,\n    \"converted_sha256\": \"0d7ad9dc659358cd07cf0e162e33dd42a175b368ec3af4c482d5295d60957195\"\
+    \n  }\n}"
+  name: keepassxreboot__keepassxc--purpose_statement_candidate--b2cc8a8c80f2.md
+  owner: NicolasH
+  risid: null
+name: keepassxreboot__keepassxc--purpose_statement_candidate--b2cc8a8c80f2.md
+path: corpus/qda-case-150/470.txt

@@ -1,0 +1,58 @@
+hash: edb9538ec9b7f47026e6f01cbf309248f5f5d28f6078e9ae048594609c256f86
+id: qda-source-319@qda-case-2
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 2
+    date: '2026-11-05 22:19:55'
+    fid: 319
+    id: 319
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 13006
+  content_sha256: edb9538ec9b7f47026e6f01cbf309248f5f5d28f6078e9ae048594609c256f86
+  date: '2026-11-05 22:19:55'
+  id: 319
+  import_metadata:
+    conversion:
+      converted_sha256: edb9538ec9b7f47026e6f01cbf309248f5f5d28f6078e9ae048594609c256f86
+      original_sha256: dfc971183cb86e19ac99f0e327fdd23f18614b4941e536be68de7af334d0179c
+      version: oss-ai-policies/clean-markdown-v1
+    entity: leptos-rs/leptos
+    provenance:
+    - accessed_at: '2026-11-05T16:00:21.723699+00:00'
+      id: 15-purpose
+      original_file_sha256: dfc971183cb86e19ac99f0e327fdd23f18614b4941e536be68de7af334d0179c
+      path: analysis/feasibility-pilot/sources/15-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/15-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/leptos-rs/leptos/f81ffcd5fcb4def75ac14dcc50e1f1de6de8d336/README.md
+      role: purpose_statement_candidate
+      sha256: dfc971183cb86e19ac99f0e327fdd23f18614b4941e536be68de7af334d0179c
+      url: https://github.com/leptos-rs/leptos/blob/f81ffcd5fcb4def75ac14dcc50e1f1de6de8d336/README.md
+      version: f81ffcd5fcb4def75ac14dcc50e1f1de6de8d336
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: dfc971183cb86e19ac99f0e327fdd23f18614b4941e536be68de7af334d0179c
+  mediapath: /docs/leptos-rs__leptos--purpose_statement_candidate--dfc971183cb8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    leptos-rs/leptos\",\n  \"text_sha256\": \"dfc971183cb86e19ac99f0e327fdd23f18614b4941e536be68de7af334d0179c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/15-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"dfc971183cb86e19ac99f0e327fdd23f18614b4941e536be68de7af334d0179c\",\n    \
+    \  \"id\": \"15-purpose\",\n      \"url\": \"https://github.com/leptos-rs/leptos/blob/f81ffcd5fcb4def75ac14dcc50e1f1de6de8d336/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/leptos-rs/leptos/f81ffcd5fcb4def75ac14dcc50e1f1de6de8d336/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:21.723699+00:00\",\n      \"version\"\
+    : \"f81ffcd5fcb4def75ac14dcc50e1f1de6de8d336\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/15-purpose.raw.md\"\
+    ,\n      \"sha256\": \"dfc971183cb86e19ac99f0e327fdd23f18614b4941e536be68de7af334d0179c\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"dfc971183cb86e19ac99f0e327fdd23f18614b4941e536be68de7af334d0179c\"\
+    ,\n    \"converted_sha256\": \"edb9538ec9b7f47026e6f01cbf309248f5f5d28f6078e9ae048594609c256f86\"\
+    \n  }\n}"
+  name: leptos-rs__leptos--purpose_statement_candidate--dfc971183cb8.md
+  owner: NicolasH
+  risid: null
+name: leptos-rs__leptos--purpose_statement_candidate--dfc971183cb8.md
+path: corpus/qda-case-2/319.txt

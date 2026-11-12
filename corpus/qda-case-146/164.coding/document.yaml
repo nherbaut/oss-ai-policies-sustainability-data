@@ -1,0 +1,43 @@
+hash: d76dcf350d4607c08d4b86abd6cffd97fa5b10d17cb1fed81ac63c35728ef766
+id: qda-source-164@qda-case-146
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 146
+    date: '2026-11-05 22:19:55'
+    fid: 164
+    id: 163
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9860
+  content_sha256: d76dcf350d4607c08d4b86abd6cffd97fa5b10d17cb1fed81ac63c35728ef766
+  date: '2026-11-05 22:19:55'
+  id: 164
+  import_metadata:
+    entity: denoland/deno
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: d76dcf350d4607c08d4b86abd6cffd97fa5b10d17cb1fed81ac63c35728ef766
+      path: data/281/policies/denoland/deno/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/denoland/deno/blob/f8a17c8171569fa2870d740030aaa59c91fdf9ee/.github/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: d76dcf350d4607c08d4b86abd6cffd97fa5b10d17cb1fed81ac63c35728ef766
+  mediapath: /docs/denoland__deno--contributing--d76dcf350d46.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    denoland/deno\",\n  \"text_sha256\": \"d76dcf350d4607c08d4b86abd6cffd97fa5b10d17cb1fed81ac63c35728ef766\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/denoland/deno/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"d76dcf350d4607c08d4b86abd6cffd97fa5b10d17cb1fed81ac63c35728ef766\"\
+    ,\n      \"source_url_cell\": \"https://github.com/denoland/deno/blob/f8a17c8171569fa2870d740030aaa59c91fdf9ee/.github/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: denoland__deno--contributing--d76dcf350d46.md
+  owner: NicolasH
+  risid: null
+name: denoland__deno--contributing--d76dcf350d46.md
+path: corpus/qda-case-146/164.txt

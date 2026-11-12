@@ -1,0 +1,51 @@
+hash: b9172ef32d56eb759b93799205cdcde0c8e5b9a23f8648233de04169c6582f3c
+id: qda-source-553@qda-case-229
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 229
+    date: '2026-11-05 22:19:55'
+    fid: 553
+    id: 553
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1022
+  content_sha256: b9172ef32d56eb759b93799205cdcde0c8e5b9a23f8648233de04169c6582f3c
+  date: '2026-11-05 22:19:55'
+  id: 553
+  import_metadata:
+    entity: ankitects/anki
+    provenance:
+    - accessed_at: '2026-11-05T19:12:13.128561+00:00'
+      id: corpus-229-purpose
+      original_file_sha256: b9172ef32d56eb759b93799205cdcde0c8e5b9a23f8648233de04169c6582f3c
+      path: analysis/corpus-assessment/sources/corpus-229-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-229-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/ankitects/anki/f13c15aef0c94f73f6101a030f1b69772f7f3e8c/README.md
+      role: purpose_statement_candidate
+      sha256: b9172ef32d56eb759b93799205cdcde0c8e5b9a23f8648233de04169c6582f3c
+      url: https://github.com/ankitects/anki/blob/f13c15aef0c94f73f6101a030f1b69772f7f3e8c/README.md
+      version: f13c15aef0c94f73f6101a030f1b69772f7f3e8c
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: b9172ef32d56eb759b93799205cdcde0c8e5b9a23f8648233de04169c6582f3c
+  mediapath: /docs/ankitects__anki--purpose_statement_candidate--b9172ef32d56.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ankitects/anki\",\n  \"text_sha256\": \"b9172ef32d56eb759b93799205cdcde0c8e5b9a23f8648233de04169c6582f3c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-229-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b9172ef32d56eb759b93799205cdcde0c8e5b9a23f8648233de04169c6582f3c\",\n    \
+    \  \"id\": \"corpus-229-purpose\",\n      \"url\": \"https://github.com/ankitects/anki/blob/f13c15aef0c94f73f6101a030f1b69772f7f3e8c/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/ankitects/anki/f13c15aef0c94f73f6101a030f1b69772f7f3e8c/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:13.128561+00:00\",\n      \"version\"\
+    : \"f13c15aef0c94f73f6101a030f1b69772f7f3e8c\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-229-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b9172ef32d56eb759b93799205cdcde0c8e5b9a23f8648233de04169c6582f3c\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: ankitects__anki--purpose_statement_candidate--b9172ef32d56.md
+  owner: NicolasH
+  risid: null
+name: ankitects__anki--purpose_statement_candidate--b9172ef32d56.md
+path: corpus/qda-case-229/553.txt

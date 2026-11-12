@@ -1,0 +1,58 @@
+hash: 29711263ec1e7397e5adb0295a08c3d529410afdedb11441e0da907e8aae85c0
+id: qda-source-452@qda-case-131
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 131
+    date: '2026-11-05 22:19:55'
+    fid: 452
+    id: 452
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1789
+  content_sha256: 29711263ec1e7397e5adb0295a08c3d529410afdedb11441e0da907e8aae85c0
+  date: '2026-11-05 22:19:55'
+  id: 452
+  import_metadata:
+    conversion:
+      converted_sha256: 29711263ec1e7397e5adb0295a08c3d529410afdedb11441e0da907e8aae85c0
+      original_sha256: 88c7eff98b7736c855fb5886336c56bd30f3ac5e2a67f771940d8e5f4a3706e7
+      version: oss-ai-policies/clean-markdown-v1
+    entity: udecode/plate
+    provenance:
+    - accessed_at: '2026-11-05T19:12:01.692002+00:00'
+      id: corpus-131-purpose
+      original_file_sha256: 88c7eff98b7736c855fb5886336c56bd30f3ac5e2a67f771940d8e5f4a3706e7
+      path: analysis/corpus-assessment/sources/corpus-131-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-131-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/udecode/plate/8abee2ba6db46e486ace3e9908d9550e3c05db13/README.md
+      role: purpose_statement_candidate
+      sha256: 88c7eff98b7736c855fb5886336c56bd30f3ac5e2a67f771940d8e5f4a3706e7
+      url: https://github.com/udecode/plate/blob/8abee2ba6db46e486ace3e9908d9550e3c05db13/README.md
+      version: 8abee2ba6db46e486ace3e9908d9550e3c05db13
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 88c7eff98b7736c855fb5886336c56bd30f3ac5e2a67f771940d8e5f4a3706e7
+  mediapath: /docs/udecode__plate--purpose_statement_candidate--88c7eff98b77.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    udecode/plate\",\n  \"text_sha256\": \"88c7eff98b7736c855fb5886336c56bd30f3ac5e2a67f771940d8e5f4a3706e7\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-131-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"88c7eff98b7736c855fb5886336c56bd30f3ac5e2a67f771940d8e5f4a3706e7\",\n    \
+    \  \"id\": \"corpus-131-purpose\",\n      \"url\": \"https://github.com/udecode/plate/blob/8abee2ba6db46e486ace3e9908d9550e3c05db13/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/udecode/plate/8abee2ba6db46e486ace3e9908d9550e3c05db13/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:01.692002+00:00\",\n      \"version\"\
+    : \"8abee2ba6db46e486ace3e9908d9550e3c05db13\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-131-purpose.raw.md\"\
+    ,\n      \"sha256\": \"88c7eff98b7736c855fb5886336c56bd30f3ac5e2a67f771940d8e5f4a3706e7\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"88c7eff98b7736c855fb5886336c56bd30f3ac5e2a67f771940d8e5f4a3706e7\"\
+    ,\n    \"converted_sha256\": \"29711263ec1e7397e5adb0295a08c3d529410afdedb11441e0da907e8aae85c0\"\
+    \n  }\n}"
+  name: udecode__plate--purpose_statement_candidate--88c7eff98b77.md
+  owner: NicolasH
+  risid: null
+name: udecode__plate--purpose_statement_candidate--88c7eff98b77.md
+path: corpus/qda-case-131/452.txt

@@ -1,0 +1,58 @@
+hash: 4be15bd04e03e418e3798db0da1cb5e4203b5600f0ed84c39a5fb79bf86fc2c9
+id: qda-source-592@qda-case-271
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 271
+    date: '2026-11-05 22:19:55'
+    fid: 592
+    id: 592
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2007
+  content_sha256: 4be15bd04e03e418e3798db0da1cb5e4203b5600f0ed84c39a5fb79bf86fc2c9
+  date: '2026-11-05 22:19:55'
+  id: 592
+  import_metadata:
+    conversion:
+      converted_sha256: 4be15bd04e03e418e3798db0da1cb5e4203b5600f0ed84c39a5fb79bf86fc2c9
+      original_sha256: 5693c13fd4a09231611e756f05af90fbe8ea87588a43db96c28476ab4d0cf229
+      version: oss-ai-policies/clean-markdown-v1
+    entity: better-auth/better-auth
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.280816+00:00'
+      id: corpus-271-purpose
+      original_file_sha256: 5693c13fd4a09231611e756f05af90fbe8ea87588a43db96c28476ab4d0cf229
+      path: analysis/corpus-assessment/sources/corpus-271-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-271-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/better-auth/better-auth/502a262ff20f4485d66f24cf6d6119e8001ebb18/README.md
+      role: purpose_statement_candidate
+      sha256: 5693c13fd4a09231611e756f05af90fbe8ea87588a43db96c28476ab4d0cf229
+      url: https://github.com/better-auth/better-auth/blob/502a262ff20f4485d66f24cf6d6119e8001ebb18/README.md
+      version: 502a262ff20f4485d66f24cf6d6119e8001ebb18
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 5693c13fd4a09231611e756f05af90fbe8ea87588a43db96c28476ab4d0cf229
+  mediapath: /docs/better-auth__better-auth--purpose_statement_candidate--5693c13fd4a0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    better-auth/better-auth\",\n  \"text_sha256\": \"5693c13fd4a09231611e756f05af90fbe8ea87588a43db96c28476ab4d0cf229\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-271-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5693c13fd4a09231611e756f05af90fbe8ea87588a43db96c28476ab4d0cf229\",\n    \
+    \  \"id\": \"corpus-271-purpose\",\n      \"url\": \"https://github.com/better-auth/better-auth/blob/502a262ff20f4485d66f24cf6d6119e8001ebb18/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/better-auth/better-auth/502a262ff20f4485d66f24cf6d6119e8001ebb18/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:16.280816+00:00\",\n      \"version\"\
+    : \"502a262ff20f4485d66f24cf6d6119e8001ebb18\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-271-purpose.raw.md\"\
+    ,\n      \"sha256\": \"5693c13fd4a09231611e756f05af90fbe8ea87588a43db96c28476ab4d0cf229\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"5693c13fd4a09231611e756f05af90fbe8ea87588a43db96c28476ab4d0cf229\"\
+    ,\n    \"converted_sha256\": \"4be15bd04e03e418e3798db0da1cb5e4203b5600f0ed84c39a5fb79bf86fc2c9\"\
+    \n  }\n}"
+  name: better-auth__better-auth--purpose_statement_candidate--5693c13fd4a0.md
+  owner: NicolasH
+  risid: null
+name: better-auth__better-auth--purpose_statement_candidate--5693c13fd4a0.md
+path: corpus/qda-case-271/592.txt

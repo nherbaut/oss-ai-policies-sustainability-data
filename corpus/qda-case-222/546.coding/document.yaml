@@ -1,0 +1,51 @@
+hash: 540c78ec2d1bfb0b12d94792df37580f96bb91d968189fab84002cc9d1146d74
+id: qda-source-546@qda-case-222
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 222
+    date: '2026-11-05 22:19:55'
+    fid: 546
+    id: 546
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7519
+  content_sha256: 540c78ec2d1bfb0b12d94792df37580f96bb91d968189fab84002cc9d1146d74
+  date: '2026-11-05 22:19:55'
+  id: 546
+  import_metadata:
+    entity: bmad-code-org/BMAD-METHOD
+    provenance:
+    - accessed_at: '2026-11-05T19:12:11.822441+00:00'
+      id: corpus-222-purpose
+      original_file_sha256: 540c78ec2d1bfb0b12d94792df37580f96bb91d968189fab84002cc9d1146d74
+      path: analysis/corpus-assessment/sources/corpus-222-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-222-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/bmad-code-org/BMAD-METHOD/717479bc3f50f38119fd958b9e577a8bde2e0184/README.md
+      role: purpose_statement_candidate
+      sha256: 540c78ec2d1bfb0b12d94792df37580f96bb91d968189fab84002cc9d1146d74
+      url: https://github.com/bmad-code-org/BMAD-METHOD/blob/717479bc3f50f38119fd958b9e577a8bde2e0184/README.md
+      version: 717479bc3f50f38119fd958b9e577a8bde2e0184
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 540c78ec2d1bfb0b12d94792df37580f96bb91d968189fab84002cc9d1146d74
+  mediapath: /docs/bmad-code-org__BMAD-METHOD--purpose_statement_candidate--540c78ec2d1b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    bmad-code-org/BMAD-METHOD\",\n  \"text_sha256\": \"540c78ec2d1bfb0b12d94792df37580f96bb91d968189fab84002cc9d1146d74\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-222-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"540c78ec2d1bfb0b12d94792df37580f96bb91d968189fab84002cc9d1146d74\",\n    \
+    \  \"id\": \"corpus-222-purpose\",\n      \"url\": \"https://github.com/bmad-code-org/BMAD-METHOD/blob/717479bc3f50f38119fd958b9e577a8bde2e0184/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/bmad-code-org/BMAD-METHOD/717479bc3f50f38119fd958b9e577a8bde2e0184/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:11.822441+00:00\",\n      \"version\"\
+    : \"717479bc3f50f38119fd958b9e577a8bde2e0184\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-222-purpose.raw.md\"\
+    ,\n      \"sha256\": \"540c78ec2d1bfb0b12d94792df37580f96bb91d968189fab84002cc9d1146d74\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: bmad-code-org__BMAD-METHOD--purpose_statement_candidate--540c78ec2d1b.md
+  owner: NicolasH
+  risid: null
+name: bmad-code-org__BMAD-METHOD--purpose_statement_candidate--540c78ec2d1b.md
+path: corpus/qda-case-222/546.txt

@@ -1,0 +1,43 @@
+hash: 7c51c8f02390fff6496d287f42081975325e49aa05aaaa2a49763607f3f6e036
+id: qda-source-180@qda-case-162
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 162
+    date: '2026-11-05 22:19:55'
+    fid: 180
+    id: 179
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 333
+  content_sha256: 7c51c8f02390fff6496d287f42081975325e49aa05aaaa2a49763607f3f6e036
+  date: '2026-11-05 22:19:55'
+  id: 180
+  import_metadata:
+    entity: wilfred/difftastic
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 7c51c8f02390fff6496d287f42081975325e49aa05aaaa2a49763607f3f6e036
+      path: data/281/policies/wilfred/difftastic/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/wilfred/difftastic/blob/3310f2bc4d15f44576b8c35731497766663e4f01/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 7c51c8f02390fff6496d287f42081975325e49aa05aaaa2a49763607f3f6e036
+  mediapath: /docs/wilfred__difftastic--ai_policy--7c51c8f02390.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    wilfred/difftastic\",\n  \"text_sha256\": \"7c51c8f02390fff6496d287f42081975325e49aa05aaaa2a49763607f3f6e036\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/wilfred/difftastic/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"7c51c8f02390fff6496d287f42081975325e49aa05aaaa2a49763607f3f6e036\"\
+    ,\n      \"source_url_cell\": \"https://github.com/wilfred/difftastic/blob/3310f2bc4d15f44576b8c35731497766663e4f01/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: wilfred__difftastic--ai_policy--7c51c8f02390.md
+  owner: NicolasH
+  risid: null
+name: wilfred__difftastic--ai_policy--7c51c8f02390.md
+path: corpus/qda-case-162/180.txt

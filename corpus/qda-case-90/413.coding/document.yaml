@@ -1,0 +1,58 @@
+hash: a8f2ea470fcdb20bfa97178594cc956257d0998dfd698e110dbf56472e0ef7df
+id: qda-source-413@qda-case-90
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 90
+    date: '2026-11-05 22:19:55'
+    fid: 413
+    id: 413
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10105
+  content_sha256: a8f2ea470fcdb20bfa97178594cc956257d0998dfd698e110dbf56472e0ef7df
+  date: '2026-11-05 22:19:55'
+  id: 413
+  import_metadata:
+    conversion:
+      converted_sha256: a8f2ea470fcdb20bfa97178594cc956257d0998dfd698e110dbf56472e0ef7df
+      original_sha256: ce204aeb3b336dad84c651f4398062ef5890ea260be525110297cdcc74a27bb9
+      version: oss-ai-policies/clean-markdown-v1
+    entity: uutils/coreutils
+    provenance:
+    - accessed_at: '2026-11-05T19:11:57.593660+00:00'
+      id: corpus-090-purpose
+      original_file_sha256: ce204aeb3b336dad84c651f4398062ef5890ea260be525110297cdcc74a27bb9
+      path: analysis/corpus-assessment/sources/corpus-090-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-090-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/uutils/coreutils/65957d99716e8701806ffefa181509e83781b158/README.md
+      role: purpose_statement_candidate
+      sha256: ce204aeb3b336dad84c651f4398062ef5890ea260be525110297cdcc74a27bb9
+      url: https://github.com/uutils/coreutils/blob/65957d99716e8701806ffefa181509e83781b158/README.md
+      version: 65957d99716e8701806ffefa181509e83781b158
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ce204aeb3b336dad84c651f4398062ef5890ea260be525110297cdcc74a27bb9
+  mediapath: /docs/uutils__coreutils--purpose_statement_candidate--ce204aeb3b33.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    uutils/coreutils\",\n  \"text_sha256\": \"ce204aeb3b336dad84c651f4398062ef5890ea260be525110297cdcc74a27bb9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-090-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"ce204aeb3b336dad84c651f4398062ef5890ea260be525110297cdcc74a27bb9\",\n    \
+    \  \"id\": \"corpus-090-purpose\",\n      \"url\": \"https://github.com/uutils/coreutils/blob/65957d99716e8701806ffefa181509e83781b158/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/uutils/coreutils/65957d99716e8701806ffefa181509e83781b158/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:57.593660+00:00\",\n      \"version\"\
+    : \"65957d99716e8701806ffefa181509e83781b158\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-090-purpose.raw.md\"\
+    ,\n      \"sha256\": \"ce204aeb3b336dad84c651f4398062ef5890ea260be525110297cdcc74a27bb9\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"ce204aeb3b336dad84c651f4398062ef5890ea260be525110297cdcc74a27bb9\"\
+    ,\n    \"converted_sha256\": \"a8f2ea470fcdb20bfa97178594cc956257d0998dfd698e110dbf56472e0ef7df\"\
+    \n  }\n}"
+  name: uutils__coreutils--purpose_statement_candidate--ce204aeb3b33.md
+  owner: NicolasH
+  risid: null
+name: uutils__coreutils--purpose_statement_candidate--ce204aeb3b33.md
+path: corpus/qda-case-90/413.txt

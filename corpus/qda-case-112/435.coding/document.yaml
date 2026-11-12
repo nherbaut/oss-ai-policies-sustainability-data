@@ -1,0 +1,51 @@
+hash: 2a9268c9be5f4dc9abe9105740be7c5234babc3dd2b25eb11ca376c538a0c67b
+id: qda-source-435@qda-case-112
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 112
+    date: '2026-11-05 22:19:55'
+    fid: 435
+    id: 435
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2894
+  content_sha256: 2a9268c9be5f4dc9abe9105740be7c5234babc3dd2b25eb11ca376c538a0c67b
+  date: '2026-11-05 22:19:55'
+  id: 435
+  import_metadata:
+    entity: psf/requests
+    provenance:
+    - accessed_at: '2026-11-05T19:12:00.073888+00:00'
+      id: corpus-112-purpose
+      original_file_sha256: 2a9268c9be5f4dc9abe9105740be7c5234babc3dd2b25eb11ca376c538a0c67b
+      path: analysis/corpus-assessment/sources/corpus-112-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-112-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/psf/requests/f361ead047be5cb873174218582f7d8b9fcd9f49/README.md
+      role: purpose_statement_candidate
+      sha256: 2a9268c9be5f4dc9abe9105740be7c5234babc3dd2b25eb11ca376c538a0c67b
+      url: https://github.com/psf/requests/blob/f361ead047be5cb873174218582f7d8b9fcd9f49/README.md
+      version: f361ead047be5cb873174218582f7d8b9fcd9f49
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 2a9268c9be5f4dc9abe9105740be7c5234babc3dd2b25eb11ca376c538a0c67b
+  mediapath: /docs/psf__requests--purpose_statement_candidate--2a9268c9be5f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    psf/requests\",\n  \"text_sha256\": \"2a9268c9be5f4dc9abe9105740be7c5234babc3dd2b25eb11ca376c538a0c67b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-112-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"2a9268c9be5f4dc9abe9105740be7c5234babc3dd2b25eb11ca376c538a0c67b\",\n    \
+    \  \"id\": \"corpus-112-purpose\",\n      \"url\": \"https://github.com/psf/requests/blob/f361ead047be5cb873174218582f7d8b9fcd9f49/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/psf/requests/f361ead047be5cb873174218582f7d8b9fcd9f49/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:00.073888+00:00\",\n      \"version\"\
+    : \"f361ead047be5cb873174218582f7d8b9fcd9f49\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-112-purpose.raw.md\"\
+    ,\n      \"sha256\": \"2a9268c9be5f4dc9abe9105740be7c5234babc3dd2b25eb11ca376c538a0c67b\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: psf__requests--purpose_statement_candidate--2a9268c9be5f.md
+  owner: NicolasH
+  risid: null
+name: psf__requests--purpose_statement_candidate--2a9268c9be5f.md
+path: corpus/qda-case-112/435.txt

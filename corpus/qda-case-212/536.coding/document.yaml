@@ -1,0 +1,51 @@
+hash: 797053375431ea51df3c156d114ab7fbfdbe8398a0bb8a2d2dc076612b70f34b
+id: qda-source-536@qda-case-212
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 212
+    date: '2026-11-05 22:19:55'
+    fid: 536
+    id: 536
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4867
+  content_sha256: 797053375431ea51df3c156d114ab7fbfdbe8398a0bb8a2d2dc076612b70f34b
+  date: '2026-11-05 22:19:55'
+  id: 536
+  import_metadata:
+    entity: zulip/zulip
+    provenance:
+    - accessed_at: '2026-11-05T19:12:10.724536+00:00'
+      id: corpus-212-purpose
+      original_file_sha256: 797053375431ea51df3c156d114ab7fbfdbe8398a0bb8a2d2dc076612b70f34b
+      path: analysis/corpus-assessment/sources/corpus-212-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-212-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/zulip/zulip/41480799c379715d6248e8282f040b99ebae3f33/README.md
+      role: purpose_statement_candidate
+      sha256: 797053375431ea51df3c156d114ab7fbfdbe8398a0bb8a2d2dc076612b70f34b
+      url: https://github.com/zulip/zulip/blob/41480799c379715d6248e8282f040b99ebae3f33/README.md
+      version: 41480799c379715d6248e8282f040b99ebae3f33
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 797053375431ea51df3c156d114ab7fbfdbe8398a0bb8a2d2dc076612b70f34b
+  mediapath: /docs/zulip__zulip--purpose_statement_candidate--797053375431.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    zulip/zulip\",\n  \"text_sha256\": \"797053375431ea51df3c156d114ab7fbfdbe8398a0bb8a2d2dc076612b70f34b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-212-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"797053375431ea51df3c156d114ab7fbfdbe8398a0bb8a2d2dc076612b70f34b\",\n    \
+    \  \"id\": \"corpus-212-purpose\",\n      \"url\": \"https://github.com/zulip/zulip/blob/41480799c379715d6248e8282f040b99ebae3f33/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/zulip/zulip/41480799c379715d6248e8282f040b99ebae3f33/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:10.724536+00:00\",\n      \"version\"\
+    : \"41480799c379715d6248e8282f040b99ebae3f33\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-212-purpose.raw.md\"\
+    ,\n      \"sha256\": \"797053375431ea51df3c156d114ab7fbfdbe8398a0bb8a2d2dc076612b70f34b\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: zulip__zulip--purpose_statement_candidate--797053375431.md
+  owner: NicolasH
+  risid: null
+name: zulip__zulip--purpose_statement_candidate--797053375431.md
+path: corpus/qda-case-212/536.txt

@@ -1,0 +1,58 @@
+hash: 41da96f1eb85fe74dd1049a9a99203b64fac0979891f4f55d3b826b9ec54f505
+id: qda-source-318@qda-case-1
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 1
+    date: '2026-11-05 22:19:55'
+    fid: 318
+    id: 318
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7811
+  content_sha256: 41da96f1eb85fe74dd1049a9a99203b64fac0979891f4f55d3b826b9ec54f505
+  date: '2026-11-05 22:19:55'
+  id: 318
+  import_metadata:
+    conversion:
+      converted_sha256: 41da96f1eb85fe74dd1049a9a99203b64fac0979891f4f55d3b826b9ec54f505
+      original_sha256: 80428444721189970a09ed14c0de055dd1a6f42bd4a5a49b6bb9fea762982a90
+      version: oss-ai-policies/clean-markdown-v1
+    entity: ratatui/ratatui
+    provenance:
+    - accessed_at: '2026-11-05T16:00:21.691242+00:00'
+      id: 14-purpose
+      original_file_sha256: 80428444721189970a09ed14c0de055dd1a6f42bd4a5a49b6bb9fea762982a90
+      path: analysis/feasibility-pilot/sources/14-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/14-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/ratatui/ratatui/506bedbf157eaaf1e9d5df77f9a5f380203112bc/README.md
+      role: purpose_statement_candidate
+      sha256: 80428444721189970a09ed14c0de055dd1a6f42bd4a5a49b6bb9fea762982a90
+      url: https://github.com/ratatui/ratatui/blob/506bedbf157eaaf1e9d5df77f9a5f380203112bc/README.md
+      version: 506bedbf157eaaf1e9d5df77f9a5f380203112bc
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 80428444721189970a09ed14c0de055dd1a6f42bd4a5a49b6bb9fea762982a90
+  mediapath: /docs/ratatui__ratatui--purpose_statement_candidate--804284447211.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ratatui/ratatui\",\n  \"text_sha256\": \"80428444721189970a09ed14c0de055dd1a6f42bd4a5a49b6bb9fea762982a90\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/14-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"80428444721189970a09ed14c0de055dd1a6f42bd4a5a49b6bb9fea762982a90\",\n    \
+    \  \"id\": \"14-purpose\",\n      \"url\": \"https://github.com/ratatui/ratatui/blob/506bedbf157eaaf1e9d5df77f9a5f380203112bc/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/ratatui/ratatui/506bedbf157eaaf1e9d5df77f9a5f380203112bc/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:21.691242+00:00\",\n      \"version\"\
+    : \"506bedbf157eaaf1e9d5df77f9a5f380203112bc\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/14-purpose.raw.md\"\
+    ,\n      \"sha256\": \"80428444721189970a09ed14c0de055dd1a6f42bd4a5a49b6bb9fea762982a90\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"80428444721189970a09ed14c0de055dd1a6f42bd4a5a49b6bb9fea762982a90\"\
+    ,\n    \"converted_sha256\": \"41da96f1eb85fe74dd1049a9a99203b64fac0979891f4f55d3b826b9ec54f505\"\
+    \n  }\n}"
+  name: ratatui__ratatui--purpose_statement_candidate--804284447211.md
+  owner: NicolasH
+  risid: null
+name: ratatui__ratatui--purpose_statement_candidate--804284447211.md
+path: corpus/qda-case-1/318.txt

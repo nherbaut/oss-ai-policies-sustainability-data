@@ -1,0 +1,58 @@
+hash: f4ebd896dbb87fc2ba6c2e7c54cd1b64d6c217aae3cf51c86756cad8473050d3
+id: qda-source-379@qda-case-58
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 58
+    date: '2026-11-05 22:19:55'
+    fid: 379
+    id: 379
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4281
+  content_sha256: f4ebd896dbb87fc2ba6c2e7c54cd1b64d6c217aae3cf51c86756cad8473050d3
+  date: '2026-11-05 22:19:55'
+  id: 379
+  import_metadata:
+    conversion:
+      converted_sha256: f4ebd896dbb87fc2ba6c2e7c54cd1b64d6c217aae3cf51c86756cad8473050d3
+      original_sha256: 0fec4357bd8972c37f1f2a9a3e84c12e3a87805342377c767d82f71f1423a532
+      version: oss-ai-policies/clean-markdown-v1
+    entity: actualbudget/actual
+    provenance:
+    - accessed_at: '2026-11-05T19:11:54.695841+00:00'
+      id: corpus-058-purpose
+      original_file_sha256: 0fec4357bd8972c37f1f2a9a3e84c12e3a87805342377c767d82f71f1423a532
+      path: analysis/corpus-assessment/sources/corpus-058-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-058-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/actualbudget/actual/566ee382906af9b20b66c3fbcb063bb2348f4aa1/README.md
+      role: purpose_statement_candidate
+      sha256: 0fec4357bd8972c37f1f2a9a3e84c12e3a87805342377c767d82f71f1423a532
+      url: https://github.com/actualbudget/actual/blob/566ee382906af9b20b66c3fbcb063bb2348f4aa1/README.md
+      version: 566ee382906af9b20b66c3fbcb063bb2348f4aa1
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 0fec4357bd8972c37f1f2a9a3e84c12e3a87805342377c767d82f71f1423a532
+  mediapath: /docs/actualbudget__actual--purpose_statement_candidate--0fec4357bd89.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    actualbudget/actual\",\n  \"text_sha256\": \"0fec4357bd8972c37f1f2a9a3e84c12e3a87805342377c767d82f71f1423a532\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-058-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0fec4357bd8972c37f1f2a9a3e84c12e3a87805342377c767d82f71f1423a532\",\n    \
+    \  \"id\": \"corpus-058-purpose\",\n      \"url\": \"https://github.com/actualbudget/actual/blob/566ee382906af9b20b66c3fbcb063bb2348f4aa1/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/actualbudget/actual/566ee382906af9b20b66c3fbcb063bb2348f4aa1/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:54.695841+00:00\",\n      \"version\"\
+    : \"566ee382906af9b20b66c3fbcb063bb2348f4aa1\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-058-purpose.raw.md\"\
+    ,\n      \"sha256\": \"0fec4357bd8972c37f1f2a9a3e84c12e3a87805342377c767d82f71f1423a532\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"0fec4357bd8972c37f1f2a9a3e84c12e3a87805342377c767d82f71f1423a532\"\
+    ,\n    \"converted_sha256\": \"f4ebd896dbb87fc2ba6c2e7c54cd1b64d6c217aae3cf51c86756cad8473050d3\"\
+    \n  }\n}"
+  name: actualbudget__actual--purpose_statement_candidate--0fec4357bd89.md
+  owner: NicolasH
+  risid: null
+name: actualbudget__actual--purpose_statement_candidate--0fec4357bd89.md
+path: corpus/qda-case-58/379.txt

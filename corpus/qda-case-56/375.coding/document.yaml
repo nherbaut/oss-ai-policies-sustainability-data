@@ -1,0 +1,58 @@
+hash: b72a2b9ed694fd4b55d2fdeffcf53656dccb47102e0bff40a86fa17ad981df52
+id: qda-source-375@qda-case-56
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 56
+    date: '2026-11-05 22:19:55'
+    fid: 375
+    id: 375
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6354
+  content_sha256: b72a2b9ed694fd4b55d2fdeffcf53656dccb47102e0bff40a86fa17ad981df52
+  date: '2026-11-05 22:19:55'
+  id: 375
+  import_metadata:
+    conversion:
+      converted_sha256: b72a2b9ed694fd4b55d2fdeffcf53656dccb47102e0bff40a86fa17ad981df52
+      original_sha256: bd8832f6101ed87e1d18c6fdfb3a63ef1da67f61f66c1933adbd7ff520e3c1d4
+      version: oss-ai-policies/clean-markdown-v1
+    entity: elixir-lang/elixir
+    provenance:
+    - accessed_at: '2026-11-05T19:11:54.478593+00:00'
+      id: corpus-056-purpose
+      original_file_sha256: bd8832f6101ed87e1d18c6fdfb3a63ef1da67f61f66c1933adbd7ff520e3c1d4
+      path: analysis/corpus-assessment/sources/corpus-056-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-056-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/elixir-lang/elixir/84f3ed66c9432a0adc0d3a1a0791f0492a3eb9ed/README.md
+      role: purpose_statement_candidate
+      sha256: bd8832f6101ed87e1d18c6fdfb3a63ef1da67f61f66c1933adbd7ff520e3c1d4
+      url: https://github.com/elixir-lang/elixir/blob/84f3ed66c9432a0adc0d3a1a0791f0492a3eb9ed/README.md
+      version: 84f3ed66c9432a0adc0d3a1a0791f0492a3eb9ed
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: bd8832f6101ed87e1d18c6fdfb3a63ef1da67f61f66c1933adbd7ff520e3c1d4
+  mediapath: /docs/elixir-lang__elixir--purpose_statement_candidate--bd8832f6101e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    elixir-lang/elixir\",\n  \"text_sha256\": \"bd8832f6101ed87e1d18c6fdfb3a63ef1da67f61f66c1933adbd7ff520e3c1d4\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-056-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"bd8832f6101ed87e1d18c6fdfb3a63ef1da67f61f66c1933adbd7ff520e3c1d4\",\n    \
+    \  \"id\": \"corpus-056-purpose\",\n      \"url\": \"https://github.com/elixir-lang/elixir/blob/84f3ed66c9432a0adc0d3a1a0791f0492a3eb9ed/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/elixir-lang/elixir/84f3ed66c9432a0adc0d3a1a0791f0492a3eb9ed/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:54.478593+00:00\",\n      \"version\"\
+    : \"84f3ed66c9432a0adc0d3a1a0791f0492a3eb9ed\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-056-purpose.raw.md\"\
+    ,\n      \"sha256\": \"bd8832f6101ed87e1d18c6fdfb3a63ef1da67f61f66c1933adbd7ff520e3c1d4\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"bd8832f6101ed87e1d18c6fdfb3a63ef1da67f61f66c1933adbd7ff520e3c1d4\"\
+    ,\n    \"converted_sha256\": \"b72a2b9ed694fd4b55d2fdeffcf53656dccb47102e0bff40a86fa17ad981df52\"\
+    \n  }\n}"
+  name: elixir-lang__elixir--purpose_statement_candidate--bd8832f6101e.md
+  owner: NicolasH
+  risid: null
+name: elixir-lang__elixir--purpose_statement_candidate--bd8832f6101e.md
+path: corpus/qda-case-56/375.txt

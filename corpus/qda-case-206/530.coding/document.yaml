@@ -1,0 +1,58 @@
+hash: c53c26530eeee7bab4de4edde30bc7f33ed9a92a4b9d4a56eaa30f2e2095005d
+id: qda-source-530@qda-case-206
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 206
+    date: '2026-11-05 22:19:55'
+    fid: 530
+    id: 530
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8808
+  content_sha256: c53c26530eeee7bab4de4edde30bc7f33ed9a92a4b9d4a56eaa30f2e2095005d
+  date: '2026-11-05 22:19:55'
+  id: 530
+  import_metadata:
+    conversion:
+      converted_sha256: c53c26530eeee7bab4de4edde30bc7f33ed9a92a4b9d4a56eaa30f2e2095005d
+      original_sha256: 3674638ca1d513087d21d8da8325587dba33d57a9085e44099ccdf67db2b5e2c
+      version: oss-ai-policies/clean-markdown-v1
+    entity: netbox-community/netbox
+    provenance:
+    - accessed_at: '2026-11-05T19:12:10.049421+00:00'
+      id: corpus-206-purpose
+      original_file_sha256: 3674638ca1d513087d21d8da8325587dba33d57a9085e44099ccdf67db2b5e2c
+      path: analysis/corpus-assessment/sources/corpus-206-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-206-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/netbox-community/netbox/6c501413ee403613817c01709d3004cf243c9880/README.md
+      role: purpose_statement_candidate
+      sha256: 3674638ca1d513087d21d8da8325587dba33d57a9085e44099ccdf67db2b5e2c
+      url: https://github.com/netbox-community/netbox/blob/6c501413ee403613817c01709d3004cf243c9880/README.md
+      version: 6c501413ee403613817c01709d3004cf243c9880
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 3674638ca1d513087d21d8da8325587dba33d57a9085e44099ccdf67db2b5e2c
+  mediapath: /docs/netbox-community__netbox--purpose_statement_candidate--3674638ca1d5.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    netbox-community/netbox\",\n  \"text_sha256\": \"3674638ca1d513087d21d8da8325587dba33d57a9085e44099ccdf67db2b5e2c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-206-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"3674638ca1d513087d21d8da8325587dba33d57a9085e44099ccdf67db2b5e2c\",\n    \
+    \  \"id\": \"corpus-206-purpose\",\n      \"url\": \"https://github.com/netbox-community/netbox/blob/6c501413ee403613817c01709d3004cf243c9880/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/netbox-community/netbox/6c501413ee403613817c01709d3004cf243c9880/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:10.049421+00:00\",\n      \"version\"\
+    : \"6c501413ee403613817c01709d3004cf243c9880\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-206-purpose.raw.md\"\
+    ,\n      \"sha256\": \"3674638ca1d513087d21d8da8325587dba33d57a9085e44099ccdf67db2b5e2c\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"3674638ca1d513087d21d8da8325587dba33d57a9085e44099ccdf67db2b5e2c\"\
+    ,\n    \"converted_sha256\": \"c53c26530eeee7bab4de4edde30bc7f33ed9a92a4b9d4a56eaa30f2e2095005d\"\
+    \n  }\n}"
+  name: netbox-community__netbox--purpose_statement_candidate--3674638ca1d5.md
+  owner: NicolasH
+  risid: null
+name: netbox-community__netbox--purpose_statement_candidate--3674638ca1d5.md
+path: corpus/qda-case-206/530.txt

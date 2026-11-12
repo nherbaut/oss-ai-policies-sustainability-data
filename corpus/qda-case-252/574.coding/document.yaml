@@ -1,0 +1,51 @@
+hash: c7c8684e06bb02ad659d19e6ba777e7418686f5c6af2a89ac5c8a4dd39f98cde
+id: qda-source-574@qda-case-252
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 252
+    date: '2026-11-05 22:19:55'
+    fid: 574
+    id: 574
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5273
+  content_sha256: c7c8684e06bb02ad659d19e6ba777e7418686f5c6af2a89ac5c8a4dd39f98cde
+  date: '2026-11-05 22:19:55'
+  id: 574
+  import_metadata:
+    entity: aseprite/aseprite
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.786600+00:00'
+      id: corpus-252-purpose
+      original_file_sha256: c7c8684e06bb02ad659d19e6ba777e7418686f5c6af2a89ac5c8a4dd39f98cde
+      path: analysis/corpus-assessment/sources/corpus-252-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-252-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/aseprite/aseprite/c4960507debebe9c5b3d4c79ee6be0946c936301/README.md
+      role: purpose_statement_candidate
+      sha256: c7c8684e06bb02ad659d19e6ba777e7418686f5c6af2a89ac5c8a4dd39f98cde
+      url: https://github.com/aseprite/aseprite/blob/c4960507debebe9c5b3d4c79ee6be0946c936301/README.md
+      version: c4960507debebe9c5b3d4c79ee6be0946c936301
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: c7c8684e06bb02ad659d19e6ba777e7418686f5c6af2a89ac5c8a4dd39f98cde
+  mediapath: /docs/aseprite__aseprite--purpose_statement_candidate--c7c8684e06bb.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    aseprite/aseprite\",\n  \"text_sha256\": \"c7c8684e06bb02ad659d19e6ba777e7418686f5c6af2a89ac5c8a4dd39f98cde\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-252-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"c7c8684e06bb02ad659d19e6ba777e7418686f5c6af2a89ac5c8a4dd39f98cde\",\n    \
+    \  \"id\": \"corpus-252-purpose\",\n      \"url\": \"https://github.com/aseprite/aseprite/blob/c4960507debebe9c5b3d4c79ee6be0946c936301/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/aseprite/aseprite/c4960507debebe9c5b3d4c79ee6be0946c936301/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.786600+00:00\",\n      \"version\"\
+    : \"c4960507debebe9c5b3d4c79ee6be0946c936301\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-252-purpose.raw.md\"\
+    ,\n      \"sha256\": \"c7c8684e06bb02ad659d19e6ba777e7418686f5c6af2a89ac5c8a4dd39f98cde\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: aseprite__aseprite--purpose_statement_candidate--c7c8684e06bb.md
+  owner: NicolasH
+  risid: null
+name: aseprite__aseprite--purpose_statement_candidate--c7c8684e06bb.md
+path: corpus/qda-case-252/574.txt

@@ -1,0 +1,43 @@
+hash: e9bebad065e69fc9937c1a7ab10f4af10a6a6da6797e23e66bb438241a0b8fa9
+id: qda-source-212@qda-case-191
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 191
+    date: '2026-11-05 22:19:55'
+    fid: 212
+    id: 211
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 480
+  content_sha256: e9bebad065e69fc9937c1a7ab10f4af10a6a6da6797e23e66bb438241a0b8fa9
+  date: '2026-11-05 22:19:55'
+  id: 212
+  import_metadata:
+    entity: twpayne/chezmoi
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: e9bebad065e69fc9937c1a7ab10f4af10a6a6da6797e23e66bb438241a0b8fa9
+      path: data/281/policies/twpayne/chezmoi/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/twpayne/chezmoi/blob/320bb1d424836eb7cb42d191e4989c2c181167b9/.github/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: e9bebad065e69fc9937c1a7ab10f4af10a6a6da6797e23e66bb438241a0b8fa9
+  mediapath: /docs/twpayne__chezmoi--contributing--e9bebad065e6.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    twpayne/chezmoi\",\n  \"text_sha256\": \"e9bebad065e69fc9937c1a7ab10f4af10a6a6da6797e23e66bb438241a0b8fa9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/twpayne/chezmoi/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"e9bebad065e69fc9937c1a7ab10f4af10a6a6da6797e23e66bb438241a0b8fa9\"\
+    ,\n      \"source_url_cell\": \"https://github.com/twpayne/chezmoi/blob/320bb1d424836eb7cb42d191e4989c2c181167b9/.github/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: twpayne__chezmoi--contributing--e9bebad065e6.md
+  owner: NicolasH
+  risid: null
+name: twpayne__chezmoi--contributing--e9bebad065e6.md
+path: corpus/qda-case-191/212.txt

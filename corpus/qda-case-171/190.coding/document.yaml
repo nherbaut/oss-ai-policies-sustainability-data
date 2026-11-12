@@ -1,0 +1,43 @@
+hash: 9ae535d31bc8ded6a9c43fa559d9c99ccd39425676008aaa148a792b0077a0c6
+id: qda-source-190@qda-case-171
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 171
+    date: '2026-11-05 22:19:55'
+    fid: 190
+    id: 189
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 23986
+  content_sha256: 9ae535d31bc8ded6a9c43fa559d9c99ccd39425676008aaa148a792b0077a0c6
+  date: '2026-11-05 22:19:55'
+  id: 190
+  import_metadata:
+    entity: php/php-src
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 9ae535d31bc8ded6a9c43fa559d9c99ccd39425676008aaa148a792b0077a0c6
+      path: data/281/policies/php/php-src/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/php/php-src/blob/6441f89857b3528e6b71a5f9ce6fa1ade3e67d7e/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 9ae535d31bc8ded6a9c43fa559d9c99ccd39425676008aaa148a792b0077a0c6
+  mediapath: /docs/php__php-src--contributing--9ae535d31bc8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    php/php-src\",\n  \"text_sha256\": \"9ae535d31bc8ded6a9c43fa559d9c99ccd39425676008aaa148a792b0077a0c6\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/php/php-src/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"9ae535d31bc8ded6a9c43fa559d9c99ccd39425676008aaa148a792b0077a0c6\"\
+    ,\n      \"source_url_cell\": \"https://github.com/php/php-src/blob/6441f89857b3528e6b71a5f9ce6fa1ade3e67d7e/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: php__php-src--contributing--9ae535d31bc8.md
+  owner: NicolasH
+  risid: null
+name: php__php-src--contributing--9ae535d31bc8.md
+path: corpus/qda-case-171/190.txt

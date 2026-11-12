@@ -1,0 +1,43 @@
+hash: 22a157d05d4b7e97557d398643e524f5a675e68cba7e7f5583ade595a751e2f2
+id: qda-source-290@qda-case-268
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 268
+    date: '2026-11-05 22:19:55'
+    fid: 290
+    id: 289
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2501
+  content_sha256: 22a157d05d4b7e97557d398643e524f5a675e68cba7e7f5583ade595a751e2f2
+  date: '2026-11-05 22:19:55'
+  id: 290
+  import_metadata:
+    entity: sindresorhus/type-fest
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 22a157d05d4b7e97557d398643e524f5a675e68cba7e7f5583ade595a751e2f2
+      path: data/281/policies/sindresorhus/type-fest/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/sindresorhus/type-fest/blob/48ddc4ba71cb215c3e3d98b0257360edc229fa75/.github/contributing.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 22a157d05d4b7e97557d398643e524f5a675e68cba7e7f5583ade595a751e2f2
+  mediapath: /docs/sindresorhus__type-fest--contributing--22a157d05d4b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    sindresorhus/type-fest\",\n  \"text_sha256\": \"22a157d05d4b7e97557d398643e524f5a675e68cba7e7f5583ade595a751e2f2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/sindresorhus/type-fest/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"22a157d05d4b7e97557d398643e524f5a675e68cba7e7f5583ade595a751e2f2\"\
+    ,\n      \"source_url_cell\": \"https://github.com/sindresorhus/type-fest/blob/48ddc4ba71cb215c3e3d98b0257360edc229fa75/.github/contributing.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: sindresorhus__type-fest--contributing--22a157d05d4b.md
+  owner: NicolasH
+  risid: null
+name: sindresorhus__type-fest--contributing--22a157d05d4b.md
+path: corpus/qda-case-268/290.txt

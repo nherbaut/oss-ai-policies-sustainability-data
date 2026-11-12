@@ -1,0 +1,50 @@
+hash: a47ca788b983a31e255b71b77ed459a60e37f2e10792b70b7481c670f53833d9
+id: qda-source-33@qda-case-27
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 27
+    date: '2026-11-05 22:19:55'
+    fid: 33
+    id: 32
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 32555
+  content_sha256: a47ca788b983a31e255b71b77ed459a60e37f2e10792b70b7481c670f53833d9
+  date: '2026-11-05 22:19:55'
+  id: 33
+  import_metadata:
+    conversion:
+      converted_sha256: a47ca788b983a31e255b71b77ed459a60e37f2e10792b70b7481c670f53833d9
+      original_sha256: 7aadb7fd5dd9f4ee0598aaa4b95295e7664311e1f950a191682cd58280e1bb3a
+      version: oss-ai-policies/clean-markdown-v1
+    entity: simple-icons/simple-icons
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 7aadb7fd5dd9f4ee0598aaa4b95295e7664311e1f950a191682cd58280e1bb3a
+      path: data/281/policies/simple-icons/simple-icons/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/simple-icons/simple-icons/blob/0f9fa549da00e9aa6e3ef8d3d2171f481360e638/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 7aadb7fd5dd9f4ee0598aaa4b95295e7664311e1f950a191682cd58280e1bb3a
+  mediapath: /docs/simple-icons__simple-icons--contributing--7aadb7fd5dd9.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    simple-icons/simple-icons\",\n  \"text_sha256\": \"7aadb7fd5dd9f4ee0598aaa4b95295e7664311e1f950a191682cd58280e1bb3a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/simple-icons/simple-icons/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"7aadb7fd5dd9f4ee0598aaa4b95295e7664311e1f950a191682cd58280e1bb3a\"\
+    ,\n      \"source_url_cell\": \"https://github.com/simple-icons/simple-icons/blob/0f9fa549da00e9aa6e3ef8d3d2171f481360e638/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"7aadb7fd5dd9f4ee0598aaa4b95295e7664311e1f950a191682cd58280e1bb3a\"\
+    ,\n    \"converted_sha256\": \"a47ca788b983a31e255b71b77ed459a60e37f2e10792b70b7481c670f53833d9\"\
+    \n  }\n}"
+  name: simple-icons__simple-icons--contributing--7aadb7fd5dd9.md
+  owner: NicolasH
+  risid: null
+name: simple-icons__simple-icons--contributing--7aadb7fd5dd9.md
+path: corpus/qda-case-27/33.txt

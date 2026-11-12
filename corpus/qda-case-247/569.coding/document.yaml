@@ -1,0 +1,58 @@
+hash: aeec774b9ff6516efcc1391911cef38aa70ae50fa106491b77647242ee2f0563
+id: qda-source-569@qda-case-247
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 247
+    date: '2026-11-05 22:19:55'
+    fid: 569
+    id: 569
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 567
+  content_sha256: aeec774b9ff6516efcc1391911cef38aa70ae50fa106491b77647242ee2f0563
+  date: '2026-11-05 22:19:55'
+  id: 569
+  import_metadata:
+    conversion:
+      converted_sha256: aeec774b9ff6516efcc1391911cef38aa70ae50fa106491b77647242ee2f0563
+      original_sha256: 5ea2de9e8ab0958861c382594417cd35745e514f48b986132731ed5a7a1e26d3
+      version: oss-ai-policies/clean-markdown-v1
+    entity: elysiajs/elysia
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.394195+00:00'
+      id: corpus-247-purpose
+      original_file_sha256: 5ea2de9e8ab0958861c382594417cd35745e514f48b986132731ed5a7a1e26d3
+      path: analysis/corpus-assessment/sources/corpus-247-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-247-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/elysiajs/elysia/8358ff9efbcedf9534995f5977f26b9ceab59329/README.md
+      role: purpose_statement_candidate
+      sha256: 5ea2de9e8ab0958861c382594417cd35745e514f48b986132731ed5a7a1e26d3
+      url: https://github.com/elysiajs/elysia/blob/8358ff9efbcedf9534995f5977f26b9ceab59329/README.md
+      version: 8358ff9efbcedf9534995f5977f26b9ceab59329
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 5ea2de9e8ab0958861c382594417cd35745e514f48b986132731ed5a7a1e26d3
+  mediapath: /docs/elysiajs__elysia--purpose_statement_candidate--5ea2de9e8ab0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    elysiajs/elysia\",\n  \"text_sha256\": \"5ea2de9e8ab0958861c382594417cd35745e514f48b986132731ed5a7a1e26d3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-247-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5ea2de9e8ab0958861c382594417cd35745e514f48b986132731ed5a7a1e26d3\",\n    \
+    \  \"id\": \"corpus-247-purpose\",\n      \"url\": \"https://github.com/elysiajs/elysia/blob/8358ff9efbcedf9534995f5977f26b9ceab59329/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/elysiajs/elysia/8358ff9efbcedf9534995f5977f26b9ceab59329/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.394195+00:00\",\n      \"version\"\
+    : \"8358ff9efbcedf9534995f5977f26b9ceab59329\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-247-purpose.raw.md\"\
+    ,\n      \"sha256\": \"5ea2de9e8ab0958861c382594417cd35745e514f48b986132731ed5a7a1e26d3\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"5ea2de9e8ab0958861c382594417cd35745e514f48b986132731ed5a7a1e26d3\"\
+    ,\n    \"converted_sha256\": \"aeec774b9ff6516efcc1391911cef38aa70ae50fa106491b77647242ee2f0563\"\
+    \n  }\n}"
+  name: elysiajs__elysia--purpose_statement_candidate--5ea2de9e8ab0.md
+  owner: NicolasH
+  risid: null
+name: elysiajs__elysia--purpose_statement_candidate--5ea2de9e8ab0.md
+path: corpus/qda-case-247/569.txt

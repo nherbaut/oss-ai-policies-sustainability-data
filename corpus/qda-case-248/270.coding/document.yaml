@@ -1,0 +1,50 @@
+hash: 68cd52ae2f56a6223ce0963ed319f8e2a76110c3ed32bf4760a2d6b509e51976
+id: qda-source-270@qda-case-248
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 248
+    date: '2026-11-05 22:19:55'
+    fid: 270
+    id: 269
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2163
+  content_sha256: 68cd52ae2f56a6223ce0963ed319f8e2a76110c3ed32bf4760a2d6b509e51976
+  date: '2026-11-05 22:19:55'
+  id: 270
+  import_metadata:
+    conversion:
+      converted_sha256: 68cd52ae2f56a6223ce0963ed319f8e2a76110c3ed32bf4760a2d6b509e51976
+      original_sha256: 52ba37a3aa489a61ee601ad49b10cdce8843a34fc03396ee5d69e472fbef99a2
+      version: oss-ai-policies/clean-markdown-v1
+    entity: getmaxun/maxun
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 52ba37a3aa489a61ee601ad49b10cdce8843a34fc03396ee5d69e472fbef99a2
+      path: data/281/policies/getmaxun/maxun/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/getmaxun/maxun/blob/ca3138a2dbc81564d16d1cf1beca2b52bef96104/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 52ba37a3aa489a61ee601ad49b10cdce8843a34fc03396ee5d69e472fbef99a2
+  mediapath: /docs/getmaxun__maxun--contributing--52ba37a3aa48.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    getmaxun/maxun\",\n  \"text_sha256\": \"52ba37a3aa489a61ee601ad49b10cdce8843a34fc03396ee5d69e472fbef99a2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/getmaxun/maxun/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"52ba37a3aa489a61ee601ad49b10cdce8843a34fc03396ee5d69e472fbef99a2\"\
+    ,\n      \"source_url_cell\": \"https://github.com/getmaxun/maxun/blob/ca3138a2dbc81564d16d1cf1beca2b52bef96104/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"52ba37a3aa489a61ee601ad49b10cdce8843a34fc03396ee5d69e472fbef99a2\"\
+    ,\n    \"converted_sha256\": \"68cd52ae2f56a6223ce0963ed319f8e2a76110c3ed32bf4760a2d6b509e51976\"\
+    \n  }\n}"
+  name: getmaxun__maxun--contributing--52ba37a3aa48.md
+  owner: NicolasH
+  risid: null
+name: getmaxun__maxun--contributing--52ba37a3aa48.md
+path: corpus/qda-case-248/270.txt

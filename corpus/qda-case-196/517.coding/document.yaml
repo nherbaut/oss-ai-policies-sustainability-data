@@ -1,0 +1,58 @@
+hash: 2304ae0d337a37ad3a9b550acd2b95308d0158587c439b0ecfd42599601afbc8
+id: qda-source-517@qda-case-196
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 196
+    date: '2026-11-05 22:19:55'
+    fid: 517
+    id: 517
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4743
+  content_sha256: 2304ae0d337a37ad3a9b550acd2b95308d0158587c439b0ecfd42599601afbc8
+  date: '2026-11-05 22:19:55'
+  id: 517
+  import_metadata:
+    conversion:
+      converted_sha256: 2304ae0d337a37ad3a9b550acd2b95308d0158587c439b0ecfd42599601afbc8
+      original_sha256: c2c04bbd199fb08f1589eacd2e3bcf6384a68a5d320c45c5c58b8b50fcff2730
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Servo
+    provenance:
+    - accessed_at: '2026-11-05T19:17:21.010999+00:00'
+      id: corpus-196-followup
+      original_file_sha256: c2c04bbd199fb08f1589eacd2e3bcf6384a68a5d320c45c5c58b8b50fcff2730
+      path: analysis/corpus-assessment/sources/corpus-196-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-196-followup.html
+      resolved_url: https://book.servo.org/policy/ai-usage.html
+      role: supplementary_policy
+      sha256: 0818315ab7f9f28bc2a3a6ab530a05d72c0547e6b6545dad9426a70cc2b3bdec
+      url: https://book.servo.org/policy/ai-usage.html
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: c2c04bbd199fb08f1589eacd2e3bcf6384a68a5d320c45c5c58b8b50fcff2730
+  mediapath: /docs/Servo--supplementary_policy--c2c04bbd199f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Servo\",\n  \"text_sha256\": \"c2c04bbd199fb08f1589eacd2e3bcf6384a68a5d320c45c5c58b8b50fcff2730\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-196-followup.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"c2c04bbd199fb08f1589eacd2e3bcf6384a68a5d320c45c5c58b8b50fcff2730\",\n    \
+    \  \"id\": \"corpus-196-followup\",\n      \"url\": \"https://book.servo.org/policy/ai-usage.html\"\
+    ,\n      \"resolved_url\": \"https://book.servo.org/policy/ai-usage.html\",\n\
+    \      \"accessed_at\": \"2026-11-05T19:17:21.010999+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-196-followup.html\"\
+    ,\n      \"sha256\": \"0818315ab7f9f28bc2a3a6ab530a05d72c0547e6b6545dad9426a70cc2b3bdec\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"c2c04bbd199fb08f1589eacd2e3bcf6384a68a5d320c45c5c58b8b50fcff2730\"\
+    ,\n    \"converted_sha256\": \"2304ae0d337a37ad3a9b550acd2b95308d0158587c439b0ecfd42599601afbc8\"\
+    \n  }\n}"
+  name: Servo--supplementary_policy--c2c04bbd199f.md
+  owner: NicolasH
+  risid: null
+name: Servo--supplementary_policy--c2c04bbd199f.md
+path: corpus/qda-case-196/517.txt

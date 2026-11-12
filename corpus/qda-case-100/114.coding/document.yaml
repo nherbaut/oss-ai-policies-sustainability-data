@@ -1,0 +1,43 @@
+hash: 5fb60396807056e519fc60295b69c93a83c1a97e68496c2041d33f622106da0e
+id: qda-source-114@qda-case-100
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 100
+    date: '2026-11-05 22:19:55'
+    fid: 114
+    id: 113
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3793
+  content_sha256: 5fb60396807056e519fc60295b69c93a83c1a97e68496c2041d33f622106da0e
+  date: '2026-11-05 22:19:55'
+  id: 114
+  import_metadata:
+    entity: caldis/mos
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 5fb60396807056e519fc60295b69c93a83c1a97e68496c2041d33f622106da0e
+      path: data/281/policies/caldis/mos/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/caldis/mos/blob/5dfb2363331cf63f529fdafa27962c41f91feff4/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 5fb60396807056e519fc60295b69c93a83c1a97e68496c2041d33f622106da0e
+  mediapath: /docs/caldis__mos--contributing--5fb603968070.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    caldis/mos\",\n  \"text_sha256\": \"5fb60396807056e519fc60295b69c93a83c1a97e68496c2041d33f622106da0e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/caldis/mos/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"5fb60396807056e519fc60295b69c93a83c1a97e68496c2041d33f622106da0e\"\
+    ,\n      \"source_url_cell\": \"https://github.com/caldis/mos/blob/5dfb2363331cf63f529fdafa27962c41f91feff4/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: caldis__mos--contributing--5fb603968070.md
+  owner: NicolasH
+  risid: null
+name: caldis__mos--contributing--5fb603968070.md
+path: corpus/qda-case-100/114.txt

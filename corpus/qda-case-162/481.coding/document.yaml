@@ -1,0 +1,58 @@
+hash: 0804173dee9d8df4a7aed7855a38b76bbc5ff40789e8389e4c9cbc819d3101fc
+id: qda-source-481@qda-case-162
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 162
+    date: '2026-11-05 22:19:55'
+    fid: 481
+    id: 481
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6949
+  content_sha256: 0804173dee9d8df4a7aed7855a38b76bbc5ff40789e8389e4c9cbc819d3101fc
+  date: '2026-11-05 22:19:55'
+  id: 481
+  import_metadata:
+    conversion:
+      converted_sha256: 0804173dee9d8df4a7aed7855a38b76bbc5ff40789e8389e4c9cbc819d3101fc
+      original_sha256: f2b92ac634cccfcfedad113689ed41e90c57ec0e865d2568a556372a18b1f22f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: wilfred/difftastic
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.877182+00:00'
+      id: corpus-162-purpose
+      original_file_sha256: f2b92ac634cccfcfedad113689ed41e90c57ec0e865d2568a556372a18b1f22f
+      path: analysis/corpus-assessment/sources/corpus-162-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-162-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/wilfred/difftastic/3310f2bc4d15f44576b8c35731497766663e4f01/README.md
+      role: purpose_statement_candidate
+      sha256: f2b92ac634cccfcfedad113689ed41e90c57ec0e865d2568a556372a18b1f22f
+      url: https://github.com/wilfred/difftastic/blob/3310f2bc4d15f44576b8c35731497766663e4f01/README.md
+      version: 3310f2bc4d15f44576b8c35731497766663e4f01
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: f2b92ac634cccfcfedad113689ed41e90c57ec0e865d2568a556372a18b1f22f
+  mediapath: /docs/wilfred__difftastic--purpose_statement_candidate--f2b92ac634cc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    wilfred/difftastic\",\n  \"text_sha256\": \"f2b92ac634cccfcfedad113689ed41e90c57ec0e865d2568a556372a18b1f22f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-162-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"f2b92ac634cccfcfedad113689ed41e90c57ec0e865d2568a556372a18b1f22f\",\n    \
+    \  \"id\": \"corpus-162-purpose\",\n      \"url\": \"https://github.com/wilfred/difftastic/blob/3310f2bc4d15f44576b8c35731497766663e4f01/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/wilfred/difftastic/3310f2bc4d15f44576b8c35731497766663e4f01/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.877182+00:00\",\n      \"version\"\
+    : \"3310f2bc4d15f44576b8c35731497766663e4f01\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-162-purpose.raw.md\"\
+    ,\n      \"sha256\": \"f2b92ac634cccfcfedad113689ed41e90c57ec0e865d2568a556372a18b1f22f\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"f2b92ac634cccfcfedad113689ed41e90c57ec0e865d2568a556372a18b1f22f\"\
+    ,\n    \"converted_sha256\": \"0804173dee9d8df4a7aed7855a38b76bbc5ff40789e8389e4c9cbc819d3101fc\"\
+    \n  }\n}"
+  name: wilfred__difftastic--purpose_statement_candidate--f2b92ac634cc.md
+  owner: NicolasH
+  risid: null
+name: wilfred__difftastic--purpose_statement_candidate--f2b92ac634cc.md
+path: corpus/qda-case-162/481.txt

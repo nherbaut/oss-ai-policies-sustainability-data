@@ -1,0 +1,58 @@
+hash: e14bd8fc3e4225eab7fc0b06613d4d4b6a5bf52d970682107c7f9be0bfaffa59
+id: qda-source-391@qda-case-69
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 69
+    date: '2026-11-05 22:19:55'
+    fid: 391
+    id: 391
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 28876
+  content_sha256: e14bd8fc3e4225eab7fc0b06613d4d4b6a5bf52d970682107c7f9be0bfaffa59
+  date: '2026-11-05 22:19:55'
+  id: 391
+  import_metadata:
+    conversion:
+      converted_sha256: e14bd8fc3e4225eab7fc0b06613d4d4b6a5bf52d970682107c7f9be0bfaffa59
+      original_sha256: 5908e51f86d159538ed5a67f3616228a9d65ee9260f0c028cd08725dc5760e67
+      version: oss-ai-policies/clean-markdown-v1
+    entity: pytorch/pytorch
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.878454+00:00'
+      id: corpus-069-purpose
+      original_file_sha256: 5908e51f86d159538ed5a67f3616228a9d65ee9260f0c028cd08725dc5760e67
+      path: analysis/corpus-assessment/sources/corpus-069-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-069-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/pytorch/pytorch/17c69925f67b564d6d50c32a2cf4036f483e0e1a/README.md
+      role: purpose_statement_candidate
+      sha256: 5908e51f86d159538ed5a67f3616228a9d65ee9260f0c028cd08725dc5760e67
+      url: https://github.com/pytorch/pytorch/blob/17c69925f67b564d6d50c32a2cf4036f483e0e1a/README.md
+      version: 17c69925f67b564d6d50c32a2cf4036f483e0e1a
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 5908e51f86d159538ed5a67f3616228a9d65ee9260f0c028cd08725dc5760e67
+  mediapath: /docs/pytorch__pytorch--purpose_statement_candidate--5908e51f86d1.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    pytorch/pytorch\",\n  \"text_sha256\": \"5908e51f86d159538ed5a67f3616228a9d65ee9260f0c028cd08725dc5760e67\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-069-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5908e51f86d159538ed5a67f3616228a9d65ee9260f0c028cd08725dc5760e67\",\n    \
+    \  \"id\": \"corpus-069-purpose\",\n      \"url\": \"https://github.com/pytorch/pytorch/blob/17c69925f67b564d6d50c32a2cf4036f483e0e1a/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/pytorch/pytorch/17c69925f67b564d6d50c32a2cf4036f483e0e1a/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:55.878454+00:00\",\n      \"version\"\
+    : \"17c69925f67b564d6d50c32a2cf4036f483e0e1a\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-069-purpose.raw.md\"\
+    ,\n      \"sha256\": \"5908e51f86d159538ed5a67f3616228a9d65ee9260f0c028cd08725dc5760e67\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"5908e51f86d159538ed5a67f3616228a9d65ee9260f0c028cd08725dc5760e67\"\
+    ,\n    \"converted_sha256\": \"e14bd8fc3e4225eab7fc0b06613d4d4b6a5bf52d970682107c7f9be0bfaffa59\"\
+    \n  }\n}"
+  name: pytorch__pytorch--purpose_statement_candidate--5908e51f86d1.md
+  owner: NicolasH
+  risid: null
+name: pytorch__pytorch--purpose_statement_candidate--5908e51f86d1.md
+path: corpus/qda-case-69/391.txt

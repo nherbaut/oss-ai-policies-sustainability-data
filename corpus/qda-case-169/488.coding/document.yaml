@@ -1,0 +1,58 @@
+hash: cd6474cace55646b6a2e851813ce7b374f0f8cc6e003f74ce735e88e54054b93
+id: qda-source-488@qda-case-169
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 169
+    date: '2026-11-05 22:19:55'
+    fid: 488
+    id: 488
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7267
+  content_sha256: cd6474cace55646b6a2e851813ce7b374f0f8cc6e003f74ce735e88e54054b93
+  date: '2026-11-05 22:19:55'
+  id: 488
+  import_metadata:
+    conversion:
+      converted_sha256: cd6474cace55646b6a2e851813ce7b374f0f8cc6e003f74ce735e88e54054b93
+      original_sha256: 1a79d53cfd7a0abb332c21798258e25248762e25414d939a76871f46ef58367c
+      version: oss-ai-policies/clean-markdown-v1
+    entity: renovatebot/renovate
+    provenance:
+    - accessed_at: '2026-11-05T19:12:04.337432+00:00'
+      id: corpus-169-purpose
+      original_file_sha256: 1a79d53cfd7a0abb332c21798258e25248762e25414d939a76871f46ef58367c
+      path: analysis/corpus-assessment/sources/corpus-169-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-169-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/renovatebot/renovate/170b972320cd4a6de644992586f5156eb20d9de5/readme.md
+      role: purpose_statement_candidate
+      sha256: 1a79d53cfd7a0abb332c21798258e25248762e25414d939a76871f46ef58367c
+      url: https://github.com/renovatebot/renovate/blob/170b972320cd4a6de644992586f5156eb20d9de5/readme.md
+      version: 170b972320cd4a6de644992586f5156eb20d9de5
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 1a79d53cfd7a0abb332c21798258e25248762e25414d939a76871f46ef58367c
+  mediapath: /docs/renovatebot__renovate--purpose_statement_candidate--1a79d53cfd7a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    renovatebot/renovate\",\n  \"text_sha256\": \"1a79d53cfd7a0abb332c21798258e25248762e25414d939a76871f46ef58367c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-169-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"1a79d53cfd7a0abb332c21798258e25248762e25414d939a76871f46ef58367c\",\n    \
+    \  \"id\": \"corpus-169-purpose\",\n      \"url\": \"https://github.com/renovatebot/renovate/blob/170b972320cd4a6de644992586f5156eb20d9de5/readme.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/renovatebot/renovate/170b972320cd4a6de644992586f5156eb20d9de5/readme.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:04.337432+00:00\",\n      \"version\"\
+    : \"170b972320cd4a6de644992586f5156eb20d9de5\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-169-purpose.raw.md\"\
+    ,\n      \"sha256\": \"1a79d53cfd7a0abb332c21798258e25248762e25414d939a76871f46ef58367c\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"1a79d53cfd7a0abb332c21798258e25248762e25414d939a76871f46ef58367c\"\
+    ,\n    \"converted_sha256\": \"cd6474cace55646b6a2e851813ce7b374f0f8cc6e003f74ce735e88e54054b93\"\
+    \n  }\n}"
+  name: renovatebot__renovate--purpose_statement_candidate--1a79d53cfd7a.md
+  owner: NicolasH
+  risid: null
+name: renovatebot__renovate--purpose_statement_candidate--1a79d53cfd7a.md
+path: corpus/qda-case-169/488.txt

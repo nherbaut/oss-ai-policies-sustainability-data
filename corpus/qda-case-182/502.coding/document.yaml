@@ -1,0 +1,58 @@
+hash: fb70d30c08d3394f096c69c42a477c53936eb2012657950db80604baab95d6f3
+id: qda-source-502@qda-case-182
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 182
+    date: '2026-11-05 22:19:55'
+    fid: 502
+    id: 502
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9888
+  content_sha256: fb70d30c08d3394f096c69c42a477c53936eb2012657950db80604baab95d6f3
+  date: '2026-11-05 22:19:55'
+  id: 502
+  import_metadata:
+    conversion:
+      converted_sha256: fb70d30c08d3394f096c69c42a477c53936eb2012657950db80604baab95d6f3
+      original_sha256: 700dcefcef8a9f54139ae12fda91261a7d7e7d5cbb59c3c96fe567efbc0de620
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Godot
+    provenance:
+    - accessed_at: '2026-11-05T19:14:19.480752+00:00'
+      id: corpus-182-followup
+      original_file_sha256: 700dcefcef8a9f54139ae12fda91261a7d7e7d5cbb59c3c96fe567efbc0de620
+      path: analysis/corpus-assessment/sources/corpus-182-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-182-followup.html
+      resolved_url: https://contributing.godotengine.org/en/latest/development/contribution_rules.html#ai-assisted-contributions
+      role: supplementary_policy
+      sha256: df9c8ebdb158b63a871ba5740435260b084f063e52208c0cbfe6cd7445b78bd1
+      url: https://contributing.godotengine.org/en/latest/development/contribution_rules.html#ai-assisted-contributions
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 700dcefcef8a9f54139ae12fda91261a7d7e7d5cbb59c3c96fe567efbc0de620
+  mediapath: /docs/Godot--supplementary_policy--700dcefcef8a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Godot\",\n  \"text_sha256\": \"700dcefcef8a9f54139ae12fda91261a7d7e7d5cbb59c3c96fe567efbc0de620\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-182-followup.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"700dcefcef8a9f54139ae12fda91261a7d7e7d5cbb59c3c96fe567efbc0de620\",\n    \
+    \  \"id\": \"corpus-182-followup\",\n      \"url\": \"https://contributing.godotengine.org/en/latest/development/contribution_rules.html#ai-assisted-contributions\"\
+    ,\n      \"resolved_url\": \"https://contributing.godotengine.org/en/latest/development/contribution_rules.html#ai-assisted-contributions\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:14:19.480752+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-182-followup.html\"\
+    ,\n      \"sha256\": \"df9c8ebdb158b63a871ba5740435260b084f063e52208c0cbfe6cd7445b78bd1\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"700dcefcef8a9f54139ae12fda91261a7d7e7d5cbb59c3c96fe567efbc0de620\"\
+    ,\n    \"converted_sha256\": \"fb70d30c08d3394f096c69c42a477c53936eb2012657950db80604baab95d6f3\"\
+    \n  }\n}"
+  name: Godot--supplementary_policy--700dcefcef8a.md
+  owner: NicolasH
+  risid: null
+name: Godot--supplementary_policy--700dcefcef8a.md
+path: corpus/qda-case-182/502.txt

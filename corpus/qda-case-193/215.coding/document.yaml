@@ -1,0 +1,43 @@
+hash: e325c2274026f56d1a73ce584e800c39e24c0a21ceb824ca1b06968f310d56e0
+id: qda-source-215@qda-case-193
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 193
+    date: '2026-11-05 22:19:55'
+    fid: 215
+    id: 214
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 261
+  content_sha256: e325c2274026f56d1a73ce584e800c39e24c0a21ceb824ca1b06968f310d56e0
+  date: '2026-11-05 22:19:55'
+  id: 215
+  import_metadata:
+    entity: bevyengine/bevy
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: e325c2274026f56d1a73ce584e800c39e24c0a21ceb824ca1b06968f310d56e0
+      path: data/281/policies/bevyengine/bevy/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/bevyengine/bevy/blob/19b25aec163a7defb4b8d1c6e987f9dcce46f8bc/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: e325c2274026f56d1a73ce584e800c39e24c0a21ceb824ca1b06968f310d56e0
+  mediapath: /docs/bevyengine__bevy--contributing--e325c2274026.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    bevyengine/bevy\",\n  \"text_sha256\": \"e325c2274026f56d1a73ce584e800c39e24c0a21ceb824ca1b06968f310d56e0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/bevyengine/bevy/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"e325c2274026f56d1a73ce584e800c39e24c0a21ceb824ca1b06968f310d56e0\"\
+    ,\n      \"source_url_cell\": \"https://github.com/bevyengine/bevy/blob/19b25aec163a7defb4b8d1c6e987f9dcce46f8bc/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: bevyengine__bevy--contributing--e325c2274026.md
+  owner: NicolasH
+  risid: null
+name: bevyengine__bevy--contributing--e325c2274026.md
+path: corpus/qda-case-193/215.txt

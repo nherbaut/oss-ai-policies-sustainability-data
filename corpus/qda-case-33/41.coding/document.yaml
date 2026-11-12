@@ -1,0 +1,43 @@
+hash: cc52a502b11a8d374acd48c701602180cdbd97c9f30188de8f31c9cd2ce4eb12
+id: qda-source-41@qda-case-33
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 33
+    date: '2026-11-05 22:19:55'
+    fid: 41
+    id: 40
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3673
+  content_sha256: cc52a502b11a8d374acd48c701602180cdbd97c9f30188de8f31c9cd2ce4eb12
+  date: '2026-11-05 22:19:55'
+  id: 41
+  import_metadata:
+    entity: mudler/LocalAI
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: cc52a502b11a8d374acd48c701602180cdbd97c9f30188de8f31c9cd2ce4eb12
+      path: data/281/policies/mudler/LocalAI/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://github.com/mudler/LocalAI/blob/a23fcc90c36b49439a1a3bd785f8854c1816021e/.agents/ai-coding-assistants.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: cc52a502b11a8d374acd48c701602180cdbd97c9f30188de8f31c9cd2ce4eb12
+  mediapath: /docs/mudler__LocalAI--other_policy--cc52a502b11a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    mudler/LocalAI\",\n  \"text_sha256\": \"cc52a502b11a8d374acd48c701602180cdbd97c9f30188de8f31c9cd2ce4eb12\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/mudler/LocalAI/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"cc52a502b11a8d374acd48c701602180cdbd97c9f30188de8f31c9cd2ce4eb12\"\
+    ,\n      \"source_url_cell\": \"https://github.com/mudler/LocalAI/blob/a23fcc90c36b49439a1a3bd785f8854c1816021e/.agents/ai-coding-assistants.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: mudler__LocalAI--other_policy--cc52a502b11a.md
+  owner: NicolasH
+  risid: null
+name: mudler__LocalAI--other_policy--cc52a502b11a.md
+path: corpus/qda-case-33/41.txt

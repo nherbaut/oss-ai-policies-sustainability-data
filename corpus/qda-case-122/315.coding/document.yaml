@@ -1,0 +1,58 @@
+hash: d31724d0be1f674a1bea85cd91fb663d5cb9fc227394c51c632221316d9df5c0
+id: qda-source-315@qda-case-122
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 122
+    date: '2026-11-05 22:19:55'
+    fid: 315
+    id: 315
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 35205
+  content_sha256: d31724d0be1f674a1bea85cd91fb663d5cb9fc227394c51c632221316d9df5c0
+  date: '2026-11-05 22:19:55'
+  id: 315
+  import_metadata:
+    conversion:
+      converted_sha256: d31724d0be1f674a1bea85cd91fb663d5cb9fc227394c51c632221316d9df5c0
+      original_sha256: e0eeb79e3e9feea2623111082a1a3e6260e71894eab0132ef394c1f7ae225ce9
+      version: oss-ai-policies/clean-markdown-v1
+    entity: ggml-org/whisper.cpp
+    provenance:
+    - accessed_at: '2026-11-05T16:00:21.343453+00:00'
+      id: 11-purpose
+      original_file_sha256: e0eeb79e3e9feea2623111082a1a3e6260e71894eab0132ef394c1f7ae225ce9
+      path: analysis/feasibility-pilot/sources/11-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/11-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/ggml-org/whisper.cpp/080bbbe85230f624f0b52127f1ae1218247989f9/README.md
+      role: purpose_statement_candidate
+      sha256: e0eeb79e3e9feea2623111082a1a3e6260e71894eab0132ef394c1f7ae225ce9
+      url: https://github.com/ggml-org/whisper.cpp/blob/080bbbe85230f624f0b52127f1ae1218247989f9/README.md
+      version: 080bbbe85230f624f0b52127f1ae1218247989f9
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e0eeb79e3e9feea2623111082a1a3e6260e71894eab0132ef394c1f7ae225ce9
+  mediapath: /docs/ggml-org__whisper.cpp--purpose_statement_candidate--e0eeb79e3e9f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ggml-org/whisper.cpp\",\n  \"text_sha256\": \"e0eeb79e3e9feea2623111082a1a3e6260e71894eab0132ef394c1f7ae225ce9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/11-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e0eeb79e3e9feea2623111082a1a3e6260e71894eab0132ef394c1f7ae225ce9\",\n    \
+    \  \"id\": \"11-purpose\",\n      \"url\": \"https://github.com/ggml-org/whisper.cpp/blob/080bbbe85230f624f0b52127f1ae1218247989f9/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/ggml-org/whisper.cpp/080bbbe85230f624f0b52127f1ae1218247989f9/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:21.343453+00:00\",\n      \"version\"\
+    : \"080bbbe85230f624f0b52127f1ae1218247989f9\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/11-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e0eeb79e3e9feea2623111082a1a3e6260e71894eab0132ef394c1f7ae225ce9\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e0eeb79e3e9feea2623111082a1a3e6260e71894eab0132ef394c1f7ae225ce9\"\
+    ,\n    \"converted_sha256\": \"d31724d0be1f674a1bea85cd91fb663d5cb9fc227394c51c632221316d9df5c0\"\
+    \n  }\n}"
+  name: ggml-org__whisper.cpp--purpose_statement_candidate--e0eeb79e3e9f.md
+  owner: NicolasH
+  risid: null
+name: ggml-org__whisper.cpp--purpose_statement_candidate--e0eeb79e3e9f.md
+path: corpus/qda-case-122/315.txt

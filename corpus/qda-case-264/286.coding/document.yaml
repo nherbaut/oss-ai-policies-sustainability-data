@@ -1,0 +1,43 @@
+hash: 11df52d8368272cca136175c4f285b9cb81bd4744462dcbc269c93f5f2425f63
+id: qda-source-286@qda-case-264
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 264
+    date: '2026-11-05 22:19:55'
+    fid: 286
+    id: 285
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3661
+  content_sha256: 11df52d8368272cca136175c4f285b9cb81bd4744462dcbc269c93f5f2425f63
+  date: '2026-11-05 22:19:55'
+  id: 286
+  import_metadata:
+    entity: immich-app/immich
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 11df52d8368272cca136175c4f285b9cb81bd4744462dcbc269c93f5f2425f63
+      path: data/281/policies/immich-app/immich/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/immich-app/immich/blob/d8ed7d7bb9d5a816ba55abda0123cfb543b04050/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 11df52d8368272cca136175c4f285b9cb81bd4744462dcbc269c93f5f2425f63
+  mediapath: /docs/immich-app__immich--contributing--11df52d83682.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    immich-app/immich\",\n  \"text_sha256\": \"11df52d8368272cca136175c4f285b9cb81bd4744462dcbc269c93f5f2425f63\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/immich-app/immich/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"11df52d8368272cca136175c4f285b9cb81bd4744462dcbc269c93f5f2425f63\"\
+    ,\n      \"source_url_cell\": \"https://github.com/immich-app/immich/blob/d8ed7d7bb9d5a816ba55abda0123cfb543b04050/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: immich-app__immich--contributing--11df52d83682.md
+  owner: NicolasH
+  risid: null
+name: immich-app__immich--contributing--11df52d83682.md
+path: corpus/qda-case-264/286.txt

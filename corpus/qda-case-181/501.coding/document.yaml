@@ -1,0 +1,51 @@
+hash: 5a14b7edc06664dc6e07b0b815da4a98eb6f98220e2863a5a5621ff7923c8f5b
+id: qda-source-501@qda-case-181
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 181
+    date: '2026-11-05 22:19:55'
+    fid: 501
+    id: 501
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1684
+  content_sha256: 5a14b7edc06664dc6e07b0b815da4a98eb6f98220e2863a5a5621ff7923c8f5b
+  date: '2026-11-05 22:19:55'
+  id: 501
+  import_metadata:
+    entity: go-delve/delve
+    provenance:
+    - accessed_at: '2026-11-05T19:12:06.628411+00:00'
+      id: corpus-181-purpose
+      original_file_sha256: 5a14b7edc06664dc6e07b0b815da4a98eb6f98220e2863a5a5621ff7923c8f5b
+      path: analysis/corpus-assessment/sources/corpus-181-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-181-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/go-delve/delve/a1a708f3dc4a53946f44871c8629ad86b75bceac/README.md
+      role: purpose_statement_candidate
+      sha256: 5a14b7edc06664dc6e07b0b815da4a98eb6f98220e2863a5a5621ff7923c8f5b
+      url: https://github.com/go-delve/delve/blob/a1a708f3dc4a53946f44871c8629ad86b75bceac/README.md
+      version: a1a708f3dc4a53946f44871c8629ad86b75bceac
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 5a14b7edc06664dc6e07b0b815da4a98eb6f98220e2863a5a5621ff7923c8f5b
+  mediapath: /docs/go-delve__delve--purpose_statement_candidate--5a14b7edc066.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    go-delve/delve\",\n  \"text_sha256\": \"5a14b7edc06664dc6e07b0b815da4a98eb6f98220e2863a5a5621ff7923c8f5b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-181-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5a14b7edc06664dc6e07b0b815da4a98eb6f98220e2863a5a5621ff7923c8f5b\",\n    \
+    \  \"id\": \"corpus-181-purpose\",\n      \"url\": \"https://github.com/go-delve/delve/blob/a1a708f3dc4a53946f44871c8629ad86b75bceac/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/go-delve/delve/a1a708f3dc4a53946f44871c8629ad86b75bceac/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:06.628411+00:00\",\n      \"version\"\
+    : \"a1a708f3dc4a53946f44871c8629ad86b75bceac\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-181-purpose.raw.md\"\
+    ,\n      \"sha256\": \"5a14b7edc06664dc6e07b0b815da4a98eb6f98220e2863a5a5621ff7923c8f5b\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: go-delve__delve--purpose_statement_candidate--5a14b7edc066.md
+  owner: NicolasH
+  risid: null
+name: go-delve__delve--purpose_statement_candidate--5a14b7edc066.md
+path: corpus/qda-case-181/501.txt

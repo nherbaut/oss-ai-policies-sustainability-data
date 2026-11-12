@@ -1,0 +1,50 @@
+hash: 1ea6645467b037eb7e0e7d1e55545b751a3e9c1399c06b22be870fe65d6ab9fc
+id: qda-source-112@qda-case-98
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 98
+    date: '2026-11-05 22:19:55'
+    fid: 112
+    id: 111
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6275
+  content_sha256: 1ea6645467b037eb7e0e7d1e55545b751a3e9c1399c06b22be870fe65d6ab9fc
+  date: '2026-11-05 22:19:55'
+  id: 112
+  import_metadata:
+    conversion:
+      converted_sha256: 1ea6645467b037eb7e0e7d1e55545b751a3e9c1399c06b22be870fe65d6ab9fc
+      original_sha256: ee02549fea6329bfae523e8f07045952db2416ce76b046fd70b1185bec4449e2
+      version: oss-ai-policies/clean-markdown-v1
+    entity: cloudreve/cloudreve
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: ee02549fea6329bfae523e8f07045952db2416ce76b046fd70b1185bec4449e2
+      path: data/281/policies/cloudreve/cloudreve/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://docs.cloudreve.org/en/api/contributing#aigc-guidelines
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ee02549fea6329bfae523e8f07045952db2416ce76b046fd70b1185bec4449e2
+  mediapath: /docs/cloudreve__cloudreve--other_policy--ee02549fea63.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    cloudreve/cloudreve\",\n  \"text_sha256\": \"ee02549fea6329bfae523e8f07045952db2416ce76b046fd70b1185bec4449e2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/cloudreve/cloudreve/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"ee02549fea6329bfae523e8f07045952db2416ce76b046fd70b1185bec4449e2\"\
+    ,\n      \"source_url_cell\": \"https://docs.cloudreve.org/en/api/contributing#aigc-guidelines\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"ee02549fea6329bfae523e8f07045952db2416ce76b046fd70b1185bec4449e2\"\
+    ,\n    \"converted_sha256\": \"1ea6645467b037eb7e0e7d1e55545b751a3e9c1399c06b22be870fe65d6ab9fc\"\
+    \n  }\n}"
+  name: cloudreve__cloudreve--other_policy--ee02549fea63.md
+  owner: NicolasH
+  risid: null
+name: cloudreve__cloudreve--other_policy--ee02549fea63.md
+path: corpus/qda-case-98/112.txt

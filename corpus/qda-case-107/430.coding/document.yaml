@@ -1,0 +1,58 @@
+hash: 8e6304313abb8c819926d1d4a1e0068491bf2f9100c28f65e7bc959bd71e5c17
+id: qda-source-430@qda-case-107
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 107
+    date: '2026-11-05 22:19:55'
+    fid: 430
+    id: 430
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 13163
+  content_sha256: 8e6304313abb8c819926d1d4a1e0068491bf2f9100c28f65e7bc959bd71e5c17
+  date: '2026-11-05 22:19:55'
+  id: 430
+  import_metadata:
+    conversion:
+      converted_sha256: 8e6304313abb8c819926d1d4a1e0068491bf2f9100c28f65e7bc959bd71e5c17
+      original_sha256: b23ed719b490dd971ee110008d0a2445cd37292c5899755bf018d1528f9eab51
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Oxide Computer (RFD 576)
+    provenance:
+    - accessed_at: '2026-11-05T19:14:19.480441+00:00'
+      id: corpus-107-followup
+      original_file_sha256: b23ed719b490dd971ee110008d0a2445cd37292c5899755bf018d1528f9eab51
+      path: analysis/corpus-assessment/sources/corpus-107-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-107-followup.html
+      resolved_url: https://oxide.computer/
+      role: purpose_statement_candidate
+      sha256: 060a5fa9b70c8c3da91a1737e0176b8c13a08866dc9090b5d52bea3b527a9b9d
+      url: https://oxide.computer/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b23ed719b490dd971ee110008d0a2445cd37292c5899755bf018d1528f9eab51
+  mediapath: /docs/Oxide__Computer__RFD__576--purpose_statement_candidate--b23ed719b490.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Oxide Computer (RFD 576)\",\n  \"text_sha256\": \"b23ed719b490dd971ee110008d0a2445cd37292c5899755bf018d1528f9eab51\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-107-followup.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b23ed719b490dd971ee110008d0a2445cd37292c5899755bf018d1528f9eab51\",\n    \
+    \  \"id\": \"corpus-107-followup\",\n      \"url\": \"https://oxide.computer/\"\
+    ,\n      \"resolved_url\": \"https://oxide.computer/\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:14:19.480441+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-107-followup.html\",\n      \"sha256\"\
+    : \"060a5fa9b70c8c3da91a1737e0176b8c13a08866dc9090b5d52bea3b527a9b9d\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b23ed719b490dd971ee110008d0a2445cd37292c5899755bf018d1528f9eab51\"\
+    ,\n    \"converted_sha256\": \"8e6304313abb8c819926d1d4a1e0068491bf2f9100c28f65e7bc959bd71e5c17\"\
+    \n  }\n}"
+  name: Oxide__Computer__RFD__576--purpose_statement_candidate--b23ed719b490.md
+  owner: NicolasH
+  risid: null
+name: Oxide__Computer__RFD__576--purpose_statement_candidate--b23ed719b490.md
+path: corpus/qda-case-107/430.txt

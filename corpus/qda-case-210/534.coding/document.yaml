@@ -1,0 +1,58 @@
+hash: b4e2d24290999bf76181e1bf1b49ad2ecfdb5617e213a4895ed92715fa98ddda
+id: qda-source-534@qda-case-210
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 210
+    date: '2026-11-05 22:19:55'
+    fid: 534
+    id: 534
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 14181
+  content_sha256: b4e2d24290999bf76181e1bf1b49ad2ecfdb5617e213a4895ed92715fa98ddda
+  date: '2026-11-05 22:19:55'
+  id: 534
+  import_metadata:
+    conversion:
+      converted_sha256: b4e2d24290999bf76181e1bf1b49ad2ecfdb5617e213a4895ed92715fa98ddda
+      original_sha256: cfc868bccad53cdfb0ff3abd2af4488d5a2c065b32ce5448762609c1386626b9
+      version: oss-ai-policies/clean-markdown-v1
+    entity: darkreader/darkreader
+    provenance:
+    - accessed_at: '2026-11-05T19:12:10.638866+00:00'
+      id: corpus-210-purpose
+      original_file_sha256: cfc868bccad53cdfb0ff3abd2af4488d5a2c065b32ce5448762609c1386626b9
+      path: analysis/corpus-assessment/sources/corpus-210-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-210-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/darkreader/darkreader/385af067213a3482ffa62ecb87d3a337f1adab0e/README.md
+      role: purpose_statement_candidate
+      sha256: cfc868bccad53cdfb0ff3abd2af4488d5a2c065b32ce5448762609c1386626b9
+      url: https://github.com/darkreader/darkreader/blob/385af067213a3482ffa62ecb87d3a337f1adab0e/README.md
+      version: 385af067213a3482ffa62ecb87d3a337f1adab0e
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: cfc868bccad53cdfb0ff3abd2af4488d5a2c065b32ce5448762609c1386626b9
+  mediapath: /docs/darkreader__darkreader--purpose_statement_candidate--cfc868bccad5.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    darkreader/darkreader\",\n  \"text_sha256\": \"cfc868bccad53cdfb0ff3abd2af4488d5a2c065b32ce5448762609c1386626b9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-210-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"cfc868bccad53cdfb0ff3abd2af4488d5a2c065b32ce5448762609c1386626b9\",\n    \
+    \  \"id\": \"corpus-210-purpose\",\n      \"url\": \"https://github.com/darkreader/darkreader/blob/385af067213a3482ffa62ecb87d3a337f1adab0e/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/darkreader/darkreader/385af067213a3482ffa62ecb87d3a337f1adab0e/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:10.638866+00:00\",\n      \"version\"\
+    : \"385af067213a3482ffa62ecb87d3a337f1adab0e\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-210-purpose.raw.md\"\
+    ,\n      \"sha256\": \"cfc868bccad53cdfb0ff3abd2af4488d5a2c065b32ce5448762609c1386626b9\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"cfc868bccad53cdfb0ff3abd2af4488d5a2c065b32ce5448762609c1386626b9\"\
+    ,\n    \"converted_sha256\": \"b4e2d24290999bf76181e1bf1b49ad2ecfdb5617e213a4895ed92715fa98ddda\"\
+    \n  }\n}"
+  name: darkreader__darkreader--purpose_statement_candidate--cfc868bccad5.md
+  owner: NicolasH
+  risid: null
+name: darkreader__darkreader--purpose_statement_candidate--cfc868bccad5.md
+path: corpus/qda-case-210/534.txt

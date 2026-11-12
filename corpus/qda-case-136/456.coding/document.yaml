@@ -1,0 +1,58 @@
+hash: 01d47379cbb8d6fea7b13c780206034fbb4290f547ec141502393130419fb003
+id: qda-source-456@qda-case-136
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 136
+    date: '2026-11-05 22:19:55'
+    fid: 456
+    id: 456
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4039
+  content_sha256: 01d47379cbb8d6fea7b13c780206034fbb4290f547ec141502393130419fb003
+  date: '2026-11-05 22:19:55'
+  id: 456
+  import_metadata:
+    conversion:
+      converted_sha256: 01d47379cbb8d6fea7b13c780206034fbb4290f547ec141502393130419fb003
+      original_sha256: 1248116b3912c60795b4e7822b43afc61dd125304bc62134f9d41115b05ce99d
+      version: oss-ai-policies/clean-markdown-v1
+    entity: graphiteeditor/graphite
+    provenance:
+    - accessed_at: '2026-11-05T19:12:01.888942+00:00'
+      id: corpus-136-purpose
+      original_file_sha256: 1248116b3912c60795b4e7822b43afc61dd125304bc62134f9d41115b05ce99d
+      path: analysis/corpus-assessment/sources/corpus-136-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-136-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/graphiteeditor/graphite/a040362d4a56a7ffac08c57697e409dc427a2694/README.md
+      role: purpose_statement_candidate
+      sha256: 1248116b3912c60795b4e7822b43afc61dd125304bc62134f9d41115b05ce99d
+      url: https://github.com/graphiteeditor/graphite/blob/a040362d4a56a7ffac08c57697e409dc427a2694/README.md
+      version: a040362d4a56a7ffac08c57697e409dc427a2694
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 1248116b3912c60795b4e7822b43afc61dd125304bc62134f9d41115b05ce99d
+  mediapath: /docs/graphiteeditor__graphite--purpose_statement_candidate--1248116b3912.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    graphiteeditor/graphite\",\n  \"text_sha256\": \"1248116b3912c60795b4e7822b43afc61dd125304bc62134f9d41115b05ce99d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-136-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"1248116b3912c60795b4e7822b43afc61dd125304bc62134f9d41115b05ce99d\",\n    \
+    \  \"id\": \"corpus-136-purpose\",\n      \"url\": \"https://github.com/graphiteeditor/graphite/blob/a040362d4a56a7ffac08c57697e409dc427a2694/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/graphiteeditor/graphite/a040362d4a56a7ffac08c57697e409dc427a2694/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:01.888942+00:00\",\n      \"version\"\
+    : \"a040362d4a56a7ffac08c57697e409dc427a2694\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-136-purpose.raw.md\"\
+    ,\n      \"sha256\": \"1248116b3912c60795b4e7822b43afc61dd125304bc62134f9d41115b05ce99d\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"1248116b3912c60795b4e7822b43afc61dd125304bc62134f9d41115b05ce99d\"\
+    ,\n    \"converted_sha256\": \"01d47379cbb8d6fea7b13c780206034fbb4290f547ec141502393130419fb003\"\
+    \n  }\n}"
+  name: graphiteeditor__graphite--purpose_statement_candidate--1248116b3912.md
+  owner: NicolasH
+  risid: null
+name: graphiteeditor__graphite--purpose_statement_candidate--1248116b3912.md
+path: corpus/qda-case-136/456.txt

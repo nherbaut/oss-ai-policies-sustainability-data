@@ -1,0 +1,58 @@
+hash: 52b971c1b18e31d1fb97294eed67b23f10c0c34e17a94bde21908c81e5469d98
+id: qda-source-563@qda-case-241
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 241
+    date: '2026-11-05 22:19:55'
+    fid: 563
+    id: 563
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3603
+  content_sha256: 52b971c1b18e31d1fb97294eed67b23f10c0c34e17a94bde21908c81e5469d98
+  date: '2026-11-05 22:19:55'
+  id: 563
+  import_metadata:
+    conversion:
+      converted_sha256: 52b971c1b18e31d1fb97294eed67b23f10c0c34e17a94bde21908c81e5469d98
+      original_sha256: cfb0dae7ba7cd76a0451c901ede341c4e4878f98d1bee04875e7c6b8e51f029d
+      version: oss-ai-policies/clean-markdown-v1
+    entity: honojs/hono
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.206733+00:00'
+      id: corpus-241-purpose
+      original_file_sha256: cfb0dae7ba7cd76a0451c901ede341c4e4878f98d1bee04875e7c6b8e51f029d
+      path: analysis/corpus-assessment/sources/corpus-241-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-241-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/honojs/hono/c285f9a498623fe0d2992b31c77b3738c0c0a54d/README.md
+      role: purpose_statement_candidate
+      sha256: cfb0dae7ba7cd76a0451c901ede341c4e4878f98d1bee04875e7c6b8e51f029d
+      url: https://github.com/honojs/hono/blob/c285f9a498623fe0d2992b31c77b3738c0c0a54d/README.md
+      version: c285f9a498623fe0d2992b31c77b3738c0c0a54d
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: cfb0dae7ba7cd76a0451c901ede341c4e4878f98d1bee04875e7c6b8e51f029d
+  mediapath: /docs/honojs__hono--purpose_statement_candidate--cfb0dae7ba7c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    honojs/hono\",\n  \"text_sha256\": \"cfb0dae7ba7cd76a0451c901ede341c4e4878f98d1bee04875e7c6b8e51f029d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-241-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"cfb0dae7ba7cd76a0451c901ede341c4e4878f98d1bee04875e7c6b8e51f029d\",\n    \
+    \  \"id\": \"corpus-241-purpose\",\n      \"url\": \"https://github.com/honojs/hono/blob/c285f9a498623fe0d2992b31c77b3738c0c0a54d/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/honojs/hono/c285f9a498623fe0d2992b31c77b3738c0c0a54d/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.206733+00:00\",\n      \"version\"\
+    : \"c285f9a498623fe0d2992b31c77b3738c0c0a54d\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-241-purpose.raw.md\"\
+    ,\n      \"sha256\": \"cfb0dae7ba7cd76a0451c901ede341c4e4878f98d1bee04875e7c6b8e51f029d\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"cfb0dae7ba7cd76a0451c901ede341c4e4878f98d1bee04875e7c6b8e51f029d\"\
+    ,\n    \"converted_sha256\": \"52b971c1b18e31d1fb97294eed67b23f10c0c34e17a94bde21908c81e5469d98\"\
+    \n  }\n}"
+  name: honojs__hono--purpose_statement_candidate--cfb0dae7ba7c.md
+  owner: NicolasH
+  risid: null
+name: honojs__hono--purpose_statement_candidate--cfb0dae7ba7c.md
+path: corpus/qda-case-241/563.txt

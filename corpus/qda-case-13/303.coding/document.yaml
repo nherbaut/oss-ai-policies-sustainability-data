@@ -1,0 +1,58 @@
+hash: ac13d7754a98a6b36862a8e6383f41b0f2a69896dab56362cad3205fdcf9d283
+id: qda-source-303@qda-case-13
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 13
+    date: '2026-11-05 22:19:55'
+    fid: 303
+    id: 303
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 17412
+  content_sha256: ac13d7754a98a6b36862a8e6383f41b0f2a69896dab56362cad3205fdcf9d283
+  date: '2026-11-05 22:19:55'
+  id: 303
+  import_metadata:
+    conversion:
+      converted_sha256: ac13d7754a98a6b36862a8e6383f41b0f2a69896dab56362cad3205fdcf9d283
+      original_sha256: a6f0cbcff29023979d14e5a967cef8d42a6ed19f713579d66e5d48c02ec93eb0
+      version: oss-ai-policies/clean-markdown-v1
+    entity: W3C
+    provenance:
+    - accessed_at: '2026-11-05T16:01:22.415532+00:00'
+      id: 01-ethical-principles
+      original_file_sha256: a6f0cbcff29023979d14e5a967cef8d42a6ed19f713579d66e5d48c02ec93eb0
+      path: analysis/feasibility-pilot/sources/01-ethical-principles.md
+      raw_snapshot: analysis/feasibility-pilot/sources/01-ethical-principles.html
+      resolved_url: https://www.w3.org/TR/ethical-web-principles/#sustainable
+      role: referenced_framework
+      sha256: 2d9daa8489c59f173f872786cc1e774b315067d5b14a139a83fa53a28cb2b513
+      url: https://www.w3.org/TR/ethical-web-principles/#sustainable
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: a6f0cbcff29023979d14e5a967cef8d42a6ed19f713579d66e5d48c02ec93eb0
+  mediapath: /docs/W3C--referenced_framework--a6f0cbcff290.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    W3C\",\n  \"text_sha256\": \"a6f0cbcff29023979d14e5a967cef8d42a6ed19f713579d66e5d48c02ec93eb0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/01-ethical-principles.md\"\
+    ,\n      \"role\": \"referenced_framework\",\n      \"original_file_sha256\":\
+    \ \"a6f0cbcff29023979d14e5a967cef8d42a6ed19f713579d66e5d48c02ec93eb0\",\n    \
+    \  \"id\": \"01-ethical-principles\",\n      \"url\": \"https://www.w3.org/TR/ethical-web-principles/#sustainable\"\
+    ,\n      \"resolved_url\": \"https://www.w3.org/TR/ethical-web-principles/#sustainable\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:01:22.415532+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/01-ethical-principles.html\"\
+    ,\n      \"sha256\": \"2d9daa8489c59f173f872786cc1e774b315067d5b14a139a83fa53a28cb2b513\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"a6f0cbcff29023979d14e5a967cef8d42a6ed19f713579d66e5d48c02ec93eb0\"\
+    ,\n    \"converted_sha256\": \"ac13d7754a98a6b36862a8e6383f41b0f2a69896dab56362cad3205fdcf9d283\"\
+    \n  }\n}"
+  name: W3C--referenced_framework--a6f0cbcff290.md
+  owner: NicolasH
+  risid: null
+name: W3C--referenced_framework--a6f0cbcff290.md
+path: corpus/qda-case-13/303.txt

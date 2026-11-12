@@ -1,0 +1,50 @@
+hash: de3d4800ca4b52a0d2f8fff77944cff3d6d8e5d1fac3f1a0f942439a91699356
+id: qda-source-284@qda-case-262
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 262
+    date: '2026-11-05 22:19:55'
+    fid: 284
+    id: 283
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8660
+  content_sha256: de3d4800ca4b52a0d2f8fff77944cff3d6d8e5d1fac3f1a0f942439a91699356
+  date: '2026-11-05 22:19:55'
+  id: 284
+  import_metadata:
+    conversion:
+      converted_sha256: de3d4800ca4b52a0d2f8fff77944cff3d6d8e5d1fac3f1a0f942439a91699356
+      original_sha256: f7589b48b74230a7258f2ae48a70d2bb72b716fdbab5adb78c0dafd2b56a9c2a
+      version: oss-ai-policies/clean-markdown-v1
+    entity: postmarketOS
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: f7589b48b74230a7258f2ae48a70d2bb72b716fdbab5adb78c0dafd2b56a9c2a
+      path: data/281/policies/postmarketOS/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://docs.postmarketos.org/policies-and-processes/development/ai-policy.html
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: f7589b48b74230a7258f2ae48a70d2bb72b716fdbab5adb78c0dafd2b56a9c2a
+  mediapath: /docs/postmarketOS--ai_policy--f7589b48b742.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    postmarketOS\",\n  \"text_sha256\": \"f7589b48b74230a7258f2ae48a70d2bb72b716fdbab5adb78c0dafd2b56a9c2a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/postmarketOS/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"f7589b48b74230a7258f2ae48a70d2bb72b716fdbab5adb78c0dafd2b56a9c2a\"\
+    ,\n      \"source_url_cell\": \"https://docs.postmarketos.org/policies-and-processes/development/ai-policy.html\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"f7589b48b74230a7258f2ae48a70d2bb72b716fdbab5adb78c0dafd2b56a9c2a\"\
+    ,\n    \"converted_sha256\": \"de3d4800ca4b52a0d2f8fff77944cff3d6d8e5d1fac3f1a0f942439a91699356\"\
+    \n  }\n}"
+  name: postmarketOS--ai_policy--f7589b48b742.md
+  owner: NicolasH
+  risid: null
+name: postmarketOS--ai_policy--f7589b48b742.md
+path: corpus/qda-case-262/284.txt

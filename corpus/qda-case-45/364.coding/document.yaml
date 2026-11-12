@@ -1,0 +1,51 @@
+hash: c4ac4a22991da66c1a882029fa6c8b230cd961e9ff0137215ce8a8188171663b
+id: qda-source-364@qda-case-45
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 45
+    date: '2026-11-05 22:19:55'
+    fid: 364
+    id: 364
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12808
+  content_sha256: c4ac4a22991da66c1a882029fa6c8b230cd961e9ff0137215ce8a8188171663b
+  date: '2026-11-05 22:19:55'
+  id: 364
+  import_metadata:
+    entity: freqtrade/freqtrade
+    provenance:
+    - accessed_at: '2026-11-05T19:11:53.186554+00:00'
+      id: corpus-045-purpose
+      original_file_sha256: c4ac4a22991da66c1a882029fa6c8b230cd961e9ff0137215ce8a8188171663b
+      path: analysis/corpus-assessment/sources/corpus-045-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-045-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/freqtrade/freqtrade/25dc85994eff344314e950464ad35f318fab299f/README.md
+      role: purpose_statement_candidate
+      sha256: c4ac4a22991da66c1a882029fa6c8b230cd961e9ff0137215ce8a8188171663b
+      url: https://github.com/freqtrade/freqtrade/blob/25dc85994eff344314e950464ad35f318fab299f/README.md
+      version: 25dc85994eff344314e950464ad35f318fab299f
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: c4ac4a22991da66c1a882029fa6c8b230cd961e9ff0137215ce8a8188171663b
+  mediapath: /docs/freqtrade__freqtrade--purpose_statement_candidate--c4ac4a22991d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    freqtrade/freqtrade\",\n  \"text_sha256\": \"c4ac4a22991da66c1a882029fa6c8b230cd961e9ff0137215ce8a8188171663b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-045-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"c4ac4a22991da66c1a882029fa6c8b230cd961e9ff0137215ce8a8188171663b\",\n    \
+    \  \"id\": \"corpus-045-purpose\",\n      \"url\": \"https://github.com/freqtrade/freqtrade/blob/25dc85994eff344314e950464ad35f318fab299f/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/freqtrade/freqtrade/25dc85994eff344314e950464ad35f318fab299f/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:53.186554+00:00\",\n      \"version\"\
+    : \"25dc85994eff344314e950464ad35f318fab299f\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-045-purpose.raw.md\"\
+    ,\n      \"sha256\": \"c4ac4a22991da66c1a882029fa6c8b230cd961e9ff0137215ce8a8188171663b\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: freqtrade__freqtrade--purpose_statement_candidate--c4ac4a22991d.md
+  owner: NicolasH
+  risid: null
+name: freqtrade__freqtrade--purpose_statement_candidate--c4ac4a22991d.md
+path: corpus/qda-case-45/364.txt

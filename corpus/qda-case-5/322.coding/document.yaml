@@ -1,0 +1,51 @@
+hash: 45916e6961540c536e8b17b3a4d3305393afce5b407d1ea3da82c246cba8aa5d
+id: qda-source-322@qda-case-5
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 5
+    date: '2026-11-05 22:19:55'
+    fid: 322
+    id: 322
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3489
+  content_sha256: 45916e6961540c536e8b17b3a4d3305393afce5b407d1ea3da82c246cba8aa5d
+  date: '2026-11-05 22:19:55'
+  id: 322
+  import_metadata:
+    entity: bitcoin/bitcoin
+    provenance:
+    - accessed_at: '2026-11-05T16:00:22.056336+00:00'
+      id: 18-purpose
+      original_file_sha256: 45916e6961540c536e8b17b3a4d3305393afce5b407d1ea3da82c246cba8aa5d
+      path: analysis/feasibility-pilot/sources/18-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/18-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/bitcoin/bitcoin/70d9ec7f3d452789d04dce81dc02db0b3b778bb5/README.md
+      role: purpose_statement_candidate
+      sha256: 45916e6961540c536e8b17b3a4d3305393afce5b407d1ea3da82c246cba8aa5d
+      url: https://github.com/bitcoin/bitcoin/blob/70d9ec7f3d452789d04dce81dc02db0b3b778bb5/README.md
+      version: 70d9ec7f3d452789d04dce81dc02db0b3b778bb5
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 45916e6961540c536e8b17b3a4d3305393afce5b407d1ea3da82c246cba8aa5d
+  mediapath: /docs/bitcoin__bitcoin--purpose_statement_candidate--45916e696154.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    bitcoin/bitcoin\",\n  \"text_sha256\": \"45916e6961540c536e8b17b3a4d3305393afce5b407d1ea3da82c246cba8aa5d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/18-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"45916e6961540c536e8b17b3a4d3305393afce5b407d1ea3da82c246cba8aa5d\",\n    \
+    \  \"id\": \"18-purpose\",\n      \"url\": \"https://github.com/bitcoin/bitcoin/blob/70d9ec7f3d452789d04dce81dc02db0b3b778bb5/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/bitcoin/bitcoin/70d9ec7f3d452789d04dce81dc02db0b3b778bb5/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:22.056336+00:00\",\n      \"version\"\
+    : \"70d9ec7f3d452789d04dce81dc02db0b3b778bb5\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/18-purpose.raw.md\"\
+    ,\n      \"sha256\": \"45916e6961540c536e8b17b3a4d3305393afce5b407d1ea3da82c246cba8aa5d\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: bitcoin__bitcoin--purpose_statement_candidate--45916e696154.md
+  owner: NicolasH
+  risid: null
+name: bitcoin__bitcoin--purpose_statement_candidate--45916e696154.md
+path: corpus/qda-case-5/322.txt

@@ -1,0 +1,58 @@
+hash: 08339f31492184d462e834bef2939e86eba8edff2c26ee8f2a832526bd7c3104
+id: qda-source-558@qda-case-234
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 234
+    date: '2026-11-05 22:19:55'
+    fid: 558
+    id: 558
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 52846
+  content_sha256: 08339f31492184d462e834bef2939e86eba8edff2c26ee8f2a832526bd7c3104
+  date: '2026-11-05 22:19:55'
+  id: 558
+  import_metadata:
+    conversion:
+      converted_sha256: 08339f31492184d462e834bef2939e86eba8edff2c26ee8f2a832526bd7c3104
+      original_sha256: 279cd832a2e63002c8244fdc76a70dcc29cec4eb1d4d26286ed78f4a6f591c64
+      version: oss-ai-policies/clean-markdown-v1
+    entity: abhigyanpatwari/GitNexus
+    provenance:
+    - accessed_at: '2026-11-05T19:12:13.627121+00:00'
+      id: corpus-234-purpose
+      original_file_sha256: 279cd832a2e63002c8244fdc76a70dcc29cec4eb1d4d26286ed78f4a6f591c64
+      path: analysis/corpus-assessment/sources/corpus-234-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-234-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/abhigyanpatwari/GitNexus/a05b5011025e61e56ac1898832688c4ededbd7ed/README.md
+      role: purpose_statement_candidate
+      sha256: 279cd832a2e63002c8244fdc76a70dcc29cec4eb1d4d26286ed78f4a6f591c64
+      url: https://github.com/abhigyanpatwari/GitNexus/blob/a05b5011025e61e56ac1898832688c4ededbd7ed/README.md
+      version: a05b5011025e61e56ac1898832688c4ededbd7ed
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 279cd832a2e63002c8244fdc76a70dcc29cec4eb1d4d26286ed78f4a6f591c64
+  mediapath: /docs/abhigyanpatwari__GitNexus--purpose_statement_candidate--279cd832a2e6.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    abhigyanpatwari/GitNexus\",\n  \"text_sha256\": \"279cd832a2e63002c8244fdc76a70dcc29cec4eb1d4d26286ed78f4a6f591c64\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-234-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"279cd832a2e63002c8244fdc76a70dcc29cec4eb1d4d26286ed78f4a6f591c64\",\n    \
+    \  \"id\": \"corpus-234-purpose\",\n      \"url\": \"https://github.com/abhigyanpatwari/GitNexus/blob/a05b5011025e61e56ac1898832688c4ededbd7ed/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/abhigyanpatwari/GitNexus/a05b5011025e61e56ac1898832688c4ededbd7ed/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:13.627121+00:00\",\n      \"version\"\
+    : \"a05b5011025e61e56ac1898832688c4ededbd7ed\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-234-purpose.raw.md\"\
+    ,\n      \"sha256\": \"279cd832a2e63002c8244fdc76a70dcc29cec4eb1d4d26286ed78f4a6f591c64\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"279cd832a2e63002c8244fdc76a70dcc29cec4eb1d4d26286ed78f4a6f591c64\"\
+    ,\n    \"converted_sha256\": \"08339f31492184d462e834bef2939e86eba8edff2c26ee8f2a832526bd7c3104\"\
+    \n  }\n}"
+  name: abhigyanpatwari__GitNexus--purpose_statement_candidate--279cd832a2e6.md
+  owner: NicolasH
+  risid: null
+name: abhigyanpatwari__GitNexus--purpose_statement_candidate--279cd832a2e6.md
+path: corpus/qda-case-234/558.txt

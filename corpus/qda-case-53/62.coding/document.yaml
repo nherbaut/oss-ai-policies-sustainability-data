@@ -1,0 +1,43 @@
+hash: 4596f34c97a24d85c01063c06915068742a540f32a8b744be20a64a3f9694c97
+id: qda-source-62@qda-case-53
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 53
+    date: '2026-11-05 22:19:55'
+    fid: 62
+    id: 61
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 25367
+  content_sha256: 4596f34c97a24d85c01063c06915068742a540f32a8b744be20a64a3f9694c97
+  date: '2026-11-05 22:19:55'
+  id: 62
+  import_metadata:
+    entity: envoyproxy/envoy
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 4596f34c97a24d85c01063c06915068742a540f32a8b744be20a64a3f9694c97
+      path: data/281/policies/envoyproxy/envoy/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/envoyproxy/envoy/blob/03e2d9765658c375f749212c9f6c813a5f524674/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 4596f34c97a24d85c01063c06915068742a540f32a8b744be20a64a3f9694c97
+  mediapath: /docs/envoyproxy__envoy--contributing--4596f34c97a2.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    envoyproxy/envoy\",\n  \"text_sha256\": \"4596f34c97a24d85c01063c06915068742a540f32a8b744be20a64a3f9694c97\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/envoyproxy/envoy/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"4596f34c97a24d85c01063c06915068742a540f32a8b744be20a64a3f9694c97\"\
+    ,\n      \"source_url_cell\": \"https://github.com/envoyproxy/envoy/blob/03e2d9765658c375f749212c9f6c813a5f524674/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: envoyproxy__envoy--contributing--4596f34c97a2.md
+  owner: NicolasH
+  risid: null
+name: envoyproxy__envoy--contributing--4596f34c97a2.md
+path: corpus/qda-case-53/62.txt

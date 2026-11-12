@@ -1,0 +1,43 @@
+hash: a57065aa7b626dca54659680591b9969cf80394d3cca371b8c58ff31e474843e
+id: qda-source-293@qda-case-271
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 271
+    date: '2026-11-05 22:19:55'
+    fid: 293
+    id: 292
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7335
+  content_sha256: a57065aa7b626dca54659680591b9969cf80394d3cca371b8c58ff31e474843e
+  date: '2026-11-05 22:19:55'
+  id: 293
+  import_metadata:
+    entity: better-auth/better-auth
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: a57065aa7b626dca54659680591b9969cf80394d3cca371b8c58ff31e474843e
+      path: data/281/policies/better-auth/better-auth/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/better-auth/better-auth/blob/502a262ff20f4485d66f24cf6d6119e8001ebb18/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: a57065aa7b626dca54659680591b9969cf80394d3cca371b8c58ff31e474843e
+  mediapath: /docs/better-auth__better-auth--contributing--a57065aa7b62.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    better-auth/better-auth\",\n  \"text_sha256\": \"a57065aa7b626dca54659680591b9969cf80394d3cca371b8c58ff31e474843e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/better-auth/better-auth/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"a57065aa7b626dca54659680591b9969cf80394d3cca371b8c58ff31e474843e\"\
+    ,\n      \"source_url_cell\": \"https://github.com/better-auth/better-auth/blob/502a262ff20f4485d66f24cf6d6119e8001ebb18/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: better-auth__better-auth--contributing--a57065aa7b62.md
+  owner: NicolasH
+  risid: null
+name: better-auth__better-auth--contributing--a57065aa7b62.md
+path: corpus/qda-case-271/293.txt

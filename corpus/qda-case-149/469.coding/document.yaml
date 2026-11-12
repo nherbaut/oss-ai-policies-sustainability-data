@@ -1,0 +1,58 @@
+hash: 2ea11d06fbec784f0579afc2c9a916c75c9bb77015a81b510c33af344065d97e
+id: qda-source-469@qda-case-149
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 149
+    date: '2026-11-05 22:19:55'
+    fid: 469
+    id: 469
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 49036
+  content_sha256: 2ea11d06fbec784f0579afc2c9a916c75c9bb77015a81b510c33af344065d97e
+  date: '2026-11-05 22:19:55'
+  id: 469
+  import_metadata:
+    conversion:
+      converted_sha256: 2ea11d06fbec784f0579afc2c9a916c75c9bb77015a81b510c33af344065d97e
+      original_sha256: 8e288c68db709be612b714457555cafd14ac4824e99abc4252023f2a855e5a77
+      version: oss-ai-policies/clean-markdown-v1
+    entity: aristocratos/btop
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.184191+00:00'
+      id: corpus-149-purpose
+      original_file_sha256: 8e288c68db709be612b714457555cafd14ac4824e99abc4252023f2a855e5a77
+      path: analysis/corpus-assessment/sources/corpus-149-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-149-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/aristocratos/btop/34831e7095f83f4d4de4693377a03a7493aae7e8/README.md
+      role: purpose_statement_candidate
+      sha256: 8e288c68db709be612b714457555cafd14ac4824e99abc4252023f2a855e5a77
+      url: https://github.com/aristocratos/btop/blob/34831e7095f83f4d4de4693377a03a7493aae7e8/README.md
+      version: 34831e7095f83f4d4de4693377a03a7493aae7e8
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 8e288c68db709be612b714457555cafd14ac4824e99abc4252023f2a855e5a77
+  mediapath: /docs/aristocratos__btop--purpose_statement_candidate--8e288c68db70.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    aristocratos/btop\",\n  \"text_sha256\": \"8e288c68db709be612b714457555cafd14ac4824e99abc4252023f2a855e5a77\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-149-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"8e288c68db709be612b714457555cafd14ac4824e99abc4252023f2a855e5a77\",\n    \
+    \  \"id\": \"corpus-149-purpose\",\n      \"url\": \"https://github.com/aristocratos/btop/blob/34831e7095f83f4d4de4693377a03a7493aae7e8/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/aristocratos/btop/34831e7095f83f4d4de4693377a03a7493aae7e8/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.184191+00:00\",\n      \"version\"\
+    : \"34831e7095f83f4d4de4693377a03a7493aae7e8\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-149-purpose.raw.md\"\
+    ,\n      \"sha256\": \"8e288c68db709be612b714457555cafd14ac4824e99abc4252023f2a855e5a77\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"8e288c68db709be612b714457555cafd14ac4824e99abc4252023f2a855e5a77\"\
+    ,\n    \"converted_sha256\": \"2ea11d06fbec784f0579afc2c9a916c75c9bb77015a81b510c33af344065d97e\"\
+    \n  }\n}"
+  name: aristocratos__btop--purpose_statement_candidate--8e288c68db70.md
+  owner: NicolasH
+  risid: null
+name: aristocratos__btop--purpose_statement_candidate--8e288c68db70.md
+path: corpus/qda-case-149/469.txt

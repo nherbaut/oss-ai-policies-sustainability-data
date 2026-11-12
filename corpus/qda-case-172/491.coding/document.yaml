@@ -1,0 +1,51 @@
+hash: 99843df87aaa79302f7c416695338a477f82fdf1c0d7137cd8ab28884739a41a
+id: qda-source-491@qda-case-172
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 172
+    date: '2026-11-05 22:19:55'
+    fid: 491
+    id: 491
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5653
+  content_sha256: 99843df87aaa79302f7c416695338a477f82fdf1c0d7137cd8ab28884739a41a
+  date: '2026-11-05 22:19:55'
+  id: 491
+  import_metadata:
+    entity: backstage/backstage
+    provenance:
+    - accessed_at: '2026-11-05T19:12:04.926404+00:00'
+      id: corpus-172-purpose
+      original_file_sha256: 99843df87aaa79302f7c416695338a477f82fdf1c0d7137cd8ab28884739a41a
+      path: analysis/corpus-assessment/sources/corpus-172-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-172-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/backstage/backstage/88b91a6b143f6fdb42fc401e445969988c0ef53e/README.md
+      role: purpose_statement_candidate
+      sha256: 99843df87aaa79302f7c416695338a477f82fdf1c0d7137cd8ab28884739a41a
+      url: https://github.com/backstage/backstage/blob/88b91a6b143f6fdb42fc401e445969988c0ef53e/README.md
+      version: 88b91a6b143f6fdb42fc401e445969988c0ef53e
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 99843df87aaa79302f7c416695338a477f82fdf1c0d7137cd8ab28884739a41a
+  mediapath: /docs/backstage__backstage--purpose_statement_candidate--99843df87aaa.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    backstage/backstage\",\n  \"text_sha256\": \"99843df87aaa79302f7c416695338a477f82fdf1c0d7137cd8ab28884739a41a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-172-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"99843df87aaa79302f7c416695338a477f82fdf1c0d7137cd8ab28884739a41a\",\n    \
+    \  \"id\": \"corpus-172-purpose\",\n      \"url\": \"https://github.com/backstage/backstage/blob/88b91a6b143f6fdb42fc401e445969988c0ef53e/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/backstage/backstage/88b91a6b143f6fdb42fc401e445969988c0ef53e/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:04.926404+00:00\",\n      \"version\"\
+    : \"88b91a6b143f6fdb42fc401e445969988c0ef53e\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-172-purpose.raw.md\"\
+    ,\n      \"sha256\": \"99843df87aaa79302f7c416695338a477f82fdf1c0d7137cd8ab28884739a41a\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: backstage__backstage--purpose_statement_candidate--99843df87aaa.md
+  owner: NicolasH
+  risid: null
+name: backstage__backstage--purpose_statement_candidate--99843df87aaa.md
+path: corpus/qda-case-172/491.txt

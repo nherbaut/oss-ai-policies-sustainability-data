@@ -1,0 +1,58 @@
+hash: 7c6825d48679a41ec0325624d6934b1f318e60506905b506dd261366b38eefb8
+id: qda-source-376@qda-case-57
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 57
+    date: '2026-11-05 22:19:55'
+    fid: 376
+    id: 376
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10288
+  content_sha256: 7c6825d48679a41ec0325624d6934b1f318e60506905b506dd261366b38eefb8
+  date: '2026-11-05 22:19:55'
+  id: 376
+  import_metadata:
+    conversion:
+      converted_sha256: 7c6825d48679a41ec0325624d6934b1f318e60506905b506dd261366b38eefb8
+      original_sha256: 4c80a47a271e80c5ed0b096025bd4675d7bb92bcee1f70806497f583f066aad6
+      version: oss-ai-policies/clean-markdown-v1
+    entity: go-gitea/gitea
+    provenance:
+    - accessed_at: '2026-11-05T19:11:54.488789+00:00'
+      id: corpus-057-purpose
+      original_file_sha256: 4c80a47a271e80c5ed0b096025bd4675d7bb92bcee1f70806497f583f066aad6
+      path: analysis/corpus-assessment/sources/corpus-057-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-057-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/go-gitea/gitea/11363e2f0cd61ce79965ccded3dcfe2f0324270a/README.md
+      role: purpose_statement_candidate
+      sha256: 4c80a47a271e80c5ed0b096025bd4675d7bb92bcee1f70806497f583f066aad6
+      url: https://github.com/go-gitea/gitea/blob/11363e2f0cd61ce79965ccded3dcfe2f0324270a/README.md
+      version: 11363e2f0cd61ce79965ccded3dcfe2f0324270a
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 4c80a47a271e80c5ed0b096025bd4675d7bb92bcee1f70806497f583f066aad6
+  mediapath: /docs/go-gitea__gitea--purpose_statement_candidate--4c80a47a271e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    go-gitea/gitea\",\n  \"text_sha256\": \"4c80a47a271e80c5ed0b096025bd4675d7bb92bcee1f70806497f583f066aad6\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-057-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"4c80a47a271e80c5ed0b096025bd4675d7bb92bcee1f70806497f583f066aad6\",\n    \
+    \  \"id\": \"corpus-057-purpose\",\n      \"url\": \"https://github.com/go-gitea/gitea/blob/11363e2f0cd61ce79965ccded3dcfe2f0324270a/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/go-gitea/gitea/11363e2f0cd61ce79965ccded3dcfe2f0324270a/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:54.488789+00:00\",\n      \"version\"\
+    : \"11363e2f0cd61ce79965ccded3dcfe2f0324270a\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-057-purpose.raw.md\"\
+    ,\n      \"sha256\": \"4c80a47a271e80c5ed0b096025bd4675d7bb92bcee1f70806497f583f066aad6\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"4c80a47a271e80c5ed0b096025bd4675d7bb92bcee1f70806497f583f066aad6\"\
+    ,\n    \"converted_sha256\": \"7c6825d48679a41ec0325624d6934b1f318e60506905b506dd261366b38eefb8\"\
+    \n  }\n}"
+  name: go-gitea__gitea--purpose_statement_candidate--4c80a47a271e.md
+  owner: NicolasH
+  risid: null
+name: go-gitea__gitea--purpose_statement_candidate--4c80a47a271e.md
+path: corpus/qda-case-57/376.txt

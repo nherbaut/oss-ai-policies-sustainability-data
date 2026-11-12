@@ -1,0 +1,50 @@
+hash: ea1af862d4c8f2b79192faf1f111318549efe324eb9d257f981cdfde336ed576
+id: qda-source-127@qda-case-113
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 113
+    date: '2026-11-05 22:19:55'
+    fid: 127
+    id: 126
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7445
+  content_sha256: ea1af862d4c8f2b79192faf1f111318549efe324eb9d257f981cdfde336ed576
+  date: '2026-11-05 22:19:55'
+  id: 127
+  import_metadata:
+    conversion:
+      converted_sha256: ea1af862d4c8f2b79192faf1f111318549efe324eb9d257f981cdfde336ed576
+      original_sha256: 1b51608663a83eff8e4339f757b24e10011e9157728303404ed7d1640ed13971
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Python (devguide)
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 1b51608663a83eff8e4339f757b24e10011e9157728303404ed7d1640ed13971
+      path: data/281/policies/Python (devguide)/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://devguide.python.org/getting-started/ai-tools/
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 1b51608663a83eff8e4339f757b24e10011e9157728303404ed7d1640ed13971
+  mediapath: /docs/Python__devguide--ai_policy--1b51608663a8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Python (devguide)\",\n  \"text_sha256\": \"1b51608663a83eff8e4339f757b24e10011e9157728303404ed7d1640ed13971\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Python (devguide)/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"1b51608663a83eff8e4339f757b24e10011e9157728303404ed7d1640ed13971\"\
+    ,\n      \"source_url_cell\": \"https://devguide.python.org/getting-started/ai-tools/\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"1b51608663a83eff8e4339f757b24e10011e9157728303404ed7d1640ed13971\"\
+    ,\n    \"converted_sha256\": \"ea1af862d4c8f2b79192faf1f111318549efe324eb9d257f981cdfde336ed576\"\
+    \n  }\n}"
+  name: Python__devguide--ai_policy--1b51608663a8.md
+  owner: NicolasH
+  risid: null
+name: Python__devguide--ai_policy--1b51608663a8.md
+path: corpus/qda-case-113/127.txt

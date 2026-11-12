@@ -1,0 +1,58 @@
+hash: 5478c803d2fb8d14d90ac5d7d1e33adcb4579ea0edc5bbcb8e4b6931fd2cc32c
+id: qda-source-482@qda-case-163
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 163
+    date: '2026-11-05 22:19:55'
+    fid: 482
+    id: 482
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8264
+  content_sha256: 5478c803d2fb8d14d90ac5d7d1e33adcb4579ea0edc5bbcb8e4b6931fd2cc32c
+  date: '2026-11-05 22:19:55'
+  id: 482
+  import_metadata:
+    conversion:
+      converted_sha256: 5478c803d2fb8d14d90ac5d7d1e33adcb4579ea0edc5bbcb8e4b6931fd2cc32c
+      original_sha256: 98631b9194c050bd9bcf8400fa1b8b98b84efee1dbd92d4d9b45fd8615615fb2
+      version: oss-ai-policies/clean-markdown-v1
+    entity: TibixDev/winboat
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.924880+00:00'
+      id: corpus-163-purpose
+      original_file_sha256: 98631b9194c050bd9bcf8400fa1b8b98b84efee1dbd92d4d9b45fd8615615fb2
+      path: analysis/corpus-assessment/sources/corpus-163-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-163-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/TibixDev/winboat/c6af4a5030ca036489f8851fee06f463ff1dd163/README.md
+      role: purpose_statement_candidate
+      sha256: 98631b9194c050bd9bcf8400fa1b8b98b84efee1dbd92d4d9b45fd8615615fb2
+      url: https://github.com/TibixDev/winboat/blob/c6af4a5030ca036489f8851fee06f463ff1dd163/README.md
+      version: c6af4a5030ca036489f8851fee06f463ff1dd163
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 98631b9194c050bd9bcf8400fa1b8b98b84efee1dbd92d4d9b45fd8615615fb2
+  mediapath: /docs/TibixDev__winboat--purpose_statement_candidate--98631b9194c0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    TibixDev/winboat\",\n  \"text_sha256\": \"98631b9194c050bd9bcf8400fa1b8b98b84efee1dbd92d4d9b45fd8615615fb2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-163-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"98631b9194c050bd9bcf8400fa1b8b98b84efee1dbd92d4d9b45fd8615615fb2\",\n    \
+    \  \"id\": \"corpus-163-purpose\",\n      \"url\": \"https://github.com/TibixDev/winboat/blob/c6af4a5030ca036489f8851fee06f463ff1dd163/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/TibixDev/winboat/c6af4a5030ca036489f8851fee06f463ff1dd163/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.924880+00:00\",\n      \"version\"\
+    : \"c6af4a5030ca036489f8851fee06f463ff1dd163\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-163-purpose.raw.md\"\
+    ,\n      \"sha256\": \"98631b9194c050bd9bcf8400fa1b8b98b84efee1dbd92d4d9b45fd8615615fb2\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"98631b9194c050bd9bcf8400fa1b8b98b84efee1dbd92d4d9b45fd8615615fb2\"\
+    ,\n    \"converted_sha256\": \"5478c803d2fb8d14d90ac5d7d1e33adcb4579ea0edc5bbcb8e4b6931fd2cc32c\"\
+    \n  }\n}"
+  name: TibixDev__winboat--purpose_statement_candidate--98631b9194c0.md
+  owner: NicolasH
+  risid: null
+name: TibixDev__winboat--purpose_statement_candidate--98631b9194c0.md
+path: corpus/qda-case-163/482.txt

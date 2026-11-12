@@ -1,0 +1,43 @@
+hash: db4335d5d090a300219b0a66c55f4ac230f299261ce436b327155f8bb2f7ee59
+id: qda-source-260@qda-case-238
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 238
+    date: '2026-11-05 22:19:55'
+    fid: 260
+    id: 259
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8347
+  content_sha256: db4335d5d090a300219b0a66c55f4ac230f299261ce436b327155f8bb2f7ee59
+  date: '2026-11-05 22:19:55'
+  id: 260
+  import_metadata:
+    entity: microsoft/playwright
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: db4335d5d090a300219b0a66c55f4ac230f299261ce436b327155f8bb2f7ee59
+      path: data/281/policies/microsoft/playwright/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/microsoft/playwright/blob/686830af68391eb5ecc5e611ebf87ec2ac3f1405/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: db4335d5d090a300219b0a66c55f4ac230f299261ce436b327155f8bb2f7ee59
+  mediapath: /docs/microsoft__playwright--contributing--db4335d5d090.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    microsoft/playwright\",\n  \"text_sha256\": \"db4335d5d090a300219b0a66c55f4ac230f299261ce436b327155f8bb2f7ee59\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/microsoft/playwright/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"db4335d5d090a300219b0a66c55f4ac230f299261ce436b327155f8bb2f7ee59\"\
+    ,\n      \"source_url_cell\": \"https://github.com/microsoft/playwright/blob/686830af68391eb5ecc5e611ebf87ec2ac3f1405/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: microsoft__playwright--contributing--db4335d5d090.md
+  owner: NicolasH
+  risid: null
+name: microsoft__playwright--contributing--db4335d5d090.md
+path: corpus/qda-case-238/260.txt

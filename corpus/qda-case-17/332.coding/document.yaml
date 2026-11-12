@@ -1,0 +1,58 @@
+hash: 0a4a0fdd3d04fa170ecde4cb516e89b8de956c28816ae162cd08f52c9709a4c7
+id: qda-source-332@qda-case-17
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 17
+    date: '2026-11-05 22:19:55'
+    fid: 332
+    id: 332
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4501
+  content_sha256: 0a4a0fdd3d04fa170ecde4cb516e89b8de956c28816ae162cd08f52c9709a4c7
+  date: '2026-11-05 22:19:55'
+  id: 332
+  import_metadata:
+    conversion:
+      converted_sha256: 0a4a0fdd3d04fa170ecde4cb516e89b8de956c28816ae162cd08f52c9709a4c7
+      original_sha256: 702a2ea2b740cfc0d3fef1b81ee60749082227b51a55c3d15b6a5a648927706e
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Kubernetes
+    provenance:
+    - accessed_at: '2026-11-05T19:11:49.882803+00:00'
+      id: corpus-017-purpose
+      original_file_sha256: 702a2ea2b740cfc0d3fef1b81ee60749082227b51a55c3d15b6a5a648927706e
+      path: analysis/corpus-assessment/sources/corpus-017-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-017-purpose.html
+      resolved_url: https://kubernetes.io/
+      role: purpose_statement_candidate
+      sha256: 2f822b62e8791b850ef687451450acd617d84a6d52e55fd6f941743097911592
+      url: https://kubernetes.io/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 702a2ea2b740cfc0d3fef1b81ee60749082227b51a55c3d15b6a5a648927706e
+  mediapath: /docs/Kubernetes--purpose_statement_candidate--702a2ea2b740.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Kubernetes\",\n  \"text_sha256\": \"702a2ea2b740cfc0d3fef1b81ee60749082227b51a55c3d15b6a5a648927706e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-017-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"702a2ea2b740cfc0d3fef1b81ee60749082227b51a55c3d15b6a5a648927706e\",\n    \
+    \  \"id\": \"corpus-017-purpose\",\n      \"url\": \"https://kubernetes.io/\"\
+    ,\n      \"resolved_url\": \"https://kubernetes.io/\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:11:49.882803+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-017-purpose.html\",\n      \"sha256\"\
+    : \"2f822b62e8791b850ef687451450acd617d84a6d52e55fd6f941743097911592\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"702a2ea2b740cfc0d3fef1b81ee60749082227b51a55c3d15b6a5a648927706e\"\
+    ,\n    \"converted_sha256\": \"0a4a0fdd3d04fa170ecde4cb516e89b8de956c28816ae162cd08f52c9709a4c7\"\
+    \n  }\n}"
+  name: Kubernetes--purpose_statement_candidate--702a2ea2b740.md
+  owner: NicolasH
+  risid: null
+name: Kubernetes--purpose_statement_candidate--702a2ea2b740.md
+path: corpus/qda-case-17/332.txt

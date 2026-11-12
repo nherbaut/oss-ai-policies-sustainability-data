@@ -1,0 +1,58 @@
+hash: 5d576a284298b7618cc1c2d9c8b35c8536307fd21f7c58c1af67a335c1ced7d9
+id: qda-source-450@qda-case-128
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 128
+    date: '2026-11-05 22:19:55'
+    fid: 450
+    id: 450
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3480
+  content_sha256: 5d576a284298b7618cc1c2d9c8b35c8536307fd21f7c58c1af67a335c1ced7d9
+  date: '2026-11-05 22:19:55'
+  id: 450
+  import_metadata:
+    conversion:
+      converted_sha256: 5d576a284298b7618cc1c2d9c8b35c8536307fd21f7c58c1af67a335c1ced7d9
+      original_sha256: e8ebb122af88ef7d54982ada599ffbc3321db6d57f3902b800031d7745b7bdde
+      version: oss-ai-policies/clean-markdown-v1
+    entity: vitest-dev/vitest
+    provenance:
+    - accessed_at: '2026-11-05T19:12:01.391252+00:00'
+      id: corpus-128-purpose
+      original_file_sha256: e8ebb122af88ef7d54982ada599ffbc3321db6d57f3902b800031d7745b7bdde
+      path: analysis/corpus-assessment/sources/corpus-128-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-128-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/vitest-dev/vitest/3923cab3d98cd0063377ffd8e4c98b73d2f28db9/README.md
+      role: purpose_statement_candidate
+      sha256: e8ebb122af88ef7d54982ada599ffbc3321db6d57f3902b800031d7745b7bdde
+      url: https://github.com/vitest-dev/vitest/blob/3923cab3d98cd0063377ffd8e4c98b73d2f28db9/README.md
+      version: 3923cab3d98cd0063377ffd8e4c98b73d2f28db9
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e8ebb122af88ef7d54982ada599ffbc3321db6d57f3902b800031d7745b7bdde
+  mediapath: /docs/vitest-dev__vitest--purpose_statement_candidate--e8ebb122af88.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    vitest-dev/vitest\",\n  \"text_sha256\": \"e8ebb122af88ef7d54982ada599ffbc3321db6d57f3902b800031d7745b7bdde\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-128-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e8ebb122af88ef7d54982ada599ffbc3321db6d57f3902b800031d7745b7bdde\",\n    \
+    \  \"id\": \"corpus-128-purpose\",\n      \"url\": \"https://github.com/vitest-dev/vitest/blob/3923cab3d98cd0063377ffd8e4c98b73d2f28db9/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/vitest-dev/vitest/3923cab3d98cd0063377ffd8e4c98b73d2f28db9/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:01.391252+00:00\",\n      \"version\"\
+    : \"3923cab3d98cd0063377ffd8e4c98b73d2f28db9\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-128-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e8ebb122af88ef7d54982ada599ffbc3321db6d57f3902b800031d7745b7bdde\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e8ebb122af88ef7d54982ada599ffbc3321db6d57f3902b800031d7745b7bdde\"\
+    ,\n    \"converted_sha256\": \"5d576a284298b7618cc1c2d9c8b35c8536307fd21f7c58c1af67a335c1ced7d9\"\
+    \n  }\n}"
+  name: vitest-dev__vitest--purpose_statement_candidate--e8ebb122af88.md
+  owner: NicolasH
+  risid: null
+name: vitest-dev__vitest--purpose_statement_candidate--e8ebb122af88.md
+path: corpus/qda-case-128/450.txt

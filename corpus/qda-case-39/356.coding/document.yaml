@@ -1,0 +1,51 @@
+hash: d12bf54d0d0f00314cc37ad17faf4bd6ffadf7bbef5996885fc0ad2ff64d4f02
+id: qda-source-356@qda-case-39
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 39
+    date: '2026-11-05 22:19:55'
+    fid: 356
+    id: 356
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4510
+  content_sha256: d12bf54d0d0f00314cc37ad17faf4bd6ffadf7bbef5996885fc0ad2ff64d4f02
+  date: '2026-11-05 22:19:55'
+  id: 356
+  import_metadata:
+    entity: Linux Kernel
+    provenance:
+    - accessed_at: '2026-11-05T19:17:21.097917+00:00'
+      id: corpus-039-followup
+      original_file_sha256: d12bf54d0d0f00314cc37ad17faf4bd6ffadf7bbef5996885fc0ad2ff64d4f02
+      path: analysis/corpus-assessment/sources/corpus-039-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-039-followup.rst
+      resolved_url: https://raw.githubusercontent.com/torvalds/linux/master/Documentation/process/generated-content.rst
+      role: supplementary_policy
+      sha256: 828f797e5827530bf23c61f9d893f36aa48c2bff01d2001e0b48ecf21dc6bc2f
+      url: https://github.com/torvalds/linux/blob/master/Documentation/process/generated-content.rst
+      version: master
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: d12bf54d0d0f00314cc37ad17faf4bd6ffadf7bbef5996885fc0ad2ff64d4f02
+  mediapath: /docs/Linux__Kernel--supplementary_policy--d12bf54d0d0f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Linux Kernel\",\n  \"text_sha256\": \"d12bf54d0d0f00314cc37ad17faf4bd6ffadf7bbef5996885fc0ad2ff64d4f02\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-039-followup.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"d12bf54d0d0f00314cc37ad17faf4bd6ffadf7bbef5996885fc0ad2ff64d4f02\",\n    \
+    \  \"id\": \"corpus-039-followup\",\n      \"url\": \"https://github.com/torvalds/linux/blob/master/Documentation/process/generated-content.rst\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/torvalds/linux/master/Documentation/process/generated-content.rst\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:17:21.097917+00:00\",\n      \"version\"\
+    : \"master\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-039-followup.rst\"\
+    ,\n      \"sha256\": \"828f797e5827530bf23c61f9d893f36aa48c2bff01d2001e0b48ecf21dc6bc2f\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: Linux__Kernel--supplementary_policy--d12bf54d0d0f.md
+  owner: NicolasH
+  risid: null
+name: Linux__Kernel--supplementary_policy--d12bf54d0d0f.md
+path: corpus/qda-case-39/356.txt

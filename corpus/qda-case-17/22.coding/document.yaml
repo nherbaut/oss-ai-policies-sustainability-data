@@ -1,0 +1,50 @@
+hash: 10c06795bf6bfa2878040fdc60ecb6d573c20edb530892429133b6bc3d83cd68
+id: qda-source-22@qda-case-17
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 17
+    date: '2026-11-05 22:19:55'
+    fid: 22
+    id: 21
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 42813
+  content_sha256: 10c06795bf6bfa2878040fdc60ecb6d573c20edb530892429133b6bc3d83cd68
+  date: '2026-11-05 22:19:55'
+  id: 22
+  import_metadata:
+    conversion:
+      converted_sha256: 10c06795bf6bfa2878040fdc60ecb6d573c20edb530892429133b6bc3d83cd68
+      original_sha256: 5fef46bda6c22c4b429e66cdea975d68067d15027cce8fc120c8cdc4ce60bc57
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Kubernetes
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 5fef46bda6c22c4b429e66cdea975d68067d15027cce8fc120c8cdc4ce60bc57
+      path: data/281/policies/Kubernetes/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://www.kubernetes.dev/docs/guide/pull-requests/#ai-guidance
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 5fef46bda6c22c4b429e66cdea975d68067d15027cce8fc120c8cdc4ce60bc57
+  mediapath: /docs/Kubernetes--ai_policy--5fef46bda6c2.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Kubernetes\",\n  \"text_sha256\": \"5fef46bda6c22c4b429e66cdea975d68067d15027cce8fc120c8cdc4ce60bc57\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Kubernetes/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"5fef46bda6c22c4b429e66cdea975d68067d15027cce8fc120c8cdc4ce60bc57\"\
+    ,\n      \"source_url_cell\": \"https://www.kubernetes.dev/docs/guide/pull-requests/#ai-guidance\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"5fef46bda6c22c4b429e66cdea975d68067d15027cce8fc120c8cdc4ce60bc57\"\
+    ,\n    \"converted_sha256\": \"10c06795bf6bfa2878040fdc60ecb6d573c20edb530892429133b6bc3d83cd68\"\
+    \n  }\n}"
+  name: Kubernetes--ai_policy--5fef46bda6c2.md
+  owner: NicolasH
+  risid: null
+name: Kubernetes--ai_policy--5fef46bda6c2.md
+path: corpus/qda-case-17/22.txt

@@ -1,0 +1,58 @@
+hash: 05f1cf16b6b9c481c7aeee57d0c9251fd7b1b9bb7b0eea4c4615ee9cc6f25fa1
+id: qda-source-348@qda-case-34
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 34
+    date: '2026-11-05 22:19:55'
+    fid: 348
+    id: 348
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3792
+  content_sha256: 05f1cf16b6b9c481c7aeee57d0c9251fd7b1b9bb7b0eea4c4615ee9cc6f25fa1
+  date: '2026-11-05 22:19:55'
+  id: 348
+  import_metadata:
+    conversion:
+      converted_sha256: 05f1cf16b6b9c481c7aeee57d0c9251fd7b1b9bb7b0eea4c4615ee9cc6f25fa1
+      original_sha256: 9b2fa5d078b4e4aafe6f8a91d5677c735427e149a235708d98a18c28db8efdea
+      version: oss-ai-policies/clean-markdown-v1
+    entity: stanfordnlp/dspy
+    provenance:
+    - accessed_at: '2026-11-05T19:11:51.736811+00:00'
+      id: corpus-034-purpose
+      original_file_sha256: 9b2fa5d078b4e4aafe6f8a91d5677c735427e149a235708d98a18c28db8efdea
+      path: analysis/corpus-assessment/sources/corpus-034-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-034-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/stanfordnlp/dspy/027d9f45f4d60aedadee3fd587d1f4f3584567df/README.md
+      role: purpose_statement_candidate
+      sha256: 9b2fa5d078b4e4aafe6f8a91d5677c735427e149a235708d98a18c28db8efdea
+      url: https://github.com/stanfordnlp/dspy/blob/027d9f45f4d60aedadee3fd587d1f4f3584567df/README.md
+      version: 027d9f45f4d60aedadee3fd587d1f4f3584567df
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9b2fa5d078b4e4aafe6f8a91d5677c735427e149a235708d98a18c28db8efdea
+  mediapath: /docs/stanfordnlp__dspy--purpose_statement_candidate--9b2fa5d078b4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    stanfordnlp/dspy\",\n  \"text_sha256\": \"9b2fa5d078b4e4aafe6f8a91d5677c735427e149a235708d98a18c28db8efdea\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-034-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9b2fa5d078b4e4aafe6f8a91d5677c735427e149a235708d98a18c28db8efdea\",\n    \
+    \  \"id\": \"corpus-034-purpose\",\n      \"url\": \"https://github.com/stanfordnlp/dspy/blob/027d9f45f4d60aedadee3fd587d1f4f3584567df/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/stanfordnlp/dspy/027d9f45f4d60aedadee3fd587d1f4f3584567df/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:51.736811+00:00\",\n      \"version\"\
+    : \"027d9f45f4d60aedadee3fd587d1f4f3584567df\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-034-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9b2fa5d078b4e4aafe6f8a91d5677c735427e149a235708d98a18c28db8efdea\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9b2fa5d078b4e4aafe6f8a91d5677c735427e149a235708d98a18c28db8efdea\"\
+    ,\n    \"converted_sha256\": \"05f1cf16b6b9c481c7aeee57d0c9251fd7b1b9bb7b0eea4c4615ee9cc6f25fa1\"\
+    \n  }\n}"
+  name: stanfordnlp__dspy--purpose_statement_candidate--9b2fa5d078b4.md
+  owner: NicolasH
+  risid: null
+name: stanfordnlp__dspy--purpose_statement_candidate--9b2fa5d078b4.md
+path: corpus/qda-case-34/348.txt

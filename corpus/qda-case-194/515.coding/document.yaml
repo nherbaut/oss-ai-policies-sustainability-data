@@ -1,0 +1,51 @@
+hash: e08411599048c7ca9521a39fbef95f2528dd1fa41d6760ec85dca173055fac90
+id: qda-source-515@qda-case-194
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 194
+    date: '2026-11-05 22:19:55'
+    fid: 515
+    id: 515
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3413
+  content_sha256: e08411599048c7ca9521a39fbef95f2528dd1fa41d6760ec85dca173055fac90
+  date: '2026-11-05 22:19:55'
+  id: 515
+  import_metadata:
+    entity: apache/pouchdb
+    provenance:
+    - accessed_at: '2026-11-05T19:12:08.323430+00:00'
+      id: corpus-194-purpose
+      original_file_sha256: e08411599048c7ca9521a39fbef95f2528dd1fa41d6760ec85dca173055fac90
+      path: analysis/corpus-assessment/sources/corpus-194-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-194-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/apache/pouchdb/70b9de3c2072fa97e4b5b97cb74faa712ac184e0/README.md
+      role: purpose_statement_candidate
+      sha256: e08411599048c7ca9521a39fbef95f2528dd1fa41d6760ec85dca173055fac90
+      url: https://github.com/apache/pouchdb/blob/70b9de3c2072fa97e4b5b97cb74faa712ac184e0/README.md
+      version: 70b9de3c2072fa97e4b5b97cb74faa712ac184e0
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: e08411599048c7ca9521a39fbef95f2528dd1fa41d6760ec85dca173055fac90
+  mediapath: /docs/apache__pouchdb--purpose_statement_candidate--e08411599048.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    apache/pouchdb\",\n  \"text_sha256\": \"e08411599048c7ca9521a39fbef95f2528dd1fa41d6760ec85dca173055fac90\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-194-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e08411599048c7ca9521a39fbef95f2528dd1fa41d6760ec85dca173055fac90\",\n    \
+    \  \"id\": \"corpus-194-purpose\",\n      \"url\": \"https://github.com/apache/pouchdb/blob/70b9de3c2072fa97e4b5b97cb74faa712ac184e0/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/apache/pouchdb/70b9de3c2072fa97e4b5b97cb74faa712ac184e0/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:08.323430+00:00\",\n      \"version\"\
+    : \"70b9de3c2072fa97e4b5b97cb74faa712ac184e0\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-194-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e08411599048c7ca9521a39fbef95f2528dd1fa41d6760ec85dca173055fac90\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: apache__pouchdb--purpose_statement_candidate--e08411599048.md
+  owner: NicolasH
+  risid: null
+name: apache__pouchdb--purpose_statement_candidate--e08411599048.md
+path: corpus/qda-case-194/515.txt

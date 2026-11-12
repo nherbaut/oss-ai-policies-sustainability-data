@@ -1,0 +1,50 @@
+hash: bc9c651810865a19eebd5b84b12c23ae42f0b102ffef8de7ebcf8f5e09d46b31
+id: qda-source-283@qda-case-261
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 261
+    date: '2026-11-05 22:19:55'
+    fid: 283
+    id: 282
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10622
+  content_sha256: bc9c651810865a19eebd5b84b12c23ae42f0b102ffef8de7ebcf8f5e09d46b31
+  date: '2026-11-05 22:19:55'
+  id: 283
+  import_metadata:
+    conversion:
+      converted_sha256: bc9c651810865a19eebd5b84b12c23ae42f0b102ffef8de7ebcf8f5e09d46b31
+      original_sha256: b36dae5f59b05bea752bf53c268f2c8fc448c8eedb60e449448919ef8b68b5f8
+      version: oss-ai-policies/clean-markdown-v1
+    entity: OpenJDK
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: b36dae5f59b05bea752bf53c268f2c8fc448c8eedb60e449448919ef8b68b5f8
+      path: data/281/policies/OpenJDK/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://openjdk.org/legal/ai
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b36dae5f59b05bea752bf53c268f2c8fc448c8eedb60e449448919ef8b68b5f8
+  mediapath: /docs/OpenJDK--ai_policy--b36dae5f59b0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    OpenJDK\",\n  \"text_sha256\": \"b36dae5f59b05bea752bf53c268f2c8fc448c8eedb60e449448919ef8b68b5f8\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/OpenJDK/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"b36dae5f59b05bea752bf53c268f2c8fc448c8eedb60e449448919ef8b68b5f8\"\
+    ,\n      \"source_url_cell\": \"https://openjdk.org/legal/ai\",\n      \"retrieved_at\"\
+    : null,\n      \"notes\": \"Local extraction. Original retrieval date is not recorded.\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b36dae5f59b05bea752bf53c268f2c8fc448c8eedb60e449448919ef8b68b5f8\"\
+    ,\n    \"converted_sha256\": \"bc9c651810865a19eebd5b84b12c23ae42f0b102ffef8de7ebcf8f5e09d46b31\"\
+    \n  }\n}"
+  name: OpenJDK--ai_policy--b36dae5f59b0.md
+  owner: NicolasH
+  risid: null
+name: OpenJDK--ai_policy--b36dae5f59b0.md
+path: corpus/qda-case-261/283.txt

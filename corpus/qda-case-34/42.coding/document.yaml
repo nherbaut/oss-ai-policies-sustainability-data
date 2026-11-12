@@ -1,0 +1,43 @@
+hash: 5df171b4c3d124a1a2c5f669e2e884c5f9e5efddc083d0feab18a206ffb32fe9
+id: qda-source-42@qda-case-34
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 34
+    date: '2026-11-05 22:19:55'
+    fid: 42
+    id: 41
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6831
+  content_sha256: 5df171b4c3d124a1a2c5f669e2e884c5f9e5efddc083d0feab18a206ffb32fe9
+  date: '2026-11-05 22:19:55'
+  id: 42
+  import_metadata:
+    entity: stanfordnlp/dspy
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 5df171b4c3d124a1a2c5f669e2e884c5f9e5efddc083d0feab18a206ffb32fe9
+      path: data/281/policies/stanfordnlp/dspy/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/stanfordnlp/dspy/blob/027d9f45f4d60aedadee3fd587d1f4f3584567df/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 5df171b4c3d124a1a2c5f669e2e884c5f9e5efddc083d0feab18a206ffb32fe9
+  mediapath: /docs/stanfordnlp__dspy--contributing--5df171b4c3d1.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    stanfordnlp/dspy\",\n  \"text_sha256\": \"5df171b4c3d124a1a2c5f669e2e884c5f9e5efddc083d0feab18a206ffb32fe9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/stanfordnlp/dspy/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"5df171b4c3d124a1a2c5f669e2e884c5f9e5efddc083d0feab18a206ffb32fe9\"\
+    ,\n      \"source_url_cell\": \"https://github.com/stanfordnlp/dspy/blob/027d9f45f4d60aedadee3fd587d1f4f3584567df/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: stanfordnlp__dspy--contributing--5df171b4c3d1.md
+  owner: NicolasH
+  risid: null
+name: stanfordnlp__dspy--contributing--5df171b4c3d1.md
+path: corpus/qda-case-34/42.txt

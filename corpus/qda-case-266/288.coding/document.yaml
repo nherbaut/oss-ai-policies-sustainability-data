@@ -1,0 +1,43 @@
+hash: 7fdc3026161d96c3e11501bee92f3bcb7811b6a39a100a9d943382c9b53e4b05
+id: qda-source-288@qda-case-266
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 266
+    date: '2026-11-05 22:19:55'
+    fid: 288
+    id: 287
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3188
+  content_sha256: 7fdc3026161d96c3e11501bee92f3bcb7811b6a39a100a9d943382c9b53e4b05
+  date: '2026-11-05 22:19:55'
+  id: 288
+  import_metadata:
+    entity: codemirror/codemirror5
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 7fdc3026161d96c3e11501bee92f3bcb7811b6a39a100a9d943382c9b53e4b05
+      path: data/281/policies/codemirror/codemirror5/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/codemirror/codemirror5/blob/9b4f0603cb042286a7ac2262b98245493d0d7e4b/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 7fdc3026161d96c3e11501bee92f3bcb7811b6a39a100a9d943382c9b53e4b05
+  mediapath: /docs/codemirror__codemirror5--contributing--7fdc3026161d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    codemirror/codemirror5\",\n  \"text_sha256\": \"7fdc3026161d96c3e11501bee92f3bcb7811b6a39a100a9d943382c9b53e4b05\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/codemirror/codemirror5/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"7fdc3026161d96c3e11501bee92f3bcb7811b6a39a100a9d943382c9b53e4b05\"\
+    ,\n      \"source_url_cell\": \"https://github.com/codemirror/codemirror5/blob/9b4f0603cb042286a7ac2262b98245493d0d7e4b/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: codemirror__codemirror5--contributing--7fdc3026161d.md
+  owner: NicolasH
+  risid: null
+name: codemirror__codemirror5--contributing--7fdc3026161d.md
+path: corpus/qda-case-266/288.txt

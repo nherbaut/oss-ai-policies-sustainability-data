@@ -1,0 +1,51 @@
+hash: 1c6a263b20c8288f35dad2e8eb36c4bc6dc63b2b9691d216c06d6a230fdb8860
+id: qda-source-335@qda-case-21
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 21
+    date: '2026-11-05 22:19:55'
+    fid: 335
+    id: 335
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5354
+  content_sha256: 1c6a263b20c8288f35dad2e8eb36c4bc6dc63b2b9691d216c06d6a230fdb8860
+  date: '2026-11-05 22:19:55'
+  id: 335
+  import_metadata:
+    entity: keras-team/keras
+    provenance:
+    - accessed_at: '2026-11-05T19:11:49.883628+00:00'
+      id: corpus-021-purpose
+      original_file_sha256: 1c6a263b20c8288f35dad2e8eb36c4bc6dc63b2b9691d216c06d6a230fdb8860
+      path: analysis/corpus-assessment/sources/corpus-021-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-021-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/keras-team/keras/8ec790152e67f170e88876a61dd6cb685e7d53b4/README.md
+      role: purpose_statement_candidate
+      sha256: 1c6a263b20c8288f35dad2e8eb36c4bc6dc63b2b9691d216c06d6a230fdb8860
+      url: https://github.com/keras-team/keras/blob/8ec790152e67f170e88876a61dd6cb685e7d53b4/README.md
+      version: 8ec790152e67f170e88876a61dd6cb685e7d53b4
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 1c6a263b20c8288f35dad2e8eb36c4bc6dc63b2b9691d216c06d6a230fdb8860
+  mediapath: /docs/keras-team__keras--purpose_statement_candidate--1c6a263b20c8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    keras-team/keras\",\n  \"text_sha256\": \"1c6a263b20c8288f35dad2e8eb36c4bc6dc63b2b9691d216c06d6a230fdb8860\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-021-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"1c6a263b20c8288f35dad2e8eb36c4bc6dc63b2b9691d216c06d6a230fdb8860\",\n    \
+    \  \"id\": \"corpus-021-purpose\",\n      \"url\": \"https://github.com/keras-team/keras/blob/8ec790152e67f170e88876a61dd6cb685e7d53b4/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/keras-team/keras/8ec790152e67f170e88876a61dd6cb685e7d53b4/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:49.883628+00:00\",\n      \"version\"\
+    : \"8ec790152e67f170e88876a61dd6cb685e7d53b4\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-021-purpose.raw.md\"\
+    ,\n      \"sha256\": \"1c6a263b20c8288f35dad2e8eb36c4bc6dc63b2b9691d216c06d6a230fdb8860\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: keras-team__keras--purpose_statement_candidate--1c6a263b20c8.md
+  owner: NicolasH
+  risid: null
+name: keras-team__keras--purpose_statement_candidate--1c6a263b20c8.md
+path: corpus/qda-case-21/335.txt

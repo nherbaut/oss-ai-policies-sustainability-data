@@ -1,0 +1,58 @@
+hash: a1fee16b276598e62ca0a5a7ede2f7d0c84a8c3970bf55a445c815de56357b6a
+id: qda-source-423@qda-case-100
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 100
+    date: '2026-11-05 22:19:55'
+    fid: 423
+    id: 423
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5889
+  content_sha256: a1fee16b276598e62ca0a5a7ede2f7d0c84a8c3970bf55a445c815de56357b6a
+  date: '2026-11-05 22:19:55'
+  id: 423
+  import_metadata:
+    conversion:
+      converted_sha256: a1fee16b276598e62ca0a5a7ede2f7d0c84a8c3970bf55a445c815de56357b6a
+      original_sha256: 5f1433c65bfb9e57bf84b16c6210c0b17ff2a1e7c5c69e61ed0e4f1e34fffbd5
+      version: oss-ai-policies/clean-markdown-v1
+    entity: caldis/mos
+    provenance:
+    - accessed_at: '2026-11-05T19:24:22.350175+00:00'
+      id: corpus-100-followup
+      original_file_sha256: 5f1433c65bfb9e57bf84b16c6210c0b17ff2a1e7c5c69e61ed0e4f1e34fffbd5
+      path: analysis/corpus-assessment/sources/corpus-100-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-100-followup.raw.md
+      resolved_url: https://raw.githubusercontent.com/caldis/mos/5dfb2363331cf63f529fdafa27962c41f91feff4/README.enUS.md
+      role: purpose_statement_candidate
+      sha256: 5f1433c65bfb9e57bf84b16c6210c0b17ff2a1e7c5c69e61ed0e4f1e34fffbd5
+      url: https://github.com/caldis/mos/blob/5dfb2363331cf63f529fdafa27962c41f91feff4/README.enUS.md
+      version: 5dfb2363331cf63f529fdafa27962c41f91feff4
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 5f1433c65bfb9e57bf84b16c6210c0b17ff2a1e7c5c69e61ed0e4f1e34fffbd5
+  mediapath: /docs/caldis__mos--purpose_statement_candidate--5f1433c65bfb.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    caldis/mos\",\n  \"text_sha256\": \"5f1433c65bfb9e57bf84b16c6210c0b17ff2a1e7c5c69e61ed0e4f1e34fffbd5\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-100-followup.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5f1433c65bfb9e57bf84b16c6210c0b17ff2a1e7c5c69e61ed0e4f1e34fffbd5\",\n    \
+    \  \"id\": \"corpus-100-followup\",\n      \"url\": \"https://github.com/caldis/mos/blob/5dfb2363331cf63f529fdafa27962c41f91feff4/README.enUS.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/caldis/mos/5dfb2363331cf63f529fdafa27962c41f91feff4/README.enUS.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:24:22.350175+00:00\",\n      \"version\"\
+    : \"5dfb2363331cf63f529fdafa27962c41f91feff4\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-100-followup.raw.md\"\
+    ,\n      \"sha256\": \"5f1433c65bfb9e57bf84b16c6210c0b17ff2a1e7c5c69e61ed0e4f1e34fffbd5\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"5f1433c65bfb9e57bf84b16c6210c0b17ff2a1e7c5c69e61ed0e4f1e34fffbd5\"\
+    ,\n    \"converted_sha256\": \"a1fee16b276598e62ca0a5a7ede2f7d0c84a8c3970bf55a445c815de56357b6a\"\
+    \n  }\n}"
+  name: caldis__mos--purpose_statement_candidate--5f1433c65bfb.md
+  owner: NicolasH
+  risid: null
+name: caldis__mos--purpose_statement_candidate--5f1433c65bfb.md
+path: corpus/qda-case-100/423.txt

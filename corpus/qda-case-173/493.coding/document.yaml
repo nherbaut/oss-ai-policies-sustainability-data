@@ -1,0 +1,58 @@
+hash: e3e9177fa7fbd7ba743d74ba838b42d8f4cedebe7c2a413751b234bbf56fb9c0
+id: qda-source-493@qda-case-173
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 173
+    date: '2026-11-05 22:19:55'
+    fid: 493
+    id: 493
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 69267
+  content_sha256: e3e9177fa7fbd7ba743d74ba838b42d8f4cedebe7c2a413751b234bbf56fb9c0
+  date: '2026-11-05 22:19:55'
+  id: 493
+  import_metadata:
+    conversion:
+      converted_sha256: e3e9177fa7fbd7ba743d74ba838b42d8f4cedebe7c2a413751b234bbf56fb9c0
+      original_sha256: 156daaca994cfa4882b1eace30a078319930ebd2c0c017291aa9207a78767883
+      version: oss-ai-policies/clean-markdown-v1
+    entity: nuitka/nuitka
+    provenance:
+    - accessed_at: '2026-11-05T19:12:04.948820+00:00'
+      id: corpus-173-purpose
+      original_file_sha256: 156daaca994cfa4882b1eace30a078319930ebd2c0c017291aa9207a78767883
+      path: analysis/corpus-assessment/sources/corpus-173-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-173-purpose.rst
+      resolved_url: https://raw.githubusercontent.com/nuitka/nuitka/8b0d96cf424fbc3902a3d93cce4fdcb855d347f4/README.rst
+      role: purpose_statement_candidate
+      sha256: e4ea86bb52e231676fb2716d5b1928d6b086d645e82df3fa3e0e6102c9390245
+      url: https://github.com/nuitka/nuitka/blob/8b0d96cf424fbc3902a3d93cce4fdcb855d347f4/README.rst
+      version: 8b0d96cf424fbc3902a3d93cce4fdcb855d347f4
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 156daaca994cfa4882b1eace30a078319930ebd2c0c017291aa9207a78767883
+  mediapath: /docs/nuitka__nuitka--purpose_statement_candidate--156daaca994c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    nuitka/nuitka\",\n  \"text_sha256\": \"156daaca994cfa4882b1eace30a078319930ebd2c0c017291aa9207a78767883\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-173-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"156daaca994cfa4882b1eace30a078319930ebd2c0c017291aa9207a78767883\",\n    \
+    \  \"id\": \"corpus-173-purpose\",\n      \"url\": \"https://github.com/nuitka/nuitka/blob/8b0d96cf424fbc3902a3d93cce4fdcb855d347f4/README.rst\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/nuitka/nuitka/8b0d96cf424fbc3902a3d93cce4fdcb855d347f4/README.rst\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:04.948820+00:00\",\n      \"version\"\
+    : \"8b0d96cf424fbc3902a3d93cce4fdcb855d347f4\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-173-purpose.rst\"\
+    ,\n      \"sha256\": \"e4ea86bb52e231676fb2716d5b1928d6b086d645e82df3fa3e0e6102c9390245\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"156daaca994cfa4882b1eace30a078319930ebd2c0c017291aa9207a78767883\"\
+    ,\n    \"converted_sha256\": \"e3e9177fa7fbd7ba743d74ba838b42d8f4cedebe7c2a413751b234bbf56fb9c0\"\
+    \n  }\n}"
+  name: nuitka__nuitka--purpose_statement_candidate--156daaca994c.md
+  owner: NicolasH
+  risid: null
+name: nuitka__nuitka--purpose_statement_candidate--156daaca994c.md
+path: corpus/qda-case-173/493.txt

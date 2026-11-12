@@ -1,0 +1,58 @@
+hash: 7b54f9c8adac57c4f065743e7149d296b7f47133ae51dc8266dffce671277c4b
+id: qda-source-561@qda-case-239
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 239
+    date: '2026-11-05 22:19:55'
+    fid: 561
+    id: 561
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3022
+  content_sha256: 7b54f9c8adac57c4f065743e7149d296b7f47133ae51dc8266dffce671277c4b
+  date: '2026-11-05 22:19:55'
+  id: 561
+  import_metadata:
+    conversion:
+      converted_sha256: 7b54f9c8adac57c4f065743e7149d296b7f47133ae51dc8266dffce671277c4b
+      original_sha256: f1f5a86cd0fd0f6a288882527830a9bbbd5851e3238c4d7426b7bbb496165cd1
+      version: oss-ai-policies/clean-markdown-v1
+    entity: prettier/prettier
+    provenance:
+    - accessed_at: '2026-11-05T19:12:13.919910+00:00'
+      id: corpus-239-purpose
+      original_file_sha256: f1f5a86cd0fd0f6a288882527830a9bbbd5851e3238c4d7426b7bbb496165cd1
+      path: analysis/corpus-assessment/sources/corpus-239-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-239-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/prettier/prettier/36bc0b7ef4343701272ad094ba7c1a2e25b0039f/README.md
+      role: purpose_statement_candidate
+      sha256: f1f5a86cd0fd0f6a288882527830a9bbbd5851e3238c4d7426b7bbb496165cd1
+      url: https://github.com/prettier/prettier/blob/36bc0b7ef4343701272ad094ba7c1a2e25b0039f/README.md
+      version: 36bc0b7ef4343701272ad094ba7c1a2e25b0039f
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: f1f5a86cd0fd0f6a288882527830a9bbbd5851e3238c4d7426b7bbb496165cd1
+  mediapath: /docs/prettier__prettier--purpose_statement_candidate--f1f5a86cd0fd.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    prettier/prettier\",\n  \"text_sha256\": \"f1f5a86cd0fd0f6a288882527830a9bbbd5851e3238c4d7426b7bbb496165cd1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-239-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"f1f5a86cd0fd0f6a288882527830a9bbbd5851e3238c4d7426b7bbb496165cd1\",\n    \
+    \  \"id\": \"corpus-239-purpose\",\n      \"url\": \"https://github.com/prettier/prettier/blob/36bc0b7ef4343701272ad094ba7c1a2e25b0039f/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/prettier/prettier/36bc0b7ef4343701272ad094ba7c1a2e25b0039f/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:13.919910+00:00\",\n      \"version\"\
+    : \"36bc0b7ef4343701272ad094ba7c1a2e25b0039f\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-239-purpose.raw.md\"\
+    ,\n      \"sha256\": \"f1f5a86cd0fd0f6a288882527830a9bbbd5851e3238c4d7426b7bbb496165cd1\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"f1f5a86cd0fd0f6a288882527830a9bbbd5851e3238c4d7426b7bbb496165cd1\"\
+    ,\n    \"converted_sha256\": \"7b54f9c8adac57c4f065743e7149d296b7f47133ae51dc8266dffce671277c4b\"\
+    \n  }\n}"
+  name: prettier__prettier--purpose_statement_candidate--f1f5a86cd0fd.md
+  owner: NicolasH
+  risid: null
+name: prettier__prettier--purpose_statement_candidate--f1f5a86cd0fd.md
+path: corpus/qda-case-239/561.txt

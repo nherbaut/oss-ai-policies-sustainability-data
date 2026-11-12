@@ -1,0 +1,58 @@
+hash: ff903132465624d8fa2c1ee88730216172268671e48d5c3f42df0cb2fa666f7d
+id: qda-source-407@qda-case-84
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 84
+    date: '2026-11-05 22:19:55'
+    fid: 407
+    id: 407
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3655
+  content_sha256: ff903132465624d8fa2c1ee88730216172268671e48d5c3f42df0cb2fa666f7d
+  date: '2026-11-05 22:19:55'
+  id: 407
+  import_metadata:
+    conversion:
+      converted_sha256: ff903132465624d8fa2c1ee88730216172268671e48d5c3f42df0cb2fa666f7d
+      original_sha256: dc7aaaf62e6aa9ac643e561dace512ec914a3e68e3362e2c7945a910063f7035
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Astropy
+    provenance:
+    - accessed_at: '2026-11-05T19:11:57.088843+00:00'
+      id: corpus-084-purpose
+      original_file_sha256: dc7aaaf62e6aa9ac643e561dace512ec914a3e68e3362e2c7945a910063f7035
+      path: analysis/corpus-assessment/sources/corpus-084-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-084-purpose.html
+      resolved_url: https://www.astropy.org/about.html
+      role: purpose_statement_candidate
+      sha256: f5615e92883c98f63cb03fb1b5d409038be20ee9932d052306725800d3d3d725
+      url: https://www.astropy.org/about.html
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: dc7aaaf62e6aa9ac643e561dace512ec914a3e68e3362e2c7945a910063f7035
+  mediapath: /docs/Astropy--purpose_statement_candidate--dc7aaaf62e6a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Astropy\",\n  \"text_sha256\": \"dc7aaaf62e6aa9ac643e561dace512ec914a3e68e3362e2c7945a910063f7035\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-084-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"dc7aaaf62e6aa9ac643e561dace512ec914a3e68e3362e2c7945a910063f7035\",\n    \
+    \  \"id\": \"corpus-084-purpose\",\n      \"url\": \"https://www.astropy.org/about.html\"\
+    ,\n      \"resolved_url\": \"https://www.astropy.org/about.html\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:11:57.088843+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-084-purpose.html\",\n      \"sha256\"\
+    : \"f5615e92883c98f63cb03fb1b5d409038be20ee9932d052306725800d3d3d725\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"dc7aaaf62e6aa9ac643e561dace512ec914a3e68e3362e2c7945a910063f7035\"\
+    ,\n    \"converted_sha256\": \"ff903132465624d8fa2c1ee88730216172268671e48d5c3f42df0cb2fa666f7d\"\
+    \n  }\n}"
+  name: Astropy--purpose_statement_candidate--dc7aaaf62e6a.md
+  owner: NicolasH
+  risid: null
+name: Astropy--purpose_statement_candidate--dc7aaaf62e6a.md
+path: corpus/qda-case-84/407.txt

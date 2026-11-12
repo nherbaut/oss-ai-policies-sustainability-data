@@ -1,0 +1,58 @@
+hash: 1fec9978c8c71f72b038aa50a69bed09c158f9303b2d5152132a4c5ab93834ef
+id: qda-source-580@qda-case-258
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 258
+    date: '2026-11-05 22:19:55'
+    fid: 580
+    id: 580
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11175
+  content_sha256: 1fec9978c8c71f72b038aa50a69bed09c158f9303b2d5152132a4c5ab93834ef
+  date: '2026-11-05 22:19:55'
+  id: 580
+  import_metadata:
+    conversion:
+      converted_sha256: 1fec9978c8c71f72b038aa50a69bed09c158f9303b2d5152132a4c5ab93834ef
+      original_sha256: ddaf0de156f6a442c7f831202cd55583614df4cc3cfb4b16e95162c7eb11e653
+      version: oss-ai-policies/clean-markdown-v1
+    entity: typst/typst
+    provenance:
+    - accessed_at: '2026-11-05T19:12:15.285762+00:00'
+      id: corpus-258-purpose
+      original_file_sha256: ddaf0de156f6a442c7f831202cd55583614df4cc3cfb4b16e95162c7eb11e653
+      path: analysis/corpus-assessment/sources/corpus-258-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-258-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/typst/typst/14fa8cd16446e2be59a44468a649ca3d315766f1/README.md
+      role: purpose_statement_candidate
+      sha256: ddaf0de156f6a442c7f831202cd55583614df4cc3cfb4b16e95162c7eb11e653
+      url: https://github.com/typst/typst/blob/14fa8cd16446e2be59a44468a649ca3d315766f1/README.md
+      version: 14fa8cd16446e2be59a44468a649ca3d315766f1
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ddaf0de156f6a442c7f831202cd55583614df4cc3cfb4b16e95162c7eb11e653
+  mediapath: /docs/typst__typst--purpose_statement_candidate--ddaf0de156f6.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    typst/typst\",\n  \"text_sha256\": \"ddaf0de156f6a442c7f831202cd55583614df4cc3cfb4b16e95162c7eb11e653\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-258-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"ddaf0de156f6a442c7f831202cd55583614df4cc3cfb4b16e95162c7eb11e653\",\n    \
+    \  \"id\": \"corpus-258-purpose\",\n      \"url\": \"https://github.com/typst/typst/blob/14fa8cd16446e2be59a44468a649ca3d315766f1/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/typst/typst/14fa8cd16446e2be59a44468a649ca3d315766f1/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:15.285762+00:00\",\n      \"version\"\
+    : \"14fa8cd16446e2be59a44468a649ca3d315766f1\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-258-purpose.raw.md\"\
+    ,\n      \"sha256\": \"ddaf0de156f6a442c7f831202cd55583614df4cc3cfb4b16e95162c7eb11e653\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"ddaf0de156f6a442c7f831202cd55583614df4cc3cfb4b16e95162c7eb11e653\"\
+    ,\n    \"converted_sha256\": \"1fec9978c8c71f72b038aa50a69bed09c158f9303b2d5152132a4c5ab93834ef\"\
+    \n  }\n}"
+  name: typst__typst--purpose_statement_candidate--ddaf0de156f6.md
+  owner: NicolasH
+  risid: null
+name: typst__typst--purpose_statement_candidate--ddaf0de156f6.md
+path: corpus/qda-case-258/580.txt

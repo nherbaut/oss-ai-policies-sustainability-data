@@ -1,0 +1,58 @@
+hash: 60b72688785753559b70da31641fcbbcdc2bf790aea0ed761f43d86c40bfdcee
+id: qda-source-361@qda-case-42
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 42
+    date: '2026-11-05 22:19:55'
+    fid: 361
+    id: 361
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6372
+  content_sha256: 60b72688785753559b70da31641fcbbcdc2bf790aea0ed761f43d86c40bfdcee
+  date: '2026-11-05 22:19:55'
+  id: 361
+  import_metadata:
+    conversion:
+      converted_sha256: 60b72688785753559b70da31641fcbbcdc2bf790aea0ed761f43d86c40bfdcee
+      original_sha256: 49abe2308d720994c9a78ed80f4a8d31385389c219d1f427623a4f9fa73a13d1
+      version: oss-ai-policies/clean-markdown-v1
+    entity: facebook/docusaurus
+    provenance:
+    - accessed_at: '2026-11-05T19:11:52.899334+00:00'
+      id: corpus-042-purpose
+      original_file_sha256: 49abe2308d720994c9a78ed80f4a8d31385389c219d1f427623a4f9fa73a13d1
+      path: analysis/corpus-assessment/sources/corpus-042-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-042-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/facebook/docusaurus/80319585a49a2bce46cd2e157b2d13a8b691b8e0/README.md
+      role: purpose_statement_candidate
+      sha256: 49abe2308d720994c9a78ed80f4a8d31385389c219d1f427623a4f9fa73a13d1
+      url: https://github.com/facebook/docusaurus/blob/80319585a49a2bce46cd2e157b2d13a8b691b8e0/README.md
+      version: 80319585a49a2bce46cd2e157b2d13a8b691b8e0
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 49abe2308d720994c9a78ed80f4a8d31385389c219d1f427623a4f9fa73a13d1
+  mediapath: /docs/facebook__docusaurus--purpose_statement_candidate--49abe2308d72.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    facebook/docusaurus\",\n  \"text_sha256\": \"49abe2308d720994c9a78ed80f4a8d31385389c219d1f427623a4f9fa73a13d1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-042-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"49abe2308d720994c9a78ed80f4a8d31385389c219d1f427623a4f9fa73a13d1\",\n    \
+    \  \"id\": \"corpus-042-purpose\",\n      \"url\": \"https://github.com/facebook/docusaurus/blob/80319585a49a2bce46cd2e157b2d13a8b691b8e0/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/facebook/docusaurus/80319585a49a2bce46cd2e157b2d13a8b691b8e0/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:52.899334+00:00\",\n      \"version\"\
+    : \"80319585a49a2bce46cd2e157b2d13a8b691b8e0\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-042-purpose.raw.md\"\
+    ,\n      \"sha256\": \"49abe2308d720994c9a78ed80f4a8d31385389c219d1f427623a4f9fa73a13d1\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"49abe2308d720994c9a78ed80f4a8d31385389c219d1f427623a4f9fa73a13d1\"\
+    ,\n    \"converted_sha256\": \"60b72688785753559b70da31641fcbbcdc2bf790aea0ed761f43d86c40bfdcee\"\
+    \n  }\n}"
+  name: facebook__docusaurus--purpose_statement_candidate--49abe2308d72.md
+  owner: NicolasH
+  risid: null
+name: facebook__docusaurus--purpose_statement_candidate--49abe2308d72.md
+path: corpus/qda-case-42/361.txt

@@ -1,0 +1,43 @@
+hash: 490feec1ee3f3e281b866df92fcf956574dc0253f36a6ed2b8dfe1f1c6e64c2a
+id: qda-source-196@qda-case-177
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 177
+    date: '2026-11-05 22:19:55'
+    fid: 196
+    id: 195
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10580
+  content_sha256: 490feec1ee3f3e281b866df92fcf956574dc0253f36a6ed2b8dfe1f1c6e64c2a
+  date: '2026-11-05 22:19:55'
+  id: 196
+  import_metadata:
+    entity: rustpython/rustpython
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 490feec1ee3f3e281b866df92fcf956574dc0253f36a6ed2b8dfe1f1c6e64c2a
+      path: data/281/policies/rustpython/rustpython/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/rustpython/rustpython/blob/c1bc99afbd16d71451d5f5abd1ebf15596df670a/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 490feec1ee3f3e281b866df92fcf956574dc0253f36a6ed2b8dfe1f1c6e64c2a
+  mediapath: /docs/rustpython__rustpython--contributing--490feec1ee3f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rustpython/rustpython\",\n  \"text_sha256\": \"490feec1ee3f3e281b866df92fcf956574dc0253f36a6ed2b8dfe1f1c6e64c2a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/rustpython/rustpython/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"490feec1ee3f3e281b866df92fcf956574dc0253f36a6ed2b8dfe1f1c6e64c2a\"\
+    ,\n      \"source_url_cell\": \"https://github.com/rustpython/rustpython/blob/c1bc99afbd16d71451d5f5abd1ebf15596df670a/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: rustpython__rustpython--contributing--490feec1ee3f.md
+  owner: NicolasH
+  risid: null
+name: rustpython__rustpython--contributing--490feec1ee3f.md
+path: corpus/qda-case-177/196.txt

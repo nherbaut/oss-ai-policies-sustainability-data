@@ -1,0 +1,58 @@
+hash: f990ac996fe35af620989650ab8042c0a73b39c78222f873ce9d93c889060713
+id: qda-source-466@qda-case-146
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 146
+    date: '2026-11-05 22:19:55'
+    fid: 466
+    id: 466
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3388
+  content_sha256: f990ac996fe35af620989650ab8042c0a73b39c78222f873ce9d93c889060713
+  date: '2026-11-05 22:19:55'
+  id: 466
+  import_metadata:
+    conversion:
+      converted_sha256: f990ac996fe35af620989650ab8042c0a73b39c78222f873ce9d93c889060713
+      original_sha256: 83a959d62dea940f94ce1b50024928e34afb447de35197b7ea1d944fd6dbbcf7
+      version: oss-ai-policies/clean-markdown-v1
+    entity: denoland/deno
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.091379+00:00'
+      id: corpus-146-purpose
+      original_file_sha256: 83a959d62dea940f94ce1b50024928e34afb447de35197b7ea1d944fd6dbbcf7
+      path: analysis/corpus-assessment/sources/corpus-146-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-146-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/denoland/deno/f8a17c8171569fa2870d740030aaa59c91fdf9ee/README.md
+      role: purpose_statement_candidate
+      sha256: 83a959d62dea940f94ce1b50024928e34afb447de35197b7ea1d944fd6dbbcf7
+      url: https://github.com/denoland/deno/blob/f8a17c8171569fa2870d740030aaa59c91fdf9ee/README.md
+      version: f8a17c8171569fa2870d740030aaa59c91fdf9ee
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 83a959d62dea940f94ce1b50024928e34afb447de35197b7ea1d944fd6dbbcf7
+  mediapath: /docs/denoland__deno--purpose_statement_candidate--83a959d62dea.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    denoland/deno\",\n  \"text_sha256\": \"83a959d62dea940f94ce1b50024928e34afb447de35197b7ea1d944fd6dbbcf7\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-146-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"83a959d62dea940f94ce1b50024928e34afb447de35197b7ea1d944fd6dbbcf7\",\n    \
+    \  \"id\": \"corpus-146-purpose\",\n      \"url\": \"https://github.com/denoland/deno/blob/f8a17c8171569fa2870d740030aaa59c91fdf9ee/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/denoland/deno/f8a17c8171569fa2870d740030aaa59c91fdf9ee/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.091379+00:00\",\n      \"version\"\
+    : \"f8a17c8171569fa2870d740030aaa59c91fdf9ee\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-146-purpose.raw.md\"\
+    ,\n      \"sha256\": \"83a959d62dea940f94ce1b50024928e34afb447de35197b7ea1d944fd6dbbcf7\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"83a959d62dea940f94ce1b50024928e34afb447de35197b7ea1d944fd6dbbcf7\"\
+    ,\n    \"converted_sha256\": \"f990ac996fe35af620989650ab8042c0a73b39c78222f873ce9d93c889060713\"\
+    \n  }\n}"
+  name: denoland__deno--purpose_statement_candidate--83a959d62dea.md
+  owner: NicolasH
+  risid: null
+name: denoland__deno--purpose_statement_candidate--83a959d62dea.md
+path: corpus/qda-case-146/466.txt

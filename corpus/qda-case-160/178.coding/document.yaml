@@ -1,0 +1,50 @@
+hash: 08c610b53826bc590dfaf29dafbd0a4e5baceec68fbcff3c73380deb28808d45
+id: qda-source-178@qda-case-160
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 160
+    date: '2026-11-05 22:19:55'
+    fid: 178
+    id: 177
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9728
+  content_sha256: 08c610b53826bc590dfaf29dafbd0a4e5baceec68fbcff3c73380deb28808d45
+  date: '2026-11-05 22:19:55'
+  id: 178
+  import_metadata:
+    conversion:
+      converted_sha256: 08c610b53826bc590dfaf29dafbd0a4e5baceec68fbcff3c73380deb28808d45
+      original_sha256: 2ea749cb8e8f2660621b50224976702575a8a863bf2b3c202b19e6326dffc55f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: agno-agi/agno
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 2ea749cb8e8f2660621b50224976702575a8a863bf2b3c202b19e6326dffc55f
+      path: data/281/policies/agno-agi/agno/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/agno-agi/agno/blob/f6b475995a5fdb9114959e771d93423ac6e7d3a0/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 2ea749cb8e8f2660621b50224976702575a8a863bf2b3c202b19e6326dffc55f
+  mediapath: /docs/agno-agi__agno--contributing--2ea749cb8e8f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    agno-agi/agno\",\n  \"text_sha256\": \"2ea749cb8e8f2660621b50224976702575a8a863bf2b3c202b19e6326dffc55f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/agno-agi/agno/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"2ea749cb8e8f2660621b50224976702575a8a863bf2b3c202b19e6326dffc55f\"\
+    ,\n      \"source_url_cell\": \"https://github.com/agno-agi/agno/blob/f6b475995a5fdb9114959e771d93423ac6e7d3a0/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"2ea749cb8e8f2660621b50224976702575a8a863bf2b3c202b19e6326dffc55f\"\
+    ,\n    \"converted_sha256\": \"08c610b53826bc590dfaf29dafbd0a4e5baceec68fbcff3c73380deb28808d45\"\
+    \n  }\n}"
+  name: agno-agi__agno--contributing--2ea749cb8e8f.md
+  owner: NicolasH
+  risid: null
+name: agno-agi__agno--contributing--2ea749cb8e8f.md
+path: corpus/qda-case-160/178.txt

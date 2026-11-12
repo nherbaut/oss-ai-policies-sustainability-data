@@ -1,0 +1,43 @@
+hash: 83d8bdadef7f6d5f39487dff1774bfe43eef0bbd242e79c3b499bf87abcf09df
+id: qda-source-159@qda-case-141
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 141
+    date: '2026-11-05 22:19:55'
+    fid: 159
+    id: 158
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8850
+  content_sha256: 83d8bdadef7f6d5f39487dff1774bfe43eef0bbd242e79c3b499bf87abcf09df
+  date: '2026-11-05 22:19:55'
+  id: 159
+  import_metadata:
+    entity: ggml-org/llama.cpp
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 83d8bdadef7f6d5f39487dff1774bfe43eef0bbd242e79c3b499bf87abcf09df
+      path: data/281/policies/ggml-org/llama.cpp/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://github.com/ggml-org/llama.cpp/blob/505b1ed15ca80e2a19f12ff4ac365e40fb374053/AGENTS.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 83d8bdadef7f6d5f39487dff1774bfe43eef0bbd242e79c3b499bf87abcf09df
+  mediapath: /docs/ggml-org__llama.cpp--other_policy--83d8bdadef7f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ggml-org/llama.cpp\",\n  \"text_sha256\": \"83d8bdadef7f6d5f39487dff1774bfe43eef0bbd242e79c3b499bf87abcf09df\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/ggml-org/llama.cpp/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"83d8bdadef7f6d5f39487dff1774bfe43eef0bbd242e79c3b499bf87abcf09df\"\
+    ,\n      \"source_url_cell\": \"https://github.com/ggml-org/llama.cpp/blob/505b1ed15ca80e2a19f12ff4ac365e40fb374053/AGENTS.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: ggml-org__llama.cpp--other_policy--83d8bdadef7f.md
+  owner: NicolasH
+  risid: null
+name: ggml-org__llama.cpp--other_policy--83d8bdadef7f.md
+path: corpus/qda-case-141/159.txt

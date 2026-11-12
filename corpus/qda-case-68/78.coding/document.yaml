@@ -1,0 +1,50 @@
+hash: 91c90e7ae0870416aa181cd7455cde9d22668947169a9c2bb5fc36355c1c9291
+id: qda-source-78@qda-case-68
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 68
+    date: '2026-11-05 22:19:55'
+    fid: 78
+    id: 77
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 31293
+  content_sha256: 91c90e7ae0870416aa181cd7455cde9d22668947169a9c2bb5fc36355c1c9291
+  date: '2026-11-05 22:19:55'
+  id: 78
+  import_metadata:
+    conversion:
+      converted_sha256: 91c90e7ae0870416aa181cd7455cde9d22668947169a9c2bb5fc36355c1c9291
+      original_sha256: e3bd4b4c15133e0619a3c9be4359cca7159e96a900c88bf797d4dab11eb7cd02
+      version: oss-ai-policies/clean-markdown-v1
+    entity: LLVM
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: e3bd4b4c15133e0619a3c9be4359cca7159e96a900c88bf797d4dab11eb7cd02
+      path: data/281/policies/LLVM/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://llvm.org/docs/AIToolPolicy.html
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e3bd4b4c15133e0619a3c9be4359cca7159e96a900c88bf797d4dab11eb7cd02
+  mediapath: /docs/LLVM--ai_policy--e3bd4b4c1513.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    LLVM\",\n  \"text_sha256\": \"e3bd4b4c15133e0619a3c9be4359cca7159e96a900c88bf797d4dab11eb7cd02\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/LLVM/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"e3bd4b4c15133e0619a3c9be4359cca7159e96a900c88bf797d4dab11eb7cd02\"\
+    ,\n      \"source_url_cell\": \"https://llvm.org/docs/AIToolPolicy.html\",\n \
+    \     \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original retrieval\
+    \ date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown for\
+    \ coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\":\
+    \ \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"e3bd4b4c15133e0619a3c9be4359cca7159e96a900c88bf797d4dab11eb7cd02\"\
+    ,\n    \"converted_sha256\": \"91c90e7ae0870416aa181cd7455cde9d22668947169a9c2bb5fc36355c1c9291\"\
+    \n  }\n}"
+  name: LLVM--ai_policy--e3bd4b4c1513.md
+  owner: NicolasH
+  risid: null
+name: LLVM--ai_policy--e3bd4b4c1513.md
+path: corpus/qda-case-68/78.txt

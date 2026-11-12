@@ -1,0 +1,43 @@
+hash: 4011b1a0fc73272ddb545af9a0ead1e92d2a45b6a36a7169434784e7f84499c9
+id: qda-source-20@qda-case-15
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 15
+    date: '2026-11-05 22:19:55'
+    fid: 20
+    id: 19
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8877
+  content_sha256: 4011b1a0fc73272ddb545af9a0ead1e92d2a45b6a36a7169434784e7f84499c9
+  date: '2026-11-05 22:19:55'
+  id: 20
+  import_metadata:
+    entity: k3s-io/k3s
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 4011b1a0fc73272ddb545af9a0ead1e92d2a45b6a36a7169434784e7f84499c9
+      path: data/281/policies/k3s-io/k3s/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/k3s-io/k3s/blob/0cd872ed9b8d8da005d3b4cc87f84b31f99bec2d/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 4011b1a0fc73272ddb545af9a0ead1e92d2a45b6a36a7169434784e7f84499c9
+  mediapath: /docs/k3s-io__k3s--contributing--4011b1a0fc73.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    k3s-io/k3s\",\n  \"text_sha256\": \"4011b1a0fc73272ddb545af9a0ead1e92d2a45b6a36a7169434784e7f84499c9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/k3s-io/k3s/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"4011b1a0fc73272ddb545af9a0ead1e92d2a45b6a36a7169434784e7f84499c9\"\
+    ,\n      \"source_url_cell\": \"https://github.com/k3s-io/k3s/blob/0cd872ed9b8d8da005d3b4cc87f84b31f99bec2d/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: k3s-io__k3s--contributing--4011b1a0fc73.md
+  owner: NicolasH
+  risid: null
+name: k3s-io__k3s--contributing--4011b1a0fc73.md
+path: corpus/qda-case-15/20.txt

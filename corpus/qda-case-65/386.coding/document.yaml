@@ -1,0 +1,51 @@
+hash: 82f54c18aee58e6b7e819dc007743f8b43e1c5d50c23db90f532b80a02710bda
+id: qda-source-386@qda-case-65
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 65
+    date: '2026-11-05 22:19:55'
+    fid: 386
+    id: 386
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6623
+  content_sha256: 82f54c18aee58e6b7e819dc007743f8b43e1c5d50c23db90f532b80a02710bda
+  date: '2026-11-05 22:19:55'
+  id: 386
+  import_metadata:
+    entity: google/gvisor
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.483194+00:00'
+      id: corpus-065-purpose
+      original_file_sha256: 82f54c18aee58e6b7e819dc007743f8b43e1c5d50c23db90f532b80a02710bda
+      path: analysis/corpus-assessment/sources/corpus-065-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-065-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/google/gvisor/c30a6d1b6f26b353ca5d6ff5a288d96ed820e89c/README.md
+      role: purpose_statement_candidate
+      sha256: 82f54c18aee58e6b7e819dc007743f8b43e1c5d50c23db90f532b80a02710bda
+      url: https://github.com/google/gvisor/blob/c30a6d1b6f26b353ca5d6ff5a288d96ed820e89c/README.md
+      version: c30a6d1b6f26b353ca5d6ff5a288d96ed820e89c
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 82f54c18aee58e6b7e819dc007743f8b43e1c5d50c23db90f532b80a02710bda
+  mediapath: /docs/google__gvisor--purpose_statement_candidate--82f54c18aee5.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    google/gvisor\",\n  \"text_sha256\": \"82f54c18aee58e6b7e819dc007743f8b43e1c5d50c23db90f532b80a02710bda\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-065-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"82f54c18aee58e6b7e819dc007743f8b43e1c5d50c23db90f532b80a02710bda\",\n    \
+    \  \"id\": \"corpus-065-purpose\",\n      \"url\": \"https://github.com/google/gvisor/blob/c30a6d1b6f26b353ca5d6ff5a288d96ed820e89c/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/google/gvisor/c30a6d1b6f26b353ca5d6ff5a288d96ed820e89c/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:55.483194+00:00\",\n      \"version\"\
+    : \"c30a6d1b6f26b353ca5d6ff5a288d96ed820e89c\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-065-purpose.raw.md\"\
+    ,\n      \"sha256\": \"82f54c18aee58e6b7e819dc007743f8b43e1c5d50c23db90f532b80a02710bda\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: google__gvisor--purpose_statement_candidate--82f54c18aee5.md
+  owner: NicolasH
+  risid: null
+name: google__gvisor--purpose_statement_candidate--82f54c18aee5.md
+path: corpus/qda-case-65/386.txt

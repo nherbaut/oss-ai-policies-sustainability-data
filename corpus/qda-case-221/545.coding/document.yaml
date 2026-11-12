@@ -1,0 +1,58 @@
+hash: a1ce5b51f9b382c17b3742bcb445df260253f3486135a2ae09a4aa438bf1e789
+id: qda-source-545@qda-case-221
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 221
+    date: '2026-11-05 22:19:55'
+    fid: 545
+    id: 545
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12965
+  content_sha256: a1ce5b51f9b382c17b3742bcb445df260253f3486135a2ae09a4aa438bf1e789
+  date: '2026-11-05 22:19:55'
+  id: 545
+  import_metadata:
+    conversion:
+      converted_sha256: a1ce5b51f9b382c17b3742bcb445df260253f3486135a2ae09a4aa438bf1e789
+      original_sha256: da6a00e831b2b5fa5e370ac4448859cc3c8d2ae9c98c1ef2d287458fb3fc6fc5
+      version: oss-ai-policies/clean-markdown-v1
+    entity: alibaba/mnn
+    provenance:
+    - accessed_at: '2026-11-05T19:12:11.623451+00:00'
+      id: corpus-221-purpose
+      original_file_sha256: da6a00e831b2b5fa5e370ac4448859cc3c8d2ae9c98c1ef2d287458fb3fc6fc5
+      path: analysis/corpus-assessment/sources/corpus-221-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-221-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/alibaba/mnn/ea43f4924ed388c29fb4c32981a71dc37cb1debb/README.md
+      role: purpose_statement_candidate
+      sha256: da6a00e831b2b5fa5e370ac4448859cc3c8d2ae9c98c1ef2d287458fb3fc6fc5
+      url: https://github.com/alibaba/mnn/blob/ea43f4924ed388c29fb4c32981a71dc37cb1debb/README.md
+      version: ea43f4924ed388c29fb4c32981a71dc37cb1debb
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: da6a00e831b2b5fa5e370ac4448859cc3c8d2ae9c98c1ef2d287458fb3fc6fc5
+  mediapath: /docs/alibaba__mnn--purpose_statement_candidate--da6a00e831b2.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    alibaba/mnn\",\n  \"text_sha256\": \"da6a00e831b2b5fa5e370ac4448859cc3c8d2ae9c98c1ef2d287458fb3fc6fc5\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-221-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"da6a00e831b2b5fa5e370ac4448859cc3c8d2ae9c98c1ef2d287458fb3fc6fc5\",\n    \
+    \  \"id\": \"corpus-221-purpose\",\n      \"url\": \"https://github.com/alibaba/mnn/blob/ea43f4924ed388c29fb4c32981a71dc37cb1debb/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/alibaba/mnn/ea43f4924ed388c29fb4c32981a71dc37cb1debb/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:11.623451+00:00\",\n      \"version\"\
+    : \"ea43f4924ed388c29fb4c32981a71dc37cb1debb\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-221-purpose.raw.md\"\
+    ,\n      \"sha256\": \"da6a00e831b2b5fa5e370ac4448859cc3c8d2ae9c98c1ef2d287458fb3fc6fc5\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"da6a00e831b2b5fa5e370ac4448859cc3c8d2ae9c98c1ef2d287458fb3fc6fc5\"\
+    ,\n    \"converted_sha256\": \"a1ce5b51f9b382c17b3742bcb445df260253f3486135a2ae09a4aa438bf1e789\"\
+    \n  }\n}"
+  name: alibaba__mnn--purpose_statement_candidate--da6a00e831b2.md
+  owner: NicolasH
+  risid: null
+name: alibaba__mnn--purpose_statement_candidate--da6a00e831b2.md
+path: corpus/qda-case-221/545.txt

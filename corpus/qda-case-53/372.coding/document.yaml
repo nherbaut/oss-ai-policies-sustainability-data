@@ -1,0 +1,51 @@
+hash: 11f25c24642c25d6a3796ea192fbb6581efaafd25b4fa57c506b2a5b348e0900
+id: qda-source-372@qda-case-53
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 53
+    date: '2026-11-05 22:19:55'
+    fid: 372
+    id: 372
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6409
+  content_sha256: 11f25c24642c25d6a3796ea192fbb6581efaafd25b4fa57c506b2a5b348e0900
+  date: '2026-11-05 22:19:55'
+  id: 372
+  import_metadata:
+    entity: envoyproxy/envoy
+    provenance:
+    - accessed_at: '2026-11-05T19:11:54.094714+00:00'
+      id: corpus-053-purpose
+      original_file_sha256: 11f25c24642c25d6a3796ea192fbb6581efaafd25b4fa57c506b2a5b348e0900
+      path: analysis/corpus-assessment/sources/corpus-053-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-053-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/envoyproxy/envoy/03e2d9765658c375f749212c9f6c813a5f524674/README.md
+      role: purpose_statement_candidate
+      sha256: 11f25c24642c25d6a3796ea192fbb6581efaafd25b4fa57c506b2a5b348e0900
+      url: https://github.com/envoyproxy/envoy/blob/03e2d9765658c375f749212c9f6c813a5f524674/README.md
+      version: 03e2d9765658c375f749212c9f6c813a5f524674
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 11f25c24642c25d6a3796ea192fbb6581efaafd25b4fa57c506b2a5b348e0900
+  mediapath: /docs/envoyproxy__envoy--purpose_statement_candidate--11f25c24642c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    envoyproxy/envoy\",\n  \"text_sha256\": \"11f25c24642c25d6a3796ea192fbb6581efaafd25b4fa57c506b2a5b348e0900\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-053-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"11f25c24642c25d6a3796ea192fbb6581efaafd25b4fa57c506b2a5b348e0900\",\n    \
+    \  \"id\": \"corpus-053-purpose\",\n      \"url\": \"https://github.com/envoyproxy/envoy/blob/03e2d9765658c375f749212c9f6c813a5f524674/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/envoyproxy/envoy/03e2d9765658c375f749212c9f6c813a5f524674/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:54.094714+00:00\",\n      \"version\"\
+    : \"03e2d9765658c375f749212c9f6c813a5f524674\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-053-purpose.raw.md\"\
+    ,\n      \"sha256\": \"11f25c24642c25d6a3796ea192fbb6581efaafd25b4fa57c506b2a5b348e0900\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: envoyproxy__envoy--purpose_statement_candidate--11f25c24642c.md
+  owner: NicolasH
+  risid: null
+name: envoyproxy__envoy--purpose_statement_candidate--11f25c24642c.md
+path: corpus/qda-case-53/372.txt

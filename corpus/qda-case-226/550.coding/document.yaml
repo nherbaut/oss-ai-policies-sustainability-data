@@ -1,0 +1,58 @@
+hash: 55fce9ae7c12a6ba98c95edd6fb8c76600d246aa1126a6548a6f257391da0154
+id: qda-source-550@qda-case-226
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 226
+    date: '2026-11-05 22:19:55'
+    fid: 550
+    id: 550
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 15252
+  content_sha256: 55fce9ae7c12a6ba98c95edd6fb8c76600d246aa1126a6548a6f257391da0154
+  date: '2026-11-05 22:19:55'
+  id: 550
+  import_metadata:
+    conversion:
+      converted_sha256: 55fce9ae7c12a6ba98c95edd6fb8c76600d246aa1126a6548a6f257391da0154
+      original_sha256: a81cfa606150666cfee17932138dd3f9bbf0bf5e760d7d406bb3d9ca75138b73
+      version: oss-ai-policies/clean-markdown-v1
+    entity: tursodatabase/turso
+    provenance:
+    - accessed_at: '2026-11-05T19:12:12.582379+00:00'
+      id: corpus-226-purpose
+      original_file_sha256: a81cfa606150666cfee17932138dd3f9bbf0bf5e760d7d406bb3d9ca75138b73
+      path: analysis/corpus-assessment/sources/corpus-226-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-226-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/tursodatabase/turso/74c597ba1935b769a537e7413a150922ef102330/README.md
+      role: purpose_statement_candidate
+      sha256: a81cfa606150666cfee17932138dd3f9bbf0bf5e760d7d406bb3d9ca75138b73
+      url: https://github.com/tursodatabase/turso/blob/74c597ba1935b769a537e7413a150922ef102330/README.md
+      version: 74c597ba1935b769a537e7413a150922ef102330
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: a81cfa606150666cfee17932138dd3f9bbf0bf5e760d7d406bb3d9ca75138b73
+  mediapath: /docs/tursodatabase__turso--purpose_statement_candidate--a81cfa606150.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    tursodatabase/turso\",\n  \"text_sha256\": \"a81cfa606150666cfee17932138dd3f9bbf0bf5e760d7d406bb3d9ca75138b73\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-226-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"a81cfa606150666cfee17932138dd3f9bbf0bf5e760d7d406bb3d9ca75138b73\",\n    \
+    \  \"id\": \"corpus-226-purpose\",\n      \"url\": \"https://github.com/tursodatabase/turso/blob/74c597ba1935b769a537e7413a150922ef102330/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/tursodatabase/turso/74c597ba1935b769a537e7413a150922ef102330/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:12.582379+00:00\",\n      \"version\"\
+    : \"74c597ba1935b769a537e7413a150922ef102330\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-226-purpose.raw.md\"\
+    ,\n      \"sha256\": \"a81cfa606150666cfee17932138dd3f9bbf0bf5e760d7d406bb3d9ca75138b73\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"a81cfa606150666cfee17932138dd3f9bbf0bf5e760d7d406bb3d9ca75138b73\"\
+    ,\n    \"converted_sha256\": \"55fce9ae7c12a6ba98c95edd6fb8c76600d246aa1126a6548a6f257391da0154\"\
+    \n  }\n}"
+  name: tursodatabase__turso--purpose_statement_candidate--a81cfa606150.md
+  owner: NicolasH
+  risid: null
+name: tursodatabase__turso--purpose_statement_candidate--a81cfa606150.md
+path: corpus/qda-case-226/550.txt

@@ -1,0 +1,51 @@
+hash: fd6e191ca31259f9ef7b527a6007b23c0f3fe76857a7c32ff3939effa664eb66
+id: qda-source-454@qda-case-134
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 134
+    date: '2026-11-05 22:19:55'
+    fid: 454
+    id: 454
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2853
+  content_sha256: fd6e191ca31259f9ef7b527a6007b23c0f3fe76857a7c32ff3939effa664eb66
+  date: '2026-11-05 22:19:55'
+  id: 454
+  import_metadata:
+    entity: zed-industries/zed
+    provenance:
+    - accessed_at: '2026-11-05T19:12:01.780728+00:00'
+      id: corpus-134-purpose
+      original_file_sha256: fd6e191ca31259f9ef7b527a6007b23c0f3fe76857a7c32ff3939effa664eb66
+      path: analysis/corpus-assessment/sources/corpus-134-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-134-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/zed-industries/zed/1a246efd7e1b83ab568ec5e3e6c1a43a42e1abba/README.md
+      role: purpose_statement_candidate
+      sha256: fd6e191ca31259f9ef7b527a6007b23c0f3fe76857a7c32ff3939effa664eb66
+      url: https://github.com/zed-industries/zed/blob/1a246efd7e1b83ab568ec5e3e6c1a43a42e1abba/README.md
+      version: 1a246efd7e1b83ab568ec5e3e6c1a43a42e1abba
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: fd6e191ca31259f9ef7b527a6007b23c0f3fe76857a7c32ff3939effa664eb66
+  mediapath: /docs/zed-industries__zed--purpose_statement_candidate--fd6e191ca312.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    zed-industries/zed\",\n  \"text_sha256\": \"fd6e191ca31259f9ef7b527a6007b23c0f3fe76857a7c32ff3939effa664eb66\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-134-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"fd6e191ca31259f9ef7b527a6007b23c0f3fe76857a7c32ff3939effa664eb66\",\n    \
+    \  \"id\": \"corpus-134-purpose\",\n      \"url\": \"https://github.com/zed-industries/zed/blob/1a246efd7e1b83ab568ec5e3e6c1a43a42e1abba/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/zed-industries/zed/1a246efd7e1b83ab568ec5e3e6c1a43a42e1abba/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:01.780728+00:00\",\n      \"version\"\
+    : \"1a246efd7e1b83ab568ec5e3e6c1a43a42e1abba\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-134-purpose.raw.md\"\
+    ,\n      \"sha256\": \"fd6e191ca31259f9ef7b527a6007b23c0f3fe76857a7c32ff3939effa664eb66\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: zed-industries__zed--purpose_statement_candidate--fd6e191ca312.md
+  owner: NicolasH
+  risid: null
+name: zed-industries__zed--purpose_statement_candidate--fd6e191ca312.md
+path: corpus/qda-case-134/454.txt

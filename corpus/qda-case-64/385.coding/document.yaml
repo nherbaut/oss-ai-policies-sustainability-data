@@ -1,0 +1,58 @@
+hash: 9c683c9d6d13b3015fdc7bbcd375f2a415c153416d1b35334b74a171a68798b0
+id: qda-source-385@qda-case-64
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 64
+    date: '2026-11-05 22:19:55'
+    fid: 385
+    id: 385
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4362
+  content_sha256: 9c683c9d6d13b3015fdc7bbcd375f2a415c153416d1b35334b74a171a68798b0
+  date: '2026-11-05 22:19:55'
+  id: 385
+  import_metadata:
+    conversion:
+      converted_sha256: 9c683c9d6d13b3015fdc7bbcd375f2a415c153416d1b35334b74a171a68798b0
+      original_sha256: be81179a34098b624f4b538da1e5b9a34a03ea6725d4002106b7d95a157985aa
+      version: oss-ai-policies/clean-markdown-v1
+    entity: oxc-project/oxc
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.476858+00:00'
+      id: corpus-064-purpose
+      original_file_sha256: be81179a34098b624f4b538da1e5b9a34a03ea6725d4002106b7d95a157985aa
+      path: analysis/corpus-assessment/sources/corpus-064-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-064-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/oxc-project/oxc/589415c2b8754aa3c40524a178f10afcb0a74c6c/README.md
+      role: purpose_statement_candidate
+      sha256: be81179a34098b624f4b538da1e5b9a34a03ea6725d4002106b7d95a157985aa
+      url: https://github.com/oxc-project/oxc/blob/589415c2b8754aa3c40524a178f10afcb0a74c6c/README.md
+      version: 589415c2b8754aa3c40524a178f10afcb0a74c6c
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: be81179a34098b624f4b538da1e5b9a34a03ea6725d4002106b7d95a157985aa
+  mediapath: /docs/oxc-project__oxc--purpose_statement_candidate--be81179a3409.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    oxc-project/oxc\",\n  \"text_sha256\": \"be81179a34098b624f4b538da1e5b9a34a03ea6725d4002106b7d95a157985aa\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-064-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"be81179a34098b624f4b538da1e5b9a34a03ea6725d4002106b7d95a157985aa\",\n    \
+    \  \"id\": \"corpus-064-purpose\",\n      \"url\": \"https://github.com/oxc-project/oxc/blob/589415c2b8754aa3c40524a178f10afcb0a74c6c/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/oxc-project/oxc/589415c2b8754aa3c40524a178f10afcb0a74c6c/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:55.476858+00:00\",\n      \"version\"\
+    : \"589415c2b8754aa3c40524a178f10afcb0a74c6c\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-064-purpose.raw.md\"\
+    ,\n      \"sha256\": \"be81179a34098b624f4b538da1e5b9a34a03ea6725d4002106b7d95a157985aa\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"be81179a34098b624f4b538da1e5b9a34a03ea6725d4002106b7d95a157985aa\"\
+    ,\n    \"converted_sha256\": \"9c683c9d6d13b3015fdc7bbcd375f2a415c153416d1b35334b74a171a68798b0\"\
+    \n  }\n}"
+  name: oxc-project__oxc--purpose_statement_candidate--be81179a3409.md
+  owner: NicolasH
+  risid: null
+name: oxc-project__oxc--purpose_statement_candidate--be81179a3409.md
+path: corpus/qda-case-64/385.txt

@@ -1,0 +1,50 @@
+hash: 1fbb3b581c18d8fc51c645733277e71eae67c1a42cb7e6bfd492488128b208e6
+id: qda-source-37@qda-case-30
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 30
+    date: '2026-11-05 22:19:55'
+    fid: 37
+    id: 36
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12415
+  content_sha256: 1fbb3b581c18d8fc51c645733277e71eae67c1a42cb7e6bfd492488128b208e6
+  date: '2026-11-05 22:19:55'
+  id: 37
+  import_metadata:
+    conversion:
+      converted_sha256: 1fbb3b581c18d8fc51c645733277e71eae67c1a42cb7e6bfd492488128b208e6
+      original_sha256: a340805927e422c6cee42b3ab0a8d1bc2c1494dabe3b4b0f5f6e0f0e7c3d55c0
+      version: oss-ai-policies/clean-markdown-v1
+    entity: lynx-family/lynx
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: a340805927e422c6cee42b3ab0a8d1bc2c1494dabe3b4b0f5f6e0f0e7c3d55c0
+      path: data/281/policies/lynx-family/lynx/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/lynx-family/lynx/blob/659f2180e16e62e1eba9ec18d448e767d53d4abb/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: a340805927e422c6cee42b3ab0a8d1bc2c1494dabe3b4b0f5f6e0f0e7c3d55c0
+  mediapath: /docs/lynx-family__lynx--contributing--a340805927e4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    lynx-family/lynx\",\n  \"text_sha256\": \"a340805927e422c6cee42b3ab0a8d1bc2c1494dabe3b4b0f5f6e0f0e7c3d55c0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/lynx-family/lynx/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"a340805927e422c6cee42b3ab0a8d1bc2c1494dabe3b4b0f5f6e0f0e7c3d55c0\"\
+    ,\n      \"source_url_cell\": \"https://github.com/lynx-family/lynx/blob/659f2180e16e62e1eba9ec18d448e767d53d4abb/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"a340805927e422c6cee42b3ab0a8d1bc2c1494dabe3b4b0f5f6e0f0e7c3d55c0\"\
+    ,\n    \"converted_sha256\": \"1fbb3b581c18d8fc51c645733277e71eae67c1a42cb7e6bfd492488128b208e6\"\
+    \n  }\n}"
+  name: lynx-family__lynx--contributing--a340805927e4.md
+  owner: NicolasH
+  risid: null
+name: lynx-family__lynx--contributing--a340805927e4.md
+path: corpus/qda-case-30/37.txt

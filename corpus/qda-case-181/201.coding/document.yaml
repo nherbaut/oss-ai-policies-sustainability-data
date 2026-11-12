@@ -1,0 +1,43 @@
+hash: 8a96fd46a2d19b2a4fe91e60f4ae38fc44a5e5506ef9b884585f4e819a707e7d
+id: qda-source-201@qda-case-181
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 181
+    date: '2026-11-05 22:19:55'
+    fid: 201
+    id: 200
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3036
+  content_sha256: 8a96fd46a2d19b2a4fe91e60f4ae38fc44a5e5506ef9b884585f4e819a707e7d
+  date: '2026-11-05 22:19:55'
+  id: 201
+  import_metadata:
+    entity: go-delve/delve
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 8a96fd46a2d19b2a4fe91e60f4ae38fc44a5e5506ef9b884585f4e819a707e7d
+      path: data/281/policies/go-delve/delve/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/go-delve/delve/blob/a1a708f3dc4a53946f44871c8629ad86b75bceac/Documentation/AI/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 8a96fd46a2d19b2a4fe91e60f4ae38fc44a5e5506ef9b884585f4e819a707e7d
+  mediapath: /docs/go-delve__delve--ai_policy--8a96fd46a2d1.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    go-delve/delve\",\n  \"text_sha256\": \"8a96fd46a2d19b2a4fe91e60f4ae38fc44a5e5506ef9b884585f4e819a707e7d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/go-delve/delve/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"8a96fd46a2d19b2a4fe91e60f4ae38fc44a5e5506ef9b884585f4e819a707e7d\"\
+    ,\n      \"source_url_cell\": \"https://github.com/go-delve/delve/blob/a1a708f3dc4a53946f44871c8629ad86b75bceac/Documentation/AI/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: go-delve__delve--ai_policy--8a96fd46a2d1.md
+  owner: NicolasH
+  risid: null
+name: go-delve__delve--ai_policy--8a96fd46a2d1.md
+path: corpus/qda-case-181/201.txt

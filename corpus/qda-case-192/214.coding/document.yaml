@@ -1,0 +1,43 @@
+hash: 2589610263d8729fc5722a04b5e49ccd528b186bae12d301a1caf239315f582b
+id: qda-source-214@qda-case-192
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 192
+    date: '2026-11-05 22:19:55'
+    fid: 214
+    id: 213
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 38606
+  content_sha256: 2589610263d8729fc5722a04b5e49ccd528b186bae12d301a1caf239315f582b
+  date: '2026-11-05 22:19:55'
+  id: 214
+  import_metadata:
+    entity: yt-dlp/yt-dlp
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 2589610263d8729fc5722a04b5e49ccd528b186bae12d301a1caf239315f582b
+      path: data/281/policies/yt-dlp/yt-dlp/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/yt-dlp/yt-dlp/blob/aefce1eea4d0b6bab1ec2bd3beff09bff91a39c8/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 2589610263d8729fc5722a04b5e49ccd528b186bae12d301a1caf239315f582b
+  mediapath: /docs/yt-dlp__yt-dlp--contributing--2589610263d8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    yt-dlp/yt-dlp\",\n  \"text_sha256\": \"2589610263d8729fc5722a04b5e49ccd528b186bae12d301a1caf239315f582b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/yt-dlp/yt-dlp/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"2589610263d8729fc5722a04b5e49ccd528b186bae12d301a1caf239315f582b\"\
+    ,\n      \"source_url_cell\": \"https://github.com/yt-dlp/yt-dlp/blob/aefce1eea4d0b6bab1ec2bd3beff09bff91a39c8/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: yt-dlp__yt-dlp--contributing--2589610263d8.md
+  owner: NicolasH
+  risid: null
+name: yt-dlp__yt-dlp--contributing--2589610263d8.md
+path: corpus/qda-case-192/214.txt

@@ -1,0 +1,43 @@
+hash: cebe7b96357a3ecad75c6d060bfd6ed212d482dd42b1b0de59be6eaac0945ce6
+id: qda-source-211@qda-case-190
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 190
+    date: '2026-11-05 22:19:55'
+    fid: 211
+    id: 210
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1961
+  content_sha256: cebe7b96357a3ecad75c6d060bfd6ed212d482dd42b1b0de59be6eaac0945ce6
+  date: '2026-11-05 22:19:55'
+  id: 211
+  import_metadata:
+    entity: icsharpcode/ilspy
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: cebe7b96357a3ecad75c6d060bfd6ed212d482dd42b1b0de59be6eaac0945ce6
+      path: data/281/policies/icsharpcode/ilspy/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/icsharpcode/ilspy/blob/b888153f24357e4a0b475819bfb05c8c6c06cd0a/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: cebe7b96357a3ecad75c6d060bfd6ed212d482dd42b1b0de59be6eaac0945ce6
+  mediapath: /docs/icsharpcode__ilspy--contributing--cebe7b96357a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    icsharpcode/ilspy\",\n  \"text_sha256\": \"cebe7b96357a3ecad75c6d060bfd6ed212d482dd42b1b0de59be6eaac0945ce6\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/icsharpcode/ilspy/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"cebe7b96357a3ecad75c6d060bfd6ed212d482dd42b1b0de59be6eaac0945ce6\"\
+    ,\n      \"source_url_cell\": \"https://github.com/icsharpcode/ilspy/blob/b888153f24357e4a0b475819bfb05c8c6c06cd0a/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: icsharpcode__ilspy--contributing--cebe7b96357a.md
+  owner: NicolasH
+  risid: null
+name: icsharpcode__ilspy--contributing--cebe7b96357a.md
+path: corpus/qda-case-190/211.txt

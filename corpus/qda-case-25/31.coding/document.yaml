@@ -1,0 +1,50 @@
+hash: b7c38647aa8ccd66e8302a215f15df7c4b14ce810679f990fde0f6079883a457
+id: qda-source-31@qda-case-25
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 25
+    date: '2026-11-05 22:19:55'
+    fid: 31
+    id: 30
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10635
+  content_sha256: b7c38647aa8ccd66e8302a215f15df7c4b14ce810679f990fde0f6079883a457
+  date: '2026-11-05 22:19:55'
+  id: 31
+  import_metadata:
+    conversion:
+      converted_sha256: b7c38647aa8ccd66e8302a215f15df7c4b14ce810679f990fde0f6079883a457
+      original_sha256: cac558a6c188150e18778123e5145f33a05646a8b28187cc216626454ede91cf
+      version: oss-ai-policies/clean-markdown-v1
+    entity: apache/kafka
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: cac558a6c188150e18778123e5145f33a05646a8b28187cc216626454ede91cf
+      path: data/281/policies/apache/kafka/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://www.apache.org/legal/generative-tooling.html
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: cac558a6c188150e18778123e5145f33a05646a8b28187cc216626454ede91cf
+  mediapath: /docs/apache__kafka--other_policy--cac558a6c188.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    apache/kafka\",\n  \"text_sha256\": \"cac558a6c188150e18778123e5145f33a05646a8b28187cc216626454ede91cf\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/apache/kafka/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"cac558a6c188150e18778123e5145f33a05646a8b28187cc216626454ede91cf\"\
+    ,\n      \"source_url_cell\": \"https://www.apache.org/legal/generative-tooling.html\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"cac558a6c188150e18778123e5145f33a05646a8b28187cc216626454ede91cf\"\
+    ,\n    \"converted_sha256\": \"b7c38647aa8ccd66e8302a215f15df7c4b14ce810679f990fde0f6079883a457\"\
+    \n  }\n}"
+  name: apache__kafka--other_policy--cac558a6c188.md
+  owner: NicolasH
+  risid: null
+name: apache__kafka--other_policy--cac558a6c188.md
+path: corpus/qda-case-25/31.txt

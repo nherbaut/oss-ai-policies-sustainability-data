@@ -1,0 +1,58 @@
+hash: c54bae84433f8f3a4340f818db7c0b1ed019ebafe15d87eb4ad1d27202083cd2
+id: qda-source-471@qda-case-151
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 151
+    date: '2026-11-05 22:19:55'
+    fid: 471
+    id: 471
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 21011
+  content_sha256: c54bae84433f8f3a4340f818db7c0b1ed019ebafe15d87eb4ad1d27202083cd2
+  date: '2026-11-05 22:19:55'
+  id: 471
+  import_metadata:
+    conversion:
+      converted_sha256: c54bae84433f8f3a4340f818db7c0b1ed019ebafe15d87eb4ad1d27202083cd2
+      original_sha256: 40f47db51c7800b47fdd128aa2871faf00bfe31d6fc4f0b7b537938efa353372
+      version: oss-ai-policies/clean-markdown-v1
+    entity: shap/shap
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.388004+00:00'
+      id: corpus-151-purpose
+      original_file_sha256: 40f47db51c7800b47fdd128aa2871faf00bfe31d6fc4f0b7b537938efa353372
+      path: analysis/corpus-assessment/sources/corpus-151-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-151-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/shap/shap/846f28c79ad0ca40044bc31703a4fccbe8fcaf17/README.md
+      role: purpose_statement_candidate
+      sha256: 40f47db51c7800b47fdd128aa2871faf00bfe31d6fc4f0b7b537938efa353372
+      url: https://github.com/shap/shap/blob/846f28c79ad0ca40044bc31703a4fccbe8fcaf17/README.md
+      version: 846f28c79ad0ca40044bc31703a4fccbe8fcaf17
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 40f47db51c7800b47fdd128aa2871faf00bfe31d6fc4f0b7b537938efa353372
+  mediapath: /docs/shap__shap--purpose_statement_candidate--40f47db51c78.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    shap/shap\",\n  \"text_sha256\": \"40f47db51c7800b47fdd128aa2871faf00bfe31d6fc4f0b7b537938efa353372\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-151-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"40f47db51c7800b47fdd128aa2871faf00bfe31d6fc4f0b7b537938efa353372\",\n    \
+    \  \"id\": \"corpus-151-purpose\",\n      \"url\": \"https://github.com/shap/shap/blob/846f28c79ad0ca40044bc31703a4fccbe8fcaf17/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/shap/shap/846f28c79ad0ca40044bc31703a4fccbe8fcaf17/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.388004+00:00\",\n      \"version\"\
+    : \"846f28c79ad0ca40044bc31703a4fccbe8fcaf17\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-151-purpose.raw.md\"\
+    ,\n      \"sha256\": \"40f47db51c7800b47fdd128aa2871faf00bfe31d6fc4f0b7b537938efa353372\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"40f47db51c7800b47fdd128aa2871faf00bfe31d6fc4f0b7b537938efa353372\"\
+    ,\n    \"converted_sha256\": \"c54bae84433f8f3a4340f818db7c0b1ed019ebafe15d87eb4ad1d27202083cd2\"\
+    \n  }\n}"
+  name: shap__shap--purpose_statement_candidate--40f47db51c78.md
+  owner: NicolasH
+  risid: null
+name: shap__shap--purpose_statement_candidate--40f47db51c78.md
+path: corpus/qda-case-151/471.txt

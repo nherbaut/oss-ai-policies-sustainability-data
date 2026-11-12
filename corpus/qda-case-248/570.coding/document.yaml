@@ -1,0 +1,58 @@
+hash: 55f6acb4c6411631464a3868b77e6a916972602411b5ea1995a5ba822b84f197
+id: qda-source-570@qda-case-248
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 248
+    date: '2026-11-05 22:19:55'
+    fid: 570
+    id: 570
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7549
+  content_sha256: 55f6acb4c6411631464a3868b77e6a916972602411b5ea1995a5ba822b84f197
+  date: '2026-11-05 22:19:55'
+  id: 570
+  import_metadata:
+    conversion:
+      converted_sha256: 55f6acb4c6411631464a3868b77e6a916972602411b5ea1995a5ba822b84f197
+      original_sha256: fa1eaa9205eb9cbe69e5ec8304a78303dfe7de986b1e5a928a3402d42c1bc715
+      version: oss-ai-policies/clean-markdown-v1
+    entity: getmaxun/maxun
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.488818+00:00'
+      id: corpus-248-purpose
+      original_file_sha256: fa1eaa9205eb9cbe69e5ec8304a78303dfe7de986b1e5a928a3402d42c1bc715
+      path: analysis/corpus-assessment/sources/corpus-248-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-248-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/getmaxun/maxun/ca3138a2dbc81564d16d1cf1beca2b52bef96104/README.md
+      role: purpose_statement_candidate
+      sha256: fa1eaa9205eb9cbe69e5ec8304a78303dfe7de986b1e5a928a3402d42c1bc715
+      url: https://github.com/getmaxun/maxun/blob/ca3138a2dbc81564d16d1cf1beca2b52bef96104/README.md
+      version: ca3138a2dbc81564d16d1cf1beca2b52bef96104
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: fa1eaa9205eb9cbe69e5ec8304a78303dfe7de986b1e5a928a3402d42c1bc715
+  mediapath: /docs/getmaxun__maxun--purpose_statement_candidate--fa1eaa9205eb.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    getmaxun/maxun\",\n  \"text_sha256\": \"fa1eaa9205eb9cbe69e5ec8304a78303dfe7de986b1e5a928a3402d42c1bc715\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-248-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"fa1eaa9205eb9cbe69e5ec8304a78303dfe7de986b1e5a928a3402d42c1bc715\",\n    \
+    \  \"id\": \"corpus-248-purpose\",\n      \"url\": \"https://github.com/getmaxun/maxun/blob/ca3138a2dbc81564d16d1cf1beca2b52bef96104/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/getmaxun/maxun/ca3138a2dbc81564d16d1cf1beca2b52bef96104/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.488818+00:00\",\n      \"version\"\
+    : \"ca3138a2dbc81564d16d1cf1beca2b52bef96104\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-248-purpose.raw.md\"\
+    ,\n      \"sha256\": \"fa1eaa9205eb9cbe69e5ec8304a78303dfe7de986b1e5a928a3402d42c1bc715\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"fa1eaa9205eb9cbe69e5ec8304a78303dfe7de986b1e5a928a3402d42c1bc715\"\
+    ,\n    \"converted_sha256\": \"55f6acb4c6411631464a3868b77e6a916972602411b5ea1995a5ba822b84f197\"\
+    \n  }\n}"
+  name: getmaxun__maxun--purpose_statement_candidate--fa1eaa9205eb.md
+  owner: NicolasH
+  risid: null
+name: getmaxun__maxun--purpose_statement_candidate--fa1eaa9205eb.md
+path: corpus/qda-case-248/570.txt

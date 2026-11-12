@@ -1,0 +1,58 @@
+hash: cbb490cb871dedf51b0f72899826fb79c5504f1afcd6601c0f1552aa945a08ad
+id: qda-source-406@qda-case-83
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 83
+    date: '2026-11-05 22:19:55'
+    fid: 406
+    id: 406
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 24507
+  content_sha256: cbb490cb871dedf51b0f72899826fb79c5504f1afcd6601c0f1552aa945a08ad
+  date: '2026-11-05 22:19:55'
+  id: 406
+  import_metadata:
+    conversion:
+      converted_sha256: cbb490cb871dedf51b0f72899826fb79c5504f1afcd6601c0f1552aa945a08ad
+      original_sha256: f1860bae6d6ff1f331b98e85e36b0c9672e94837c16d67fa112aed618c5903a1
+      version: oss-ai-policies/clean-markdown-v1
+    entity: astral-sh/ruff
+    provenance:
+    - accessed_at: '2026-11-05T19:11:57.078822+00:00'
+      id: corpus-083-purpose
+      original_file_sha256: f1860bae6d6ff1f331b98e85e36b0c9672e94837c16d67fa112aed618c5903a1
+      path: analysis/corpus-assessment/sources/corpus-083-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-083-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/astral-sh/ruff/29344141c46abeb9fa0c01f3159f8b8b45bff58e/README.md
+      role: purpose_statement_candidate
+      sha256: f1860bae6d6ff1f331b98e85e36b0c9672e94837c16d67fa112aed618c5903a1
+      url: https://github.com/astral-sh/ruff/blob/29344141c46abeb9fa0c01f3159f8b8b45bff58e/README.md
+      version: 29344141c46abeb9fa0c01f3159f8b8b45bff58e
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: f1860bae6d6ff1f331b98e85e36b0c9672e94837c16d67fa112aed618c5903a1
+  mediapath: /docs/astral-sh__ruff--purpose_statement_candidate--f1860bae6d6f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    astral-sh/ruff\",\n  \"text_sha256\": \"f1860bae6d6ff1f331b98e85e36b0c9672e94837c16d67fa112aed618c5903a1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-083-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"f1860bae6d6ff1f331b98e85e36b0c9672e94837c16d67fa112aed618c5903a1\",\n    \
+    \  \"id\": \"corpus-083-purpose\",\n      \"url\": \"https://github.com/astral-sh/ruff/blob/29344141c46abeb9fa0c01f3159f8b8b45bff58e/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/astral-sh/ruff/29344141c46abeb9fa0c01f3159f8b8b45bff58e/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:57.078822+00:00\",\n      \"version\"\
+    : \"29344141c46abeb9fa0c01f3159f8b8b45bff58e\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-083-purpose.raw.md\"\
+    ,\n      \"sha256\": \"f1860bae6d6ff1f331b98e85e36b0c9672e94837c16d67fa112aed618c5903a1\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"f1860bae6d6ff1f331b98e85e36b0c9672e94837c16d67fa112aed618c5903a1\"\
+    ,\n    \"converted_sha256\": \"cbb490cb871dedf51b0f72899826fb79c5504f1afcd6601c0f1552aa945a08ad\"\
+    \n  }\n}"
+  name: astral-sh__ruff--purpose_statement_candidate--f1860bae6d6f.md
+  owner: NicolasH
+  risid: null
+name: astral-sh__ruff--purpose_statement_candidate--f1860bae6d6f.md
+path: corpus/qda-case-83/406.txt

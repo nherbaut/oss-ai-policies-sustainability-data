@@ -1,0 +1,51 @@
+hash: 57c791a2530773f0c26369402ac46d1e33cd4795b5dd6115457e4d2ce392ace4
+id: qda-source-377@qda-case-58
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 58
+    date: '2026-11-05 22:19:55'
+    fid: 377
+    id: 377
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 19827
+  content_sha256: 57c791a2530773f0c26369402ac46d1e33cd4795b5dd6115457e4d2ce392ace4
+  date: '2026-11-05 22:19:55'
+  id: 377
+  import_metadata:
+    entity: actualbudget/actual
+    provenance:
+    - accessed_at: '2026-11-05T19:11:54.792746+00:00'
+      id: corpus-058-other_policy-1
+      original_file_sha256: 57c791a2530773f0c26369402ac46d1e33cd4795b5dd6115457e4d2ce392ace4
+      path: analysis/corpus-assessment/sources/corpus-058-other_policy-1.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-058-other_policy-1.raw.md
+      resolved_url: https://raw.githubusercontent.com/actualbudget/actual/master/AGENTS.md
+      role: supplementary_policy
+      sha256: 57c791a2530773f0c26369402ac46d1e33cd4795b5dd6115457e4d2ce392ace4
+      url: https://github.com/actualbudget/actual/blob/master/AGENTS.md
+      version: master
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 57c791a2530773f0c26369402ac46d1e33cd4795b5dd6115457e4d2ce392ace4
+  mediapath: /docs/actualbudget__actual--supplementary_policy--57c791a25307.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    actualbudget/actual\",\n  \"text_sha256\": \"57c791a2530773f0c26369402ac46d1e33cd4795b5dd6115457e4d2ce392ace4\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-058-other_policy-1.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"57c791a2530773f0c26369402ac46d1e33cd4795b5dd6115457e4d2ce392ace4\",\n    \
+    \  \"id\": \"corpus-058-other_policy-1\",\n      \"url\": \"https://github.com/actualbudget/actual/blob/master/AGENTS.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/actualbudget/actual/master/AGENTS.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:54.792746+00:00\",\n      \"version\"\
+    : \"master\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-058-other_policy-1.raw.md\"\
+    ,\n      \"sha256\": \"57c791a2530773f0c26369402ac46d1e33cd4795b5dd6115457e4d2ce392ace4\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: actualbudget__actual--supplementary_policy--57c791a25307.md
+  owner: NicolasH
+  risid: null
+name: actualbudget__actual--supplementary_policy--57c791a25307.md
+path: corpus/qda-case-58/377.txt

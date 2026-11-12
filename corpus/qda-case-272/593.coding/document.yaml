@@ -1,0 +1,58 @@
+hash: 28007c8653d5c61b67b44d8cc5a57c49a1593927fb403636bb81c10d80b4ec20
+id: qda-source-593@qda-case-272
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 272
+    date: '2026-11-05 22:19:55'
+    fid: 593
+    id: 593
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4725
+  content_sha256: 28007c8653d5c61b67b44d8cc5a57c49a1593927fb403636bb81c10d80b4ec20
+  date: '2026-11-05 22:19:55'
+  id: 593
+  import_metadata:
+    conversion:
+      converted_sha256: 28007c8653d5c61b67b44d8cc5a57c49a1593927fb403636bb81c10d80b4ec20
+      original_sha256: 400890a3082e225c440561825270a911cd7df90a9f64f85166aed330201e50ba
+      version: oss-ai-policies/clean-markdown-v1
+    entity: anomalyco/opencode
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.371298+00:00'
+      id: corpus-272-purpose
+      original_file_sha256: 400890a3082e225c440561825270a911cd7df90a9f64f85166aed330201e50ba
+      path: analysis/corpus-assessment/sources/corpus-272-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-272-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/anomalyco/opencode/888c4cb50476aaecaad48e6a448759da3040ed2e/README.md
+      role: purpose_statement_candidate
+      sha256: 400890a3082e225c440561825270a911cd7df90a9f64f85166aed330201e50ba
+      url: https://github.com/anomalyco/opencode/blob/888c4cb50476aaecaad48e6a448759da3040ed2e/README.md
+      version: 888c4cb50476aaecaad48e6a448759da3040ed2e
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 400890a3082e225c440561825270a911cd7df90a9f64f85166aed330201e50ba
+  mediapath: /docs/anomalyco__opencode--purpose_statement_candidate--400890a3082e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    anomalyco/opencode\",\n  \"text_sha256\": \"400890a3082e225c440561825270a911cd7df90a9f64f85166aed330201e50ba\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-272-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"400890a3082e225c440561825270a911cd7df90a9f64f85166aed330201e50ba\",\n    \
+    \  \"id\": \"corpus-272-purpose\",\n      \"url\": \"https://github.com/anomalyco/opencode/blob/888c4cb50476aaecaad48e6a448759da3040ed2e/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/anomalyco/opencode/888c4cb50476aaecaad48e6a448759da3040ed2e/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:16.371298+00:00\",\n      \"version\"\
+    : \"888c4cb50476aaecaad48e6a448759da3040ed2e\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-272-purpose.raw.md\"\
+    ,\n      \"sha256\": \"400890a3082e225c440561825270a911cd7df90a9f64f85166aed330201e50ba\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"400890a3082e225c440561825270a911cd7df90a9f64f85166aed330201e50ba\"\
+    ,\n    \"converted_sha256\": \"28007c8653d5c61b67b44d8cc5a57c49a1593927fb403636bb81c10d80b4ec20\"\
+    \n  }\n}"
+  name: anomalyco__opencode--purpose_statement_candidate--400890a3082e.md
+  owner: NicolasH
+  risid: null
+name: anomalyco__opencode--purpose_statement_candidate--400890a3082e.md
+path: corpus/qda-case-272/593.txt

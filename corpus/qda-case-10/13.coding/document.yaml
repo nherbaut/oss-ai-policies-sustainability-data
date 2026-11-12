@@ -1,0 +1,43 @@
+hash: ee33ff8ac41d73a4e09336620ece17e8b89d67b8b9694b9627e2cf99878dc115
+id: qda-source-13@qda-case-10
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 10
+    date: '2026-11-05 22:19:55'
+    fid: 13
+    id: 12
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2284
+  content_sha256: ee33ff8ac41d73a4e09336620ece17e8b89d67b8b9694b9627e2cf99878dc115
+  date: '2026-11-05 22:19:55'
+  id: 13
+  import_metadata:
+    entity: Forgejo
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: ee33ff8ac41d73a4e09336620ece17e8b89d67b8b9694b9627e2cf99878dc115
+      path: data/281/policies/Forgejo/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://codeberg.org/forgejo/governance/src/branch/main/AIAgreement.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: ee33ff8ac41d73a4e09336620ece17e8b89d67b8b9694b9627e2cf99878dc115
+  mediapath: /docs/Forgejo--ai_policy--ee33ff8ac41d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Forgejo\",\n  \"text_sha256\": \"ee33ff8ac41d73a4e09336620ece17e8b89d67b8b9694b9627e2cf99878dc115\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Forgejo/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"ee33ff8ac41d73a4e09336620ece17e8b89d67b8b9694b9627e2cf99878dc115\"\
+    ,\n      \"source_url_cell\": \"https://codeberg.org/forgejo/governance/src/branch/main/AIAgreement.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: Forgejo--ai_policy--ee33ff8ac41d.md
+  owner: NicolasH
+  risid: null
+name: Forgejo--ai_policy--ee33ff8ac41d.md
+path: corpus/qda-case-10/13.txt

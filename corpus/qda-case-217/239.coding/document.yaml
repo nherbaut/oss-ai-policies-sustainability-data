@@ -1,0 +1,43 @@
+hash: 2058a428799a8601122da165baa168420ec7db3718e509e7a6bd9329d76bf2e8
+id: qda-source-239@qda-case-217
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 217
+    date: '2026-11-05 22:19:55'
+    fid: 239
+    id: 238
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4602
+  content_sha256: 2058a428799a8601122da165baa168420ec7db3718e509e7a6bd9329d76bf2e8
+  date: '2026-11-05 22:19:55'
+  id: 239
+  import_metadata:
+    entity: 9001/copyparty
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 2058a428799a8601122da165baa168420ec7db3718e509e7a6bd9329d76bf2e8
+      path: data/281/policies/9001/copyparty/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/9001/copyparty/blob/5952401815eab89d0ccfc7f29052940274bc8233/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 2058a428799a8601122da165baa168420ec7db3718e509e7a6bd9329d76bf2e8
+  mediapath: /docs/9001__copyparty--contributing--2058a428799a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    9001/copyparty\",\n  \"text_sha256\": \"2058a428799a8601122da165baa168420ec7db3718e509e7a6bd9329d76bf2e8\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/9001/copyparty/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"2058a428799a8601122da165baa168420ec7db3718e509e7a6bd9329d76bf2e8\"\
+    ,\n      \"source_url_cell\": \"https://github.com/9001/copyparty/blob/5952401815eab89d0ccfc7f29052940274bc8233/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: 9001__copyparty--contributing--2058a428799a.md
+  owner: NicolasH
+  risid: null
+name: 9001__copyparty--contributing--2058a428799a.md
+path: corpus/qda-case-217/239.txt

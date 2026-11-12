@@ -1,0 +1,43 @@
+hash: 76af0460ee1273f27696b924ee33af011bb72a498b7abcbee5e072596543b8af
+id: qda-source-98@qda-case-86
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 86
+    date: '2026-11-05 22:19:55'
+    fid: 98
+    id: 97
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2500
+  content_sha256: 76af0460ee1273f27696b924ee33af011bb72a498b7abcbee5e072596543b8af
+  date: '2026-11-05 22:19:55'
+  id: 98
+  import_metadata:
+    entity: reactivex/rxjava
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 76af0460ee1273f27696b924ee33af011bb72a498b7abcbee5e072596543b8af
+      path: data/281/policies/reactivex/rxjava/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/reactivex/rxjava/blob/6915226894f46c3dc1bdcd6bc3734c7c95af9536/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 76af0460ee1273f27696b924ee33af011bb72a498b7abcbee5e072596543b8af
+  mediapath: /docs/reactivex__rxjava--contributing--76af0460ee12.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    reactivex/rxjava\",\n  \"text_sha256\": \"76af0460ee1273f27696b924ee33af011bb72a498b7abcbee5e072596543b8af\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/reactivex/rxjava/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"76af0460ee1273f27696b924ee33af011bb72a498b7abcbee5e072596543b8af\"\
+    ,\n      \"source_url_cell\": \"https://github.com/reactivex/rxjava/blob/6915226894f46c3dc1bdcd6bc3734c7c95af9536/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: reactivex__rxjava--contributing--76af0460ee12.md
+  owner: NicolasH
+  risid: null
+name: reactivex__rxjava--contributing--76af0460ee12.md
+path: corpus/qda-case-86/98.txt

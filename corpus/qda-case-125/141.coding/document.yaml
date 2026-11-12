@@ -1,0 +1,43 @@
+hash: 86a40f7eb792844bb5939b71cc9729356e2cd3c0a6519945138e05397506b886
+id: qda-source-141@qda-case-125
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 125
+    date: '2026-11-05 22:19:55'
+    fid: 141
+    id: 140
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2989
+  content_sha256: 86a40f7eb792844bb5939b71cc9729356e2cd3c0a6519945138e05397506b886
+  date: '2026-11-05 22:19:55'
+  id: 141
+  import_metadata:
+    entity: ghostty-org/ghostty
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 86a40f7eb792844bb5939b71cc9729356e2cd3c0a6519945138e05397506b886
+      path: data/281/policies/ghostty-org/ghostty/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/ghostty-org/ghostty/blob/b0947378349eff70f7030dda0e6d022fae1e6fbd/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 86a40f7eb792844bb5939b71cc9729356e2cd3c0a6519945138e05397506b886
+  mediapath: /docs/ghostty-org__ghostty--ai_policy--86a40f7eb792.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ghostty-org/ghostty\",\n  \"text_sha256\": \"86a40f7eb792844bb5939b71cc9729356e2cd3c0a6519945138e05397506b886\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/ghostty-org/ghostty/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"86a40f7eb792844bb5939b71cc9729356e2cd3c0a6519945138e05397506b886\"\
+    ,\n      \"source_url_cell\": \"https://github.com/ghostty-org/ghostty/blob/b0947378349eff70f7030dda0e6d022fae1e6fbd/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: ghostty-org__ghostty--ai_policy--86a40f7eb792.md
+  owner: NicolasH
+  risid: null
+name: ghostty-org__ghostty--ai_policy--86a40f7eb792.md
+path: corpus/qda-case-125/141.txt

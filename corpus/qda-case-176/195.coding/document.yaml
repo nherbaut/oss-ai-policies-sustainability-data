@@ -1,0 +1,43 @@
+hash: 6ada4aeb585e7cc3751541466f89c8f7d87754f86704e705af0a817642d2647e
+id: qda-source-195@qda-case-176
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 176
+    date: '2026-11-05 22:19:55'
+    fid: 195
+    id: 194
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2187
+  content_sha256: 6ada4aeb585e7cc3751541466f89c8f7d87754f86704e705af0a817642d2647e
+  date: '2026-11-05 22:19:55'
+  id: 195
+  import_metadata:
+    entity: vscodium/vscodium
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 6ada4aeb585e7cc3751541466f89c8f7d87754f86704e705af0a817642d2647e
+      path: data/281/policies/vscodium/vscodium/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/vscodium/vscodium/blob/12b08023848522f884b04173ac0894849dd9fa05/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 6ada4aeb585e7cc3751541466f89c8f7d87754f86704e705af0a817642d2647e
+  mediapath: /docs/vscodium__vscodium--contributing--6ada4aeb585e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    vscodium/vscodium\",\n  \"text_sha256\": \"6ada4aeb585e7cc3751541466f89c8f7d87754f86704e705af0a817642d2647e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/vscodium/vscodium/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"6ada4aeb585e7cc3751541466f89c8f7d87754f86704e705af0a817642d2647e\"\
+    ,\n      \"source_url_cell\": \"https://github.com/vscodium/vscodium/blob/12b08023848522f884b04173ac0894849dd9fa05/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: vscodium__vscodium--contributing--6ada4aeb585e.md
+  owner: NicolasH
+  risid: null
+name: vscodium__vscodium--contributing--6ada4aeb585e.md
+path: corpus/qda-case-176/195.txt

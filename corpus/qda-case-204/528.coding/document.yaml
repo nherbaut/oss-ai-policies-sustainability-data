@@ -1,0 +1,58 @@
+hash: 81c21a2403b0e9f0d28ef66e937a9d5a5b8713acd687c783d5be9262d42045ed
+id: qda-source-528@qda-case-204
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 204
+    date: '2026-11-05 22:19:55'
+    fid: 528
+    id: 528
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7587
+  content_sha256: 81c21a2403b0e9f0d28ef66e937a9d5a5b8713acd687c783d5be9262d42045ed
+  date: '2026-11-05 22:19:55'
+  id: 528
+  import_metadata:
+    conversion:
+      converted_sha256: 81c21a2403b0e9f0d28ef66e937a9d5a5b8713acd687c783d5be9262d42045ed
+      original_sha256: 56407be8a21012659c220a107e8a99b5c91ce7b163f6b3739be2aef2655af98b
+      version: oss-ai-policies/clean-markdown-v1
+    entity: budibase/budibase
+    provenance:
+    - accessed_at: '2026-11-05T19:12:09.514971+00:00'
+      id: corpus-204-purpose
+      original_file_sha256: 56407be8a21012659c220a107e8a99b5c91ce7b163f6b3739be2aef2655af98b
+      path: analysis/corpus-assessment/sources/corpus-204-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-204-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/budibase/budibase/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/README.md
+      role: purpose_statement_candidate
+      sha256: 56407be8a21012659c220a107e8a99b5c91ce7b163f6b3739be2aef2655af98b
+      url: https://github.com/budibase/budibase/blob/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/README.md
+      version: 5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 56407be8a21012659c220a107e8a99b5c91ce7b163f6b3739be2aef2655af98b
+  mediapath: /docs/budibase__budibase--purpose_statement_candidate--56407be8a210.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    budibase/budibase\",\n  \"text_sha256\": \"56407be8a21012659c220a107e8a99b5c91ce7b163f6b3739be2aef2655af98b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-204-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"56407be8a21012659c220a107e8a99b5c91ce7b163f6b3739be2aef2655af98b\",\n    \
+    \  \"id\": \"corpus-204-purpose\",\n      \"url\": \"https://github.com/budibase/budibase/blob/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/budibase/budibase/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:09.514971+00:00\",\n      \"version\"\
+    : \"5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-204-purpose.raw.md\"\
+    ,\n      \"sha256\": \"56407be8a21012659c220a107e8a99b5c91ce7b163f6b3739be2aef2655af98b\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"56407be8a21012659c220a107e8a99b5c91ce7b163f6b3739be2aef2655af98b\"\
+    ,\n    \"converted_sha256\": \"81c21a2403b0e9f0d28ef66e937a9d5a5b8713acd687c783d5be9262d42045ed\"\
+    \n  }\n}"
+  name: budibase__budibase--purpose_statement_candidate--56407be8a210.md
+  owner: NicolasH
+  risid: null
+name: budibase__budibase--purpose_statement_candidate--56407be8a210.md
+path: corpus/qda-case-204/528.txt

@@ -1,0 +1,58 @@
+hash: 1daacb120fb4f0d5528e3a17b7698b320a063e2c55fc9876dec95df6260e3c18
+id: qda-source-535@qda-case-211
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 211
+    date: '2026-11-05 22:19:55'
+    fid: 535
+    id: 535
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12269
+  content_sha256: 1daacb120fb4f0d5528e3a17b7698b320a063e2c55fc9876dec95df6260e3c18
+  date: '2026-11-05 22:19:55'
+  id: 535
+  import_metadata:
+    conversion:
+      converted_sha256: 1daacb120fb4f0d5528e3a17b7698b320a063e2c55fc9876dec95df6260e3c18
+      original_sha256: bb4b610ff9871d6143d5a10851e998021a86bd1c274fb6126508e82c7f73063a
+      version: oss-ai-policies/clean-markdown-v1
+    entity: teamnewpipe/newpipe
+    provenance:
+    - accessed_at: '2026-11-05T19:12:10.723716+00:00'
+      id: corpus-211-purpose
+      original_file_sha256: bb4b610ff9871d6143d5a10851e998021a86bd1c274fb6126508e82c7f73063a
+      path: analysis/corpus-assessment/sources/corpus-211-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-211-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/teamnewpipe/newpipe/903cf9ece040d2d04f5c6352288e3d94b554160c/README.md
+      role: purpose_statement_candidate
+      sha256: bb4b610ff9871d6143d5a10851e998021a86bd1c274fb6126508e82c7f73063a
+      url: https://github.com/teamnewpipe/newpipe/blob/903cf9ece040d2d04f5c6352288e3d94b554160c/README.md
+      version: 903cf9ece040d2d04f5c6352288e3d94b554160c
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: bb4b610ff9871d6143d5a10851e998021a86bd1c274fb6126508e82c7f73063a
+  mediapath: /docs/teamnewpipe__newpipe--purpose_statement_candidate--bb4b610ff987.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    teamnewpipe/newpipe\",\n  \"text_sha256\": \"bb4b610ff9871d6143d5a10851e998021a86bd1c274fb6126508e82c7f73063a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-211-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"bb4b610ff9871d6143d5a10851e998021a86bd1c274fb6126508e82c7f73063a\",\n    \
+    \  \"id\": \"corpus-211-purpose\",\n      \"url\": \"https://github.com/teamnewpipe/newpipe/blob/903cf9ece040d2d04f5c6352288e3d94b554160c/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/teamnewpipe/newpipe/903cf9ece040d2d04f5c6352288e3d94b554160c/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:10.723716+00:00\",\n      \"version\"\
+    : \"903cf9ece040d2d04f5c6352288e3d94b554160c\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-211-purpose.raw.md\"\
+    ,\n      \"sha256\": \"bb4b610ff9871d6143d5a10851e998021a86bd1c274fb6126508e82c7f73063a\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"bb4b610ff9871d6143d5a10851e998021a86bd1c274fb6126508e82c7f73063a\"\
+    ,\n    \"converted_sha256\": \"1daacb120fb4f0d5528e3a17b7698b320a063e2c55fc9876dec95df6260e3c18\"\
+    \n  }\n}"
+  name: teamnewpipe__newpipe--purpose_statement_candidate--bb4b610ff987.md
+  owner: NicolasH
+  risid: null
+name: teamnewpipe__newpipe--purpose_statement_candidate--bb4b610ff987.md
+path: corpus/qda-case-211/535.txt

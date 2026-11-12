@@ -1,0 +1,43 @@
+hash: 2d92df5b54b288ce37b87ecb2c7f6e0dd5916d5b6e820c68adfaf7a7ae7b6ebd
+id: qda-source-124@qda-case-110
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 110
+    date: '2026-11-05 22:19:55'
+    fid: 124
+    id: 123
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3009
+  content_sha256: 2d92df5b54b288ce37b87ecb2c7f6e0dd5916d5b6e820c68adfaf7a7ae7b6ebd
+  date: '2026-11-05 22:19:55'
+  id: 124
+  import_metadata:
+    entity: quarkusio/quarkus
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 2d92df5b54b288ce37b87ecb2c7f6e0dd5916d5b6e820c68adfaf7a7ae7b6ebd
+      path: data/281/policies/quarkusio/quarkus/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/quarkusio/quarkus/blob/491751a318b917dee4e927392e29c1f2cdfbdd1c/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 2d92df5b54b288ce37b87ecb2c7f6e0dd5916d5b6e820c68adfaf7a7ae7b6ebd
+  mediapath: /docs/quarkusio__quarkus--ai_policy--2d92df5b54b2.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    quarkusio/quarkus\",\n  \"text_sha256\": \"2d92df5b54b288ce37b87ecb2c7f6e0dd5916d5b6e820c68adfaf7a7ae7b6ebd\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/quarkusio/quarkus/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"2d92df5b54b288ce37b87ecb2c7f6e0dd5916d5b6e820c68adfaf7a7ae7b6ebd\"\
+    ,\n      \"source_url_cell\": \"https://github.com/quarkusio/quarkus/blob/491751a318b917dee4e927392e29c1f2cdfbdd1c/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: quarkusio__quarkus--ai_policy--2d92df5b54b2.md
+  owner: NicolasH
+  risid: null
+name: quarkusio__quarkus--ai_policy--2d92df5b54b2.md
+path: corpus/qda-case-110/124.txt

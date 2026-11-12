@@ -1,0 +1,43 @@
+hash: fec1c39615fc940be4f77aca1d0b035ef524aeffb3de5c310d22a87ce15aa2f8
+id: qda-source-145@qda-case-129
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 129
+    date: '2026-11-05 22:19:55'
+    fid: 145
+    id: 144
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6816
+  content_sha256: fec1c39615fc940be4f77aca1d0b035ef524aeffb3de5c310d22a87ce15aa2f8
+  date: '2026-11-05 22:19:55'
+  id: 145
+  import_metadata:
+    entity: sebastianbergmann/phpunit
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: fec1c39615fc940be4f77aca1d0b035ef524aeffb3de5c310d22a87ce15aa2f8
+      path: data/281/policies/sebastianbergmann/phpunit/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/sebastianbergmann/phpunit/blob/465debb2a3bc265e0a0c5a5995daa037c919438b/.github/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: fec1c39615fc940be4f77aca1d0b035ef524aeffb3de5c310d22a87ce15aa2f8
+  mediapath: /docs/sebastianbergmann__phpunit--contributing--fec1c39615fc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    sebastianbergmann/phpunit\",\n  \"text_sha256\": \"fec1c39615fc940be4f77aca1d0b035ef524aeffb3de5c310d22a87ce15aa2f8\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/sebastianbergmann/phpunit/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"fec1c39615fc940be4f77aca1d0b035ef524aeffb3de5c310d22a87ce15aa2f8\"\
+    ,\n      \"source_url_cell\": \"https://github.com/sebastianbergmann/phpunit/blob/465debb2a3bc265e0a0c5a5995daa037c919438b/.github/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: sebastianbergmann__phpunit--contributing--fec1c39615fc.md
+  owner: NicolasH
+  risid: null
+name: sebastianbergmann__phpunit--contributing--fec1c39615fc.md
+path: corpus/qda-case-129/145.txt

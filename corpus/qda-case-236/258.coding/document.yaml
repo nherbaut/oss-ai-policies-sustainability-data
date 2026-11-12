@@ -1,0 +1,43 @@
+hash: 582c32455b1cf0a14df6b8cee1c07ff4ff5b7bf486551bda17859fc2108f915a
+id: qda-source-258@qda-case-236
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 236
+    date: '2026-11-05 22:19:55'
+    fid: 258
+    id: 257
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6097
+  content_sha256: 582c32455b1cf0a14df6b8cee1c07ff4ff5b7bf486551bda17859fc2108f915a
+  date: '2026-11-05 22:19:55'
+  id: 258
+  import_metadata:
+    entity: scalar/scalar
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 582c32455b1cf0a14df6b8cee1c07ff4ff5b7bf486551bda17859fc2108f915a
+      path: data/281/policies/scalar/scalar/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/scalar/scalar/blob/27b2b9f37411836cb2c863a50b6bd19e160ec898/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 582c32455b1cf0a14df6b8cee1c07ff4ff5b7bf486551bda17859fc2108f915a
+  mediapath: /docs/scalar__scalar--contributing--582c32455b1c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    scalar/scalar\",\n  \"text_sha256\": \"582c32455b1cf0a14df6b8cee1c07ff4ff5b7bf486551bda17859fc2108f915a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/scalar/scalar/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"582c32455b1cf0a14df6b8cee1c07ff4ff5b7bf486551bda17859fc2108f915a\"\
+    ,\n      \"source_url_cell\": \"https://github.com/scalar/scalar/blob/27b2b9f37411836cb2c863a50b6bd19e160ec898/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: scalar__scalar--contributing--582c32455b1c.md
+  owner: NicolasH
+  risid: null
+name: scalar__scalar--contributing--582c32455b1c.md
+path: corpus/qda-case-236/258.txt

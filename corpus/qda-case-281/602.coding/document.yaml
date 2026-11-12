@@ -1,0 +1,58 @@
+hash: 1691f6538cba39826551042d66421abedd05e38f5e57c1c6f67be9e4a0101173
+id: qda-source-602@qda-case-281
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 281
+    date: '2026-11-05 22:19:55'
+    fid: 602
+    id: 602
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4754
+  content_sha256: 1691f6538cba39826551042d66421abedd05e38f5e57c1c6f67be9e4a0101173
+  date: '2026-11-05 22:19:55'
+  id: 602
+  import_metadata:
+    conversion:
+      converted_sha256: 1691f6538cba39826551042d66421abedd05e38f5e57c1c6f67be9e4a0101173
+      original_sha256: b425dd7727c418eb55a3457eacc8606de0114ecf3d0a76cdc8518315f4b8bdb2
+      version: oss-ai-policies/clean-markdown-v1
+    entity: rqlite/rqlite
+    provenance:
+    - accessed_at: '2026-11-05T19:12:17.071368+00:00'
+      id: corpus-281-purpose
+      original_file_sha256: b425dd7727c418eb55a3457eacc8606de0114ecf3d0a76cdc8518315f4b8bdb2
+      path: analysis/corpus-assessment/sources/corpus-281-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-281-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/rqlite/rqlite/52415ca836cc8d40b5de27a3d619efddcc518298/README.md
+      role: purpose_statement_candidate
+      sha256: b425dd7727c418eb55a3457eacc8606de0114ecf3d0a76cdc8518315f4b8bdb2
+      url: https://github.com/rqlite/rqlite/blob/52415ca836cc8d40b5de27a3d619efddcc518298/README.md
+      version: 52415ca836cc8d40b5de27a3d619efddcc518298
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b425dd7727c418eb55a3457eacc8606de0114ecf3d0a76cdc8518315f4b8bdb2
+  mediapath: /docs/rqlite__rqlite--purpose_statement_candidate--b425dd7727c4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rqlite/rqlite\",\n  \"text_sha256\": \"b425dd7727c418eb55a3457eacc8606de0114ecf3d0a76cdc8518315f4b8bdb2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-281-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b425dd7727c418eb55a3457eacc8606de0114ecf3d0a76cdc8518315f4b8bdb2\",\n    \
+    \  \"id\": \"corpus-281-purpose\",\n      \"url\": \"https://github.com/rqlite/rqlite/blob/52415ca836cc8d40b5de27a3d619efddcc518298/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/rqlite/rqlite/52415ca836cc8d40b5de27a3d619efddcc518298/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:17.071368+00:00\",\n      \"version\"\
+    : \"52415ca836cc8d40b5de27a3d619efddcc518298\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-281-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b425dd7727c418eb55a3457eacc8606de0114ecf3d0a76cdc8518315f4b8bdb2\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b425dd7727c418eb55a3457eacc8606de0114ecf3d0a76cdc8518315f4b8bdb2\"\
+    ,\n    \"converted_sha256\": \"1691f6538cba39826551042d66421abedd05e38f5e57c1c6f67be9e4a0101173\"\
+    \n  }\n}"
+  name: rqlite__rqlite--purpose_statement_candidate--b425dd7727c4.md
+  owner: NicolasH
+  risid: null
+name: rqlite__rqlite--purpose_statement_candidate--b425dd7727c4.md
+path: corpus/qda-case-281/602.txt

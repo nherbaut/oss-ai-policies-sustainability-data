@@ -1,0 +1,58 @@
+hash: a8243465044a7f9de5a2d30a707dafe0b58ae3ec65becd08f6d71a3cf14d4bde
+id: qda-source-597@qda-case-276
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 276
+    date: '2026-11-05 22:19:55'
+    fid: 597
+    id: 597
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6100
+  content_sha256: a8243465044a7f9de5a2d30a707dafe0b58ae3ec65becd08f6d71a3cf14d4bde
+  date: '2026-11-05 22:19:55'
+  id: 597
+  import_metadata:
+    conversion:
+      converted_sha256: a8243465044a7f9de5a2d30a707dafe0b58ae3ec65becd08f6d71a3cf14d4bde
+      original_sha256: b0d6b1b63fec648c459819fe0aafb5dd755e5272243375bcc7bffdbbac64db77
+      version: oss-ai-policies/clean-markdown-v1
+    entity: PrefectHQ/fastmcp
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.588605+00:00'
+      id: corpus-276-purpose
+      original_file_sha256: b0d6b1b63fec648c459819fe0aafb5dd755e5272243375bcc7bffdbbac64db77
+      path: analysis/corpus-assessment/sources/corpus-276-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-276-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/PrefectHQ/fastmcp/1d932cc778a24cc0bf46fc4baad8306d4fed9c4b/README.md
+      role: purpose_statement_candidate
+      sha256: b0d6b1b63fec648c459819fe0aafb5dd755e5272243375bcc7bffdbbac64db77
+      url: https://github.com/PrefectHQ/fastmcp/blob/1d932cc778a24cc0bf46fc4baad8306d4fed9c4b/README.md
+      version: 1d932cc778a24cc0bf46fc4baad8306d4fed9c4b
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b0d6b1b63fec648c459819fe0aafb5dd755e5272243375bcc7bffdbbac64db77
+  mediapath: /docs/PrefectHQ__fastmcp--purpose_statement_candidate--b0d6b1b63fec.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    PrefectHQ/fastmcp\",\n  \"text_sha256\": \"b0d6b1b63fec648c459819fe0aafb5dd755e5272243375bcc7bffdbbac64db77\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-276-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b0d6b1b63fec648c459819fe0aafb5dd755e5272243375bcc7bffdbbac64db77\",\n    \
+    \  \"id\": \"corpus-276-purpose\",\n      \"url\": \"https://github.com/PrefectHQ/fastmcp/blob/1d932cc778a24cc0bf46fc4baad8306d4fed9c4b/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/PrefectHQ/fastmcp/1d932cc778a24cc0bf46fc4baad8306d4fed9c4b/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:16.588605+00:00\",\n      \"version\"\
+    : \"1d932cc778a24cc0bf46fc4baad8306d4fed9c4b\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-276-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b0d6b1b63fec648c459819fe0aafb5dd755e5272243375bcc7bffdbbac64db77\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b0d6b1b63fec648c459819fe0aafb5dd755e5272243375bcc7bffdbbac64db77\"\
+    ,\n    \"converted_sha256\": \"a8243465044a7f9de5a2d30a707dafe0b58ae3ec65becd08f6d71a3cf14d4bde\"\
+    \n  }\n}"
+  name: PrefectHQ__fastmcp--purpose_statement_candidate--b0d6b1b63fec.md
+  owner: NicolasH
+  risid: null
+name: PrefectHQ__fastmcp--purpose_statement_candidate--b0d6b1b63fec.md
+path: corpus/qda-case-276/597.txt

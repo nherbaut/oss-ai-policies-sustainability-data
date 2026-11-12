@@ -1,0 +1,58 @@
+hash: 2f63f98ba41f8e215a80e4dea7c9148e39e0d818c511f8cd5f6a983514afc176
+id: qda-source-402@qda-case-78
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 78
+    date: '2026-11-05 22:19:55'
+    fid: 402
+    id: 402
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11574
+  content_sha256: 2f63f98ba41f8e215a80e4dea7c9148e39e0d818c511f8cd5f6a983514afc176
+  date: '2026-11-05 22:19:55'
+  id: 402
+  import_metadata:
+    conversion:
+      converted_sha256: 2f63f98ba41f8e215a80e4dea7c9148e39e0d818c511f8cd5f6a983514afc176
+      original_sha256: 83a1888e01dc7bf635b42e6e76ab8939b2d9c53b1c589ab0d1cc3b65f5303d19
+      version: oss-ai-policies/clean-markdown-v1
+    entity: vapor/vapor
+    provenance:
+    - accessed_at: '2026-11-05T19:11:56.775684+00:00'
+      id: corpus-078-purpose
+      original_file_sha256: 83a1888e01dc7bf635b42e6e76ab8939b2d9c53b1c589ab0d1cc3b65f5303d19
+      path: analysis/corpus-assessment/sources/corpus-078-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-078-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/vapor/vapor/059b578bde8a037a42543914b8e14041fbec01e7/README.md
+      role: purpose_statement_candidate
+      sha256: 83a1888e01dc7bf635b42e6e76ab8939b2d9c53b1c589ab0d1cc3b65f5303d19
+      url: https://github.com/vapor/vapor/blob/059b578bde8a037a42543914b8e14041fbec01e7/README.md
+      version: 059b578bde8a037a42543914b8e14041fbec01e7
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 83a1888e01dc7bf635b42e6e76ab8939b2d9c53b1c589ab0d1cc3b65f5303d19
+  mediapath: /docs/vapor__vapor--purpose_statement_candidate--83a1888e01dc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    vapor/vapor\",\n  \"text_sha256\": \"83a1888e01dc7bf635b42e6e76ab8939b2d9c53b1c589ab0d1cc3b65f5303d19\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-078-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"83a1888e01dc7bf635b42e6e76ab8939b2d9c53b1c589ab0d1cc3b65f5303d19\",\n    \
+    \  \"id\": \"corpus-078-purpose\",\n      \"url\": \"https://github.com/vapor/vapor/blob/059b578bde8a037a42543914b8e14041fbec01e7/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/vapor/vapor/059b578bde8a037a42543914b8e14041fbec01e7/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:56.775684+00:00\",\n      \"version\"\
+    : \"059b578bde8a037a42543914b8e14041fbec01e7\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-078-purpose.raw.md\"\
+    ,\n      \"sha256\": \"83a1888e01dc7bf635b42e6e76ab8939b2d9c53b1c589ab0d1cc3b65f5303d19\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"83a1888e01dc7bf635b42e6e76ab8939b2d9c53b1c589ab0d1cc3b65f5303d19\"\
+    ,\n    \"converted_sha256\": \"2f63f98ba41f8e215a80e4dea7c9148e39e0d818c511f8cd5f6a983514afc176\"\
+    \n  }\n}"
+  name: vapor__vapor--purpose_statement_candidate--83a1888e01dc.md
+  owner: NicolasH
+  risid: null
+name: vapor__vapor--purpose_statement_candidate--83a1888e01dc.md
+path: corpus/qda-case-78/402.txt

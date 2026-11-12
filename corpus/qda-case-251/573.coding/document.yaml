@@ -1,0 +1,58 @@
+hash: 2bab4ec669952e6a1b55791e8401894dae4c756433c7955de530514f312f9ce0
+id: qda-source-573@qda-case-251
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 251
+    date: '2026-11-05 22:19:55'
+    fid: 573
+    id: 573
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6473
+  content_sha256: 2bab4ec669952e6a1b55791e8401894dae4c756433c7955de530514f312f9ce0
+  date: '2026-11-05 22:19:55'
+  id: 573
+  import_metadata:
+    conversion:
+      converted_sha256: 2bab4ec669952e6a1b55791e8401894dae4c756433c7955de530514f312f9ce0
+      original_sha256: 3064b6585dc49445a8e731b1157b3ee013b903d89e2b8a116e3fba7f20e0e138
+      version: oss-ai-policies/clean-markdown-v1
+    entity: amir1376/ab-download-manager
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.780114+00:00'
+      id: corpus-251-purpose
+      original_file_sha256: 3064b6585dc49445a8e731b1157b3ee013b903d89e2b8a116e3fba7f20e0e138
+      path: analysis/corpus-assessment/sources/corpus-251-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-251-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/amir1376/ab-download-manager/a5b0e8a5628087fafc600106f9405aba4db694fa/README.md
+      role: purpose_statement_candidate
+      sha256: 3064b6585dc49445a8e731b1157b3ee013b903d89e2b8a116e3fba7f20e0e138
+      url: https://github.com/amir1376/ab-download-manager/blob/a5b0e8a5628087fafc600106f9405aba4db694fa/README.md
+      version: a5b0e8a5628087fafc600106f9405aba4db694fa
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 3064b6585dc49445a8e731b1157b3ee013b903d89e2b8a116e3fba7f20e0e138
+  mediapath: /docs/amir1376__ab-download-manager--purpose_statement_candidate--3064b6585dc4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    amir1376/ab-download-manager\",\n  \"text_sha256\": \"3064b6585dc49445a8e731b1157b3ee013b903d89e2b8a116e3fba7f20e0e138\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-251-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"3064b6585dc49445a8e731b1157b3ee013b903d89e2b8a116e3fba7f20e0e138\",\n    \
+    \  \"id\": \"corpus-251-purpose\",\n      \"url\": \"https://github.com/amir1376/ab-download-manager/blob/a5b0e8a5628087fafc600106f9405aba4db694fa/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/amir1376/ab-download-manager/a5b0e8a5628087fafc600106f9405aba4db694fa/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.780114+00:00\",\n      \"version\"\
+    : \"a5b0e8a5628087fafc600106f9405aba4db694fa\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-251-purpose.raw.md\"\
+    ,\n      \"sha256\": \"3064b6585dc49445a8e731b1157b3ee013b903d89e2b8a116e3fba7f20e0e138\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"3064b6585dc49445a8e731b1157b3ee013b903d89e2b8a116e3fba7f20e0e138\"\
+    ,\n    \"converted_sha256\": \"2bab4ec669952e6a1b55791e8401894dae4c756433c7955de530514f312f9ce0\"\
+    \n  }\n}"
+  name: amir1376__ab-download-manager--purpose_statement_candidate--3064b6585dc4.md
+  owner: NicolasH
+  risid: null
+name: amir1376__ab-download-manager--purpose_statement_candidate--3064b6585dc4.md
+path: corpus/qda-case-251/573.txt

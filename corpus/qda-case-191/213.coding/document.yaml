@@ -1,0 +1,50 @@
+hash: 43123cbb9e4ceb705b47b6bce61929f6dd2b460045c050125fca3953c044cdac
+id: qda-source-213@qda-case-191
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 191
+    date: '2026-11-05 22:19:55'
+    fid: 213
+    id: 212
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 22601
+  content_sha256: 43123cbb9e4ceb705b47b6bce61929f6dd2b460045c050125fca3953c044cdac
+  date: '2026-11-05 22:19:55'
+  id: 213
+  import_metadata:
+    conversion:
+      converted_sha256: 43123cbb9e4ceb705b47b6bce61929f6dd2b460045c050125fca3953c044cdac
+      original_sha256: 252bf850c1f56f84c389b0c6e838dd52e180d1f8ec071b932fb47c48d4f2fe8a
+      version: oss-ai-policies/clean-markdown-v1
+    entity: twpayne/chezmoi
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 252bf850c1f56f84c389b0c6e838dd52e180d1f8ec071b932fb47c48d4f2fe8a
+      path: data/281/policies/twpayne/chezmoi/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://www.chezmoi.io/developer-guide/contributing-changes/
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 252bf850c1f56f84c389b0c6e838dd52e180d1f8ec071b932fb47c48d4f2fe8a
+  mediapath: /docs/twpayne__chezmoi--other_policy--252bf850c1f5.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    twpayne/chezmoi\",\n  \"text_sha256\": \"252bf850c1f56f84c389b0c6e838dd52e180d1f8ec071b932fb47c48d4f2fe8a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/twpayne/chezmoi/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"252bf850c1f56f84c389b0c6e838dd52e180d1f8ec071b932fb47c48d4f2fe8a\"\
+    ,\n      \"source_url_cell\": \"https://www.chezmoi.io/developer-guide/contributing-changes/\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"252bf850c1f56f84c389b0c6e838dd52e180d1f8ec071b932fb47c48d4f2fe8a\"\
+    ,\n    \"converted_sha256\": \"43123cbb9e4ceb705b47b6bce61929f6dd2b460045c050125fca3953c044cdac\"\
+    \n  }\n}"
+  name: twpayne__chezmoi--other_policy--252bf850c1f5.md
+  owner: NicolasH
+  risid: null
+name: twpayne__chezmoi--other_policy--252bf850c1f5.md
+path: corpus/qda-case-191/213.txt

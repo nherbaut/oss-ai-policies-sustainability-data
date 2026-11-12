@@ -1,0 +1,43 @@
+hash: d051c3797b18e8499880cdcaae76731dec82f3046afdec2065dba73a0c76625a
+id: qda-source-55@qda-case-46
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 46
+    date: '2026-11-05 22:19:55'
+    fid: 55
+    id: 54
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6190
+  content_sha256: d051c3797b18e8499880cdcaae76731dec82f3046afdec2065dba73a0c76625a
+  date: '2026-11-05 22:19:55'
+  id: 55
+  import_metadata:
+    entity: run-llama/llama_index
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: d051c3797b18e8499880cdcaae76731dec82f3046afdec2065dba73a0c76625a
+      path: data/281/policies/run-llama/llama_index/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/run-llama/llama_index/blob/67514f63410c6d4c2344e7ca14b3ea7214d0bb84/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: d051c3797b18e8499880cdcaae76731dec82f3046afdec2065dba73a0c76625a
+  mediapath: /docs/run-llama__llama_index--contributing--d051c3797b18.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    run-llama/llama_index\",\n  \"text_sha256\": \"d051c3797b18e8499880cdcaae76731dec82f3046afdec2065dba73a0c76625a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/run-llama/llama_index/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"d051c3797b18e8499880cdcaae76731dec82f3046afdec2065dba73a0c76625a\"\
+    ,\n      \"source_url_cell\": \"https://github.com/run-llama/llama_index/blob/67514f63410c6d4c2344e7ca14b3ea7214d0bb84/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: run-llama__llama_index--contributing--d051c3797b18.md
+  owner: NicolasH
+  risid: null
+name: run-llama__llama_index--contributing--d051c3797b18.md
+path: corpus/qda-case-46/55.txt

@@ -1,0 +1,50 @@
+hash: 2660caf21b4d778f23b89137f07384cb9a900f19df22b4d9a76b4ad8d073fdf0
+id: qda-source-155@qda-case-138
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 138
+    date: '2026-11-05 22:19:55'
+    fid: 155
+    id: 154
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 70324
+  content_sha256: 2660caf21b4d778f23b89137f07384cb9a900f19df22b4d9a76b4ad8d073fdf0
+  date: '2026-11-05 22:19:55'
+  id: 155
+  import_metadata:
+    conversion:
+      converted_sha256: 2660caf21b4d778f23b89137f07384cb9a900f19df22b4d9a76b4ad8d073fdf0
+      original_sha256: e2e88126568ed4432be0f9a97a7c59f4ff91f6dda7827944b97c331c5f6a736f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: scikit-learn
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: e2e88126568ed4432be0f9a97a7c59f4ff91f6dda7827944b97c331c5f6a736f
+      path: data/281/policies/scikit-learn/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://scikit-learn.org/stable/developers/contributing.html#automated-contributions-policy
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e2e88126568ed4432be0f9a97a7c59f4ff91f6dda7827944b97c331c5f6a736f
+  mediapath: /docs/scikit-learn--ai_policy--e2e88126568e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    scikit-learn\",\n  \"text_sha256\": \"e2e88126568ed4432be0f9a97a7c59f4ff91f6dda7827944b97c331c5f6a736f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/scikit-learn/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"e2e88126568ed4432be0f9a97a7c59f4ff91f6dda7827944b97c331c5f6a736f\"\
+    ,\n      \"source_url_cell\": \"https://scikit-learn.org/stable/developers/contributing.html#automated-contributions-policy\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"e2e88126568ed4432be0f9a97a7c59f4ff91f6dda7827944b97c331c5f6a736f\"\
+    ,\n    \"converted_sha256\": \"2660caf21b4d778f23b89137f07384cb9a900f19df22b4d9a76b4ad8d073fdf0\"\
+    \n  }\n}"
+  name: scikit-learn--ai_policy--e2e88126568e.md
+  owner: NicolasH
+  risid: null
+name: scikit-learn--ai_policy--e2e88126568e.md
+path: corpus/qda-case-138/155.txt

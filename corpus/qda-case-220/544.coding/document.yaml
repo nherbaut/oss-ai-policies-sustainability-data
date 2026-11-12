@@ -1,0 +1,58 @@
+hash: b1fc949a0e46337c40731370d9ac216adc0f0a4e8012c55f539d668bfbbd1cb2
+id: qda-source-544@qda-case-220
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 220
+    date: '2026-11-05 22:19:55'
+    fid: 544
+    id: 544
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 329599
+  content_sha256: b1fc949a0e46337c40731370d9ac216adc0f0a4e8012c55f539d668bfbbd1cb2
+  date: '2026-11-05 22:19:55'
+  id: 544
+  import_metadata:
+    conversion:
+      converted_sha256: b1fc949a0e46337c40731370d9ac216adc0f0a4e8012c55f539d668bfbbd1cb2
+      original_sha256: 001c8dd6771848a05e3b0a99b0bb5f58abe14779f0cdf4fc79a3a7e6a0bdc078
+      version: oss-ai-policies/clean-markdown-v1
+    entity: jaywcjlove/awesome-mac
+    provenance:
+    - accessed_at: '2026-11-05T19:12:11.538929+00:00'
+      id: corpus-220-purpose
+      original_file_sha256: 001c8dd6771848a05e3b0a99b0bb5f58abe14779f0cdf4fc79a3a7e6a0bdc078
+      path: analysis/corpus-assessment/sources/corpus-220-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-220-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/jaywcjlove/awesome-mac/9ac448f6768427ea7f1b4c93728c0342e64731aa/README.md
+      role: purpose_statement_candidate
+      sha256: 001c8dd6771848a05e3b0a99b0bb5f58abe14779f0cdf4fc79a3a7e6a0bdc078
+      url: https://github.com/jaywcjlove/awesome-mac/blob/9ac448f6768427ea7f1b4c93728c0342e64731aa/README.md
+      version: 9ac448f6768427ea7f1b4c93728c0342e64731aa
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 001c8dd6771848a05e3b0a99b0bb5f58abe14779f0cdf4fc79a3a7e6a0bdc078
+  mediapath: /docs/jaywcjlove__awesome-mac--purpose_statement_candidate--001c8dd67718.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    jaywcjlove/awesome-mac\",\n  \"text_sha256\": \"001c8dd6771848a05e3b0a99b0bb5f58abe14779f0cdf4fc79a3a7e6a0bdc078\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-220-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"001c8dd6771848a05e3b0a99b0bb5f58abe14779f0cdf4fc79a3a7e6a0bdc078\",\n    \
+    \  \"id\": \"corpus-220-purpose\",\n      \"url\": \"https://github.com/jaywcjlove/awesome-mac/blob/9ac448f6768427ea7f1b4c93728c0342e64731aa/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/jaywcjlove/awesome-mac/9ac448f6768427ea7f1b4c93728c0342e64731aa/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:11.538929+00:00\",\n      \"version\"\
+    : \"9ac448f6768427ea7f1b4c93728c0342e64731aa\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-220-purpose.raw.md\"\
+    ,\n      \"sha256\": \"001c8dd6771848a05e3b0a99b0bb5f58abe14779f0cdf4fc79a3a7e6a0bdc078\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"001c8dd6771848a05e3b0a99b0bb5f58abe14779f0cdf4fc79a3a7e6a0bdc078\"\
+    ,\n    \"converted_sha256\": \"b1fc949a0e46337c40731370d9ac216adc0f0a4e8012c55f539d668bfbbd1cb2\"\
+    \n  }\n}"
+  name: jaywcjlove__awesome-mac--purpose_statement_candidate--001c8dd67718.md
+  owner: NicolasH
+  risid: null
+name: jaywcjlove__awesome-mac--purpose_statement_candidate--001c8dd67718.md
+path: corpus/qda-case-220/544.txt

@@ -1,0 +1,43 @@
+hash: 91a38ce21c05d2d48fe6f43efc6266951b437d84647331cfb7b8155b50302f2c
+id: qda-source-24@qda-case-19
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 19
+    date: '2026-11-05 22:19:55'
+    fid: 24
+    id: 23
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3785
+  content_sha256: 91a38ce21c05d2d48fe6f43efc6266951b437d84647331cfb7b8155b50302f2c
+  date: '2026-11-05 22:19:55'
+  id: 24
+  import_metadata:
+    entity: vectordotdev/vector
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 91a38ce21c05d2d48fe6f43efc6266951b437d84647331cfb7b8155b50302f2c
+      path: data/281/policies/vectordotdev/vector/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/vectordotdev/vector/blob/b5f53eb3319d2cfc3ca19962cf6a55f67b7baaa8/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 91a38ce21c05d2d48fe6f43efc6266951b437d84647331cfb7b8155b50302f2c
+  mediapath: /docs/vectordotdev__vector--ai_policy--91a38ce21c05.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    vectordotdev/vector\",\n  \"text_sha256\": \"91a38ce21c05d2d48fe6f43efc6266951b437d84647331cfb7b8155b50302f2c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/vectordotdev/vector/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"91a38ce21c05d2d48fe6f43efc6266951b437d84647331cfb7b8155b50302f2c\"\
+    ,\n      \"source_url_cell\": \"https://github.com/vectordotdev/vector/blob/b5f53eb3319d2cfc3ca19962cf6a55f67b7baaa8/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: vectordotdev__vector--ai_policy--91a38ce21c05.md
+  owner: NicolasH
+  risid: null
+name: vectordotdev__vector--ai_policy--91a38ce21c05.md
+path: corpus/qda-case-19/24.txt

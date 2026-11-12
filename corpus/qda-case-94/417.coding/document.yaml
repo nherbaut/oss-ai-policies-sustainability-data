@@ -1,0 +1,58 @@
+hash: eb5fca3df15b8b2117cf4df76e4bf7779a73f010aac4cdd8887530cdaac59c2f
+id: qda-source-417@qda-case-94
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 94
+    date: '2026-11-05 22:19:55'
+    fid: 417
+    id: 417
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3637
+  content_sha256: eb5fca3df15b8b2117cf4df76e4bf7779a73f010aac4cdd8887530cdaac59c2f
+  date: '2026-11-05 22:19:55'
+  id: 417
+  import_metadata:
+    conversion:
+      converted_sha256: eb5fca3df15b8b2117cf4df76e4bf7779a73f010aac4cdd8887530cdaac59c2f
+      original_sha256: 9156378b4b3ff5357dd3969268058c63f6b1e85e51b56686552475817588c78c
+      version: oss-ai-policies/clean-markdown-v1
+    entity: systemd/systemd
+    provenance:
+    - accessed_at: '2026-11-05T19:11:58.301048+00:00'
+      id: corpus-094-purpose
+      original_file_sha256: 9156378b4b3ff5357dd3969268058c63f6b1e85e51b56686552475817588c78c
+      path: analysis/corpus-assessment/sources/corpus-094-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-094-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/systemd/systemd/afff448cf47659a91a8b2ba74e26449dead48f32/README.md
+      role: purpose_statement_candidate
+      sha256: 9156378b4b3ff5357dd3969268058c63f6b1e85e51b56686552475817588c78c
+      url: https://github.com/systemd/systemd/blob/afff448cf47659a91a8b2ba74e26449dead48f32/README.md
+      version: afff448cf47659a91a8b2ba74e26449dead48f32
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9156378b4b3ff5357dd3969268058c63f6b1e85e51b56686552475817588c78c
+  mediapath: /docs/systemd__systemd--purpose_statement_candidate--9156378b4b3f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    systemd/systemd\",\n  \"text_sha256\": \"9156378b4b3ff5357dd3969268058c63f6b1e85e51b56686552475817588c78c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-094-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9156378b4b3ff5357dd3969268058c63f6b1e85e51b56686552475817588c78c\",\n    \
+    \  \"id\": \"corpus-094-purpose\",\n      \"url\": \"https://github.com/systemd/systemd/blob/afff448cf47659a91a8b2ba74e26449dead48f32/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/systemd/systemd/afff448cf47659a91a8b2ba74e26449dead48f32/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:58.301048+00:00\",\n      \"version\"\
+    : \"afff448cf47659a91a8b2ba74e26449dead48f32\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-094-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9156378b4b3ff5357dd3969268058c63f6b1e85e51b56686552475817588c78c\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9156378b4b3ff5357dd3969268058c63f6b1e85e51b56686552475817588c78c\"\
+    ,\n    \"converted_sha256\": \"eb5fca3df15b8b2117cf4df76e4bf7779a73f010aac4cdd8887530cdaac59c2f\"\
+    \n  }\n}"
+  name: systemd__systemd--purpose_statement_candidate--9156378b4b3f.md
+  owner: NicolasH
+  risid: null
+name: systemd__systemd--purpose_statement_candidate--9156378b4b3f.md
+path: corpus/qda-case-94/417.txt

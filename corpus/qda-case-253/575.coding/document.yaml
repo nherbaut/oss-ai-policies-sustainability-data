@@ -1,0 +1,58 @@
+hash: 51f77338e3a1217806a8e9e647f10bceb00368359fd206838b594ec093820512
+id: qda-source-575@qda-case-253
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 253
+    date: '2026-11-05 22:19:55'
+    fid: 575
+    id: 575
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4834
+  content_sha256: 51f77338e3a1217806a8e9e647f10bceb00368359fd206838b594ec093820512
+  date: '2026-11-05 22:19:55'
+  id: 575
+  import_metadata:
+    conversion:
+      converted_sha256: 51f77338e3a1217806a8e9e647f10bceb00368359fd206838b594ec093820512
+      original_sha256: 081a1768fef37945f4925a147ce271e45ad797c3b8d42991129fbd2f37eed8a5
+      version: oss-ai-policies/clean-markdown-v1
+    entity: anuken/mindustry
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.787266+00:00'
+      id: corpus-253-purpose
+      original_file_sha256: 081a1768fef37945f4925a147ce271e45ad797c3b8d42991129fbd2f37eed8a5
+      path: analysis/corpus-assessment/sources/corpus-253-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-253-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/anuken/mindustry/2e742615667caf734562b97b31cb2838036a9044/README.md
+      role: purpose_statement_candidate
+      sha256: 081a1768fef37945f4925a147ce271e45ad797c3b8d42991129fbd2f37eed8a5
+      url: https://github.com/anuken/mindustry/blob/2e742615667caf734562b97b31cb2838036a9044/README.md
+      version: 2e742615667caf734562b97b31cb2838036a9044
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 081a1768fef37945f4925a147ce271e45ad797c3b8d42991129fbd2f37eed8a5
+  mediapath: /docs/anuken__mindustry--purpose_statement_candidate--081a1768fef3.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    anuken/mindustry\",\n  \"text_sha256\": \"081a1768fef37945f4925a147ce271e45ad797c3b8d42991129fbd2f37eed8a5\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-253-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"081a1768fef37945f4925a147ce271e45ad797c3b8d42991129fbd2f37eed8a5\",\n    \
+    \  \"id\": \"corpus-253-purpose\",\n      \"url\": \"https://github.com/anuken/mindustry/blob/2e742615667caf734562b97b31cb2838036a9044/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/anuken/mindustry/2e742615667caf734562b97b31cb2838036a9044/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.787266+00:00\",\n      \"version\"\
+    : \"2e742615667caf734562b97b31cb2838036a9044\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-253-purpose.raw.md\"\
+    ,\n      \"sha256\": \"081a1768fef37945f4925a147ce271e45ad797c3b8d42991129fbd2f37eed8a5\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"081a1768fef37945f4925a147ce271e45ad797c3b8d42991129fbd2f37eed8a5\"\
+    ,\n    \"converted_sha256\": \"51f77338e3a1217806a8e9e647f10bceb00368359fd206838b594ec093820512\"\
+    \n  }\n}"
+  name: anuken__mindustry--purpose_statement_candidate--081a1768fef3.md
+  owner: NicolasH
+  risid: null
+name: anuken__mindustry--purpose_statement_candidate--081a1768fef3.md
+path: corpus/qda-case-253/575.txt

@@ -1,0 +1,58 @@
+hash: 72836e8f3f19e503b5f90f6f0703d6758bed8332c8c5e1f24b8f0d6d15835c3c
+id: qda-source-373@qda-case-54
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 54
+    date: '2026-11-05 22:19:55'
+    fid: 373
+    id: 373
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11492
+  content_sha256: 72836e8f3f19e503b5f90f6f0703d6758bed8332c8c5e1f24b8f0d6d15835c3c
+  date: '2026-11-05 22:19:55'
+  id: 373
+  import_metadata:
+    conversion:
+      converted_sha256: 72836e8f3f19e503b5f90f6f0703d6758bed8332c8c5e1f24b8f0d6d15835c3c
+      original_sha256: 19a03ce87b6b83b284b085bb675139008f9f2b88367ed466ee0916d7a196396c
+      version: oss-ai-policies/clean-markdown-v1
+    entity: caddyserver/caddy
+    provenance:
+    - accessed_at: '2026-11-05T19:11:54.183792+00:00'
+      id: corpus-054-purpose
+      original_file_sha256: 19a03ce87b6b83b284b085bb675139008f9f2b88367ed466ee0916d7a196396c
+      path: analysis/corpus-assessment/sources/corpus-054-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-054-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/caddyserver/caddy/986753a7c6ec25bb676997a5a0ea2356406cb9aa/README.md
+      role: purpose_statement_candidate
+      sha256: 19a03ce87b6b83b284b085bb675139008f9f2b88367ed466ee0916d7a196396c
+      url: https://github.com/caddyserver/caddy/blob/986753a7c6ec25bb676997a5a0ea2356406cb9aa/README.md
+      version: 986753a7c6ec25bb676997a5a0ea2356406cb9aa
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 19a03ce87b6b83b284b085bb675139008f9f2b88367ed466ee0916d7a196396c
+  mediapath: /docs/caddyserver__caddy--purpose_statement_candidate--19a03ce87b6b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    caddyserver/caddy\",\n  \"text_sha256\": \"19a03ce87b6b83b284b085bb675139008f9f2b88367ed466ee0916d7a196396c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-054-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"19a03ce87b6b83b284b085bb675139008f9f2b88367ed466ee0916d7a196396c\",\n    \
+    \  \"id\": \"corpus-054-purpose\",\n      \"url\": \"https://github.com/caddyserver/caddy/blob/986753a7c6ec25bb676997a5a0ea2356406cb9aa/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/caddyserver/caddy/986753a7c6ec25bb676997a5a0ea2356406cb9aa/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:54.183792+00:00\",\n      \"version\"\
+    : \"986753a7c6ec25bb676997a5a0ea2356406cb9aa\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-054-purpose.raw.md\"\
+    ,\n      \"sha256\": \"19a03ce87b6b83b284b085bb675139008f9f2b88367ed466ee0916d7a196396c\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"19a03ce87b6b83b284b085bb675139008f9f2b88367ed466ee0916d7a196396c\"\
+    ,\n    \"converted_sha256\": \"72836e8f3f19e503b5f90f6f0703d6758bed8332c8c5e1f24b8f0d6d15835c3c\"\
+    \n  }\n}"
+  name: caddyserver__caddy--purpose_statement_candidate--19a03ce87b6b.md
+  owner: NicolasH
+  risid: null
+name: caddyserver__caddy--purpose_statement_candidate--19a03ce87b6b.md
+path: corpus/qda-case-54/373.txt

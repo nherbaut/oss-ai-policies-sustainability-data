@@ -1,0 +1,43 @@
+hash: f7f8d73c69df57f23e3e4330abb30ad726af14923387352c1034a08cbd92502e
+id: qda-source-250@qda-case-228
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 228
+    date: '2026-11-05 22:19:55'
+    fid: 250
+    id: 249
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4899
+  content_sha256: f7f8d73c69df57f23e3e4330abb30ad726af14923387352c1034a08cbd92502e
+  date: '2026-11-05 22:19:55'
+  id: 250
+  import_metadata:
+    entity: m2team/nanazip
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 930db5d9dcc7ecd260eb7e281103c8ea0fd424c598f22c4e74a5571314daa8d7
+      path: data/281/policies/m2team/nanazip/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/m2team/nanazip/blob/7551b164cb178f1b5b14e01969e5d16215bce275/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: f7f8d73c69df57f23e3e4330abb30ad726af14923387352c1034a08cbd92502e
+  mediapath: /docs/m2team__nanazip--contributing--f7f8d73c69df.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    m2team/nanazip\",\n  \"text_sha256\": \"f7f8d73c69df57f23e3e4330abb30ad726af14923387352c1034a08cbd92502e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/m2team/nanazip/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"930db5d9dcc7ecd260eb7e281103c8ea0fd424c598f22c4e74a5571314daa8d7\"\
+    ,\n      \"source_url_cell\": \"https://github.com/m2team/nanazip/blob/7551b164cb178f1b5b14e01969e5d16215bce275/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: m2team__nanazip--contributing--f7f8d73c69df.md
+  owner: NicolasH
+  risid: null
+name: m2team__nanazip--contributing--f7f8d73c69df.md
+path: corpus/qda-case-228/250.txt

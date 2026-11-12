@@ -1,0 +1,43 @@
+hash: ecb33f29c1eccb5796ed13513010ad110cc987b00668df063e643de7c014f5ba
+id: qda-source-5@qda-case-4
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 4
+    date: '2026-11-05 22:19:55'
+    fid: 5
+    id: 4
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11784
+  content_sha256: ecb33f29c1eccb5796ed13513010ad110cc987b00668df063e643de7c014f5ba
+  date: '2026-11-05 22:19:55'
+  id: 5
+  import_metadata:
+    entity: storybookjs/storybook
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: ecb33f29c1eccb5796ed13513010ad110cc987b00668df063e643de7c014f5ba
+      path: data/281/policies/storybookjs/storybook/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/storybookjs/storybook/blob/5073688f5836ec16575855550ffbeb3e81ab1cf1/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: ecb33f29c1eccb5796ed13513010ad110cc987b00668df063e643de7c014f5ba
+  mediapath: /docs/storybookjs__storybook--contributing--ecb33f29c1ec.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    storybookjs/storybook\",\n  \"text_sha256\": \"ecb33f29c1eccb5796ed13513010ad110cc987b00668df063e643de7c014f5ba\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/storybookjs/storybook/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"ecb33f29c1eccb5796ed13513010ad110cc987b00668df063e643de7c014f5ba\"\
+    ,\n      \"source_url_cell\": \"https://github.com/storybookjs/storybook/blob/5073688f5836ec16575855550ffbeb3e81ab1cf1/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: storybookjs__storybook--contributing--ecb33f29c1ec.md
+  owner: NicolasH
+  risid: null
+name: storybookjs__storybook--contributing--ecb33f29c1ec.md
+path: corpus/qda-case-4/5.txt

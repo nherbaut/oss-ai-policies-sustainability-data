@@ -1,0 +1,58 @@
+hash: 187ca52fd072b09242c12d5c654134eb23ddd55d0ab4b56f2eb0d67863d060d9
+id: qda-source-425@qda-case-101
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 101
+    date: '2026-11-05 22:19:55'
+    fid: 425
+    id: 425
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7241
+  content_sha256: 187ca52fd072b09242c12d5c654134eb23ddd55d0ab4b56f2eb0d67863d060d9
+  date: '2026-11-05 22:19:55'
+  id: 425
+  import_metadata:
+    conversion:
+      converted_sha256: 187ca52fd072b09242c12d5c654134eb23ddd55d0ab4b56f2eb0d67863d060d9
+      original_sha256: e62a2aba52b8d2a59ac18d486dfa10fde537eb464681a6d5891e3dedcbfaf91e
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Kilo-Org/kilocode
+    provenance:
+    - accessed_at: '2026-11-05T19:11:59.181786+00:00'
+      id: corpus-101-purpose
+      original_file_sha256: e62a2aba52b8d2a59ac18d486dfa10fde537eb464681a6d5891e3dedcbfaf91e
+      path: analysis/corpus-assessment/sources/corpus-101-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-101-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/Kilo-Org/kilocode/abd24c7223df8cd8df203d9b457e5a7bcd9147d2/README.md
+      role: purpose_statement_candidate
+      sha256: e62a2aba52b8d2a59ac18d486dfa10fde537eb464681a6d5891e3dedcbfaf91e
+      url: https://github.com/Kilo-Org/kilocode/blob/abd24c7223df8cd8df203d9b457e5a7bcd9147d2/README.md
+      version: abd24c7223df8cd8df203d9b457e5a7bcd9147d2
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e62a2aba52b8d2a59ac18d486dfa10fde537eb464681a6d5891e3dedcbfaf91e
+  mediapath: /docs/Kilo-Org__kilocode--purpose_statement_candidate--e62a2aba52b8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Kilo-Org/kilocode\",\n  \"text_sha256\": \"e62a2aba52b8d2a59ac18d486dfa10fde537eb464681a6d5891e3dedcbfaf91e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-101-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e62a2aba52b8d2a59ac18d486dfa10fde537eb464681a6d5891e3dedcbfaf91e\",\n    \
+    \  \"id\": \"corpus-101-purpose\",\n      \"url\": \"https://github.com/Kilo-Org/kilocode/blob/abd24c7223df8cd8df203d9b457e5a7bcd9147d2/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/Kilo-Org/kilocode/abd24c7223df8cd8df203d9b457e5a7bcd9147d2/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:59.181786+00:00\",\n      \"version\"\
+    : \"abd24c7223df8cd8df203d9b457e5a7bcd9147d2\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-101-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e62a2aba52b8d2a59ac18d486dfa10fde537eb464681a6d5891e3dedcbfaf91e\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e62a2aba52b8d2a59ac18d486dfa10fde537eb464681a6d5891e3dedcbfaf91e\"\
+    ,\n    \"converted_sha256\": \"187ca52fd072b09242c12d5c654134eb23ddd55d0ab4b56f2eb0d67863d060d9\"\
+    \n  }\n}"
+  name: Kilo-Org__kilocode--purpose_statement_candidate--e62a2aba52b8.md
+  owner: NicolasH
+  risid: null
+name: Kilo-Org__kilocode--purpose_statement_candidate--e62a2aba52b8.md
+path: corpus/qda-case-101/425.txt

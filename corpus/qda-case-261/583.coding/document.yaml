@@ -1,0 +1,58 @@
+hash: 97139f2d09d03ec1abc412a6036d97449c01e2e2d03f013d28e11284b96e435c
+id: qda-source-583@qda-case-261
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 261
+    date: '2026-11-05 22:19:55'
+    fid: 583
+    id: 583
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5151
+  content_sha256: 97139f2d09d03ec1abc412a6036d97449c01e2e2d03f013d28e11284b96e435c
+  date: '2026-11-05 22:19:55'
+  id: 583
+  import_metadata:
+    conversion:
+      converted_sha256: 97139f2d09d03ec1abc412a6036d97449c01e2e2d03f013d28e11284b96e435c
+      original_sha256: 530c55a4cba841fa018b9d0eb0afb57e61c5455a6f6b5bcb8e03fa44d4750989
+      version: oss-ai-policies/clean-markdown-v1
+    entity: OpenJDK
+    provenance:
+    - accessed_at: '2026-11-05T19:12:15.469391+00:00'
+      id: corpus-261-purpose
+      original_file_sha256: 530c55a4cba841fa018b9d0eb0afb57e61c5455a6f6b5bcb8e03fa44d4750989
+      path: analysis/corpus-assessment/sources/corpus-261-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-261-purpose.html
+      resolved_url: https://openjdk.org/
+      role: purpose_statement_candidate
+      sha256: a2bab5a5bf0854df0bf6859a50ccf2583c8afec7e1af1db3c9a689bbbe2d4e10
+      url: https://openjdk.org/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 530c55a4cba841fa018b9d0eb0afb57e61c5455a6f6b5bcb8e03fa44d4750989
+  mediapath: /docs/OpenJDK--purpose_statement_candidate--530c55a4cba8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    OpenJDK\",\n  \"text_sha256\": \"530c55a4cba841fa018b9d0eb0afb57e61c5455a6f6b5bcb8e03fa44d4750989\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-261-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"530c55a4cba841fa018b9d0eb0afb57e61c5455a6f6b5bcb8e03fa44d4750989\",\n    \
+    \  \"id\": \"corpus-261-purpose\",\n      \"url\": \"https://openjdk.org/\",\n\
+    \      \"resolved_url\": \"https://openjdk.org/\",\n      \"accessed_at\": \"\
+    2026-11-05T19:12:15.469391+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-261-purpose.html\",\n      \"sha256\"\
+    : \"a2bab5a5bf0854df0bf6859a50ccf2583c8afec7e1af1db3c9a689bbbe2d4e10\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"530c55a4cba841fa018b9d0eb0afb57e61c5455a6f6b5bcb8e03fa44d4750989\"\
+    ,\n    \"converted_sha256\": \"97139f2d09d03ec1abc412a6036d97449c01e2e2d03f013d28e11284b96e435c\"\
+    \n  }\n}"
+  name: OpenJDK--purpose_statement_candidate--530c55a4cba8.md
+  owner: NicolasH
+  risid: null
+name: OpenJDK--purpose_statement_candidate--530c55a4cba8.md
+path: corpus/qda-case-261/583.txt

@@ -1,0 +1,43 @@
+hash: df7d9f36ae047dc6fca7616f11bbc4eccac685f0dadaf9ca5ee0136aee7a8a47
+id: qda-source-188@qda-case-169
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 169
+    date: '2026-11-05 22:19:55'
+    fid: 188
+    id: 187
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8540
+  content_sha256: df7d9f36ae047dc6fca7616f11bbc4eccac685f0dadaf9ca5ee0136aee7a8a47
+  date: '2026-11-05 22:19:55'
+  id: 188
+  import_metadata:
+    entity: renovatebot/renovate
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: df7d9f36ae047dc6fca7616f11bbc4eccac685f0dadaf9ca5ee0136aee7a8a47
+      path: data/281/policies/renovatebot/renovate/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/renovatebot/renovate/blob/170b972320cd4a6de644992586f5156eb20d9de5/.github/contributing.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: df7d9f36ae047dc6fca7616f11bbc4eccac685f0dadaf9ca5ee0136aee7a8a47
+  mediapath: /docs/renovatebot__renovate--contributing--df7d9f36ae04.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    renovatebot/renovate\",\n  \"text_sha256\": \"df7d9f36ae047dc6fca7616f11bbc4eccac685f0dadaf9ca5ee0136aee7a8a47\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/renovatebot/renovate/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"df7d9f36ae047dc6fca7616f11bbc4eccac685f0dadaf9ca5ee0136aee7a8a47\"\
+    ,\n      \"source_url_cell\": \"https://github.com/renovatebot/renovate/blob/170b972320cd4a6de644992586f5156eb20d9de5/.github/contributing.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: renovatebot__renovate--contributing--df7d9f36ae04.md
+  owner: NicolasH
+  risid: null
+name: renovatebot__renovate--contributing--df7d9f36ae04.md
+path: corpus/qda-case-169/188.txt

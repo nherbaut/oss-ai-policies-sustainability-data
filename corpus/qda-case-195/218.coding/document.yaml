@@ -1,0 +1,43 @@
+hash: 7008018476c0e495bdb5cf5169ed1ce0736248eb584418cb090b732c037871de
+id: qda-source-218@qda-case-195
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 195
+    date: '2026-11-05 22:19:55'
+    fid: 218
+    id: 217
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 17533
+  content_sha256: 7008018476c0e495bdb5cf5169ed1ce0736248eb584418cb090b732c037871de
+  date: '2026-11-05 22:19:55'
+  id: 218
+  import_metadata:
+    entity: redox-os/redox
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 7008018476c0e495bdb5cf5169ed1ce0736248eb584418cb090b732c037871de
+      path: data/281/policies/redox-os/redox/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/redox-os/redox/blob/b0ade5b4d2afa36ca7f9186f656618f2f50c3dd9/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 7008018476c0e495bdb5cf5169ed1ce0736248eb584418cb090b732c037871de
+  mediapath: /docs/redox-os__redox--contributing--7008018476c0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    redox-os/redox\",\n  \"text_sha256\": \"7008018476c0e495bdb5cf5169ed1ce0736248eb584418cb090b732c037871de\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/redox-os/redox/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"7008018476c0e495bdb5cf5169ed1ce0736248eb584418cb090b732c037871de\"\
+    ,\n      \"source_url_cell\": \"https://github.com/redox-os/redox/blob/b0ade5b4d2afa36ca7f9186f656618f2f50c3dd9/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: redox-os__redox--contributing--7008018476c0.md
+  owner: NicolasH
+  risid: null
+name: redox-os__redox--contributing--7008018476c0.md
+path: corpus/qda-case-195/218.txt

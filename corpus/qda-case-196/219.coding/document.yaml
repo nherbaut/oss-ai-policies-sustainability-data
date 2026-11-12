@@ -1,0 +1,50 @@
+hash: 48e4f3a75094d2edf23f5a64f2e8d8c1e51d7863643a167c6c0c2c2f2aa7871b
+id: qda-source-219@qda-case-196
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 196
+    date: '2026-11-05 22:19:55'
+    fid: 219
+    id: 218
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2085
+  content_sha256: 48e4f3a75094d2edf23f5a64f2e8d8c1e51d7863643a167c6c0c2c2f2aa7871b
+  date: '2026-11-05 22:19:55'
+  id: 219
+  import_metadata:
+    conversion:
+      converted_sha256: 48e4f3a75094d2edf23f5a64f2e8d8c1e51d7863643a167c6c0c2c2f2aa7871b
+      original_sha256: 6e67a8eeed94d68a90e2ead1fc72a3f26efed94b64be054e7580829b27da7654
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Servo
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 6e67a8eeed94d68a90e2ead1fc72a3f26efed94b64be054e7580829b27da7654
+      path: data/281/policies/Servo/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://book.servo.org/contributing/getting-started.html#ai-contributions
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 6e67a8eeed94d68a90e2ead1fc72a3f26efed94b64be054e7580829b27da7654
+  mediapath: /docs/Servo--ai_policy--6e67a8eeed94.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Servo\",\n  \"text_sha256\": \"6e67a8eeed94d68a90e2ead1fc72a3f26efed94b64be054e7580829b27da7654\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Servo/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"6e67a8eeed94d68a90e2ead1fc72a3f26efed94b64be054e7580829b27da7654\"\
+    ,\n      \"source_url_cell\": \"https://book.servo.org/contributing/getting-started.html#ai-contributions\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"6e67a8eeed94d68a90e2ead1fc72a3f26efed94b64be054e7580829b27da7654\"\
+    ,\n    \"converted_sha256\": \"48e4f3a75094d2edf23f5a64f2e8d8c1e51d7863643a167c6c0c2c2f2aa7871b\"\
+    \n  }\n}"
+  name: Servo--ai_policy--6e67a8eeed94.md
+  owner: NicolasH
+  risid: null
+name: Servo--ai_policy--6e67a8eeed94.md
+path: corpus/qda-case-196/219.txt

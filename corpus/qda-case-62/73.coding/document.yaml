@@ -1,0 +1,50 @@
+hash: a164ed9434437de6eba6a452fd6658d43b4985bf258c635519dc2c344daaa6aa
+id: qda-source-73@qda-case-62
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 62
+    date: '2026-11-05 22:19:55'
+    fid: 73
+    id: 72
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4328
+  content_sha256: a164ed9434437de6eba6a452fd6658d43b4985bf258c635519dc2c344daaa6aa
+  date: '2026-11-05 22:19:55'
+  id: 73
+  import_metadata:
+    conversion:
+      converted_sha256: a164ed9434437de6eba6a452fd6658d43b4985bf258c635519dc2c344daaa6aa
+      original_sha256: eab99d6b214810cfcc2f30c55066ab808f62fe9de59b76ca578cca6e30bd1e8a
+      version: oss-ai-policies/clean-markdown-v1
+    entity: homebrew/brew
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: eab99d6b214810cfcc2f30c55066ab808f62fe9de59b76ca578cca6e30bd1e8a
+      path: data/281/policies/homebrew/brew/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://docs.brew.sh/Responsible-AI-Usage
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: eab99d6b214810cfcc2f30c55066ab808f62fe9de59b76ca578cca6e30bd1e8a
+  mediapath: /docs/homebrew__brew--other_policy--eab99d6b2148.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    homebrew/brew\",\n  \"text_sha256\": \"eab99d6b214810cfcc2f30c55066ab808f62fe9de59b76ca578cca6e30bd1e8a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/homebrew/brew/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"eab99d6b214810cfcc2f30c55066ab808f62fe9de59b76ca578cca6e30bd1e8a\"\
+    ,\n      \"source_url_cell\": \"https://docs.brew.sh/Responsible-AI-Usage\",\n\
+    \      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"eab99d6b214810cfcc2f30c55066ab808f62fe9de59b76ca578cca6e30bd1e8a\"\
+    ,\n    \"converted_sha256\": \"a164ed9434437de6eba6a452fd6658d43b4985bf258c635519dc2c344daaa6aa\"\
+    \n  }\n}"
+  name: homebrew__brew--other_policy--eab99d6b2148.md
+  owner: NicolasH
+  risid: null
+name: homebrew__brew--other_policy--eab99d6b2148.md
+path: corpus/qda-case-62/73.txt

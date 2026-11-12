@@ -1,0 +1,43 @@
+hash: 85537da165fd2bb20fea5b717ec2723a5f32122ea3cfe7091af2ac99c2b75011
+id: qda-source-70@qda-case-60
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 60
+    date: '2026-11-05 22:19:55'
+    fid: 70
+    id: 69
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7224
+  content_sha256: 85537da165fd2bb20fea5b717ec2723a5f32122ea3cfe7091af2ac99c2b75011
+  date: '2026-11-05 22:19:55'
+  id: 70
+  import_metadata:
+    entity: wg-easy/wg-easy
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 85537da165fd2bb20fea5b717ec2723a5f32122ea3cfe7091af2ac99c2b75011
+      path: data/281/policies/wg-easy/wg-easy/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/wg-easy/wg-easy/blob/78b283849895b35ad45c6f83fa01228c0f1a6774/contributing.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 85537da165fd2bb20fea5b717ec2723a5f32122ea3cfe7091af2ac99c2b75011
+  mediapath: /docs/wg-easy__wg-easy--contributing--85537da165fd.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    wg-easy/wg-easy\",\n  \"text_sha256\": \"85537da165fd2bb20fea5b717ec2723a5f32122ea3cfe7091af2ac99c2b75011\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/wg-easy/wg-easy/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"85537da165fd2bb20fea5b717ec2723a5f32122ea3cfe7091af2ac99c2b75011\"\
+    ,\n      \"source_url_cell\": \"https://github.com/wg-easy/wg-easy/blob/78b283849895b35ad45c6f83fa01228c0f1a6774/contributing.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: wg-easy__wg-easy--contributing--85537da165fd.md
+  owner: NicolasH
+  risid: null
+name: wg-easy__wg-easy--contributing--85537da165fd.md
+path: corpus/qda-case-60/70.txt

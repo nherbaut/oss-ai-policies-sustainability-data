@@ -1,0 +1,58 @@
+hash: bf9abf685dc62866297c66267cf3b50eea6992818872bcfa777aba1c79b5b6ce
+id: qda-source-572@qda-case-250
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 250
+    date: '2026-11-05 22:19:55'
+    fid: 572
+    id: 572
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 32708
+  content_sha256: bf9abf685dc62866297c66267cf3b50eea6992818872bcfa777aba1c79b5b6ce
+  date: '2026-11-05 22:19:55'
+  id: 572
+  import_metadata:
+    conversion:
+      converted_sha256: bf9abf685dc62866297c66267cf3b50eea6992818872bcfa777aba1c79b5b6ce
+      original_sha256: daacd035eeb4b011371980c3bf2639271782250d875a83b84a4a563a4ed6eec6
+      version: oss-ai-policies/clean-markdown-v1
+    entity: jesseduffield/lazygit
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.766993+00:00'
+      id: corpus-250-purpose
+      original_file_sha256: daacd035eeb4b011371980c3bf2639271782250d875a83b84a4a563a4ed6eec6
+      path: analysis/corpus-assessment/sources/corpus-250-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-250-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/jesseduffield/lazygit/080da5cacfcff63a89ea23493bb91b11b0612876/README.md
+      role: purpose_statement_candidate
+      sha256: daacd035eeb4b011371980c3bf2639271782250d875a83b84a4a563a4ed6eec6
+      url: https://github.com/jesseduffield/lazygit/blob/080da5cacfcff63a89ea23493bb91b11b0612876/README.md
+      version: 080da5cacfcff63a89ea23493bb91b11b0612876
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: daacd035eeb4b011371980c3bf2639271782250d875a83b84a4a563a4ed6eec6
+  mediapath: /docs/jesseduffield__lazygit--purpose_statement_candidate--daacd035eeb4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    jesseduffield/lazygit\",\n  \"text_sha256\": \"daacd035eeb4b011371980c3bf2639271782250d875a83b84a4a563a4ed6eec6\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-250-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"daacd035eeb4b011371980c3bf2639271782250d875a83b84a4a563a4ed6eec6\",\n    \
+    \  \"id\": \"corpus-250-purpose\",\n      \"url\": \"https://github.com/jesseduffield/lazygit/blob/080da5cacfcff63a89ea23493bb91b11b0612876/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/jesseduffield/lazygit/080da5cacfcff63a89ea23493bb91b11b0612876/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.766993+00:00\",\n      \"version\"\
+    : \"080da5cacfcff63a89ea23493bb91b11b0612876\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-250-purpose.raw.md\"\
+    ,\n      \"sha256\": \"daacd035eeb4b011371980c3bf2639271782250d875a83b84a4a563a4ed6eec6\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"daacd035eeb4b011371980c3bf2639271782250d875a83b84a4a563a4ed6eec6\"\
+    ,\n    \"converted_sha256\": \"bf9abf685dc62866297c66267cf3b50eea6992818872bcfa777aba1c79b5b6ce\"\
+    \n  }\n}"
+  name: jesseduffield__lazygit--purpose_statement_candidate--daacd035eeb4.md
+  owner: NicolasH
+  risid: null
+name: jesseduffield__lazygit--purpose_statement_candidate--daacd035eeb4.md
+path: corpus/qda-case-250/572.txt

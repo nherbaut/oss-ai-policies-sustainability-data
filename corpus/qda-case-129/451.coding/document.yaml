@@ -1,0 +1,58 @@
+hash: cd688c669e0cd6f4579a6cd3e0a84415976804e7e4a245f6bc3be733a712e519
+id: qda-source-451@qda-case-129
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 129
+    date: '2026-11-05 22:19:55'
+    fid: 451
+    id: 451
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6117
+  content_sha256: cd688c669e0cd6f4579a6cd3e0a84415976804e7e4a245f6bc3be733a712e519
+  date: '2026-11-05 22:19:55'
+  id: 451
+  import_metadata:
+    conversion:
+      converted_sha256: cd688c669e0cd6f4579a6cd3e0a84415976804e7e4a245f6bc3be733a712e519
+      original_sha256: 4f3344e9b023aa27725f3be8452e5487ed25c832cca438d9ce6b066c90cb8310
+      version: oss-ai-policies/clean-markdown-v1
+    entity: sebastianbergmann/phpunit
+    provenance:
+    - accessed_at: '2026-11-05T19:12:01.677190+00:00'
+      id: corpus-129-purpose
+      original_file_sha256: 4f3344e9b023aa27725f3be8452e5487ed25c832cca438d9ce6b066c90cb8310
+      path: analysis/corpus-assessment/sources/corpus-129-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-129-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/sebastianbergmann/phpunit/465debb2a3bc265e0a0c5a5995daa037c919438b/README.md
+      role: purpose_statement_candidate
+      sha256: 4f3344e9b023aa27725f3be8452e5487ed25c832cca438d9ce6b066c90cb8310
+      url: https://github.com/sebastianbergmann/phpunit/blob/465debb2a3bc265e0a0c5a5995daa037c919438b/README.md
+      version: 465debb2a3bc265e0a0c5a5995daa037c919438b
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 4f3344e9b023aa27725f3be8452e5487ed25c832cca438d9ce6b066c90cb8310
+  mediapath: /docs/sebastianbergmann__phpunit--purpose_statement_candidate--4f3344e9b023.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    sebastianbergmann/phpunit\",\n  \"text_sha256\": \"4f3344e9b023aa27725f3be8452e5487ed25c832cca438d9ce6b066c90cb8310\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-129-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"4f3344e9b023aa27725f3be8452e5487ed25c832cca438d9ce6b066c90cb8310\",\n    \
+    \  \"id\": \"corpus-129-purpose\",\n      \"url\": \"https://github.com/sebastianbergmann/phpunit/blob/465debb2a3bc265e0a0c5a5995daa037c919438b/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/sebastianbergmann/phpunit/465debb2a3bc265e0a0c5a5995daa037c919438b/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:01.677190+00:00\",\n      \"version\"\
+    : \"465debb2a3bc265e0a0c5a5995daa037c919438b\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-129-purpose.raw.md\"\
+    ,\n      \"sha256\": \"4f3344e9b023aa27725f3be8452e5487ed25c832cca438d9ce6b066c90cb8310\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"4f3344e9b023aa27725f3be8452e5487ed25c832cca438d9ce6b066c90cb8310\"\
+    ,\n    \"converted_sha256\": \"cd688c669e0cd6f4579a6cd3e0a84415976804e7e4a245f6bc3be733a712e519\"\
+    \n  }\n}"
+  name: sebastianbergmann__phpunit--purpose_statement_candidate--4f3344e9b023.md
+  owner: NicolasH
+  risid: null
+name: sebastianbergmann__phpunit--purpose_statement_candidate--4f3344e9b023.md
+path: corpus/qda-case-129/451.txt

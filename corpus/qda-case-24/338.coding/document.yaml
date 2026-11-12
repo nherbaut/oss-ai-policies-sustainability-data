@@ -1,0 +1,58 @@
+hash: 24703923d9eda2e72fb73897589f207f6c907f7d6d2a8ca91097d1845e63d9e0
+id: qda-source-338@qda-case-24
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 24
+    date: '2026-11-05 22:19:55'
+    fid: 338
+    id: 338
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 17763
+  content_sha256: 24703923d9eda2e72fb73897589f207f6c907f7d6d2a8ca91097d1845e63d9e0
+  date: '2026-11-05 22:19:55'
+  id: 338
+  import_metadata:
+    conversion:
+      converted_sha256: 24703923d9eda2e72fb73897589f207f6c907f7d6d2a8ca91097d1845e63d9e0
+      original_sha256: ccac37612462c312d8a3c0460f5c75601aba9831357a195174a92a4442492abc
+      version: oss-ai-policies/clean-markdown-v1
+    entity: carbon-language/carbon-lang
+    provenance:
+    - accessed_at: '2026-11-05T19:11:50.448013+00:00'
+      id: corpus-024-purpose
+      original_file_sha256: ccac37612462c312d8a3c0460f5c75601aba9831357a195174a92a4442492abc
+      path: analysis/corpus-assessment/sources/corpus-024-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-024-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/carbon-language/carbon-lang/cda1f256bb717356688e59e31681949e170c7e69/README.md
+      role: purpose_statement_candidate
+      sha256: ccac37612462c312d8a3c0460f5c75601aba9831357a195174a92a4442492abc
+      url: https://github.com/carbon-language/carbon-lang/blob/cda1f256bb717356688e59e31681949e170c7e69/README.md
+      version: cda1f256bb717356688e59e31681949e170c7e69
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ccac37612462c312d8a3c0460f5c75601aba9831357a195174a92a4442492abc
+  mediapath: /docs/carbon-language__carbon-lang--purpose_statement_candidate--ccac37612462.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    carbon-language/carbon-lang\",\n  \"text_sha256\": \"ccac37612462c312d8a3c0460f5c75601aba9831357a195174a92a4442492abc\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-024-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"ccac37612462c312d8a3c0460f5c75601aba9831357a195174a92a4442492abc\",\n    \
+    \  \"id\": \"corpus-024-purpose\",\n      \"url\": \"https://github.com/carbon-language/carbon-lang/blob/cda1f256bb717356688e59e31681949e170c7e69/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/carbon-language/carbon-lang/cda1f256bb717356688e59e31681949e170c7e69/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:50.448013+00:00\",\n      \"version\"\
+    : \"cda1f256bb717356688e59e31681949e170c7e69\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-024-purpose.raw.md\"\
+    ,\n      \"sha256\": \"ccac37612462c312d8a3c0460f5c75601aba9831357a195174a92a4442492abc\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"ccac37612462c312d8a3c0460f5c75601aba9831357a195174a92a4442492abc\"\
+    ,\n    \"converted_sha256\": \"24703923d9eda2e72fb73897589f207f6c907f7d6d2a8ca91097d1845e63d9e0\"\
+    \n  }\n}"
+  name: carbon-language__carbon-lang--purpose_statement_candidate--ccac37612462.md
+  owner: NicolasH
+  risid: null
+name: carbon-language__carbon-lang--purpose_statement_candidate--ccac37612462.md
+path: corpus/qda-case-24/338.txt

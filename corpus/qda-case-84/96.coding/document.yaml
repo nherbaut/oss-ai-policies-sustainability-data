@@ -1,0 +1,43 @@
+hash: 695b3ccddcabd4420a062a5f54f08840994b6e9db541af5a6a625c1c27e7cc06
+id: qda-source-96@qda-case-84
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 84
+    date: '2026-11-05 22:19:55'
+    fid: 96
+    id: 95
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2077
+  content_sha256: 695b3ccddcabd4420a062a5f54f08840994b6e9db541af5a6a625c1c27e7cc06
+  date: '2026-11-05 22:19:55'
+  id: 96
+  import_metadata:
+    entity: Astropy
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 695b3ccddcabd4420a062a5f54f08840994b6e9db541af5a6a625c1c27e7cc06
+      path: data/281/policies/Astropy/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/astropy/astropy-project/blob/main/policies/ai-policy.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 695b3ccddcabd4420a062a5f54f08840994b6e9db541af5a6a625c1c27e7cc06
+  mediapath: /docs/Astropy--ai_policy--695b3ccddcab.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Astropy\",\n  \"text_sha256\": \"695b3ccddcabd4420a062a5f54f08840994b6e9db541af5a6a625c1c27e7cc06\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Astropy/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"695b3ccddcabd4420a062a5f54f08840994b6e9db541af5a6a625c1c27e7cc06\"\
+    ,\n      \"source_url_cell\": \"https://github.com/astropy/astropy-project/blob/main/policies/ai-policy.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: Astropy--ai_policy--695b3ccddcab.md
+  owner: NicolasH
+  risid: null
+name: Astropy--ai_policy--695b3ccddcab.md
+path: corpus/qda-case-84/96.txt

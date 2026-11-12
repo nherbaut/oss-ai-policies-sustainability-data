@@ -1,0 +1,58 @@
+hash: c014676bf4347cc9f683f298eb98d6873a624f28730295acbf8604f5e10158c6
+id: qda-source-598@qda-case-277
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 277
+    date: '2026-11-05 22:19:55'
+    fid: 598
+    id: 598
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10004
+  content_sha256: c014676bf4347cc9f683f298eb98d6873a624f28730295acbf8604f5e10158c6
+  date: '2026-11-05 22:19:55'
+  id: 598
+  import_metadata:
+    conversion:
+      converted_sha256: c014676bf4347cc9f683f298eb98d6873a624f28730295acbf8604f5e10158c6
+      original_sha256: 293845c0823ea2f52e0ac8de5fea14f1b6b0407280e3e7b77ca8f94e3541a7d2
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Linux Foundation
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.768969+00:00'
+      id: corpus-277-purpose
+      original_file_sha256: 293845c0823ea2f52e0ac8de5fea14f1b6b0407280e3e7b77ca8f94e3541a7d2
+      path: analysis/corpus-assessment/sources/corpus-277-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-277-purpose.html
+      resolved_url: https://www.linuxfoundation.org/about
+      role: purpose_statement_candidate
+      sha256: dd9ceaa93bff6b4604fecde3b3c33d0924558782488ea95cba9156886e7c35a5
+      url: https://www.linuxfoundation.org/about
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 293845c0823ea2f52e0ac8de5fea14f1b6b0407280e3e7b77ca8f94e3541a7d2
+  mediapath: /docs/Linux__Foundation--purpose_statement_candidate--293845c0823e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Linux Foundation\",\n  \"text_sha256\": \"293845c0823ea2f52e0ac8de5fea14f1b6b0407280e3e7b77ca8f94e3541a7d2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-277-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"293845c0823ea2f52e0ac8de5fea14f1b6b0407280e3e7b77ca8f94e3541a7d2\",\n    \
+    \  \"id\": \"corpus-277-purpose\",\n      \"url\": \"https://www.linuxfoundation.org/about\"\
+    ,\n      \"resolved_url\": \"https://www.linuxfoundation.org/about\",\n      \"\
+    accessed_at\": \"2026-11-05T19:12:16.768969+00:00\",\n      \"version\": null,\n\
+    \      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-277-purpose.html\"\
+    ,\n      \"sha256\": \"dd9ceaa93bff6b4604fecde3b3c33d0924558782488ea95cba9156886e7c35a5\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"293845c0823ea2f52e0ac8de5fea14f1b6b0407280e3e7b77ca8f94e3541a7d2\"\
+    ,\n    \"converted_sha256\": \"c014676bf4347cc9f683f298eb98d6873a624f28730295acbf8604f5e10158c6\"\
+    \n  }\n}"
+  name: Linux__Foundation--purpose_statement_candidate--293845c0823e.md
+  owner: NicolasH
+  risid: null
+name: Linux__Foundation--purpose_statement_candidate--293845c0823e.md
+path: corpus/qda-case-277/598.txt

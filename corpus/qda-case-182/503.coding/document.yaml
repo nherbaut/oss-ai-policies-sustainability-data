@@ -1,0 +1,58 @@
+hash: 06bfc31cb57797f80d2602ea9429d18014c5823fe6611615cac183010fdd4fe4
+id: qda-source-503@qda-case-182
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 182
+    date: '2026-11-05 22:19:55'
+    fid: 503
+    id: 503
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7014
+  content_sha256: 06bfc31cb57797f80d2602ea9429d18014c5823fe6611615cac183010fdd4fe4
+  date: '2026-11-05 22:19:55'
+  id: 503
+  import_metadata:
+    conversion:
+      converted_sha256: 06bfc31cb57797f80d2602ea9429d18014c5823fe6611615cac183010fdd4fe4
+      original_sha256: 3412a45b7af82b40539ff12c7956c06b5b837208cf52e43eca5e16b301d298ed
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Godot
+    provenance:
+    - accessed_at: '2026-11-05T19:12:06.629667+00:00'
+      id: corpus-182-purpose
+      original_file_sha256: 3412a45b7af82b40539ff12c7956c06b5b837208cf52e43eca5e16b301d298ed
+      path: analysis/corpus-assessment/sources/corpus-182-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-182-purpose.html
+      resolved_url: https://godotengine.org/
+      role: purpose_statement_candidate
+      sha256: e3d2c242bdf81dc7162a6915f01037392f00a5e0c3471962981d5eabc5232081
+      url: https://godotengine.org/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 3412a45b7af82b40539ff12c7956c06b5b837208cf52e43eca5e16b301d298ed
+  mediapath: /docs/Godot--purpose_statement_candidate--3412a45b7af8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Godot\",\n  \"text_sha256\": \"3412a45b7af82b40539ff12c7956c06b5b837208cf52e43eca5e16b301d298ed\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-182-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"3412a45b7af82b40539ff12c7956c06b5b837208cf52e43eca5e16b301d298ed\",\n    \
+    \  \"id\": \"corpus-182-purpose\",\n      \"url\": \"https://godotengine.org/\"\
+    ,\n      \"resolved_url\": \"https://godotengine.org/\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:12:06.629667+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-182-purpose.html\",\n      \"sha256\"\
+    : \"e3d2c242bdf81dc7162a6915f01037392f00a5e0c3471962981d5eabc5232081\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"3412a45b7af82b40539ff12c7956c06b5b837208cf52e43eca5e16b301d298ed\"\
+    ,\n    \"converted_sha256\": \"06bfc31cb57797f80d2602ea9429d18014c5823fe6611615cac183010fdd4fe4\"\
+    \n  }\n}"
+  name: Godot--purpose_statement_candidate--3412a45b7af8.md
+  owner: NicolasH
+  risid: null
+name: Godot--purpose_statement_candidate--3412a45b7af8.md
+path: corpus/qda-case-182/503.txt

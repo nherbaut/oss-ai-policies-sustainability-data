@@ -1,0 +1,50 @@
+hash: 9a130117c011abf4617d5b99cdb447deee024bbf218747666eedfe10b135edc8
+id: qda-source-236@qda-case-214
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 214
+    date: '2026-11-05 22:19:55'
+    fid: 236
+    id: 235
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 35795
+  content_sha256: 9a130117c011abf4617d5b99cdb447deee024bbf218747666eedfe10b135edc8
+  date: '2026-11-05 22:19:55'
+  id: 236
+  import_metadata:
+    conversion:
+      converted_sha256: 9a130117c011abf4617d5b99cdb447deee024bbf218747666eedfe10b135edc8
+      original_sha256: 6fd1b2a3f3b2581e44455431f43149f691d561eb1c6329f1c9826ddea597d644
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Flathub
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 6fd1b2a3f3b2581e44455431f43149f691d561eb1c6329f1c9826ddea597d644
+      path: data/281/policies/Flathub/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 6fd1b2a3f3b2581e44455431f43149f691d561eb1c6329f1c9826ddea597d644
+  mediapath: /docs/Flathub--ai_policy--6fd1b2a3f3b2.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Flathub\",\n  \"text_sha256\": \"6fd1b2a3f3b2581e44455431f43149f691d561eb1c6329f1c9826ddea597d644\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Flathub/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"6fd1b2a3f3b2581e44455431f43149f691d561eb1c6329f1c9826ddea597d644\"\
+    ,\n      \"source_url_cell\": \"https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"6fd1b2a3f3b2581e44455431f43149f691d561eb1c6329f1c9826ddea597d644\"\
+    ,\n    \"converted_sha256\": \"9a130117c011abf4617d5b99cdb447deee024bbf218747666eedfe10b135edc8\"\
+    \n  }\n}"
+  name: Flathub--ai_policy--6fd1b2a3f3b2.md
+  owner: NicolasH
+  risid: null
+name: Flathub--ai_policy--6fd1b2a3f3b2.md
+path: corpus/qda-case-214/236.txt

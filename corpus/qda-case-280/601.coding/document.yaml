@@ -1,0 +1,58 @@
+hash: e61ec75d6167c65bab520dba1e5636e95b6e5d3425618265bfaffa3b05dce37f
+id: qda-source-601@qda-case-280
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 280
+    date: '2026-11-05 22:19:55'
+    fid: 601
+    id: 601
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11872
+  content_sha256: e61ec75d6167c65bab520dba1e5636e95b6e5d3425618265bfaffa3b05dce37f
+  date: '2026-11-05 22:19:55'
+  id: 601
+  import_metadata:
+    conversion:
+      converted_sha256: e61ec75d6167c65bab520dba1e5636e95b6e5d3425618265bfaffa3b05dce37f
+      original_sha256: 355ec37d33e4e691970888c2b705925576c031adb5c928d1c94783420428aabe
+      version: oss-ai-policies/clean-markdown-v1
+    entity: zeroclaw-labs/zeroclaw
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.967846+00:00'
+      id: corpus-280-purpose
+      original_file_sha256: 355ec37d33e4e691970888c2b705925576c031adb5c928d1c94783420428aabe
+      path: analysis/corpus-assessment/sources/corpus-280-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-280-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/zeroclaw-labs/zeroclaw/08baac5c31535f7395c4ff772b6fcfd9c5e01382/README.md
+      role: purpose_statement_candidate
+      sha256: 355ec37d33e4e691970888c2b705925576c031adb5c928d1c94783420428aabe
+      url: https://github.com/zeroclaw-labs/zeroclaw/blob/08baac5c31535f7395c4ff772b6fcfd9c5e01382/README.md
+      version: 08baac5c31535f7395c4ff772b6fcfd9c5e01382
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 355ec37d33e4e691970888c2b705925576c031adb5c928d1c94783420428aabe
+  mediapath: /docs/zeroclaw-labs__zeroclaw--purpose_statement_candidate--355ec37d33e4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    zeroclaw-labs/zeroclaw\",\n  \"text_sha256\": \"355ec37d33e4e691970888c2b705925576c031adb5c928d1c94783420428aabe\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-280-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"355ec37d33e4e691970888c2b705925576c031adb5c928d1c94783420428aabe\",\n    \
+    \  \"id\": \"corpus-280-purpose\",\n      \"url\": \"https://github.com/zeroclaw-labs/zeroclaw/blob/08baac5c31535f7395c4ff772b6fcfd9c5e01382/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/zeroclaw-labs/zeroclaw/08baac5c31535f7395c4ff772b6fcfd9c5e01382/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:16.967846+00:00\",\n      \"version\"\
+    : \"08baac5c31535f7395c4ff772b6fcfd9c5e01382\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-280-purpose.raw.md\"\
+    ,\n      \"sha256\": \"355ec37d33e4e691970888c2b705925576c031adb5c928d1c94783420428aabe\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"355ec37d33e4e691970888c2b705925576c031adb5c928d1c94783420428aabe\"\
+    ,\n    \"converted_sha256\": \"e61ec75d6167c65bab520dba1e5636e95b6e5d3425618265bfaffa3b05dce37f\"\
+    \n  }\n}"
+  name: zeroclaw-labs__zeroclaw--purpose_statement_candidate--355ec37d33e4.md
+  owner: NicolasH
+  risid: null
+name: zeroclaw-labs__zeroclaw--purpose_statement_candidate--355ec37d33e4.md
+path: corpus/qda-case-280/601.txt

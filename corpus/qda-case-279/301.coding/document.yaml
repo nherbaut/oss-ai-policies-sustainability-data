@@ -1,0 +1,43 @@
+hash: 7b0ac6c3f1863a2064b065ce142ad9fe4931e9aba3177eea69929d48ba9bb929
+id: qda-source-301@qda-case-279
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 279
+    date: '2026-11-05 22:19:55'
+    fid: 301
+    id: 300
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2639
+  content_sha256: 7b0ac6c3f1863a2064b065ce142ad9fe4931e9aba3177eea69929d48ba9bb929
+  date: '2026-11-05 22:19:55'
+  id: 301
+  import_metadata:
+    entity: chromium/chromium
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 7b0ac6c3f1863a2064b065ce142ad9fe4931e9aba3177eea69929d48ba9bb929
+      path: data/281/policies/chromium/chromium/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/chromium/chromium/blob/2a263aae57a97fae5419db65f5aac9f4065c00e3/agents/ai_policy.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 7b0ac6c3f1863a2064b065ce142ad9fe4931e9aba3177eea69929d48ba9bb929
+  mediapath: /docs/chromium__chromium--ai_policy--7b0ac6c3f186.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    chromium/chromium\",\n  \"text_sha256\": \"7b0ac6c3f1863a2064b065ce142ad9fe4931e9aba3177eea69929d48ba9bb929\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/chromium/chromium/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"7b0ac6c3f1863a2064b065ce142ad9fe4931e9aba3177eea69929d48ba9bb929\"\
+    ,\n      \"source_url_cell\": \"https://github.com/chromium/chromium/blob/2a263aae57a97fae5419db65f5aac9f4065c00e3/agents/ai_policy.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: chromium__chromium--ai_policy--7b0ac6c3f186.md
+  owner: NicolasH
+  risid: null
+name: chromium__chromium--ai_policy--7b0ac6c3f186.md
+path: corpus/qda-case-279/301.txt

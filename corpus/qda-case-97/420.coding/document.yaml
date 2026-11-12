@@ -1,0 +1,58 @@
+hash: 7fc55532b3c17c8281d49daa7f55794202c58e5ddd70cfe36b6998be028d5034
+id: qda-source-420@qda-case-97
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 97
+    date: '2026-11-05 22:19:55'
+    fid: 420
+    id: 420
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11315
+  content_sha256: 7fc55532b3c17c8281d49daa7f55794202c58e5ddd70cfe36b6998be028d5034
+  date: '2026-11-05 22:19:55'
+  id: 420
+  import_metadata:
+    conversion:
+      converted_sha256: 7fc55532b3c17c8281d49daa7f55794202c58e5ddd70cfe36b6998be028d5034
+      original_sha256: 0fd3825f5fcafa803380e8704f7e06ef34258384b3f6ee8c6af1e6aa45b7540f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: rclone/rclone
+    provenance:
+    - accessed_at: '2026-11-05T19:11:58.488582+00:00'
+      id: corpus-097-purpose
+      original_file_sha256: 0fd3825f5fcafa803380e8704f7e06ef34258384b3f6ee8c6af1e6aa45b7540f
+      path: analysis/corpus-assessment/sources/corpus-097-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-097-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/rclone/rclone/2eb6f6d961ec6a2c2eedc00f547a084bd812814c/README.md
+      role: purpose_statement_candidate
+      sha256: 0fd3825f5fcafa803380e8704f7e06ef34258384b3f6ee8c6af1e6aa45b7540f
+      url: https://github.com/rclone/rclone/blob/2eb6f6d961ec6a2c2eedc00f547a084bd812814c/README.md
+      version: 2eb6f6d961ec6a2c2eedc00f547a084bd812814c
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 0fd3825f5fcafa803380e8704f7e06ef34258384b3f6ee8c6af1e6aa45b7540f
+  mediapath: /docs/rclone__rclone--purpose_statement_candidate--0fd3825f5fca.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rclone/rclone\",\n  \"text_sha256\": \"0fd3825f5fcafa803380e8704f7e06ef34258384b3f6ee8c6af1e6aa45b7540f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-097-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0fd3825f5fcafa803380e8704f7e06ef34258384b3f6ee8c6af1e6aa45b7540f\",\n    \
+    \  \"id\": \"corpus-097-purpose\",\n      \"url\": \"https://github.com/rclone/rclone/blob/2eb6f6d961ec6a2c2eedc00f547a084bd812814c/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/rclone/rclone/2eb6f6d961ec6a2c2eedc00f547a084bd812814c/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:58.488582+00:00\",\n      \"version\"\
+    : \"2eb6f6d961ec6a2c2eedc00f547a084bd812814c\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-097-purpose.raw.md\"\
+    ,\n      \"sha256\": \"0fd3825f5fcafa803380e8704f7e06ef34258384b3f6ee8c6af1e6aa45b7540f\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"0fd3825f5fcafa803380e8704f7e06ef34258384b3f6ee8c6af1e6aa45b7540f\"\
+    ,\n    \"converted_sha256\": \"7fc55532b3c17c8281d49daa7f55794202c58e5ddd70cfe36b6998be028d5034\"\
+    \n  }\n}"
+  name: rclone__rclone--purpose_statement_candidate--0fd3825f5fca.md
+  owner: NicolasH
+  risid: null
+name: rclone__rclone--purpose_statement_candidate--0fd3825f5fca.md
+path: corpus/qda-case-97/420.txt

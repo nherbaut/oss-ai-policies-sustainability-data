@@ -1,0 +1,43 @@
+hash: 18424ec6dd14c92ed1a899b2b85b0d58109c8da220c4285d7c011dc75ae049b5
+id: qda-source-101@qda-case-89
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 89
+    date: '2026-11-05 22:19:55'
+    fid: 101
+    id: 100
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9376
+  content_sha256: 18424ec6dd14c92ed1a899b2b85b0d58109c8da220c4285d7c011dc75ae049b5
+  date: '2026-11-05 22:19:55'
+  id: 101
+  import_metadata:
+    entity: pulumi/pulumi
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 18424ec6dd14c92ed1a899b2b85b0d58109c8da220c4285d7c011dc75ae049b5
+      path: data/281/policies/pulumi/pulumi/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/pulumi/pulumi/blob/54a4545731075fdf29c827012a4e82f9cd289a04/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 18424ec6dd14c92ed1a899b2b85b0d58109c8da220c4285d7c011dc75ae049b5
+  mediapath: /docs/pulumi__pulumi--contributing--18424ec6dd14.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    pulumi/pulumi\",\n  \"text_sha256\": \"18424ec6dd14c92ed1a899b2b85b0d58109c8da220c4285d7c011dc75ae049b5\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/pulumi/pulumi/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"18424ec6dd14c92ed1a899b2b85b0d58109c8da220c4285d7c011dc75ae049b5\"\
+    ,\n      \"source_url_cell\": \"https://github.com/pulumi/pulumi/blob/54a4545731075fdf29c827012a4e82f9cd289a04/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: pulumi__pulumi--contributing--18424ec6dd14.md
+  owner: NicolasH
+  risid: null
+name: pulumi__pulumi--contributing--18424ec6dd14.md
+path: corpus/qda-case-89/101.txt

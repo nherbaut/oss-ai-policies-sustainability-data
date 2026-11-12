@@ -1,0 +1,58 @@
+hash: 307ae0a48fb7a12ac4b5e371a26be04039c6b250c3991145f1a8977c491a73f2
+id: qda-source-577@qda-case-255
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 255
+    date: '2026-11-05 22:19:55'
+    fid: 577
+    id: 577
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10158
+  content_sha256: 307ae0a48fb7a12ac4b5e371a26be04039c6b250c3991145f1a8977c491a73f2
+  date: '2026-11-05 22:19:55'
+  id: 577
+  import_metadata:
+    conversion:
+      converted_sha256: 307ae0a48fb7a12ac4b5e371a26be04039c6b250c3991145f1a8977c491a73f2
+      original_sha256: 6a6c690adc2768b2fa5000a0b770adc5f7ad554076fed2bf8c9cf4938da7780f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: freetubeapp/freetube
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.877529+00:00'
+      id: corpus-255-purpose
+      original_file_sha256: 6a6c690adc2768b2fa5000a0b770adc5f7ad554076fed2bf8c9cf4938da7780f
+      path: analysis/corpus-assessment/sources/corpus-255-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-255-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/freetubeapp/freetube/0bad7e13a54053c8f7f0f708654918d53b8f4b12/README.md
+      role: purpose_statement_candidate
+      sha256: 6a6c690adc2768b2fa5000a0b770adc5f7ad554076fed2bf8c9cf4938da7780f
+      url: https://github.com/freetubeapp/freetube/blob/0bad7e13a54053c8f7f0f708654918d53b8f4b12/README.md
+      version: 0bad7e13a54053c8f7f0f708654918d53b8f4b12
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 6a6c690adc2768b2fa5000a0b770adc5f7ad554076fed2bf8c9cf4938da7780f
+  mediapath: /docs/freetubeapp__freetube--purpose_statement_candidate--6a6c690adc27.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    freetubeapp/freetube\",\n  \"text_sha256\": \"6a6c690adc2768b2fa5000a0b770adc5f7ad554076fed2bf8c9cf4938da7780f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-255-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"6a6c690adc2768b2fa5000a0b770adc5f7ad554076fed2bf8c9cf4938da7780f\",\n    \
+    \  \"id\": \"corpus-255-purpose\",\n      \"url\": \"https://github.com/freetubeapp/freetube/blob/0bad7e13a54053c8f7f0f708654918d53b8f4b12/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/freetubeapp/freetube/0bad7e13a54053c8f7f0f708654918d53b8f4b12/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.877529+00:00\",\n      \"version\"\
+    : \"0bad7e13a54053c8f7f0f708654918d53b8f4b12\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-255-purpose.raw.md\"\
+    ,\n      \"sha256\": \"6a6c690adc2768b2fa5000a0b770adc5f7ad554076fed2bf8c9cf4938da7780f\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"6a6c690adc2768b2fa5000a0b770adc5f7ad554076fed2bf8c9cf4938da7780f\"\
+    ,\n    \"converted_sha256\": \"307ae0a48fb7a12ac4b5e371a26be04039c6b250c3991145f1a8977c491a73f2\"\
+    \n  }\n}"
+  name: freetubeapp__freetube--purpose_statement_candidate--6a6c690adc27.md
+  owner: NicolasH
+  risid: null
+name: freetubeapp__freetube--purpose_statement_candidate--6a6c690adc27.md
+path: corpus/qda-case-255/577.txt

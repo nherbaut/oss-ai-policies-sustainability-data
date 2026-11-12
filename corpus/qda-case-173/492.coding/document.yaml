@@ -1,0 +1,51 @@
+hash: d381f128d6636871ffee3c7a5ed93df6c389192b7c79490d1b05e4c6b3fe9602
+id: qda-source-492@qda-case-173
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 173
+    date: '2026-11-05 22:19:55'
+    fid: 492
+    id: 492
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2223
+  content_sha256: d381f128d6636871ffee3c7a5ed93df6c389192b7c79490d1b05e4c6b3fe9602
+  date: '2026-11-05 22:19:55'
+  id: 492
+  import_metadata:
+    entity: nuitka/nuitka
+    provenance:
+    - accessed_at: '2026-11-05T19:12:05.233366+00:00'
+      id: corpus-173-other_policy-1
+      original_file_sha256: d381f128d6636871ffee3c7a5ed93df6c389192b7c79490d1b05e4c6b3fe9602
+      path: analysis/corpus-assessment/sources/corpus-173-other_policy-1.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-173-other_policy-1.raw.md
+      resolved_url: https://raw.githubusercontent.com/Nuitka/Nuitka/develop/.github/PULL_REQUEST_TEMPLATE.md
+      role: supplementary_policy
+      sha256: d381f128d6636871ffee3c7a5ed93df6c389192b7c79490d1b05e4c6b3fe9602
+      url: https://github.com/Nuitka/Nuitka/blob/develop/.github/PULL_REQUEST_TEMPLATE.md
+      version: develop
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: d381f128d6636871ffee3c7a5ed93df6c389192b7c79490d1b05e4c6b3fe9602
+  mediapath: /docs/nuitka__nuitka--supplementary_policy--d381f128d663.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    nuitka/nuitka\",\n  \"text_sha256\": \"d381f128d6636871ffee3c7a5ed93df6c389192b7c79490d1b05e4c6b3fe9602\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-173-other_policy-1.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"d381f128d6636871ffee3c7a5ed93df6c389192b7c79490d1b05e4c6b3fe9602\",\n    \
+    \  \"id\": \"corpus-173-other_policy-1\",\n      \"url\": \"https://github.com/Nuitka/Nuitka/blob/develop/.github/PULL_REQUEST_TEMPLATE.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/Nuitka/Nuitka/develop/.github/PULL_REQUEST_TEMPLATE.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:05.233366+00:00\",\n      \"version\"\
+    : \"develop\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-173-other_policy-1.raw.md\"\
+    ,\n      \"sha256\": \"d381f128d6636871ffee3c7a5ed93df6c389192b7c79490d1b05e4c6b3fe9602\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: nuitka__nuitka--supplementary_policy--d381f128d663.md
+  owner: NicolasH
+  risid: null
+name: nuitka__nuitka--supplementary_policy--d381f128d663.md
+path: corpus/qda-case-173/492.txt

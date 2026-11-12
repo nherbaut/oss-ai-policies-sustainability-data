@@ -1,0 +1,43 @@
+hash: 3e3adb5338cfd6a0a7dcfd3717e55493d8c75cfcc0eba5a4fe39d8cba63d27df
+id: qda-source-244@qda-case-222
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 222
+    date: '2026-11-05 22:19:55'
+    fid: 244
+    id: 243
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6761
+  content_sha256: 3e3adb5338cfd6a0a7dcfd3717e55493d8c75cfcc0eba5a4fe39d8cba63d27df
+  date: '2026-11-05 22:19:55'
+  id: 244
+  import_metadata:
+    entity: bmad-code-org/BMAD-METHOD
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 3e3adb5338cfd6a0a7dcfd3717e55493d8c75cfcc0eba5a4fe39d8cba63d27df
+      path: data/281/policies/bmad-code-org/BMAD-METHOD/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/bmad-code-org/BMAD-METHOD/blob/717479bc3f50f38119fd958b9e577a8bde2e0184/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 3e3adb5338cfd6a0a7dcfd3717e55493d8c75cfcc0eba5a4fe39d8cba63d27df
+  mediapath: /docs/bmad-code-org__BMAD-METHOD--contributing--3e3adb5338cf.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    bmad-code-org/BMAD-METHOD\",\n  \"text_sha256\": \"3e3adb5338cfd6a0a7dcfd3717e55493d8c75cfcc0eba5a4fe39d8cba63d27df\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/bmad-code-org/BMAD-METHOD/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"3e3adb5338cfd6a0a7dcfd3717e55493d8c75cfcc0eba5a4fe39d8cba63d27df\"\
+    ,\n      \"source_url_cell\": \"https://github.com/bmad-code-org/BMAD-METHOD/blob/717479bc3f50f38119fd958b9e577a8bde2e0184/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: bmad-code-org__BMAD-METHOD--contributing--3e3adb5338cf.md
+  owner: NicolasH
+  risid: null
+name: bmad-code-org__BMAD-METHOD--contributing--3e3adb5338cf.md
+path: corpus/qda-case-222/244.txt

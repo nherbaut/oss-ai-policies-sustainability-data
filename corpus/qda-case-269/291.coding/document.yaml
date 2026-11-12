@@ -1,0 +1,43 @@
+hash: 1aeef70401fd179792548e65cb3027d3abbae1bc56d379520a34ab0c591499b6
+id: qda-source-291@qda-case-269
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 269
+    date: '2026-11-05 22:19:55'
+    fid: 291
+    id: 290
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11271
+  content_sha256: 1aeef70401fd179792548e65cb3027d3abbae1bc56d379520a34ab0c591499b6
+  date: '2026-11-05 22:19:55'
+  id: 291
+  import_metadata:
+    entity: mintplex-labs/anything-llm
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 1aeef70401fd179792548e65cb3027d3abbae1bc56d379520a34ab0c591499b6
+      path: data/281/policies/mintplex-labs/anything-llm/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/mintplex-labs/anything-llm/blob/61766d06b77b903f66dc4afd8dffb3a39012db14/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 1aeef70401fd179792548e65cb3027d3abbae1bc56d379520a34ab0c591499b6
+  mediapath: /docs/mintplex-labs__anything-llm--contributing--1aeef70401fd.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    mintplex-labs/anything-llm\",\n  \"text_sha256\": \"1aeef70401fd179792548e65cb3027d3abbae1bc56d379520a34ab0c591499b6\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/mintplex-labs/anything-llm/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"1aeef70401fd179792548e65cb3027d3abbae1bc56d379520a34ab0c591499b6\"\
+    ,\n      \"source_url_cell\": \"https://github.com/mintplex-labs/anything-llm/blob/61766d06b77b903f66dc4afd8dffb3a39012db14/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: mintplex-labs__anything-llm--contributing--1aeef70401fd.md
+  owner: NicolasH
+  risid: null
+name: mintplex-labs__anything-llm--contributing--1aeef70401fd.md
+path: corpus/qda-case-269/291.txt

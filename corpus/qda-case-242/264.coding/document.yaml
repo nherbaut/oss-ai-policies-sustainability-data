@@ -1,0 +1,68 @@
+hash: c9a8a26bb706d9f85af97a2ed2615b7bc8952bfb16d3f8e9cd710e425225f61a
+id: qda-source-264@qda-case-242
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 242
+    date: '2026-11-05 22:19:55'
+    fid: 264
+    id: 263
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12135
+  content_sha256: c9a8a26bb706d9f85af97a2ed2615b7bc8952bfb16d3f8e9cd710e425225f61a
+  date: '2026-11-05 22:19:55'
+  id: 264
+  import_metadata:
+    conversion:
+      converted_sha256: c9a8a26bb706d9f85af97a2ed2615b7bc8952bfb16d3f8e9cd710e425225f61a
+      original_sha256: 530e038d499d9c9f330e49bd43bf2b44334df71fb5dfbe906e0007fad7c3c56d
+      version: oss-ai-policies/clean-markdown-v1
+    entity: pydantic/pydantic
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 530e038d499d9c9f330e49bd43bf2b44334df71fb5dfbe906e0007fad7c3c56d
+      path: data/281/policies/pydantic/pydantic/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://github.com/pydantic/pydantic/blob/60a3c5938aa64c527fde2fb102426de7d800146d/docs/contributing.md
+    - accessed_at: '2026-11-05T19:17:21.010323+00:00'
+      id: corpus-242-contributing-1
+      original_file_sha256: 530e038d499d9c9f330e49bd43bf2b44334df71fb5dfbe906e0007fad7c3c56d
+      path: analysis/corpus-assessment/sources/corpus-242-contributing-1.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-242-contributing-1.raw.md
+      resolved_url: https://raw.githubusercontent.com/pydantic/pydantic/60a3c5938aa64c527fde2fb102426de7d800146d/docs/contributing.md
+      role: supplementary_policy
+      sha256: 530e038d499d9c9f330e49bd43bf2b44334df71fb5dfbe906e0007fad7c3c56d
+      url: https://github.com/pydantic/pydantic/blob/60a3c5938aa64c527fde2fb102426de7d800146d/docs/contributing.md
+      version: 60a3c5938aa64c527fde2fb102426de7d800146d
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 530e038d499d9c9f330e49bd43bf2b44334df71fb5dfbe906e0007fad7c3c56d
+  mediapath: /docs/pydantic__pydantic--other_policy--530e038d499d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    pydantic/pydantic\",\n  \"text_sha256\": \"530e038d499d9c9f330e49bd43bf2b44334df71fb5dfbe906e0007fad7c3c56d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/pydantic/pydantic/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"530e038d499d9c9f330e49bd43bf2b44334df71fb5dfbe906e0007fad7c3c56d\"\
+    ,\n      \"source_url_cell\": \"https://github.com/pydantic/pydantic/blob/60a3c5938aa64c527fde2fb102426de7d800146d/docs/contributing.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    },\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-242-contributing-1.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"530e038d499d9c9f330e49bd43bf2b44334df71fb5dfbe906e0007fad7c3c56d\",\n    \
+    \  \"id\": \"corpus-242-contributing-1\",\n      \"url\": \"https://github.com/pydantic/pydantic/blob/60a3c5938aa64c527fde2fb102426de7d800146d/docs/contributing.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/pydantic/pydantic/60a3c5938aa64c527fde2fb102426de7d800146d/docs/contributing.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:17:21.010323+00:00\",\n      \"version\"\
+    : \"60a3c5938aa64c527fde2fb102426de7d800146d\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-242-contributing-1.raw.md\"\
+    ,\n      \"sha256\": \"530e038d499d9c9f330e49bd43bf2b44334df71fb5dfbe906e0007fad7c3c56d\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"530e038d499d9c9f330e49bd43bf2b44334df71fb5dfbe906e0007fad7c3c56d\"\
+    ,\n    \"converted_sha256\": \"c9a8a26bb706d9f85af97a2ed2615b7bc8952bfb16d3f8e9cd710e425225f61a\"\
+    \n  }\n}"
+  name: pydantic__pydantic--other_policy--530e038d499d.md
+  owner: NicolasH
+  risid: null
+name: pydantic__pydantic--other_policy--530e038d499d.md
+path: corpus/qda-case-242/264.txt

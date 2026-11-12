@@ -1,0 +1,51 @@
+hash: bca5383698e8c13fc255781e971918a2332600bba40fcf5a0a5e5c6b64dfe6a1
+id: qda-source-449@qda-case-127
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 127
+    date: '2026-11-05 22:19:55'
+    fid: 449
+    id: 449
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4236
+  content_sha256: bca5383698e8c13fc255781e971918a2332600bba40fcf5a0a5e5c6b64dfe6a1
+  date: '2026-11-05 22:19:55'
+  id: 449
+  import_metadata:
+    entity: microsoft/typescript-go
+    provenance:
+    - accessed_at: '2026-11-05T19:12:01.376253+00:00'
+      id: corpus-127-purpose
+      original_file_sha256: bca5383698e8c13fc255781e971918a2332600bba40fcf5a0a5e5c6b64dfe6a1
+      path: analysis/corpus-assessment/sources/corpus-127-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-127-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/microsoft/typescript-go/9ea7f6b36e9a56987d078a8fd33e63a033121683/README.md
+      role: purpose_statement_candidate
+      sha256: bca5383698e8c13fc255781e971918a2332600bba40fcf5a0a5e5c6b64dfe6a1
+      url: https://github.com/microsoft/typescript-go/blob/9ea7f6b36e9a56987d078a8fd33e63a033121683/README.md
+      version: 9ea7f6b36e9a56987d078a8fd33e63a033121683
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: bca5383698e8c13fc255781e971918a2332600bba40fcf5a0a5e5c6b64dfe6a1
+  mediapath: /docs/microsoft__typescript-go--purpose_statement_candidate--bca5383698e8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    microsoft/typescript-go\",\n  \"text_sha256\": \"bca5383698e8c13fc255781e971918a2332600bba40fcf5a0a5e5c6b64dfe6a1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-127-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"bca5383698e8c13fc255781e971918a2332600bba40fcf5a0a5e5c6b64dfe6a1\",\n    \
+    \  \"id\": \"corpus-127-purpose\",\n      \"url\": \"https://github.com/microsoft/typescript-go/blob/9ea7f6b36e9a56987d078a8fd33e63a033121683/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/microsoft/typescript-go/9ea7f6b36e9a56987d078a8fd33e63a033121683/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:01.376253+00:00\",\n      \"version\"\
+    : \"9ea7f6b36e9a56987d078a8fd33e63a033121683\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-127-purpose.raw.md\"\
+    ,\n      \"sha256\": \"bca5383698e8c13fc255781e971918a2332600bba40fcf5a0a5e5c6b64dfe6a1\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: microsoft__typescript-go--purpose_statement_candidate--bca5383698e8.md
+  owner: NicolasH
+  risid: null
+name: microsoft__typescript-go--purpose_statement_candidate--bca5383698e8.md
+path: corpus/qda-case-127/449.txt

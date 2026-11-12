@@ -1,0 +1,58 @@
+hash: 654fdf307120c2677dccfb5f262413a4a2ea2615e777b72906007e35016f87d2
+id: qda-source-584@qda-case-263
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 263
+    date: '2026-11-05 22:19:55'
+    fid: 584
+    id: 584
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5386
+  content_sha256: 654fdf307120c2677dccfb5f262413a4a2ea2615e777b72906007e35016f87d2
+  date: '2026-11-05 22:19:55'
+  id: 584
+  import_metadata:
+    conversion:
+      converted_sha256: 654fdf307120c2677dccfb5f262413a4a2ea2615e777b72906007e35016f87d2
+      original_sha256: 1749996b8e7008d4f1090f218a986991a229438b7de1191ba1744b3b2f44d78f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: gitroomhq/postiz-app
+    provenance:
+    - accessed_at: '2026-11-05T19:12:15.478285+00:00'
+      id: corpus-263-purpose
+      original_file_sha256: 1749996b8e7008d4f1090f218a986991a229438b7de1191ba1744b3b2f44d78f
+      path: analysis/corpus-assessment/sources/corpus-263-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-263-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/gitroomhq/postiz-app/9a9b2de897dcf04e1beb0e3b3ed7c2acf0ea1f84/README.md
+      role: purpose_statement_candidate
+      sha256: 1749996b8e7008d4f1090f218a986991a229438b7de1191ba1744b3b2f44d78f
+      url: https://github.com/gitroomhq/postiz-app/blob/9a9b2de897dcf04e1beb0e3b3ed7c2acf0ea1f84/README.md
+      version: 9a9b2de897dcf04e1beb0e3b3ed7c2acf0ea1f84
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 1749996b8e7008d4f1090f218a986991a229438b7de1191ba1744b3b2f44d78f
+  mediapath: /docs/gitroomhq__postiz-app--purpose_statement_candidate--1749996b8e70.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    gitroomhq/postiz-app\",\n  \"text_sha256\": \"1749996b8e7008d4f1090f218a986991a229438b7de1191ba1744b3b2f44d78f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-263-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"1749996b8e7008d4f1090f218a986991a229438b7de1191ba1744b3b2f44d78f\",\n    \
+    \  \"id\": \"corpus-263-purpose\",\n      \"url\": \"https://github.com/gitroomhq/postiz-app/blob/9a9b2de897dcf04e1beb0e3b3ed7c2acf0ea1f84/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/gitroomhq/postiz-app/9a9b2de897dcf04e1beb0e3b3ed7c2acf0ea1f84/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:15.478285+00:00\",\n      \"version\"\
+    : \"9a9b2de897dcf04e1beb0e3b3ed7c2acf0ea1f84\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-263-purpose.raw.md\"\
+    ,\n      \"sha256\": \"1749996b8e7008d4f1090f218a986991a229438b7de1191ba1744b3b2f44d78f\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"1749996b8e7008d4f1090f218a986991a229438b7de1191ba1744b3b2f44d78f\"\
+    ,\n    \"converted_sha256\": \"654fdf307120c2677dccfb5f262413a4a2ea2615e777b72906007e35016f87d2\"\
+    \n  }\n}"
+  name: gitroomhq__postiz-app--purpose_statement_candidate--1749996b8e70.md
+  owner: NicolasH
+  risid: null
+name: gitroomhq__postiz-app--purpose_statement_candidate--1749996b8e70.md
+path: corpus/qda-case-263/584.txt

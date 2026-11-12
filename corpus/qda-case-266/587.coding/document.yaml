@@ -1,0 +1,51 @@
+hash: 01253b9ef008126fdbbec5642879c7850bb919c8c2525d1bf27c5f1f86b8eb22
+id: qda-source-587@qda-case-266
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 266
+    date: '2026-11-05 22:19:55'
+    fid: 587
+    id: 587
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1966
+  content_sha256: 01253b9ef008126fdbbec5642879c7850bb919c8c2525d1bf27c5f1f86b8eb22
+  date: '2026-11-05 22:19:55'
+  id: 587
+  import_metadata:
+    entity: codemirror/codemirror5
+    provenance:
+    - accessed_at: '2026-11-05T19:12:15.847879+00:00'
+      id: corpus-266-purpose
+      original_file_sha256: 01253b9ef008126fdbbec5642879c7850bb919c8c2525d1bf27c5f1f86b8eb22
+      path: analysis/corpus-assessment/sources/corpus-266-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-266-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/codemirror/codemirror5/9b4f0603cb042286a7ac2262b98245493d0d7e4b/README.md
+      role: purpose_statement_candidate
+      sha256: 01253b9ef008126fdbbec5642879c7850bb919c8c2525d1bf27c5f1f86b8eb22
+      url: https://github.com/codemirror/codemirror5/blob/9b4f0603cb042286a7ac2262b98245493d0d7e4b/README.md
+      version: 9b4f0603cb042286a7ac2262b98245493d0d7e4b
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 01253b9ef008126fdbbec5642879c7850bb919c8c2525d1bf27c5f1f86b8eb22
+  mediapath: /docs/codemirror__codemirror5--purpose_statement_candidate--01253b9ef008.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    codemirror/codemirror5\",\n  \"text_sha256\": \"01253b9ef008126fdbbec5642879c7850bb919c8c2525d1bf27c5f1f86b8eb22\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-266-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"01253b9ef008126fdbbec5642879c7850bb919c8c2525d1bf27c5f1f86b8eb22\",\n    \
+    \  \"id\": \"corpus-266-purpose\",\n      \"url\": \"https://github.com/codemirror/codemirror5/blob/9b4f0603cb042286a7ac2262b98245493d0d7e4b/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/codemirror/codemirror5/9b4f0603cb042286a7ac2262b98245493d0d7e4b/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:15.847879+00:00\",\n      \"version\"\
+    : \"9b4f0603cb042286a7ac2262b98245493d0d7e4b\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-266-purpose.raw.md\"\
+    ,\n      \"sha256\": \"01253b9ef008126fdbbec5642879c7850bb919c8c2525d1bf27c5f1f86b8eb22\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: codemirror__codemirror5--purpose_statement_candidate--01253b9ef008.md
+  owner: NicolasH
+  risid: null
+name: codemirror__codemirror5--purpose_statement_candidate--01253b9ef008.md
+path: corpus/qda-case-266/587.txt

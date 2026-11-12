@@ -1,0 +1,58 @@
+hash: 0a5006c36ceb35d4dab31ce4cbdd7f3774fbcb91d8021b535850e4f514c9e794
+id: qda-source-343@qda-case-29
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 29
+    date: '2026-11-05 22:19:55'
+    fid: 343
+    id: 343
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6539
+  content_sha256: 0a5006c36ceb35d4dab31ce4cbdd7f3774fbcb91d8021b535850e4f514c9e794
+  date: '2026-11-05 22:19:55'
+  id: 343
+  import_metadata:
+    conversion:
+      converted_sha256: 0a5006c36ceb35d4dab31ce4cbdd7f3774fbcb91d8021b535850e4f514c9e794
+      original_sha256: 9b43adf440b64ee4b974883a4dee7483bdc7732bf06c8955549f62208fc7152a
+      version: oss-ai-policies/clean-markdown-v1
+    entity: wled/WLED
+    provenance:
+    - accessed_at: '2026-11-05T19:11:50.941443+00:00'
+      id: corpus-029-purpose
+      original_file_sha256: 9b43adf440b64ee4b974883a4dee7483bdc7732bf06c8955549f62208fc7152a
+      path: analysis/corpus-assessment/sources/corpus-029-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-029-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/wled/WLED/e39118333d3d5a9c93286243b3aa227e5ee4a713/readme.md
+      role: purpose_statement_candidate
+      sha256: 9b43adf440b64ee4b974883a4dee7483bdc7732bf06c8955549f62208fc7152a
+      url: https://github.com/wled/WLED/blob/e39118333d3d5a9c93286243b3aa227e5ee4a713/readme.md
+      version: e39118333d3d5a9c93286243b3aa227e5ee4a713
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9b43adf440b64ee4b974883a4dee7483bdc7732bf06c8955549f62208fc7152a
+  mediapath: /docs/wled__WLED--purpose_statement_candidate--9b43adf440b6.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    wled/WLED\",\n  \"text_sha256\": \"9b43adf440b64ee4b974883a4dee7483bdc7732bf06c8955549f62208fc7152a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-029-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9b43adf440b64ee4b974883a4dee7483bdc7732bf06c8955549f62208fc7152a\",\n    \
+    \  \"id\": \"corpus-029-purpose\",\n      \"url\": \"https://github.com/wled/WLED/blob/e39118333d3d5a9c93286243b3aa227e5ee4a713/readme.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/wled/WLED/e39118333d3d5a9c93286243b3aa227e5ee4a713/readme.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:50.941443+00:00\",\n      \"version\"\
+    : \"e39118333d3d5a9c93286243b3aa227e5ee4a713\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-029-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9b43adf440b64ee4b974883a4dee7483bdc7732bf06c8955549f62208fc7152a\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9b43adf440b64ee4b974883a4dee7483bdc7732bf06c8955549f62208fc7152a\"\
+    ,\n    \"converted_sha256\": \"0a5006c36ceb35d4dab31ce4cbdd7f3774fbcb91d8021b535850e4f514c9e794\"\
+    \n  }\n}"
+  name: wled__WLED--purpose_statement_candidate--9b43adf440b6.md
+  owner: NicolasH
+  risid: null
+name: wled__WLED--purpose_statement_candidate--9b43adf440b6.md
+path: corpus/qda-case-29/343.txt

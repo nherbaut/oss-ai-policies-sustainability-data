@@ -1,0 +1,43 @@
+hash: cabd15eba1dd43604398179af01f8e72e362760c88d06467873ecd0dfa734128
+id: qda-source-285@qda-case-263
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 263
+    date: '2026-11-05 22:19:55'
+    fid: 285
+    id: 284
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4406
+  content_sha256: cabd15eba1dd43604398179af01f8e72e362760c88d06467873ecd0dfa734128
+  date: '2026-11-05 22:19:55'
+  id: 285
+  import_metadata:
+    entity: gitroomhq/postiz-app
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: cabd15eba1dd43604398179af01f8e72e362760c88d06467873ecd0dfa734128
+      path: data/281/policies/gitroomhq/postiz-app/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/gitroomhq/postiz-app/blob/9a9b2de897dcf04e1beb0e3b3ed7c2acf0ea1f84/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: cabd15eba1dd43604398179af01f8e72e362760c88d06467873ecd0dfa734128
+  mediapath: /docs/gitroomhq__postiz-app--contributing--cabd15eba1dd.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    gitroomhq/postiz-app\",\n  \"text_sha256\": \"cabd15eba1dd43604398179af01f8e72e362760c88d06467873ecd0dfa734128\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/gitroomhq/postiz-app/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"cabd15eba1dd43604398179af01f8e72e362760c88d06467873ecd0dfa734128\"\
+    ,\n      \"source_url_cell\": \"https://github.com/gitroomhq/postiz-app/blob/9a9b2de897dcf04e1beb0e3b3ed7c2acf0ea1f84/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: gitroomhq__postiz-app--contributing--cabd15eba1dd.md
+  owner: NicolasH
+  risid: null
+name: gitroomhq__postiz-app--contributing--cabd15eba1dd.md
+path: corpus/qda-case-263/285.txt

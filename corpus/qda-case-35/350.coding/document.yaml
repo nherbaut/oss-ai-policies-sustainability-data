@@ -1,0 +1,58 @@
+hash: 613f6cc258ec5ebbaa12ea00e696bbcd5bba61d8c3605095b2c85be80afb7adf
+id: qda-source-350@qda-case-35
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 35
+    date: '2026-11-05 22:19:55'
+    fid: 350
+    id: 350
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11617
+  content_sha256: 613f6cc258ec5ebbaa12ea00e696bbcd5bba61d8c3605095b2c85be80afb7adf
+  date: '2026-11-05 22:19:55'
+  id: 350
+  import_metadata:
+    conversion:
+      converted_sha256: 613f6cc258ec5ebbaa12ea00e696bbcd5bba61d8c3605095b2c85be80afb7adf
+      original_sha256: 2bb4c1e0d29a516c51022a93625fd13826507e8cd973c2ef9a72ffd7a7f10f31
+      version: oss-ai-policies/clean-markdown-v1
+    entity: huggingface/peft
+    provenance:
+    - accessed_at: '2026-11-05T19:11:52.034069+00:00'
+      id: corpus-035-purpose
+      original_file_sha256: 2bb4c1e0d29a516c51022a93625fd13826507e8cd973c2ef9a72ffd7a7f10f31
+      path: analysis/corpus-assessment/sources/corpus-035-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-035-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/huggingface/peft/cea8213158c8b682acc0839405c2062d57fdf867/README.md
+      role: purpose_statement_candidate
+      sha256: 2bb4c1e0d29a516c51022a93625fd13826507e8cd973c2ef9a72ffd7a7f10f31
+      url: https://github.com/huggingface/peft/blob/cea8213158c8b682acc0839405c2062d57fdf867/README.md
+      version: cea8213158c8b682acc0839405c2062d57fdf867
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 2bb4c1e0d29a516c51022a93625fd13826507e8cd973c2ef9a72ffd7a7f10f31
+  mediapath: /docs/huggingface__peft--purpose_statement_candidate--2bb4c1e0d29a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    huggingface/peft\",\n  \"text_sha256\": \"2bb4c1e0d29a516c51022a93625fd13826507e8cd973c2ef9a72ffd7a7f10f31\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-035-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"2bb4c1e0d29a516c51022a93625fd13826507e8cd973c2ef9a72ffd7a7f10f31\",\n    \
+    \  \"id\": \"corpus-035-purpose\",\n      \"url\": \"https://github.com/huggingface/peft/blob/cea8213158c8b682acc0839405c2062d57fdf867/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/huggingface/peft/cea8213158c8b682acc0839405c2062d57fdf867/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:52.034069+00:00\",\n      \"version\"\
+    : \"cea8213158c8b682acc0839405c2062d57fdf867\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-035-purpose.raw.md\"\
+    ,\n      \"sha256\": \"2bb4c1e0d29a516c51022a93625fd13826507e8cd973c2ef9a72ffd7a7f10f31\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"2bb4c1e0d29a516c51022a93625fd13826507e8cd973c2ef9a72ffd7a7f10f31\"\
+    ,\n    \"converted_sha256\": \"613f6cc258ec5ebbaa12ea00e696bbcd5bba61d8c3605095b2c85be80afb7adf\"\
+    \n  }\n}"
+  name: huggingface__peft--purpose_statement_candidate--2bb4c1e0d29a.md
+  owner: NicolasH
+  risid: null
+name: huggingface__peft--purpose_statement_candidate--2bb4c1e0d29a.md
+path: corpus/qda-case-35/350.txt

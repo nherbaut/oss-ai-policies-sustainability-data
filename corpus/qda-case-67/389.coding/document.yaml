@@ -1,0 +1,58 @@
+hash: 9f3c38825d4e17fddfcf5bb79986be7d91652a3c77463326898ff420bd68ce04
+id: qda-source-389@qda-case-67
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 67
+    date: '2026-11-05 22:19:55'
+    fid: 389
+    id: 389
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 21852
+  content_sha256: 9f3c38825d4e17fddfcf5bb79986be7d91652a3c77463326898ff420bd68ce04
+  date: '2026-11-05 22:19:55'
+  id: 389
+  import_metadata:
+    conversion:
+      converted_sha256: 9f3c38825d4e17fddfcf5bb79986be7d91652a3c77463326898ff420bd68ce04
+      original_sha256: b39b115faba1bf21718d7e7772c6024dce46906c1fa3e2e531b5a6e322f7ff4e
+      version: oss-ai-policies/clean-markdown-v1
+    entity: ory/hydra
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.599180+00:00'
+      id: corpus-067-purpose
+      original_file_sha256: b39b115faba1bf21718d7e7772c6024dce46906c1fa3e2e531b5a6e322f7ff4e
+      path: analysis/corpus-assessment/sources/corpus-067-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-067-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/ory/hydra/6b3ddb43f3b977c6d70c78166b0bba0b8f74fae8/README.md
+      role: purpose_statement_candidate
+      sha256: b39b115faba1bf21718d7e7772c6024dce46906c1fa3e2e531b5a6e322f7ff4e
+      url: https://github.com/ory/hydra/blob/6b3ddb43f3b977c6d70c78166b0bba0b8f74fae8/README.md
+      version: 6b3ddb43f3b977c6d70c78166b0bba0b8f74fae8
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b39b115faba1bf21718d7e7772c6024dce46906c1fa3e2e531b5a6e322f7ff4e
+  mediapath: /docs/ory__hydra--purpose_statement_candidate--b39b115faba1.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ory/hydra\",\n  \"text_sha256\": \"b39b115faba1bf21718d7e7772c6024dce46906c1fa3e2e531b5a6e322f7ff4e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-067-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b39b115faba1bf21718d7e7772c6024dce46906c1fa3e2e531b5a6e322f7ff4e\",\n    \
+    \  \"id\": \"corpus-067-purpose\",\n      \"url\": \"https://github.com/ory/hydra/blob/6b3ddb43f3b977c6d70c78166b0bba0b8f74fae8/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/ory/hydra/6b3ddb43f3b977c6d70c78166b0bba0b8f74fae8/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:55.599180+00:00\",\n      \"version\"\
+    : \"6b3ddb43f3b977c6d70c78166b0bba0b8f74fae8\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-067-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b39b115faba1bf21718d7e7772c6024dce46906c1fa3e2e531b5a6e322f7ff4e\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b39b115faba1bf21718d7e7772c6024dce46906c1fa3e2e531b5a6e322f7ff4e\"\
+    ,\n    \"converted_sha256\": \"9f3c38825d4e17fddfcf5bb79986be7d91652a3c77463326898ff420bd68ce04\"\
+    \n  }\n}"
+  name: ory__hydra--purpose_statement_candidate--b39b115faba1.md
+  owner: NicolasH
+  risid: null
+name: ory__hydra--purpose_statement_candidate--b39b115faba1.md
+path: corpus/qda-case-67/389.txt

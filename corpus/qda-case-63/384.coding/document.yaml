@@ -1,0 +1,58 @@
+hash: 762ed1ed8a24dc3b015b86e0231fe1b320ca75bddfdc117c9950897b228e28e1
+id: qda-source-384@qda-case-63
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 63
+    date: '2026-11-05 22:19:55'
+    fid: 384
+    id: 384
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 18240
+  content_sha256: 762ed1ed8a24dc3b015b86e0231fe1b320ca75bddfdc117c9950897b228e28e1
+  date: '2026-11-05 22:19:55'
+  id: 384
+  import_metadata:
+    conversion:
+      converted_sha256: 762ed1ed8a24dc3b015b86e0231fe1b320ca75bddfdc117c9950897b228e28e1
+      original_sha256: 1a5c79c54e921a60221c910794ec7ff27fbab058fccde2277beb2bac4774fb56
+      version: oss-ai-policies/clean-markdown-v1
+    entity: eslint/eslint
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.378747+00:00'
+      id: corpus-063-purpose
+      original_file_sha256: 1a5c79c54e921a60221c910794ec7ff27fbab058fccde2277beb2bac4774fb56
+      path: analysis/corpus-assessment/sources/corpus-063-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-063-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/eslint/eslint/bf3eda049bd690f1e9a5a0c4520a6329b3e4ec85/README.md
+      role: purpose_statement_candidate
+      sha256: 1a5c79c54e921a60221c910794ec7ff27fbab058fccde2277beb2bac4774fb56
+      url: https://github.com/eslint/eslint/blob/bf3eda049bd690f1e9a5a0c4520a6329b3e4ec85/README.md
+      version: bf3eda049bd690f1e9a5a0c4520a6329b3e4ec85
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 1a5c79c54e921a60221c910794ec7ff27fbab058fccde2277beb2bac4774fb56
+  mediapath: /docs/eslint__eslint--purpose_statement_candidate--1a5c79c54e92.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    eslint/eslint\",\n  \"text_sha256\": \"1a5c79c54e921a60221c910794ec7ff27fbab058fccde2277beb2bac4774fb56\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-063-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"1a5c79c54e921a60221c910794ec7ff27fbab058fccde2277beb2bac4774fb56\",\n    \
+    \  \"id\": \"corpus-063-purpose\",\n      \"url\": \"https://github.com/eslint/eslint/blob/bf3eda049bd690f1e9a5a0c4520a6329b3e4ec85/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/eslint/eslint/bf3eda049bd690f1e9a5a0c4520a6329b3e4ec85/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:55.378747+00:00\",\n      \"version\"\
+    : \"bf3eda049bd690f1e9a5a0c4520a6329b3e4ec85\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-063-purpose.raw.md\"\
+    ,\n      \"sha256\": \"1a5c79c54e921a60221c910794ec7ff27fbab058fccde2277beb2bac4774fb56\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"1a5c79c54e921a60221c910794ec7ff27fbab058fccde2277beb2bac4774fb56\"\
+    ,\n    \"converted_sha256\": \"762ed1ed8a24dc3b015b86e0231fe1b320ca75bddfdc117c9950897b228e28e1\"\
+    \n  }\n}"
+  name: eslint__eslint--purpose_statement_candidate--1a5c79c54e92.md
+  owner: NicolasH
+  risid: null
+name: eslint__eslint--purpose_statement_candidate--1a5c79c54e92.md
+path: corpus/qda-case-63/384.txt

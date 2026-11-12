@@ -1,0 +1,50 @@
+hash: 11f80fcc304963c93389e5d00c977e3b151a096631255dddb6f5f96e05a1d4bf
+id: qda-source-46@qda-case-38
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 38
+    date: '2026-11-05 22:19:55'
+    fid: 46
+    id: 45
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12455
+  content_sha256: 11f80fcc304963c93389e5d00c977e3b151a096631255dddb6f5f96e05a1d4bf
+  date: '2026-11-05 22:19:55'
+  id: 46
+  import_metadata:
+    conversion:
+      converted_sha256: 11f80fcc304963c93389e5d00c977e3b151a096631255dddb6f5f96e05a1d4bf
+      original_sha256: 8cea8ee9a3a706bb9822dcf1ed053e981eb5f2d16db93561cc969da6404869b3
+      version: oss-ai-policies/clean-markdown-v1
+    entity: OpenInfra Foundation
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 8cea8ee9a3a706bb9822dcf1ed053e981eb5f2d16db93561cc969da6404869b3
+      path: data/281/policies/OpenInfra Foundation/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://openinfra.org/legal/ai-policy
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 8cea8ee9a3a706bb9822dcf1ed053e981eb5f2d16db93561cc969da6404869b3
+  mediapath: /docs/OpenInfra__Foundation--ai_policy--8cea8ee9a3a7.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    OpenInfra Foundation\",\n  \"text_sha256\": \"8cea8ee9a3a706bb9822dcf1ed053e981eb5f2d16db93561cc969da6404869b3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/OpenInfra Foundation/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"8cea8ee9a3a706bb9822dcf1ed053e981eb5f2d16db93561cc969da6404869b3\"\
+    ,\n      \"source_url_cell\": \"https://openinfra.org/legal/ai-policy\",\n   \
+    \   \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original retrieval\
+    \ date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown for\
+    \ coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\":\
+    \ \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"8cea8ee9a3a706bb9822dcf1ed053e981eb5f2d16db93561cc969da6404869b3\"\
+    ,\n    \"converted_sha256\": \"11f80fcc304963c93389e5d00c977e3b151a096631255dddb6f5f96e05a1d4bf\"\
+    \n  }\n}"
+  name: OpenInfra__Foundation--ai_policy--8cea8ee9a3a7.md
+  owner: NicolasH
+  risid: null
+name: OpenInfra__Foundation--ai_policy--8cea8ee9a3a7.md
+path: corpus/qda-case-38/46.txt

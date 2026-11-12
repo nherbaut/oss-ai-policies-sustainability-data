@@ -1,0 +1,43 @@
+hash: 6cca5931fc5c5505990f44342b9d0ce50b80e0cbe075768bc6597eeb1d9d5906
+id: qda-source-222@qda-case-199
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 199
+    date: '2026-11-05 22:19:55'
+    fid: 222
+    id: 221
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8943
+  content_sha256: 6cca5931fc5c5505990f44342b9d0ce50b80e0cbe075768bc6597eeb1d9d5906
+  date: '2026-11-05 22:19:55'
+  id: 222
+  import_metadata:
+    entity: danielmiessler/seclists
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 6cca5931fc5c5505990f44342b9d0ce50b80e0cbe075768bc6597eeb1d9d5906
+      path: data/281/policies/danielmiessler/seclists/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/danielmiessler/seclists/blob/4d994b5a1fefd3c128e334031ef7cb4cc77f98d7/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 6cca5931fc5c5505990f44342b9d0ce50b80e0cbe075768bc6597eeb1d9d5906
+  mediapath: /docs/danielmiessler__seclists--contributing--6cca5931fc5c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    danielmiessler/seclists\",\n  \"text_sha256\": \"6cca5931fc5c5505990f44342b9d0ce50b80e0cbe075768bc6597eeb1d9d5906\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/danielmiessler/seclists/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"6cca5931fc5c5505990f44342b9d0ce50b80e0cbe075768bc6597eeb1d9d5906\"\
+    ,\n      \"source_url_cell\": \"https://github.com/danielmiessler/seclists/blob/4d994b5a1fefd3c128e334031ef7cb4cc77f98d7/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: danielmiessler__seclists--contributing--6cca5931fc5c.md
+  owner: NicolasH
+  risid: null
+name: danielmiessler__seclists--contributing--6cca5931fc5c.md
+path: corpus/qda-case-199/222.txt

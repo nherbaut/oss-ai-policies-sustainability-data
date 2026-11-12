@@ -1,0 +1,58 @@
+hash: 6d051944112c7db57d9d56549e53765b0de3404549c6933a1e5ba11a60e11414
+id: qda-source-422@qda-case-99
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 99
+    date: '2026-11-05 22:19:55'
+    fid: 422
+    id: 422
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9066
+  content_sha256: 6d051944112c7db57d9d56549e53765b0de3404549c6933a1e5ba11a60e11414
+  date: '2026-11-05 22:19:55'
+  id: 422
+  import_metadata:
+    conversion:
+      converted_sha256: 6d051944112c7db57d9d56549e53765b0de3404549c6933a1e5ba11a60e11414
+      original_sha256: 03bd2166cde853d8c3d8ae1ba9c20b9575877042d6b428b77028098237db57b4
+      version: oss-ai-policies/clean-markdown-v1
+    entity: jhipster/generator-jhipster
+    provenance:
+    - accessed_at: '2026-11-05T19:11:58.873845+00:00'
+      id: corpus-099-purpose
+      original_file_sha256: 03bd2166cde853d8c3d8ae1ba9c20b9575877042d6b428b77028098237db57b4
+      path: analysis/corpus-assessment/sources/corpus-099-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-099-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/jhipster/generator-jhipster/b05bced40c5fe6596145340ba233e262e6865881/README.md
+      role: purpose_statement_candidate
+      sha256: 03bd2166cde853d8c3d8ae1ba9c20b9575877042d6b428b77028098237db57b4
+      url: https://github.com/jhipster/generator-jhipster/blob/b05bced40c5fe6596145340ba233e262e6865881/README.md
+      version: b05bced40c5fe6596145340ba233e262e6865881
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 03bd2166cde853d8c3d8ae1ba9c20b9575877042d6b428b77028098237db57b4
+  mediapath: /docs/jhipster__generator-jhipster--purpose_statement_candidate--03bd2166cde8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    jhipster/generator-jhipster\",\n  \"text_sha256\": \"03bd2166cde853d8c3d8ae1ba9c20b9575877042d6b428b77028098237db57b4\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-099-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"03bd2166cde853d8c3d8ae1ba9c20b9575877042d6b428b77028098237db57b4\",\n    \
+    \  \"id\": \"corpus-099-purpose\",\n      \"url\": \"https://github.com/jhipster/generator-jhipster/blob/b05bced40c5fe6596145340ba233e262e6865881/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/jhipster/generator-jhipster/b05bced40c5fe6596145340ba233e262e6865881/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:58.873845+00:00\",\n      \"version\"\
+    : \"b05bced40c5fe6596145340ba233e262e6865881\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-099-purpose.raw.md\"\
+    ,\n      \"sha256\": \"03bd2166cde853d8c3d8ae1ba9c20b9575877042d6b428b77028098237db57b4\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"03bd2166cde853d8c3d8ae1ba9c20b9575877042d6b428b77028098237db57b4\"\
+    ,\n    \"converted_sha256\": \"6d051944112c7db57d9d56549e53765b0de3404549c6933a1e5ba11a60e11414\"\
+    \n  }\n}"
+  name: jhipster__generator-jhipster--purpose_statement_candidate--03bd2166cde8.md
+  owner: NicolasH
+  risid: null
+name: jhipster__generator-jhipster--purpose_statement_candidate--03bd2166cde8.md
+path: corpus/qda-case-99/422.txt

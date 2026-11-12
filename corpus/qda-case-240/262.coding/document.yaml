@@ -1,0 +1,43 @@
+hash: 38d5a0879da77ef822b5732bc568b5b4d30772121d5c56211711d39a5dd16fa3
+id: qda-source-262@qda-case-240
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 240
+    date: '2026-11-05 22:19:55'
+    fid: 262
+    id: 261
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6682
+  content_sha256: 38d5a0879da77ef822b5732bc568b5b4d30772121d5c56211711d39a5dd16fa3
+  date: '2026-11-05 22:19:55'
+  id: 262
+  import_metadata:
+    entity: microsoft/playwright-mcp
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 38d5a0879da77ef822b5732bc568b5b4d30772121d5c56211711d39a5dd16fa3
+      path: data/281/policies/microsoft/playwright-mcp/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/microsoft/playwright-mcp/blob/55679f5f3d4b4f3e2534ec0ce2fc5683ba2eaf3f/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 38d5a0879da77ef822b5732bc568b5b4d30772121d5c56211711d39a5dd16fa3
+  mediapath: /docs/microsoft__playwright-mcp--contributing--38d5a0879da7.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    microsoft/playwright-mcp\",\n  \"text_sha256\": \"38d5a0879da77ef822b5732bc568b5b4d30772121d5c56211711d39a5dd16fa3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/microsoft/playwright-mcp/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"38d5a0879da77ef822b5732bc568b5b4d30772121d5c56211711d39a5dd16fa3\"\
+    ,\n      \"source_url_cell\": \"https://github.com/microsoft/playwright-mcp/blob/55679f5f3d4b4f3e2534ec0ce2fc5683ba2eaf3f/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: microsoft__playwright-mcp--contributing--38d5a0879da7.md
+  owner: NicolasH
+  risid: null
+name: microsoft__playwright-mcp--contributing--38d5a0879da7.md
+path: corpus/qda-case-240/262.txt

@@ -1,0 +1,58 @@
+hash: 0594b7191399827fbf53e6439226926e4e0ebb107c0304a2c7b551a77df08e7c
+id: qda-source-484@qda-case-165
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 165
+    date: '2026-11-05 22:19:55'
+    fid: 484
+    id: 484
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8854
+  content_sha256: 0594b7191399827fbf53e6439226926e4e0ebb107c0304a2c7b551a77df08e7c
+  date: '2026-11-05 22:19:55'
+  id: 484
+  import_metadata:
+    conversion:
+      converted_sha256: 0594b7191399827fbf53e6439226926e4e0ebb107c0304a2c7b551a77df08e7c
+      original_sha256: a20ac1762cd6bd08803d57f078c9e5215045b4dde00de226afb047be309ee556
+      version: oss-ai-policies/clean-markdown-v1
+    entity: zauberzeug/nicegui
+    provenance:
+    - accessed_at: '2026-11-05T19:12:04.029547+00:00'
+      id: corpus-165-purpose
+      original_file_sha256: a20ac1762cd6bd08803d57f078c9e5215045b4dde00de226afb047be309ee556
+      path: analysis/corpus-assessment/sources/corpus-165-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-165-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/zauberzeug/nicegui/265ca104632ec2f2f833c00464fff84ebb3873c0/README.md
+      role: purpose_statement_candidate
+      sha256: a20ac1762cd6bd08803d57f078c9e5215045b4dde00de226afb047be309ee556
+      url: https://github.com/zauberzeug/nicegui/blob/265ca104632ec2f2f833c00464fff84ebb3873c0/README.md
+      version: 265ca104632ec2f2f833c00464fff84ebb3873c0
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: a20ac1762cd6bd08803d57f078c9e5215045b4dde00de226afb047be309ee556
+  mediapath: /docs/zauberzeug__nicegui--purpose_statement_candidate--a20ac1762cd6.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    zauberzeug/nicegui\",\n  \"text_sha256\": \"a20ac1762cd6bd08803d57f078c9e5215045b4dde00de226afb047be309ee556\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-165-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"a20ac1762cd6bd08803d57f078c9e5215045b4dde00de226afb047be309ee556\",\n    \
+    \  \"id\": \"corpus-165-purpose\",\n      \"url\": \"https://github.com/zauberzeug/nicegui/blob/265ca104632ec2f2f833c00464fff84ebb3873c0/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/zauberzeug/nicegui/265ca104632ec2f2f833c00464fff84ebb3873c0/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:04.029547+00:00\",\n      \"version\"\
+    : \"265ca104632ec2f2f833c00464fff84ebb3873c0\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-165-purpose.raw.md\"\
+    ,\n      \"sha256\": \"a20ac1762cd6bd08803d57f078c9e5215045b4dde00de226afb047be309ee556\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"a20ac1762cd6bd08803d57f078c9e5215045b4dde00de226afb047be309ee556\"\
+    ,\n    \"converted_sha256\": \"0594b7191399827fbf53e6439226926e4e0ebb107c0304a2c7b551a77df08e7c\"\
+    \n  }\n}"
+  name: zauberzeug__nicegui--purpose_statement_candidate--a20ac1762cd6.md
+  owner: NicolasH
+  risid: null
+name: zauberzeug__nicegui--purpose_statement_candidate--a20ac1762cd6.md
+path: corpus/qda-case-165/484.txt

@@ -1,0 +1,51 @@
+hash: 9ba4bd94949470de8cc21e6a3b11465d3a8b22770487df725e5cfea0282dcad9
+id: qda-source-431@qda-case-108
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 108
+    date: '2026-11-05 22:19:55'
+    fid: 431
+    id: 431
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11726
+  content_sha256: 9ba4bd94949470de8cc21e6a3b11465d3a8b22770487df725e5cfea0282dcad9
+  date: '2026-11-05 22:19:55'
+  id: 431
+  import_metadata:
+    entity: containerd/containerd
+    provenance:
+    - accessed_at: '2026-11-05T19:11:59.775897+00:00'
+      id: corpus-108-purpose
+      original_file_sha256: 9ba4bd94949470de8cc21e6a3b11465d3a8b22770487df725e5cfea0282dcad9
+      path: analysis/corpus-assessment/sources/corpus-108-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-108-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/containerd/containerd/1ab181cb645ad156606a68d3fca83dd59ebf7fd8/README.md
+      role: purpose_statement_candidate
+      sha256: 9ba4bd94949470de8cc21e6a3b11465d3a8b22770487df725e5cfea0282dcad9
+      url: https://github.com/containerd/containerd/blob/1ab181cb645ad156606a68d3fca83dd59ebf7fd8/README.md
+      version: 1ab181cb645ad156606a68d3fca83dd59ebf7fd8
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 9ba4bd94949470de8cc21e6a3b11465d3a8b22770487df725e5cfea0282dcad9
+  mediapath: /docs/containerd__containerd--purpose_statement_candidate--9ba4bd949494.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    containerd/containerd\",\n  \"text_sha256\": \"9ba4bd94949470de8cc21e6a3b11465d3a8b22770487df725e5cfea0282dcad9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-108-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9ba4bd94949470de8cc21e6a3b11465d3a8b22770487df725e5cfea0282dcad9\",\n    \
+    \  \"id\": \"corpus-108-purpose\",\n      \"url\": \"https://github.com/containerd/containerd/blob/1ab181cb645ad156606a68d3fca83dd59ebf7fd8/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/containerd/containerd/1ab181cb645ad156606a68d3fca83dd59ebf7fd8/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:59.775897+00:00\",\n      \"version\"\
+    : \"1ab181cb645ad156606a68d3fca83dd59ebf7fd8\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-108-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9ba4bd94949470de8cc21e6a3b11465d3a8b22770487df725e5cfea0282dcad9\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: containerd__containerd--purpose_statement_candidate--9ba4bd949494.md
+  owner: NicolasH
+  risid: null
+name: containerd__containerd--purpose_statement_candidate--9ba4bd949494.md
+path: corpus/qda-case-108/431.txt

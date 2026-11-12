@@ -1,0 +1,58 @@
+hash: 9ed459ecd55f1a8b1131e4f695d96728b7e25e68de1f70b55d6e26d6c6ec968e
+id: qda-source-457@qda-case-137
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 137
+    date: '2026-11-05 22:19:55'
+    fid: 457
+    id: 457
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8079
+  content_sha256: 9ed459ecd55f1a8b1131e4f695d96728b7e25e68de1f70b55d6e26d6c6ec968e
+  date: '2026-11-05 22:19:55'
+  id: 457
+  import_metadata:
+    conversion:
+      converted_sha256: 9ed459ecd55f1a8b1131e4f695d96728b7e25e68de1f70b55d6e26d6c6ec968e
+      original_sha256: e4a04757d18b9416f09bf607d239565b84938bf13f9b06b6961ef15ed84f95c8
+      version: oss-ai-policies/clean-markdown-v1
+    entity: biomejs/biome
+    provenance:
+    - accessed_at: '2026-11-05T19:24:22.349916+00:00'
+      id: corpus-137-followup
+      original_file_sha256: e4a04757d18b9416f09bf607d239565b84938bf13f9b06b6961ef15ed84f95c8
+      path: analysis/corpus-assessment/sources/corpus-137-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-137-followup.raw.md
+      resolved_url: https://raw.githubusercontent.com/biomejs/biome/b3b12b3fe390feabbd9ba097922d6c7e56823406/packages/@biomejs/biome/README.md
+      role: purpose_statement_candidate
+      sha256: e4a04757d18b9416f09bf607d239565b84938bf13f9b06b6961ef15ed84f95c8
+      url: https://github.com/biomejs/biome/blob/b3b12b3fe390feabbd9ba097922d6c7e56823406/packages/@biomejs/biome/README.md
+      version: b3b12b3fe390feabbd9ba097922d6c7e56823406
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e4a04757d18b9416f09bf607d239565b84938bf13f9b06b6961ef15ed84f95c8
+  mediapath: /docs/biomejs__biome--purpose_statement_candidate--e4a04757d18b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    biomejs/biome\",\n  \"text_sha256\": \"e4a04757d18b9416f09bf607d239565b84938bf13f9b06b6961ef15ed84f95c8\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-137-followup.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e4a04757d18b9416f09bf607d239565b84938bf13f9b06b6961ef15ed84f95c8\",\n    \
+    \  \"id\": \"corpus-137-followup\",\n      \"url\": \"https://github.com/biomejs/biome/blob/b3b12b3fe390feabbd9ba097922d6c7e56823406/packages/@biomejs/biome/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/biomejs/biome/b3b12b3fe390feabbd9ba097922d6c7e56823406/packages/@biomejs/biome/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:24:22.349916+00:00\",\n      \"version\"\
+    : \"b3b12b3fe390feabbd9ba097922d6c7e56823406\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-137-followup.raw.md\"\
+    ,\n      \"sha256\": \"e4a04757d18b9416f09bf607d239565b84938bf13f9b06b6961ef15ed84f95c8\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e4a04757d18b9416f09bf607d239565b84938bf13f9b06b6961ef15ed84f95c8\"\
+    ,\n    \"converted_sha256\": \"9ed459ecd55f1a8b1131e4f695d96728b7e25e68de1f70b55d6e26d6c6ec968e\"\
+    \n  }\n}"
+  name: biomejs__biome--purpose_statement_candidate--e4a04757d18b.md
+  owner: NicolasH
+  risid: null
+name: biomejs__biome--purpose_statement_candidate--e4a04757d18b.md
+path: corpus/qda-case-137/457.txt

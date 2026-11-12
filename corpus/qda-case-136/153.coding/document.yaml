@@ -1,0 +1,43 @@
+hash: bbcb13ea22aa33eb88e055e3b98d7b5ffc2225f99f2457e2cdeb5f6aa1f143f2
+id: qda-source-153@qda-case-136
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 136
+    date: '2026-11-05 22:19:55'
+    fid: 153
+    id: 152
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1795
+  content_sha256: bbcb13ea22aa33eb88e055e3b98d7b5ffc2225f99f2457e2cdeb5f6aa1f143f2
+  date: '2026-11-05 22:19:55'
+  id: 153
+  import_metadata:
+    entity: graphiteeditor/graphite
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: bbcb13ea22aa33eb88e055e3b98d7b5ffc2225f99f2457e2cdeb5f6aa1f143f2
+      path: data/281/policies/graphiteeditor/graphite/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/graphiteeditor/graphite/blob/a040362d4a56a7ffac08c57697e409dc427a2694/website/content/volunteer/guide/starting-a-task/ai-contribution-policy.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: bbcb13ea22aa33eb88e055e3b98d7b5ffc2225f99f2457e2cdeb5f6aa1f143f2
+  mediapath: /docs/graphiteeditor__graphite--ai_policy--bbcb13ea22aa.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    graphiteeditor/graphite\",\n  \"text_sha256\": \"bbcb13ea22aa33eb88e055e3b98d7b5ffc2225f99f2457e2cdeb5f6aa1f143f2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/graphiteeditor/graphite/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"bbcb13ea22aa33eb88e055e3b98d7b5ffc2225f99f2457e2cdeb5f6aa1f143f2\"\
+    ,\n      \"source_url_cell\": \"https://github.com/graphiteeditor/graphite/blob/a040362d4a56a7ffac08c57697e409dc427a2694/website/content/volunteer/guide/starting-a-task/ai-contribution-policy.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: graphiteeditor__graphite--ai_policy--bbcb13ea22aa.md
+  owner: NicolasH
+  risid: null
+name: graphiteeditor__graphite--ai_policy--bbcb13ea22aa.md
+path: corpus/qda-case-136/153.txt

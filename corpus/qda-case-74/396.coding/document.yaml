@@ -1,0 +1,58 @@
+hash: ae92935938d6da248d4b05a080c7135518d2dc9a7ae94d0e69ce06052dcc03eb
+id: qda-source-396@qda-case-74
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 74
+    date: '2026-11-05 22:19:55'
+    fid: 396
+    id: 396
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7386
+  content_sha256: ae92935938d6da248d4b05a080c7135518d2dc9a7ae94d0e69ce06052dcc03eb
+  date: '2026-11-05 22:19:55'
+  id: 396
+  import_metadata:
+    conversion:
+      converted_sha256: ae92935938d6da248d4b05a080c7135518d2dc9a7ae94d0e69ce06052dcc03eb
+      original_sha256: 5b404b806a7be9844b7e17e6e7e4622811c2a6a6f3987c45444a9c4ddd3925a7
+      version: oss-ai-policies/clean-markdown-v1
+    entity: python/mypy
+    provenance:
+    - accessed_at: '2026-11-05T19:11:56.363250+00:00'
+      id: corpus-074-purpose
+      original_file_sha256: 5b404b806a7be9844b7e17e6e7e4622811c2a6a6f3987c45444a9c4ddd3925a7
+      path: analysis/corpus-assessment/sources/corpus-074-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-074-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/python/mypy/82e8498c19494edebee08dd615470443ec53fffc/README.md
+      role: purpose_statement_candidate
+      sha256: 5b404b806a7be9844b7e17e6e7e4622811c2a6a6f3987c45444a9c4ddd3925a7
+      url: https://github.com/python/mypy/blob/82e8498c19494edebee08dd615470443ec53fffc/README.md
+      version: 82e8498c19494edebee08dd615470443ec53fffc
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 5b404b806a7be9844b7e17e6e7e4622811c2a6a6f3987c45444a9c4ddd3925a7
+  mediapath: /docs/python__mypy--purpose_statement_candidate--5b404b806a7b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    python/mypy\",\n  \"text_sha256\": \"5b404b806a7be9844b7e17e6e7e4622811c2a6a6f3987c45444a9c4ddd3925a7\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-074-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5b404b806a7be9844b7e17e6e7e4622811c2a6a6f3987c45444a9c4ddd3925a7\",\n    \
+    \  \"id\": \"corpus-074-purpose\",\n      \"url\": \"https://github.com/python/mypy/blob/82e8498c19494edebee08dd615470443ec53fffc/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/python/mypy/82e8498c19494edebee08dd615470443ec53fffc/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:56.363250+00:00\",\n      \"version\"\
+    : \"82e8498c19494edebee08dd615470443ec53fffc\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-074-purpose.raw.md\"\
+    ,\n      \"sha256\": \"5b404b806a7be9844b7e17e6e7e4622811c2a6a6f3987c45444a9c4ddd3925a7\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"5b404b806a7be9844b7e17e6e7e4622811c2a6a6f3987c45444a9c4ddd3925a7\"\
+    ,\n    \"converted_sha256\": \"ae92935938d6da248d4b05a080c7135518d2dc9a7ae94d0e69ce06052dcc03eb\"\
+    \n  }\n}"
+  name: python__mypy--purpose_statement_candidate--5b404b806a7b.md
+  owner: NicolasH
+  risid: null
+name: python__mypy--purpose_statement_candidate--5b404b806a7b.md
+path: corpus/qda-case-74/396.txt

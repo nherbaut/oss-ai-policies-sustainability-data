@@ -1,0 +1,51 @@
+hash: 688b066ecaa8dff767466cafd66f59e484b71f3d4d341ba6c8212bb28c4305e6
+id: qda-source-600@qda-case-279
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 279
+    date: '2026-11-05 22:19:55'
+    fid: 600
+    id: 600
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 969
+  content_sha256: 688b066ecaa8dff767466cafd66f59e484b71f3d4d341ba6c8212bb28c4305e6
+  date: '2026-11-05 22:19:55'
+  id: 600
+  import_metadata:
+    entity: chromium/chromium
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.876889+00:00'
+      id: corpus-279-purpose
+      original_file_sha256: 688b066ecaa8dff767466cafd66f59e484b71f3d4d341ba6c8212bb28c4305e6
+      path: analysis/corpus-assessment/sources/corpus-279-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-279-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/chromium/chromium/2a263aae57a97fae5419db65f5aac9f4065c00e3/README.md
+      role: purpose_statement_candidate
+      sha256: 688b066ecaa8dff767466cafd66f59e484b71f3d4d341ba6c8212bb28c4305e6
+      url: https://github.com/chromium/chromium/blob/2a263aae57a97fae5419db65f5aac9f4065c00e3/README.md
+      version: 2a263aae57a97fae5419db65f5aac9f4065c00e3
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 688b066ecaa8dff767466cafd66f59e484b71f3d4d341ba6c8212bb28c4305e6
+  mediapath: /docs/chromium__chromium--purpose_statement_candidate--688b066ecaa8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    chromium/chromium\",\n  \"text_sha256\": \"688b066ecaa8dff767466cafd66f59e484b71f3d4d341ba6c8212bb28c4305e6\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-279-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"688b066ecaa8dff767466cafd66f59e484b71f3d4d341ba6c8212bb28c4305e6\",\n    \
+    \  \"id\": \"corpus-279-purpose\",\n      \"url\": \"https://github.com/chromium/chromium/blob/2a263aae57a97fae5419db65f5aac9f4065c00e3/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/chromium/chromium/2a263aae57a97fae5419db65f5aac9f4065c00e3/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:16.876889+00:00\",\n      \"version\"\
+    : \"2a263aae57a97fae5419db65f5aac9f4065c00e3\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-279-purpose.raw.md\"\
+    ,\n      \"sha256\": \"688b066ecaa8dff767466cafd66f59e484b71f3d4d341ba6c8212bb28c4305e6\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: chromium__chromium--purpose_statement_candidate--688b066ecaa8.md
+  owner: NicolasH
+  risid: null
+name: chromium__chromium--purpose_statement_candidate--688b066ecaa8.md
+path: corpus/qda-case-279/600.txt

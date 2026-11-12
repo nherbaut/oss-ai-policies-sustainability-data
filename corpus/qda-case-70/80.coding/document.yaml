@@ -1,0 +1,43 @@
+hash: 87d384fca42a50ada93b392ac4037667b2586153a2c46e6927d946fc23e38d1d
+id: qda-source-80@qda-case-70
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 70
+    date: '2026-11-05 22:19:55'
+    fid: 80
+    id: 79
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2479
+  content_sha256: 87d384fca42a50ada93b392ac4037667b2586153a2c46e6927d946fc23e38d1d
+  date: '2026-11-05 22:19:55'
+  id: 80
+  import_metadata:
+    entity: huggingface/lerobot
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 87d384fca42a50ada93b392ac4037667b2586153a2c46e6927d946fc23e38d1d
+      path: data/281/policies/huggingface/lerobot/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/huggingface/lerobot/blob/3f2179f3b69708b6ad009b2e7685dd9d05269ee1/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 87d384fca42a50ada93b392ac4037667b2586153a2c46e6927d946fc23e38d1d
+  mediapath: /docs/huggingface__lerobot--ai_policy--87d384fca42a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    huggingface/lerobot\",\n  \"text_sha256\": \"87d384fca42a50ada93b392ac4037667b2586153a2c46e6927d946fc23e38d1d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/huggingface/lerobot/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"87d384fca42a50ada93b392ac4037667b2586153a2c46e6927d946fc23e38d1d\"\
+    ,\n      \"source_url_cell\": \"https://github.com/huggingface/lerobot/blob/3f2179f3b69708b6ad009b2e7685dd9d05269ee1/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: huggingface__lerobot--ai_policy--87d384fca42a.md
+  owner: NicolasH
+  risid: null
+name: huggingface__lerobot--ai_policy--87d384fca42a.md
+path: corpus/qda-case-70/80.txt

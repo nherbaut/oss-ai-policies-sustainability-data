@@ -1,0 +1,58 @@
+hash: 8e2737f5e514e963682ba47d07ee417d4060049005f5265e01cf8c1efbbd5aa9
+id: qda-source-314@qda-case-81
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 81
+    date: '2026-11-05 22:19:55'
+    fid: 314
+    id: 314
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5322
+  content_sha256: 8e2737f5e514e963682ba47d07ee417d4060049005f5265e01cf8c1efbbd5aa9
+  date: '2026-11-05 22:19:55'
+  id: 314
+  import_metadata:
+    conversion:
+      converted_sha256: 8e2737f5e514e963682ba47d07ee417d4060049005f5265e01cf8c1efbbd5aa9
+      original_sha256: db8ff4de3e034289f335c1ae5527d41f3142b2ea9c2002967be5cf5f0e7d39d7
+      version: oss-ai-policies/clean-markdown-v1
+    entity: tauri-apps/tauri
+    provenance:
+    - accessed_at: '2026-11-05T16:00:21.153279+00:00'
+      id: 10-purpose
+      original_file_sha256: db8ff4de3e034289f335c1ae5527d41f3142b2ea9c2002967be5cf5f0e7d39d7
+      path: analysis/feasibility-pilot/sources/10-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/10-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/tauri-apps/tauri/5b19ac9f19956cf6a318f4f01ffbf17b73d0b3a1/README.md
+      role: purpose_statement_candidate
+      sha256: db8ff4de3e034289f335c1ae5527d41f3142b2ea9c2002967be5cf5f0e7d39d7
+      url: https://github.com/tauri-apps/tauri/blob/5b19ac9f19956cf6a318f4f01ffbf17b73d0b3a1/README.md
+      version: 5b19ac9f19956cf6a318f4f01ffbf17b73d0b3a1
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: db8ff4de3e034289f335c1ae5527d41f3142b2ea9c2002967be5cf5f0e7d39d7
+  mediapath: /docs/tauri-apps__tauri--purpose_statement_candidate--db8ff4de3e03.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    tauri-apps/tauri\",\n  \"text_sha256\": \"db8ff4de3e034289f335c1ae5527d41f3142b2ea9c2002967be5cf5f0e7d39d7\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/10-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"db8ff4de3e034289f335c1ae5527d41f3142b2ea9c2002967be5cf5f0e7d39d7\",\n    \
+    \  \"id\": \"10-purpose\",\n      \"url\": \"https://github.com/tauri-apps/tauri/blob/5b19ac9f19956cf6a318f4f01ffbf17b73d0b3a1/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/tauri-apps/tauri/5b19ac9f19956cf6a318f4f01ffbf17b73d0b3a1/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:21.153279+00:00\",\n      \"version\"\
+    : \"5b19ac9f19956cf6a318f4f01ffbf17b73d0b3a1\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/10-purpose.raw.md\"\
+    ,\n      \"sha256\": \"db8ff4de3e034289f335c1ae5527d41f3142b2ea9c2002967be5cf5f0e7d39d7\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"db8ff4de3e034289f335c1ae5527d41f3142b2ea9c2002967be5cf5f0e7d39d7\"\
+    ,\n    \"converted_sha256\": \"8e2737f5e514e963682ba47d07ee417d4060049005f5265e01cf8c1efbbd5aa9\"\
+    \n  }\n}"
+  name: tauri-apps__tauri--purpose_statement_candidate--db8ff4de3e03.md
+  owner: NicolasH
+  risid: null
+name: tauri-apps__tauri--purpose_statement_candidate--db8ff4de3e03.md
+path: corpus/qda-case-81/314.txt

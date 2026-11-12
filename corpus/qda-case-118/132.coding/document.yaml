@@ -1,0 +1,43 @@
+hash: 33b34be07fecc9f754e20d1d6d7419d4405d654ca9d887ac6104283bccbddb15
+id: qda-source-132@qda-case-118
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 118
+    date: '2026-11-05 22:19:55'
+    fid: 132
+    id: 131
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1653
+  content_sha256: 33b34be07fecc9f754e20d1d6d7419d4405d654ca9d887ac6104283bccbddb15
+  date: '2026-11-05 22:19:55'
+  id: 132
+  import_metadata:
+    entity: alibaba/page-agent
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 33b34be07fecc9f754e20d1d6d7419d4405d654ca9d887ac6104283bccbddb15
+      path: data/281/policies/alibaba/page-agent/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/alibaba/page-agent/blob/e053d55a1428ac280d952596811f44ebefd89b07/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 33b34be07fecc9f754e20d1d6d7419d4405d654ca9d887ac6104283bccbddb15
+  mediapath: /docs/alibaba__page-agent--contributing--33b34be07fec.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    alibaba/page-agent\",\n  \"text_sha256\": \"33b34be07fecc9f754e20d1d6d7419d4405d654ca9d887ac6104283bccbddb15\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/alibaba/page-agent/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"33b34be07fecc9f754e20d1d6d7419d4405d654ca9d887ac6104283bccbddb15\"\
+    ,\n      \"source_url_cell\": \"https://github.com/alibaba/page-agent/blob/e053d55a1428ac280d952596811f44ebefd89b07/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: alibaba__page-agent--contributing--33b34be07fec.md
+  owner: NicolasH
+  risid: null
+name: alibaba__page-agent--contributing--33b34be07fec.md
+path: corpus/qda-case-118/132.txt

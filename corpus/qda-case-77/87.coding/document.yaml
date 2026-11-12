@@ -1,0 +1,43 @@
+hash: e15f3f7eb6efd9eafc462fc256a3d614641801cbc2fae6aabf628a43a1b243c1
+id: qda-source-87@qda-case-77
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 77
+    date: '2026-11-05 22:19:55'
+    fid: 87
+    id: 86
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2248
+  content_sha256: e15f3f7eb6efd9eafc462fc256a3d614641801cbc2fae6aabf628a43a1b243c1
+  date: '2026-11-05 22:19:55'
+  id: 87
+  import_metadata:
+    entity: duckdb/duckdb
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: e15f3f7eb6efd9eafc462fc256a3d614641801cbc2fae6aabf628a43a1b243c1
+      path: data/281/policies/duckdb/duckdb/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/duckdb/duckdb/blob/7c0fa265df67f4d8ed5cc4f94910c5677d127afd/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: e15f3f7eb6efd9eafc462fc256a3d614641801cbc2fae6aabf628a43a1b243c1
+  mediapath: /docs/duckdb__duckdb--ai_policy--e15f3f7eb6ef.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    duckdb/duckdb\",\n  \"text_sha256\": \"e15f3f7eb6efd9eafc462fc256a3d614641801cbc2fae6aabf628a43a1b243c1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/duckdb/duckdb/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"e15f3f7eb6efd9eafc462fc256a3d614641801cbc2fae6aabf628a43a1b243c1\"\
+    ,\n      \"source_url_cell\": \"https://github.com/duckdb/duckdb/blob/7c0fa265df67f4d8ed5cc4f94910c5677d127afd/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: duckdb__duckdb--ai_policy--e15f3f7eb6ef.md
+  owner: NicolasH
+  risid: null
+name: duckdb__duckdb--ai_policy--e15f3f7eb6ef.md
+path: corpus/qda-case-77/87.txt

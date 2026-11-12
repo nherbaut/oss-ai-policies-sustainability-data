@@ -1,0 +1,58 @@
+hash: df91f9b48eabdf16a1d40367d674b66b72cbe0cff361eec6705145250b0a9f19
+id: qda-source-436@qda-case-113
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 113
+    date: '2026-11-05 22:19:55'
+    fid: 436
+    id: 436
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3889
+  content_sha256: df91f9b48eabdf16a1d40367d674b66b72cbe0cff361eec6705145250b0a9f19
+  date: '2026-11-05 22:19:55'
+  id: 436
+  import_metadata:
+    conversion:
+      converted_sha256: df91f9b48eabdf16a1d40367d674b66b72cbe0cff361eec6705145250b0a9f19
+      original_sha256: 1f04f084f75e1127af818d8a51cc2c3fa0ecc2c054692ab4045d8529751bc5c6
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Python (devguide)
+    provenance:
+    - accessed_at: '2026-11-05T19:12:00.277928+00:00'
+      id: corpus-113-purpose
+      original_file_sha256: 1f04f084f75e1127af818d8a51cc2c3fa0ecc2c054692ab4045d8529751bc5c6
+      path: analysis/corpus-assessment/sources/corpus-113-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-113-purpose.html
+      resolved_url: https://www.python.org/psf/mission/
+      role: purpose_statement_candidate
+      sha256: 7c025bce9c53ec050c980dbaa6b25bbcfa00bedaf62b150c52e2262374067ede
+      url: https://www.python.org/psf/mission/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 1f04f084f75e1127af818d8a51cc2c3fa0ecc2c054692ab4045d8529751bc5c6
+  mediapath: /docs/Python__devguide--purpose_statement_candidate--1f04f084f75e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Python (devguide)\",\n  \"text_sha256\": \"1f04f084f75e1127af818d8a51cc2c3fa0ecc2c054692ab4045d8529751bc5c6\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-113-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"1f04f084f75e1127af818d8a51cc2c3fa0ecc2c054692ab4045d8529751bc5c6\",\n    \
+    \  \"id\": \"corpus-113-purpose\",\n      \"url\": \"https://www.python.org/psf/mission/\"\
+    ,\n      \"resolved_url\": \"https://www.python.org/psf/mission/\",\n      \"\
+    accessed_at\": \"2026-11-05T19:12:00.277928+00:00\",\n      \"version\": null,\n\
+    \      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-113-purpose.html\"\
+    ,\n      \"sha256\": \"7c025bce9c53ec050c980dbaa6b25bbcfa00bedaf62b150c52e2262374067ede\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"1f04f084f75e1127af818d8a51cc2c3fa0ecc2c054692ab4045d8529751bc5c6\"\
+    ,\n    \"converted_sha256\": \"df91f9b48eabdf16a1d40367d674b66b72cbe0cff361eec6705145250b0a9f19\"\
+    \n  }\n}"
+  name: Python__devguide--purpose_statement_candidate--1f04f084f75e.md
+  owner: NicolasH
+  risid: null
+name: Python__devguide--purpose_statement_candidate--1f04f084f75e.md
+path: corpus/qda-case-113/436.txt

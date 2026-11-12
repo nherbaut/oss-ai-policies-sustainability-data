@@ -1,0 +1,58 @@
+hash: afaa9fc6bca80e94eee802c73af4446be421f57f244844c95003a629573317a5
+id: qda-source-412@qda-case-89
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 89
+    date: '2026-11-05 22:19:55'
+    fid: 412
+    id: 412
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9594
+  content_sha256: afaa9fc6bca80e94eee802c73af4446be421f57f244844c95003a629573317a5
+  date: '2026-11-05 22:19:55'
+  id: 412
+  import_metadata:
+    conversion:
+      converted_sha256: afaa9fc6bca80e94eee802c73af4446be421f57f244844c95003a629573317a5
+      original_sha256: 3561156e8678a0af1f9289b80d128d64be1a9dfc7fb5f367a75d7dc2608f59d2
+      version: oss-ai-policies/clean-markdown-v1
+    entity: pulumi/pulumi
+    provenance:
+    - accessed_at: '2026-11-05T19:11:57.582100+00:00'
+      id: corpus-089-purpose
+      original_file_sha256: 3561156e8678a0af1f9289b80d128d64be1a9dfc7fb5f367a75d7dc2608f59d2
+      path: analysis/corpus-assessment/sources/corpus-089-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-089-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/pulumi/pulumi/54a4545731075fdf29c827012a4e82f9cd289a04/README.md
+      role: purpose_statement_candidate
+      sha256: 3561156e8678a0af1f9289b80d128d64be1a9dfc7fb5f367a75d7dc2608f59d2
+      url: https://github.com/pulumi/pulumi/blob/54a4545731075fdf29c827012a4e82f9cd289a04/README.md
+      version: 54a4545731075fdf29c827012a4e82f9cd289a04
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 3561156e8678a0af1f9289b80d128d64be1a9dfc7fb5f367a75d7dc2608f59d2
+  mediapath: /docs/pulumi__pulumi--purpose_statement_candidate--3561156e8678.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    pulumi/pulumi\",\n  \"text_sha256\": \"3561156e8678a0af1f9289b80d128d64be1a9dfc7fb5f367a75d7dc2608f59d2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-089-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"3561156e8678a0af1f9289b80d128d64be1a9dfc7fb5f367a75d7dc2608f59d2\",\n    \
+    \  \"id\": \"corpus-089-purpose\",\n      \"url\": \"https://github.com/pulumi/pulumi/blob/54a4545731075fdf29c827012a4e82f9cd289a04/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/pulumi/pulumi/54a4545731075fdf29c827012a4e82f9cd289a04/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:57.582100+00:00\",\n      \"version\"\
+    : \"54a4545731075fdf29c827012a4e82f9cd289a04\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-089-purpose.raw.md\"\
+    ,\n      \"sha256\": \"3561156e8678a0af1f9289b80d128d64be1a9dfc7fb5f367a75d7dc2608f59d2\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"3561156e8678a0af1f9289b80d128d64be1a9dfc7fb5f367a75d7dc2608f59d2\"\
+    ,\n    \"converted_sha256\": \"afaa9fc6bca80e94eee802c73af4446be421f57f244844c95003a629573317a5\"\
+    \n  }\n}"
+  name: pulumi__pulumi--purpose_statement_candidate--3561156e8678.md
+  owner: NicolasH
+  risid: null
+name: pulumi__pulumi--purpose_statement_candidate--3561156e8678.md
+path: corpus/qda-case-89/412.txt

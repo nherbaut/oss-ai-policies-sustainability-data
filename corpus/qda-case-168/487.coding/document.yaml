@@ -1,0 +1,51 @@
+hash: 0c5567baac8d92f99c5c5687cd0b058950a126108c3ba2a84d5bd32540454790
+id: qda-source-487@qda-case-168
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 168
+    date: '2026-11-05 22:19:55'
+    fid: 487
+    id: 487
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9599
+  content_sha256: 0c5567baac8d92f99c5c5687cd0b058950a126108c3ba2a84d5bd32540454790
+  date: '2026-11-05 22:19:55'
+  id: 487
+  import_metadata:
+    entity: aws/aws-cli
+    provenance:
+    - accessed_at: '2026-11-05T19:12:04.326768+00:00'
+      id: corpus-168-purpose
+      original_file_sha256: 0c5567baac8d92f99c5c5687cd0b058950a126108c3ba2a84d5bd32540454790
+      path: analysis/corpus-assessment/sources/corpus-168-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-168-purpose.rst
+      resolved_url: https://raw.githubusercontent.com/aws/aws-cli/5546a54273478f464fa399309fc74d1938155688/README.rst
+      role: purpose_statement_candidate
+      sha256: 7d53cfc76bb07c53a034dd56284e153e21e0d0292ab360576decbc75374f6385
+      url: https://github.com/aws/aws-cli/blob/5546a54273478f464fa399309fc74d1938155688/README.rst
+      version: 5546a54273478f464fa399309fc74d1938155688
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 0c5567baac8d92f99c5c5687cd0b058950a126108c3ba2a84d5bd32540454790
+  mediapath: /docs/aws__aws-cli--purpose_statement_candidate--0c5567baac8d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    aws/aws-cli\",\n  \"text_sha256\": \"0c5567baac8d92f99c5c5687cd0b058950a126108c3ba2a84d5bd32540454790\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-168-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0c5567baac8d92f99c5c5687cd0b058950a126108c3ba2a84d5bd32540454790\",\n    \
+    \  \"id\": \"corpus-168-purpose\",\n      \"url\": \"https://github.com/aws/aws-cli/blob/5546a54273478f464fa399309fc74d1938155688/README.rst\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/aws/aws-cli/5546a54273478f464fa399309fc74d1938155688/README.rst\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:04.326768+00:00\",\n      \"version\"\
+    : \"5546a54273478f464fa399309fc74d1938155688\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-168-purpose.rst\"\
+    ,\n      \"sha256\": \"7d53cfc76bb07c53a034dd56284e153e21e0d0292ab360576decbc75374f6385\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: aws__aws-cli--purpose_statement_candidate--0c5567baac8d.md
+  owner: NicolasH
+  risid: null
+name: aws__aws-cli--purpose_statement_candidate--0c5567baac8d.md
+path: corpus/qda-case-168/487.txt

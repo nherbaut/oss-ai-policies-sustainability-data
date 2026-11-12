@@ -1,0 +1,58 @@
+hash: ac28d1ad78fd80649c7d39e14e9a03fdaafb129faba663e5bb0d42ac9a96de5d
+id: qda-source-464@qda-case-144
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 144
+    date: '2026-11-05 22:19:55'
+    fid: 464
+    id: 464
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9095
+  content_sha256: ac28d1ad78fd80649c7d39e14e9a03fdaafb129faba663e5bb0d42ac9a96de5d
+  date: '2026-11-05 22:19:55'
+  id: 464
+  import_metadata:
+    conversion:
+      converted_sha256: ac28d1ad78fd80649c7d39e14e9a03fdaafb129faba663e5bb0d42ac9a96de5d
+      original_sha256: 4ac8e7440e5e2fba70be2e826f48724ab4ffa09392ac538d4bc1e14cc3af001e
+      version: oss-ai-policies/clean-markdown-v1
+    entity: OpenListTeam/OpenList
+    provenance:
+    - accessed_at: '2026-11-05T19:12:02.588495+00:00'
+      id: corpus-144-purpose
+      original_file_sha256: 4ac8e7440e5e2fba70be2e826f48724ab4ffa09392ac538d4bc1e14cc3af001e
+      path: analysis/corpus-assessment/sources/corpus-144-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-144-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/OpenListTeam/OpenList/6b702afc0f18bbae81d14ceadb58c7a3cb276380/README.md
+      role: purpose_statement_candidate
+      sha256: 4ac8e7440e5e2fba70be2e826f48724ab4ffa09392ac538d4bc1e14cc3af001e
+      url: https://github.com/OpenListTeam/OpenList/blob/6b702afc0f18bbae81d14ceadb58c7a3cb276380/README.md
+      version: 6b702afc0f18bbae81d14ceadb58c7a3cb276380
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 4ac8e7440e5e2fba70be2e826f48724ab4ffa09392ac538d4bc1e14cc3af001e
+  mediapath: /docs/OpenListTeam__OpenList--purpose_statement_candidate--4ac8e7440e5e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    OpenListTeam/OpenList\",\n  \"text_sha256\": \"4ac8e7440e5e2fba70be2e826f48724ab4ffa09392ac538d4bc1e14cc3af001e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-144-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"4ac8e7440e5e2fba70be2e826f48724ab4ffa09392ac538d4bc1e14cc3af001e\",\n    \
+    \  \"id\": \"corpus-144-purpose\",\n      \"url\": \"https://github.com/OpenListTeam/OpenList/blob/6b702afc0f18bbae81d14ceadb58c7a3cb276380/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/OpenListTeam/OpenList/6b702afc0f18bbae81d14ceadb58c7a3cb276380/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:02.588495+00:00\",\n      \"version\"\
+    : \"6b702afc0f18bbae81d14ceadb58c7a3cb276380\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-144-purpose.raw.md\"\
+    ,\n      \"sha256\": \"4ac8e7440e5e2fba70be2e826f48724ab4ffa09392ac538d4bc1e14cc3af001e\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"4ac8e7440e5e2fba70be2e826f48724ab4ffa09392ac538d4bc1e14cc3af001e\"\
+    ,\n    \"converted_sha256\": \"ac28d1ad78fd80649c7d39e14e9a03fdaafb129faba663e5bb0d42ac9a96de5d\"\
+    \n  }\n}"
+  name: OpenListTeam__OpenList--purpose_statement_candidate--4ac8e7440e5e.md
+  owner: NicolasH
+  risid: null
+name: OpenListTeam__OpenList--purpose_statement_candidate--4ac8e7440e5e.md
+path: corpus/qda-case-144/464.txt

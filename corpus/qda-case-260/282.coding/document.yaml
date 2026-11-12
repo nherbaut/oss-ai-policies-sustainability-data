@@ -1,0 +1,43 @@
+hash: c8d9871c765cf9ea1e0ee8ff8b135c1f118fec42a481cc4905d9ea84fdf9b0b9
+id: qda-source-282@qda-case-260
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 260
+    date: '2026-11-05 22:19:55'
+    fid: 282
+    id: 281
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6096
+  content_sha256: c8d9871c765cf9ea1e0ee8ff8b135c1f118fec42a481cc4905d9ea84fdf9b0b9
+  date: '2026-11-05 22:19:55'
+  id: 282
+  import_metadata:
+    entity: influxdata/telegraf
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: c8d9871c765cf9ea1e0ee8ff8b135c1f118fec42a481cc4905d9ea84fdf9b0b9
+      path: data/281/policies/influxdata/telegraf/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/influxdata/telegraf/blob/7c40d48b559065672441cd877a9de3728ab8bee8/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: c8d9871c765cf9ea1e0ee8ff8b135c1f118fec42a481cc4905d9ea84fdf9b0b9
+  mediapath: /docs/influxdata__telegraf--contributing--c8d9871c765c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    influxdata/telegraf\",\n  \"text_sha256\": \"c8d9871c765cf9ea1e0ee8ff8b135c1f118fec42a481cc4905d9ea84fdf9b0b9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/influxdata/telegraf/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"c8d9871c765cf9ea1e0ee8ff8b135c1f118fec42a481cc4905d9ea84fdf9b0b9\"\
+    ,\n      \"source_url_cell\": \"https://github.com/influxdata/telegraf/blob/7c40d48b559065672441cd877a9de3728ab8bee8/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: influxdata__telegraf--contributing--c8d9871c765c.md
+  owner: NicolasH
+  risid: null
+name: influxdata__telegraf--contributing--c8d9871c765c.md
+path: corpus/qda-case-260/282.txt

@@ -1,0 +1,43 @@
+hash: ad31900be8d2868b4149343f98f2477ba6eb9adf8a379e838fb94ecbfc96c659
+id: qda-source-15@qda-case-11
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 11
+    date: '2026-11-05 22:19:55'
+    fid: 15
+    id: 14
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2565
+  content_sha256: ad31900be8d2868b4149343f98f2477ba6eb9adf8a379e838fb94ecbfc96c659
+  date: '2026-11-05 22:19:55'
+  id: 15
+  import_metadata:
+    entity: posthog/posthog
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: ad31900be8d2868b4149343f98f2477ba6eb9adf8a379e838fb94ecbfc96c659
+      path: data/281/policies/posthog/posthog/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/posthog/posthog/blob/e8858fdabe15cce244324d360f067c814bfebc56/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: ad31900be8d2868b4149343f98f2477ba6eb9adf8a379e838fb94ecbfc96c659
+  mediapath: /docs/posthog__posthog--ai_policy--ad31900be8d2.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    posthog/posthog\",\n  \"text_sha256\": \"ad31900be8d2868b4149343f98f2477ba6eb9adf8a379e838fb94ecbfc96c659\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/posthog/posthog/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"ad31900be8d2868b4149343f98f2477ba6eb9adf8a379e838fb94ecbfc96c659\"\
+    ,\n      \"source_url_cell\": \"https://github.com/posthog/posthog/blob/e8858fdabe15cce244324d360f067c814bfebc56/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: posthog__posthog--ai_policy--ad31900be8d2.md
+  owner: NicolasH
+  risid: null
+name: posthog__posthog--ai_policy--ad31900be8d2.md
+path: corpus/qda-case-11/15.txt

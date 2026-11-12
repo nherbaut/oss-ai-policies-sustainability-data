@@ -1,0 +1,43 @@
+hash: 8f1788c9862cc517984214605ec748465530d70e0c2004173cde90860da2e75d
+id: qda-source-292@qda-case-270
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 270
+    date: '2026-11-05 22:19:55'
+    fid: 292
+    id: 291
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 22486
+  content_sha256: 8f1788c9862cc517984214605ec748465530d70e0c2004173cde90860da2e75d
+  date: '2026-11-05 22:19:55'
+  id: 292
+  import_metadata:
+    entity: huggingface/trl
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 8f1788c9862cc517984214605ec748465530d70e0c2004173cde90860da2e75d
+      path: data/281/policies/huggingface/trl/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/huggingface/trl/blob/84e83143af5b1c6980cb859b087808085450e4dc/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 8f1788c9862cc517984214605ec748465530d70e0c2004173cde90860da2e75d
+  mediapath: /docs/huggingface__trl--contributing--8f1788c9862c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    huggingface/trl\",\n  \"text_sha256\": \"8f1788c9862cc517984214605ec748465530d70e0c2004173cde90860da2e75d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/huggingface/trl/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"8f1788c9862cc517984214605ec748465530d70e0c2004173cde90860da2e75d\"\
+    ,\n      \"source_url_cell\": \"https://github.com/huggingface/trl/blob/84e83143af5b1c6980cb859b087808085450e4dc/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: huggingface__trl--contributing--8f1788c9862c.md
+  owner: NicolasH
+  risid: null
+name: huggingface__trl--contributing--8f1788c9862c.md
+path: corpus/qda-case-270/292.txt

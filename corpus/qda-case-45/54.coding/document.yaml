@@ -1,0 +1,43 @@
+hash: ef5a6961517f0975262159c05f5e6ed50dab3aaa345d4f4e31e3cfa9fdb8d3b4
+id: qda-source-54@qda-case-45
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 45
+    date: '2026-11-05 22:19:55'
+    fid: 54
+    id: 53
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5808
+  content_sha256: ef5a6961517f0975262159c05f5e6ed50dab3aaa345d4f4e31e3cfa9fdb8d3b4
+  date: '2026-11-05 22:19:55'
+  id: 54
+  import_metadata:
+    entity: freqtrade/freqtrade
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: ef5a6961517f0975262159c05f5e6ed50dab3aaa345d4f4e31e3cfa9fdb8d3b4
+      path: data/281/policies/freqtrade/freqtrade/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/freqtrade/freqtrade/blob/25dc85994eff344314e950464ad35f318fab299f/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: ef5a6961517f0975262159c05f5e6ed50dab3aaa345d4f4e31e3cfa9fdb8d3b4
+  mediapath: /docs/freqtrade__freqtrade--contributing--ef5a6961517f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    freqtrade/freqtrade\",\n  \"text_sha256\": \"ef5a6961517f0975262159c05f5e6ed50dab3aaa345d4f4e31e3cfa9fdb8d3b4\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/freqtrade/freqtrade/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"ef5a6961517f0975262159c05f5e6ed50dab3aaa345d4f4e31e3cfa9fdb8d3b4\"\
+    ,\n      \"source_url_cell\": \"https://github.com/freqtrade/freqtrade/blob/25dc85994eff344314e950464ad35f318fab299f/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: freqtrade__freqtrade--contributing--ef5a6961517f.md
+  owner: NicolasH
+  risid: null
+name: freqtrade__freqtrade--contributing--ef5a6961517f.md
+path: corpus/qda-case-45/54.txt

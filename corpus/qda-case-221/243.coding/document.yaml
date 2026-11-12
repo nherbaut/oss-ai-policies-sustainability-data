@@ -1,0 +1,43 @@
+hash: d12030ea5339048ed11ff9db089645db00d81b7145a92a26b23809ea5d2fa101
+id: qda-source-243@qda-case-221
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 221
+    date: '2026-11-05 22:19:55'
+    fid: 243
+    id: 242
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4048
+  content_sha256: d12030ea5339048ed11ff9db089645db00d81b7145a92a26b23809ea5d2fa101
+  date: '2026-11-05 22:19:55'
+  id: 243
+  import_metadata:
+    entity: alibaba/mnn
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: d12030ea5339048ed11ff9db089645db00d81b7145a92a26b23809ea5d2fa101
+      path: data/281/policies/alibaba/mnn/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/alibaba/mnn/blob/ea43f4924ed388c29fb4c32981a71dc37cb1debb/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: d12030ea5339048ed11ff9db089645db00d81b7145a92a26b23809ea5d2fa101
+  mediapath: /docs/alibaba__mnn--contributing--d12030ea5339.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    alibaba/mnn\",\n  \"text_sha256\": \"d12030ea5339048ed11ff9db089645db00d81b7145a92a26b23809ea5d2fa101\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/alibaba/mnn/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"d12030ea5339048ed11ff9db089645db00d81b7145a92a26b23809ea5d2fa101\"\
+    ,\n      \"source_url_cell\": \"https://github.com/alibaba/mnn/blob/ea43f4924ed388c29fb4c32981a71dc37cb1debb/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: alibaba__mnn--contributing--d12030ea5339.md
+  owner: NicolasH
+  risid: null
+name: alibaba__mnn--contributing--d12030ea5339.md
+path: corpus/qda-case-221/243.txt

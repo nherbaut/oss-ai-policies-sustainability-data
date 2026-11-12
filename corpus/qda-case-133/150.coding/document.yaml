@@ -1,0 +1,43 @@
+hash: 9a600edd8d765faea5c1c0154dac8673862646c7549056b4e8afd3d0b2857015
+id: qda-source-150@qda-case-133
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 133
+    date: '2026-11-05 22:19:55'
+    fid: 150
+    id: 149
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5210
+  content_sha256: 9a600edd8d765faea5c1c0154dac8673862646c7549056b4e8afd3d0b2857015
+  date: '2026-11-05 22:19:55'
+  id: 150
+  import_metadata:
+    entity: electron/electron
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 9a600edd8d765faea5c1c0154dac8673862646c7549056b4e8afd3d0b2857015
+      path: data/281/policies/electron/electron/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://github.com/electron/governance/blob/97e7e6f4ec5c36b5fc9a7ef42a924c9622871414/policy/ai.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 9a600edd8d765faea5c1c0154dac8673862646c7549056b4e8afd3d0b2857015
+  mediapath: /docs/electron__electron--other_policy--9a600edd8d76.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    electron/electron\",\n  \"text_sha256\": \"9a600edd8d765faea5c1c0154dac8673862646c7549056b4e8afd3d0b2857015\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/electron/electron/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"9a600edd8d765faea5c1c0154dac8673862646c7549056b4e8afd3d0b2857015\"\
+    ,\n      \"source_url_cell\": \"https://github.com/electron/governance/blob/97e7e6f4ec5c36b5fc9a7ef42a924c9622871414/policy/ai.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: electron__electron--other_policy--9a600edd8d76.md
+  owner: NicolasH
+  risid: null
+name: electron__electron--other_policy--9a600edd8d76.md
+path: corpus/qda-case-133/150.txt

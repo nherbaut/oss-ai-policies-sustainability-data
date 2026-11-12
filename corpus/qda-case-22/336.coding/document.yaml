@@ -1,0 +1,58 @@
+hash: 3cfc42889841fed54389ccfb12d3cccc5733b64dbf013a5cf4ceb3df639a03b5
+id: qda-source-336@qda-case-22
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 22
+    date: '2026-11-05 22:19:55'
+    fid: 336
+    id: 336
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10611
+  content_sha256: 3cfc42889841fed54389ccfb12d3cccc5733b64dbf013a5cf4ceb3df639a03b5
+  date: '2026-11-05 22:19:55'
+  id: 336
+  import_metadata:
+    conversion:
+      converted_sha256: 3cfc42889841fed54389ccfb12d3cccc5733b64dbf013a5cf4ceb3df639a03b5
+      original_sha256: 31841e5ec87ce7422711a142a355e363bb95ff54c2721a268ca26f5fdb702f81
+      version: oss-ai-policies/clean-markdown-v1
+    entity: iina/iina
+    provenance:
+    - accessed_at: '2026-11-05T19:11:49.883962+00:00'
+      id: corpus-022-purpose
+      original_file_sha256: 31841e5ec87ce7422711a142a355e363bb95ff54c2721a268ca26f5fdb702f81
+      path: analysis/corpus-assessment/sources/corpus-022-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-022-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/iina/iina/c987089efcced9e3088f907551fb8032e191ac32/README.md
+      role: purpose_statement_candidate
+      sha256: 31841e5ec87ce7422711a142a355e363bb95ff54c2721a268ca26f5fdb702f81
+      url: https://github.com/iina/iina/blob/c987089efcced9e3088f907551fb8032e191ac32/README.md
+      version: c987089efcced9e3088f907551fb8032e191ac32
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 31841e5ec87ce7422711a142a355e363bb95ff54c2721a268ca26f5fdb702f81
+  mediapath: /docs/iina__iina--purpose_statement_candidate--31841e5ec87c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    iina/iina\",\n  \"text_sha256\": \"31841e5ec87ce7422711a142a355e363bb95ff54c2721a268ca26f5fdb702f81\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-022-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"31841e5ec87ce7422711a142a355e363bb95ff54c2721a268ca26f5fdb702f81\",\n    \
+    \  \"id\": \"corpus-022-purpose\",\n      \"url\": \"https://github.com/iina/iina/blob/c987089efcced9e3088f907551fb8032e191ac32/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/iina/iina/c987089efcced9e3088f907551fb8032e191ac32/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:49.883962+00:00\",\n      \"version\"\
+    : \"c987089efcced9e3088f907551fb8032e191ac32\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-022-purpose.raw.md\"\
+    ,\n      \"sha256\": \"31841e5ec87ce7422711a142a355e363bb95ff54c2721a268ca26f5fdb702f81\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"31841e5ec87ce7422711a142a355e363bb95ff54c2721a268ca26f5fdb702f81\"\
+    ,\n    \"converted_sha256\": \"3cfc42889841fed54389ccfb12d3cccc5733b64dbf013a5cf4ceb3df639a03b5\"\
+    \n  }\n}"
+  name: iina__iina--purpose_statement_candidate--31841e5ec87c.md
+  owner: NicolasH
+  risid: null
+name: iina__iina--purpose_statement_candidate--31841e5ec87c.md
+path: corpus/qda-case-22/336.txt

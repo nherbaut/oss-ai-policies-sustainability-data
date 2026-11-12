@@ -1,0 +1,50 @@
+hash: bd36fd3e3686b58921b6a9497d170f3ee9af8d1e997b7eb3f8216c4663bac30f
+id: qda-source-221@qda-case-198
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 198
+    date: '2026-11-05 22:19:55'
+    fid: 221
+    id: 220
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4506
+  content_sha256: bd36fd3e3686b58921b6a9497d170f3ee9af8d1e997b7eb3f8216c4663bac30f
+  date: '2026-11-05 22:19:55'
+  id: 221
+  import_metadata:
+    conversion:
+      converted_sha256: bd36fd3e3686b58921b6a9497d170f3ee9af8d1e997b7eb3f8216c4663bac30f
+      original_sha256: a6abea11e07cd406acc7ffd2b5085f8347ce1ad2a25db3b9c4f5150392e556b1
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Zig
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: a6abea11e07cd406acc7ffd2b5085f8347ce1ad2a25db3b9c4f5150392e556b1
+      path: data/281/policies/Zig/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: a6abea11e07cd406acc7ffd2b5085f8347ce1ad2a25db3b9c4f5150392e556b1
+  mediapath: /docs/Zig--ai_policy--a6abea11e07c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Zig\",\n  \"text_sha256\": \"a6abea11e07cd406acc7ffd2b5085f8347ce1ad2a25db3b9c4f5150392e556b1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Zig/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"a6abea11e07cd406acc7ffd2b5085f8347ce1ad2a25db3b9c4f5150392e556b1\"\
+    ,\n      \"source_url_cell\": \"https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"a6abea11e07cd406acc7ffd2b5085f8347ce1ad2a25db3b9c4f5150392e556b1\"\
+    ,\n    \"converted_sha256\": \"bd36fd3e3686b58921b6a9497d170f3ee9af8d1e997b7eb3f8216c4663bac30f\"\
+    \n  }\n}"
+  name: Zig--ai_policy--a6abea11e07c.md
+  owner: NicolasH
+  risid: null
+name: Zig--ai_policy--a6abea11e07c.md
+path: corpus/qda-case-198/221.txt

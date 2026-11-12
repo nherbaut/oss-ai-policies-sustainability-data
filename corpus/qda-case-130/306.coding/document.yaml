@@ -1,0 +1,58 @@
+hash: a89fcdc428720760c341de88c734dcb2a3855ae5934757caa35c98e978df57f8
+id: qda-source-306@qda-case-130
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 130
+    date: '2026-11-05 22:19:55'
+    fid: 306
+    id: 306
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 20826
+  content_sha256: a89fcdc428720760c341de88c734dcb2a3855ae5934757caa35c98e978df57f8
+  date: '2026-11-05 22:19:55'
+  id: 306
+  import_metadata:
+    conversion:
+      converted_sha256: a89fcdc428720760c341de88c734dcb2a3855ae5934757caa35c98e978df57f8
+      original_sha256: 6257c508eb2d601c98b9acc17eafc8b6f71d78a8d303f24eeedabde3c9497c82
+      version: oss-ai-policies/clean-markdown-v1
+    entity: EFF
+    provenance:
+    - accessed_at: '2026-11-05T16:01:22.416913+00:00'
+      id: 03-contribution-rules
+      original_file_sha256: 6257c508eb2d601c98b9acc17eafc8b6f71d78a8d303f24eeedabde3c9497c82
+      path: analysis/feasibility-pilot/sources/03-contribution-rules.md
+      raw_snapshot: analysis/feasibility-pilot/sources/03-contribution-rules.html
+      resolved_url: https://www.eff.org/about/opportunities/volunteer/coding-with-eff
+      role: additional_contribution_policy
+      sha256: 17926942b820d897d19eef9cb1d8bc5c45f6124e9a94199bb20e7636065219d0
+      url: https://www.eff.org/about/opportunities/volunteer/coding-with-eff
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 6257c508eb2d601c98b9acc17eafc8b6f71d78a8d303f24eeedabde3c9497c82
+  mediapath: /docs/EFF--additional_contribution_policy--6257c508eb2d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    EFF\",\n  \"text_sha256\": \"6257c508eb2d601c98b9acc17eafc8b6f71d78a8d303f24eeedabde3c9497c82\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/03-contribution-rules.md\"\
+    ,\n      \"role\": \"additional_contribution_policy\",\n      \"original_file_sha256\"\
+    : \"6257c508eb2d601c98b9acc17eafc8b6f71d78a8d303f24eeedabde3c9497c82\",\n    \
+    \  \"id\": \"03-contribution-rules\",\n      \"url\": \"https://www.eff.org/about/opportunities/volunteer/coding-with-eff\"\
+    ,\n      \"resolved_url\": \"https://www.eff.org/about/opportunities/volunteer/coding-with-eff\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:01:22.416913+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/03-contribution-rules.html\"\
+    ,\n      \"sha256\": \"17926942b820d897d19eef9cb1d8bc5c45f6124e9a94199bb20e7636065219d0\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"6257c508eb2d601c98b9acc17eafc8b6f71d78a8d303f24eeedabde3c9497c82\"\
+    ,\n    \"converted_sha256\": \"a89fcdc428720760c341de88c734dcb2a3855ae5934757caa35c98e978df57f8\"\
+    \n  }\n}"
+  name: EFF--additional_contribution_policy--6257c508eb2d.md
+  owner: NicolasH
+  risid: null
+name: EFF--additional_contribution_policy--6257c508eb2d.md
+path: corpus/qda-case-130/306.txt

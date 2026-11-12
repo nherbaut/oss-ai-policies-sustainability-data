@@ -1,0 +1,51 @@
+hash: 60c539cfab196b4b39768781ee871f07b34aadcada2f4bef42393810e3dbfb92
+id: qda-source-594@qda-case-273
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 273
+    date: '2026-11-05 22:19:55'
+    fid: 594
+    id: 594
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4419
+  content_sha256: 60c539cfab196b4b39768781ee871f07b34aadcada2f4bef42393810e3dbfb92
+  date: '2026-11-05 22:19:55'
+  id: 594
+  import_metadata:
+    entity: opentofu/opentofu
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.381306+00:00'
+      id: corpus-273-purpose
+      original_file_sha256: 60c539cfab196b4b39768781ee871f07b34aadcada2f4bef42393810e3dbfb92
+      path: analysis/corpus-assessment/sources/corpus-273-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-273-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/opentofu/opentofu/af57c7a0e76b49c60040bb3bd8d0de58921400a9/README.md
+      role: purpose_statement_candidate
+      sha256: 60c539cfab196b4b39768781ee871f07b34aadcada2f4bef42393810e3dbfb92
+      url: https://github.com/opentofu/opentofu/blob/af57c7a0e76b49c60040bb3bd8d0de58921400a9/README.md
+      version: af57c7a0e76b49c60040bb3bd8d0de58921400a9
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 60c539cfab196b4b39768781ee871f07b34aadcada2f4bef42393810e3dbfb92
+  mediapath: /docs/opentofu__opentofu--purpose_statement_candidate--60c539cfab19.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    opentofu/opentofu\",\n  \"text_sha256\": \"60c539cfab196b4b39768781ee871f07b34aadcada2f4bef42393810e3dbfb92\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-273-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"60c539cfab196b4b39768781ee871f07b34aadcada2f4bef42393810e3dbfb92\",\n    \
+    \  \"id\": \"corpus-273-purpose\",\n      \"url\": \"https://github.com/opentofu/opentofu/blob/af57c7a0e76b49c60040bb3bd8d0de58921400a9/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/opentofu/opentofu/af57c7a0e76b49c60040bb3bd8d0de58921400a9/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:16.381306+00:00\",\n      \"version\"\
+    : \"af57c7a0e76b49c60040bb3bd8d0de58921400a9\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-273-purpose.raw.md\"\
+    ,\n      \"sha256\": \"60c539cfab196b4b39768781ee871f07b34aadcada2f4bef42393810e3dbfb92\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: opentofu__opentofu--purpose_statement_candidate--60c539cfab19.md
+  owner: NicolasH
+  risid: null
+name: opentofu__opentofu--purpose_statement_candidate--60c539cfab19.md
+path: corpus/qda-case-273/594.txt

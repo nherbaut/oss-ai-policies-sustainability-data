@@ -1,0 +1,58 @@
+hash: e1721fecfdd8dc501115e3761734517569d71d6b639143cfe6e7238cd89d41bb
+id: qda-source-312@qda-case-9
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 9
+    date: '2026-11-05 22:19:55'
+    fid: 312
+    id: 312
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1961
+  content_sha256: e1721fecfdd8dc501115e3761734517569d71d6b639143cfe6e7238cd89d41bb
+  date: '2026-11-05 22:19:55'
+  id: 312
+  import_metadata:
+    conversion:
+      converted_sha256: e1721fecfdd8dc501115e3761734517569d71d6b639143cfe6e7238cd89d41bb
+      original_sha256: 43c52d03854d68818ded36a7f8c2a7269cb637be4433709d25d9e00e843f29c3
+      version: oss-ai-policies/clean-markdown-v1
+    entity: SunPy
+    provenance:
+    - accessed_at: '2026-11-05T16:00:20.660757+00:00'
+      id: 08-purpose
+      original_file_sha256: 43c52d03854d68818ded36a7f8c2a7269cb637be4433709d25d9e00e843f29c3
+      path: analysis/feasibility-pilot/sources/08-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/08-purpose.html
+      resolved_url: https://sunpy.org/about/
+      role: purpose_statement_candidate
+      sha256: d975d5c22e61d09f5e45c147edc242de6d5dfccad1b9919f7e252d2d5ff04720
+      url: https://sunpy.org/about/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 43c52d03854d68818ded36a7f8c2a7269cb637be4433709d25d9e00e843f29c3
+  mediapath: /docs/SunPy--purpose_statement_candidate--43c52d03854d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    SunPy\",\n  \"text_sha256\": \"43c52d03854d68818ded36a7f8c2a7269cb637be4433709d25d9e00e843f29c3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/08-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"43c52d03854d68818ded36a7f8c2a7269cb637be4433709d25d9e00e843f29c3\",\n    \
+    \  \"id\": \"08-purpose\",\n      \"url\": \"https://sunpy.org/about/\",\n   \
+    \   \"resolved_url\": \"https://sunpy.org/about/\",\n      \"accessed_at\": \"\
+    2026-11-05T16:00:20.660757+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/feasibility-pilot/sources/08-purpose.html\",\n      \"sha256\": \"\
+    d975d5c22e61d09f5e45c147edc242de6d5dfccad1b9919f7e252d2d5ff04720\"\n    }\n  ],\n\
+    \  \"text_format\": \"Clean Markdown for coding; original corpus retained.\",\n\
+    \  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\",\n\
+    \    \"original_sha256\": \"43c52d03854d68818ded36a7f8c2a7269cb637be4433709d25d9e00e843f29c3\"\
+    ,\n    \"converted_sha256\": \"e1721fecfdd8dc501115e3761734517569d71d6b639143cfe6e7238cd89d41bb\"\
+    \n  }\n}"
+  name: SunPy--purpose_statement_candidate--43c52d03854d.md
+  owner: NicolasH
+  risid: null
+name: SunPy--purpose_statement_candidate--43c52d03854d.md
+path: corpus/qda-case-9/312.txt

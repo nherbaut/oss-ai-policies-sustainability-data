@@ -1,0 +1,58 @@
+hash: 6e82136bf831dec38cec4cc0ec04bb35c0991f2ba14dfb784af750d1fb4b7786
+id: qda-source-370@qda-case-51
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 51
+    date: '2026-11-05 22:19:55'
+    fid: 370
+    id: 370
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4125
+  content_sha256: 6e82136bf831dec38cec4cc0ec04bb35c0991f2ba14dfb784af750d1fb4b7786
+  date: '2026-11-05 22:19:55'
+  id: 370
+  import_metadata:
+    conversion:
+      converted_sha256: 6e82136bf831dec38cec4cc0ec04bb35c0991f2ba14dfb784af750d1fb4b7786
+      original_sha256: 65418fdcd03bd6ff38bdd8da6c9918028cc5be37ac3e51acd32faa6d831bbc20
+      version: oss-ai-policies/clean-markdown-v1
+    entity: halo-dev/halo
+    provenance:
+    - accessed_at: '2026-11-05T19:11:53.900881+00:00'
+      id: corpus-051-purpose
+      original_file_sha256: 65418fdcd03bd6ff38bdd8da6c9918028cc5be37ac3e51acd32faa6d831bbc20
+      path: analysis/corpus-assessment/sources/corpus-051-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-051-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/halo-dev/halo/883f778980068f6ddd6ff7bac144e7c600a40f6d/README.md
+      role: purpose_statement_candidate
+      sha256: 65418fdcd03bd6ff38bdd8da6c9918028cc5be37ac3e51acd32faa6d831bbc20
+      url: https://github.com/halo-dev/halo/blob/883f778980068f6ddd6ff7bac144e7c600a40f6d/README.md
+      version: 883f778980068f6ddd6ff7bac144e7c600a40f6d
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 65418fdcd03bd6ff38bdd8da6c9918028cc5be37ac3e51acd32faa6d831bbc20
+  mediapath: /docs/halo-dev__halo--purpose_statement_candidate--65418fdcd03b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    halo-dev/halo\",\n  \"text_sha256\": \"65418fdcd03bd6ff38bdd8da6c9918028cc5be37ac3e51acd32faa6d831bbc20\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-051-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"65418fdcd03bd6ff38bdd8da6c9918028cc5be37ac3e51acd32faa6d831bbc20\",\n    \
+    \  \"id\": \"corpus-051-purpose\",\n      \"url\": \"https://github.com/halo-dev/halo/blob/883f778980068f6ddd6ff7bac144e7c600a40f6d/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/halo-dev/halo/883f778980068f6ddd6ff7bac144e7c600a40f6d/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:53.900881+00:00\",\n      \"version\"\
+    : \"883f778980068f6ddd6ff7bac144e7c600a40f6d\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-051-purpose.raw.md\"\
+    ,\n      \"sha256\": \"65418fdcd03bd6ff38bdd8da6c9918028cc5be37ac3e51acd32faa6d831bbc20\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"65418fdcd03bd6ff38bdd8da6c9918028cc5be37ac3e51acd32faa6d831bbc20\"\
+    ,\n    \"converted_sha256\": \"6e82136bf831dec38cec4cc0ec04bb35c0991f2ba14dfb784af750d1fb4b7786\"\
+    \n  }\n}"
+  name: halo-dev__halo--purpose_statement_candidate--65418fdcd03b.md
+  owner: NicolasH
+  risid: null
+name: halo-dev__halo--purpose_statement_candidate--65418fdcd03b.md
+path: corpus/qda-case-51/370.txt

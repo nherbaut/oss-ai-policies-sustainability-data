@@ -1,0 +1,43 @@
+hash: b09602ee9d79500c0be0ae6d8abaae563d641c8c53eda487e53eeea02f396d54
+id: qda-source-191@qda-case-172
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 172
+    date: '2026-11-05 22:19:55'
+    fid: 191
+    id: 190
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 29399
+  content_sha256: b09602ee9d79500c0be0ae6d8abaae563d641c8c53eda487e53eeea02f396d54
+  date: '2026-11-05 22:19:55'
+  id: 191
+  import_metadata:
+    entity: backstage/backstage
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: b09602ee9d79500c0be0ae6d8abaae563d641c8c53eda487e53eeea02f396d54
+      path: data/281/policies/backstage/backstage/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/backstage/backstage/blob/88b91a6b143f6fdb42fc401e445969988c0ef53e/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: b09602ee9d79500c0be0ae6d8abaae563d641c8c53eda487e53eeea02f396d54
+  mediapath: /docs/backstage__backstage--contributing--b09602ee9d79.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    backstage/backstage\",\n  \"text_sha256\": \"b09602ee9d79500c0be0ae6d8abaae563d641c8c53eda487e53eeea02f396d54\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/backstage/backstage/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"b09602ee9d79500c0be0ae6d8abaae563d641c8c53eda487e53eeea02f396d54\"\
+    ,\n      \"source_url_cell\": \"https://github.com/backstage/backstage/blob/88b91a6b143f6fdb42fc401e445969988c0ef53e/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: backstage__backstage--contributing--b09602ee9d79.md
+  owner: NicolasH
+  risid: null
+name: backstage__backstage--contributing--b09602ee9d79.md
+path: corpus/qda-case-172/191.txt

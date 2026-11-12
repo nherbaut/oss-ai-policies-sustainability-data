@@ -1,0 +1,43 @@
+hash: ce7f9dac8abfc77f73e734836f195325a6e84f6e20ce45e9e1ba5a23b33efd27
+id: qda-source-137@qda-case-122
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 122
+    date: '2026-11-05 22:19:55'
+    fid: 137
+    id: 136
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9500
+  content_sha256: ce7f9dac8abfc77f73e734836f195325a6e84f6e20ce45e9e1ba5a23b33efd27
+  date: '2026-11-05 22:19:55'
+  id: 137
+  import_metadata:
+    entity: ggml-org/whisper.cpp
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: ce7f9dac8abfc77f73e734836f195325a6e84f6e20ce45e9e1ba5a23b33efd27
+      path: data/281/policies/ggml-org/whisper.cpp/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/ggml-org/whisper.cpp/blob/080bbbe85230f624f0b52127f1ae1218247989f9/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: ce7f9dac8abfc77f73e734836f195325a6e84f6e20ce45e9e1ba5a23b33efd27
+  mediapath: /docs/ggml-org__whisper.cpp--contributing--ce7f9dac8abf.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ggml-org/whisper.cpp\",\n  \"text_sha256\": \"ce7f9dac8abfc77f73e734836f195325a6e84f6e20ce45e9e1ba5a23b33efd27\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/ggml-org/whisper.cpp/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"ce7f9dac8abfc77f73e734836f195325a6e84f6e20ce45e9e1ba5a23b33efd27\"\
+    ,\n      \"source_url_cell\": \"https://github.com/ggml-org/whisper.cpp/blob/080bbbe85230f624f0b52127f1ae1218247989f9/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: ggml-org__whisper.cpp--contributing--ce7f9dac8abf.md
+  owner: NicolasH
+  risid: null
+name: ggml-org__whisper.cpp--contributing--ce7f9dac8abf.md
+path: corpus/qda-case-122/137.txt

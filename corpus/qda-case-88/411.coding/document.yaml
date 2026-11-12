@@ -1,0 +1,51 @@
+hash: d00d1b9b57556c16f7b7637a08cead22226d22e323c6835f206d5427de2f0df9
+id: qda-source-411@qda-case-88
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 88
+    date: '2026-11-05 22:19:55'
+    fid: 411
+    id: 411
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2374
+  content_sha256: d00d1b9b57556c16f7b7637a08cead22226d22e323c6835f206d5427de2f0df9
+  date: '2026-11-05 22:19:55'
+  id: 411
+  import_metadata:
+    entity: qbittorrent/qbittorrent
+    provenance:
+    - accessed_at: '2026-11-05T19:11:57.451514+00:00'
+      id: corpus-088-purpose
+      original_file_sha256: d00d1b9b57556c16f7b7637a08cead22226d22e323c6835f206d5427de2f0df9
+      path: analysis/corpus-assessment/sources/corpus-088-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-088-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/qbittorrent/qbittorrent/5a07050da1ced1f3a03280b4270c448c2d0f2344/README.md
+      role: purpose_statement_candidate
+      sha256: d00d1b9b57556c16f7b7637a08cead22226d22e323c6835f206d5427de2f0df9
+      url: https://github.com/qbittorrent/qbittorrent/blob/5a07050da1ced1f3a03280b4270c448c2d0f2344/README.md
+      version: 5a07050da1ced1f3a03280b4270c448c2d0f2344
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: d00d1b9b57556c16f7b7637a08cead22226d22e323c6835f206d5427de2f0df9
+  mediapath: /docs/qbittorrent__qbittorrent--purpose_statement_candidate--d00d1b9b5755.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    qbittorrent/qbittorrent\",\n  \"text_sha256\": \"d00d1b9b57556c16f7b7637a08cead22226d22e323c6835f206d5427de2f0df9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-088-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"d00d1b9b57556c16f7b7637a08cead22226d22e323c6835f206d5427de2f0df9\",\n    \
+    \  \"id\": \"corpus-088-purpose\",\n      \"url\": \"https://github.com/qbittorrent/qbittorrent/blob/5a07050da1ced1f3a03280b4270c448c2d0f2344/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/qbittorrent/qbittorrent/5a07050da1ced1f3a03280b4270c448c2d0f2344/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:57.451514+00:00\",\n      \"version\"\
+    : \"5a07050da1ced1f3a03280b4270c448c2d0f2344\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-088-purpose.raw.md\"\
+    ,\n      \"sha256\": \"d00d1b9b57556c16f7b7637a08cead22226d22e323c6835f206d5427de2f0df9\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: qbittorrent__qbittorrent--purpose_statement_candidate--d00d1b9b5755.md
+  owner: NicolasH
+  risid: null
+name: qbittorrent__qbittorrent--purpose_statement_candidate--d00d1b9b5755.md
+path: corpus/qda-case-88/411.txt

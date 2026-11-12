@@ -1,0 +1,43 @@
+hash: 895fd59b35262437769ba7a0b2c4fef102ae87b8f4e446dd6361bd4fcef11b6c
+id: qda-source-58@qda-case-49
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 49
+    date: '2026-11-05 22:19:55'
+    fid: 58
+    id: 57
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7586
+  content_sha256: 895fd59b35262437769ba7a0b2c4fef102ae87b8f4e446dd6361bd4fcef11b6c
+  date: '2026-11-05 22:19:55'
+  id: 58
+  import_metadata:
+    entity: comet-ml/opik
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 895fd59b35262437769ba7a0b2c4fef102ae87b8f4e446dd6361bd4fcef11b6c
+      path: data/281/policies/comet-ml/opik/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/comet-ml/opik/blob/38ccfe7ac810d548e57d6ed980f0130b3d9c15e1/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 895fd59b35262437769ba7a0b2c4fef102ae87b8f4e446dd6361bd4fcef11b6c
+  mediapath: /docs/comet-ml__opik--contributing--895fd59b3526.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    comet-ml/opik\",\n  \"text_sha256\": \"895fd59b35262437769ba7a0b2c4fef102ae87b8f4e446dd6361bd4fcef11b6c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/comet-ml/opik/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"895fd59b35262437769ba7a0b2c4fef102ae87b8f4e446dd6361bd4fcef11b6c\"\
+    ,\n      \"source_url_cell\": \"https://github.com/comet-ml/opik/blob/38ccfe7ac810d548e57d6ed980f0130b3d9c15e1/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: comet-ml__opik--contributing--895fd59b3526.md
+  owner: NicolasH
+  risid: null
+name: comet-ml__opik--contributing--895fd59b3526.md
+path: corpus/qda-case-49/58.txt

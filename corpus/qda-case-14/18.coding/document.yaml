@@ -1,0 +1,43 @@
+hash: a73f29506a12ee00f5887609e4e024ac397c26676acd538131a7312c34296934
+id: qda-source-18@qda-case-14
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 14
+    date: '2026-11-05 22:19:55'
+    fid: 18
+    id: 17
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5945
+  content_sha256: a73f29506a12ee00f5887609e4e024ac397c26676acd538131a7312c34296934
+  date: '2026-11-05 22:19:55'
+  id: 18
+  import_metadata:
+    entity: nextcloud/server
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: a73f29506a12ee00f5887609e4e024ac397c26676acd538131a7312c34296934
+      path: data/281/policies/nextcloud/server/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/nextcloud/server/blob/795b12252df8c7f863544716f2c80292bde5ed52/.github/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: a73f29506a12ee00f5887609e4e024ac397c26676acd538131a7312c34296934
+  mediapath: /docs/nextcloud__server--contributing--a73f29506a12.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    nextcloud/server\",\n  \"text_sha256\": \"a73f29506a12ee00f5887609e4e024ac397c26676acd538131a7312c34296934\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/nextcloud/server/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"a73f29506a12ee00f5887609e4e024ac397c26676acd538131a7312c34296934\"\
+    ,\n      \"source_url_cell\": \"https://github.com/nextcloud/server/blob/795b12252df8c7f863544716f2c80292bde5ed52/.github/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: nextcloud__server--contributing--a73f29506a12.md
+  owner: NicolasH
+  risid: null
+name: nextcloud__server--contributing--a73f29506a12.md
+path: corpus/qda-case-14/18.txt

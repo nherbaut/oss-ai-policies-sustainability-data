@@ -1,0 +1,58 @@
+hash: e221bb415ac8f57d1e6fcb0dc9e51b9061c3a8c73875de481c2dedd07191130f
+id: qda-source-310@qda-case-262
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 262
+    date: '2026-11-05 22:19:55'
+    fid: 310
+    id: 310
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8145
+  content_sha256: e221bb415ac8f57d1e6fcb0dc9e51b9061c3a8c73875de481c2dedd07191130f
+  date: '2026-11-05 22:19:55'
+  id: 310
+  import_metadata:
+    conversion:
+      converted_sha256: e221bb415ac8f57d1e6fcb0dc9e51b9061c3a8c73875de481c2dedd07191130f
+      original_sha256: 0ab023ce6b53639cc5dfefec35982dcc1c488801a2ed042b3d7e8f65b1c5b282
+      version: oss-ai-policies/clean-markdown-v1
+    entity: postmarketOS
+    provenance:
+    - accessed_at: '2026-11-05T16:01:22.417384+00:00'
+      id: 06-purpose-followup
+      original_file_sha256: 0ab023ce6b53639cc5dfefec35982dcc1c488801a2ed042b3d7e8f65b1c5b282
+      path: analysis/feasibility-pilot/sources/06-purpose-followup.md
+      raw_snapshot: analysis/feasibility-pilot/sources/06-purpose-followup.html
+      resolved_url: https://wiki.nura.eco/wiki/About_postmarketOS
+      role: purpose_statement_candidate
+      sha256: 8a34e8819647ee05300037241a4c8ecfeb13d56d97a8947d4966427636fb9e93
+      url: https://wiki.nura.eco/wiki/About_postmarketOS
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 0ab023ce6b53639cc5dfefec35982dcc1c488801a2ed042b3d7e8f65b1c5b282
+  mediapath: /docs/postmarketOS--purpose_statement_candidate--0ab023ce6b53.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    postmarketOS\",\n  \"text_sha256\": \"0ab023ce6b53639cc5dfefec35982dcc1c488801a2ed042b3d7e8f65b1c5b282\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/06-purpose-followup.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0ab023ce6b53639cc5dfefec35982dcc1c488801a2ed042b3d7e8f65b1c5b282\",\n    \
+    \  \"id\": \"06-purpose-followup\",\n      \"url\": \"https://wiki.nura.eco/wiki/About_postmarketOS\"\
+    ,\n      \"resolved_url\": \"https://wiki.nura.eco/wiki/About_postmarketOS\",\n\
+    \      \"accessed_at\": \"2026-11-05T16:01:22.417384+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/06-purpose-followup.html\"\
+    ,\n      \"sha256\": \"8a34e8819647ee05300037241a4c8ecfeb13d56d97a8947d4966427636fb9e93\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"0ab023ce6b53639cc5dfefec35982dcc1c488801a2ed042b3d7e8f65b1c5b282\"\
+    ,\n    \"converted_sha256\": \"e221bb415ac8f57d1e6fcb0dc9e51b9061c3a8c73875de481c2dedd07191130f\"\
+    \n  }\n}"
+  name: postmarketOS--purpose_statement_candidate--0ab023ce6b53.md
+  owner: NicolasH
+  risid: null
+name: postmarketOS--purpose_statement_candidate--0ab023ce6b53.md
+path: corpus/qda-case-262/310.txt

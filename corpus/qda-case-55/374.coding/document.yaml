@@ -1,0 +1,58 @@
+hash: 479a3ded23752921826121fdc7603a342e2b276112f609bfe1955f5c66f960c0
+id: qda-source-374@qda-case-55
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 55
+    date: '2026-11-05 22:19:55'
+    fid: 374
+    id: 374
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8296
+  content_sha256: 479a3ded23752921826121fdc7603a342e2b276112f609bfe1955f5c66f960c0
+  date: '2026-11-05 22:19:55'
+  id: 374
+  import_metadata:
+    conversion:
+      converted_sha256: 479a3ded23752921826121fdc7603a342e2b276112f609bfe1955f5c66f960c0
+      original_sha256: efc40317b56042187675ab3df34f64f2d4c745818fcba959b4b03f1039b291c1
+      version: oss-ai-policies/clean-markdown-v1
+    entity: wagtail/wagtail
+    provenance:
+    - accessed_at: '2026-11-05T19:11:54.299619+00:00'
+      id: corpus-055-purpose
+      original_file_sha256: efc40317b56042187675ab3df34f64f2d4c745818fcba959b4b03f1039b291c1
+      path: analysis/corpus-assessment/sources/corpus-055-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-055-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/wagtail/wagtail/af68909d2ee1408c1035ac028e7d552d51a605fd/README.md
+      role: purpose_statement_candidate
+      sha256: efc40317b56042187675ab3df34f64f2d4c745818fcba959b4b03f1039b291c1
+      url: https://github.com/wagtail/wagtail/blob/af68909d2ee1408c1035ac028e7d552d51a605fd/README.md
+      version: af68909d2ee1408c1035ac028e7d552d51a605fd
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: efc40317b56042187675ab3df34f64f2d4c745818fcba959b4b03f1039b291c1
+  mediapath: /docs/wagtail__wagtail--purpose_statement_candidate--efc40317b560.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    wagtail/wagtail\",\n  \"text_sha256\": \"efc40317b56042187675ab3df34f64f2d4c745818fcba959b4b03f1039b291c1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-055-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"efc40317b56042187675ab3df34f64f2d4c745818fcba959b4b03f1039b291c1\",\n    \
+    \  \"id\": \"corpus-055-purpose\",\n      \"url\": \"https://github.com/wagtail/wagtail/blob/af68909d2ee1408c1035ac028e7d552d51a605fd/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/wagtail/wagtail/af68909d2ee1408c1035ac028e7d552d51a605fd/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:54.299619+00:00\",\n      \"version\"\
+    : \"af68909d2ee1408c1035ac028e7d552d51a605fd\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-055-purpose.raw.md\"\
+    ,\n      \"sha256\": \"efc40317b56042187675ab3df34f64f2d4c745818fcba959b4b03f1039b291c1\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"efc40317b56042187675ab3df34f64f2d4c745818fcba959b4b03f1039b291c1\"\
+    ,\n    \"converted_sha256\": \"479a3ded23752921826121fdc7603a342e2b276112f609bfe1955f5c66f960c0\"\
+    \n  }\n}"
+  name: wagtail__wagtail--purpose_statement_candidate--efc40317b560.md
+  owner: NicolasH
+  risid: null
+name: wagtail__wagtail--purpose_statement_candidate--efc40317b560.md
+path: corpus/qda-case-55/374.txt

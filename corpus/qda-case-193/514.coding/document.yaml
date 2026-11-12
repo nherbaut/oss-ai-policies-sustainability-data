@@ -1,0 +1,51 @@
+hash: dd2327c348fe01e66f585fd00f8cf06b07396afaf9194c228a6291b87a314c2f
+id: qda-source-514@qda-case-193
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 193
+    date: '2026-11-05 22:19:55'
+    fid: 514
+    id: 514
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7650
+  content_sha256: dd2327c348fe01e66f585fd00f8cf06b07396afaf9194c228a6291b87a314c2f
+  date: '2026-11-05 22:19:55'
+  id: 514
+  import_metadata:
+    entity: bevyengine/bevy
+    provenance:
+    - accessed_at: '2026-11-05T19:12:08.235630+00:00'
+      id: corpus-193-purpose
+      original_file_sha256: dd2327c348fe01e66f585fd00f8cf06b07396afaf9194c228a6291b87a314c2f
+      path: analysis/corpus-assessment/sources/corpus-193-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-193-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/bevyengine/bevy/19b25aec163a7defb4b8d1c6e987f9dcce46f8bc/README.md
+      role: purpose_statement_candidate
+      sha256: dd2327c348fe01e66f585fd00f8cf06b07396afaf9194c228a6291b87a314c2f
+      url: https://github.com/bevyengine/bevy/blob/19b25aec163a7defb4b8d1c6e987f9dcce46f8bc/README.md
+      version: 19b25aec163a7defb4b8d1c6e987f9dcce46f8bc
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: dd2327c348fe01e66f585fd00f8cf06b07396afaf9194c228a6291b87a314c2f
+  mediapath: /docs/bevyengine__bevy--purpose_statement_candidate--dd2327c348fe.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    bevyengine/bevy\",\n  \"text_sha256\": \"dd2327c348fe01e66f585fd00f8cf06b07396afaf9194c228a6291b87a314c2f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-193-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"dd2327c348fe01e66f585fd00f8cf06b07396afaf9194c228a6291b87a314c2f\",\n    \
+    \  \"id\": \"corpus-193-purpose\",\n      \"url\": \"https://github.com/bevyengine/bevy/blob/19b25aec163a7defb4b8d1c6e987f9dcce46f8bc/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/bevyengine/bevy/19b25aec163a7defb4b8d1c6e987f9dcce46f8bc/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:08.235630+00:00\",\n      \"version\"\
+    : \"19b25aec163a7defb4b8d1c6e987f9dcce46f8bc\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-193-purpose.raw.md\"\
+    ,\n      \"sha256\": \"dd2327c348fe01e66f585fd00f8cf06b07396afaf9194c228a6291b87a314c2f\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: bevyengine__bevy--purpose_statement_candidate--dd2327c348fe.md
+  owner: NicolasH
+  risid: null
+name: bevyengine__bevy--purpose_statement_candidate--dd2327c348fe.md
+path: corpus/qda-case-193/514.txt

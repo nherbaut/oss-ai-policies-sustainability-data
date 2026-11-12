@@ -1,0 +1,58 @@
+hash: 0a22975d3e848f0406cb12dbd0c50be8abfd36f30852267f0c557a3996d1d3fc
+id: qda-source-589@qda-case-268
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 268
+    date: '2026-11-05 22:19:55'
+    fid: 589
+    id: 589
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 63819
+  content_sha256: 0a22975d3e848f0406cb12dbd0c50be8abfd36f30852267f0c557a3996d1d3fc
+  date: '2026-11-05 22:19:55'
+  id: 589
+  import_metadata:
+    conversion:
+      converted_sha256: 0a22975d3e848f0406cb12dbd0c50be8abfd36f30852267f0c557a3996d1d3fc
+      original_sha256: d30773754f30c00193faa1291df9c80cdd3de939db81c1d80b6a97e9be914ff5
+      version: oss-ai-policies/clean-markdown-v1
+    entity: sindresorhus/type-fest
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.071267+00:00'
+      id: corpus-268-purpose
+      original_file_sha256: d30773754f30c00193faa1291df9c80cdd3de939db81c1d80b6a97e9be914ff5
+      path: analysis/corpus-assessment/sources/corpus-268-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-268-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/sindresorhus/type-fest/48ddc4ba71cb215c3e3d98b0257360edc229fa75/readme.md
+      role: purpose_statement_candidate
+      sha256: d30773754f30c00193faa1291df9c80cdd3de939db81c1d80b6a97e9be914ff5
+      url: https://github.com/sindresorhus/type-fest/blob/48ddc4ba71cb215c3e3d98b0257360edc229fa75/readme.md
+      version: 48ddc4ba71cb215c3e3d98b0257360edc229fa75
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: d30773754f30c00193faa1291df9c80cdd3de939db81c1d80b6a97e9be914ff5
+  mediapath: /docs/sindresorhus__type-fest--purpose_statement_candidate--d30773754f30.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    sindresorhus/type-fest\",\n  \"text_sha256\": \"d30773754f30c00193faa1291df9c80cdd3de939db81c1d80b6a97e9be914ff5\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-268-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"d30773754f30c00193faa1291df9c80cdd3de939db81c1d80b6a97e9be914ff5\",\n    \
+    \  \"id\": \"corpus-268-purpose\",\n      \"url\": \"https://github.com/sindresorhus/type-fest/blob/48ddc4ba71cb215c3e3d98b0257360edc229fa75/readme.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/sindresorhus/type-fest/48ddc4ba71cb215c3e3d98b0257360edc229fa75/readme.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:16.071267+00:00\",\n      \"version\"\
+    : \"48ddc4ba71cb215c3e3d98b0257360edc229fa75\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-268-purpose.raw.md\"\
+    ,\n      \"sha256\": \"d30773754f30c00193faa1291df9c80cdd3de939db81c1d80b6a97e9be914ff5\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"d30773754f30c00193faa1291df9c80cdd3de939db81c1d80b6a97e9be914ff5\"\
+    ,\n    \"converted_sha256\": \"0a22975d3e848f0406cb12dbd0c50be8abfd36f30852267f0c557a3996d1d3fc\"\
+    \n  }\n}"
+  name: sindresorhus__type-fest--purpose_statement_candidate--d30773754f30.md
+  owner: NicolasH
+  risid: null
+name: sindresorhus__type-fest--purpose_statement_candidate--d30773754f30.md
+path: corpus/qda-case-268/589.txt

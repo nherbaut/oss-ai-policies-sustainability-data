@@ -1,0 +1,58 @@
+hash: ae932cbe5f93bcce3fb8a6ebaf8eecba5340a37aa1883e387ccc67836fee5390
+id: qda-source-383@qda-case-62
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 62
+    date: '2026-11-05 22:19:55'
+    fid: 383
+    id: 383
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7837
+  content_sha256: ae932cbe5f93bcce3fb8a6ebaf8eecba5340a37aa1883e387ccc67836fee5390
+  date: '2026-11-05 22:19:55'
+  id: 383
+  import_metadata:
+    conversion:
+      converted_sha256: ae932cbe5f93bcce3fb8a6ebaf8eecba5340a37aa1883e387ccc67836fee5390
+      original_sha256: e1928a836a7d91583390db071ee6e0f791e4677f552ee4f317e9c350384d24d3
+      version: oss-ai-policies/clean-markdown-v1
+    entity: homebrew/brew
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.183767+00:00'
+      id: corpus-062-purpose
+      original_file_sha256: e1928a836a7d91583390db071ee6e0f791e4677f552ee4f317e9c350384d24d3
+      path: analysis/corpus-assessment/sources/corpus-062-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-062-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/homebrew/brew/f9e050ff085346db38abdab99fac279aa08b6b93/README.md
+      role: purpose_statement_candidate
+      sha256: e1928a836a7d91583390db071ee6e0f791e4677f552ee4f317e9c350384d24d3
+      url: https://github.com/homebrew/brew/blob/f9e050ff085346db38abdab99fac279aa08b6b93/README.md
+      version: f9e050ff085346db38abdab99fac279aa08b6b93
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e1928a836a7d91583390db071ee6e0f791e4677f552ee4f317e9c350384d24d3
+  mediapath: /docs/homebrew__brew--purpose_statement_candidate--e1928a836a7d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    homebrew/brew\",\n  \"text_sha256\": \"e1928a836a7d91583390db071ee6e0f791e4677f552ee4f317e9c350384d24d3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-062-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e1928a836a7d91583390db071ee6e0f791e4677f552ee4f317e9c350384d24d3\",\n    \
+    \  \"id\": \"corpus-062-purpose\",\n      \"url\": \"https://github.com/homebrew/brew/blob/f9e050ff085346db38abdab99fac279aa08b6b93/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/homebrew/brew/f9e050ff085346db38abdab99fac279aa08b6b93/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:55.183767+00:00\",\n      \"version\"\
+    : \"f9e050ff085346db38abdab99fac279aa08b6b93\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-062-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e1928a836a7d91583390db071ee6e0f791e4677f552ee4f317e9c350384d24d3\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e1928a836a7d91583390db071ee6e0f791e4677f552ee4f317e9c350384d24d3\"\
+    ,\n    \"converted_sha256\": \"ae932cbe5f93bcce3fb8a6ebaf8eecba5340a37aa1883e387ccc67836fee5390\"\
+    \n  }\n}"
+  name: homebrew__brew--purpose_statement_candidate--e1928a836a7d.md
+  owner: NicolasH
+  risid: null
+name: homebrew__brew--purpose_statement_candidate--e1928a836a7d.md
+path: corpus/qda-case-62/383.txt

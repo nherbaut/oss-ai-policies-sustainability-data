@@ -1,0 +1,58 @@
+hash: a7d3e6eb87baf5beb710c6854b6494df5e197d71aad92acaa3e8b086796b9467
+id: qda-source-475@qda-case-156
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 156
+    date: '2026-11-05 22:19:55'
+    fid: 475
+    id: 475
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7003
+  content_sha256: a7d3e6eb87baf5beb710c6854b6494df5e197d71aad92acaa3e8b086796b9467
+  date: '2026-11-05 22:19:55'
+  id: 475
+  import_metadata:
+    conversion:
+      converted_sha256: a7d3e6eb87baf5beb710c6854b6494df5e197d71aad92acaa3e8b086796b9467
+      original_sha256: 9c19bb65920f1f94dd929444ed66fdced98dd3a82c5a474ca3de6998d0b89140
+      version: oss-ai-policies/clean-markdown-v1
+    entity: ueberdosis/tiptap
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.553248+00:00'
+      id: corpus-156-purpose
+      original_file_sha256: 9c19bb65920f1f94dd929444ed66fdced98dd3a82c5a474ca3de6998d0b89140
+      path: analysis/corpus-assessment/sources/corpus-156-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-156-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/ueberdosis/tiptap/c9d37e1ee5c2982fbffa78aeac9f8cfb67c701ff/README.md
+      role: purpose_statement_candidate
+      sha256: 9c19bb65920f1f94dd929444ed66fdced98dd3a82c5a474ca3de6998d0b89140
+      url: https://github.com/ueberdosis/tiptap/blob/c9d37e1ee5c2982fbffa78aeac9f8cfb67c701ff/README.md
+      version: c9d37e1ee5c2982fbffa78aeac9f8cfb67c701ff
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9c19bb65920f1f94dd929444ed66fdced98dd3a82c5a474ca3de6998d0b89140
+  mediapath: /docs/ueberdosis__tiptap--purpose_statement_candidate--9c19bb65920f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ueberdosis/tiptap\",\n  \"text_sha256\": \"9c19bb65920f1f94dd929444ed66fdced98dd3a82c5a474ca3de6998d0b89140\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-156-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9c19bb65920f1f94dd929444ed66fdced98dd3a82c5a474ca3de6998d0b89140\",\n    \
+    \  \"id\": \"corpus-156-purpose\",\n      \"url\": \"https://github.com/ueberdosis/tiptap/blob/c9d37e1ee5c2982fbffa78aeac9f8cfb67c701ff/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/ueberdosis/tiptap/c9d37e1ee5c2982fbffa78aeac9f8cfb67c701ff/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.553248+00:00\",\n      \"version\"\
+    : \"c9d37e1ee5c2982fbffa78aeac9f8cfb67c701ff\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-156-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9c19bb65920f1f94dd929444ed66fdced98dd3a82c5a474ca3de6998d0b89140\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9c19bb65920f1f94dd929444ed66fdced98dd3a82c5a474ca3de6998d0b89140\"\
+    ,\n    \"converted_sha256\": \"a7d3e6eb87baf5beb710c6854b6494df5e197d71aad92acaa3e8b086796b9467\"\
+    \n  }\n}"
+  name: ueberdosis__tiptap--purpose_statement_candidate--9c19bb65920f.md
+  owner: NicolasH
+  risid: null
+name: ueberdosis__tiptap--purpose_statement_candidate--9c19bb65920f.md
+path: corpus/qda-case-156/475.txt

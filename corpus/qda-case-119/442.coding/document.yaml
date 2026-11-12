@@ -1,0 +1,58 @@
+hash: f2ca431953bf1fba5580eeb6b8af3ffb790f758e4766f7bd431a6846c1ad0b9a
+id: qda-source-442@qda-case-119
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 119
+    date: '2026-11-05 22:19:55'
+    fid: 442
+    id: 442
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6891
+  content_sha256: f2ca431953bf1fba5580eeb6b8af3ffb790f758e4766f7bd431a6846c1ad0b9a
+  date: '2026-11-05 22:19:55'
+  id: 442
+  import_metadata:
+    conversion:
+      converted_sha256: f2ca431953bf1fba5580eeb6b8af3ffb790f758e4766f7bd431a6846c1ad0b9a
+      original_sha256: 61b003ff4ddfbe6123ae3a1123e39e379f1559edc44634e6c14ba3f2671f9fd8
+      version: oss-ai-policies/clean-markdown-v1
+    entity: bytecodealliance/wasmtime
+    provenance:
+    - accessed_at: '2026-11-05T19:12:00.773001+00:00'
+      id: corpus-119-purpose
+      original_file_sha256: 61b003ff4ddfbe6123ae3a1123e39e379f1559edc44634e6c14ba3f2671f9fd8
+      path: analysis/corpus-assessment/sources/corpus-119-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-119-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/bytecodealliance/wasmtime/fb2282d641a3b5b3a66a27f3bd5df50fd79d6ecf/README.md
+      role: purpose_statement_candidate
+      sha256: 61b003ff4ddfbe6123ae3a1123e39e379f1559edc44634e6c14ba3f2671f9fd8
+      url: https://github.com/bytecodealliance/wasmtime/blob/fb2282d641a3b5b3a66a27f3bd5df50fd79d6ecf/README.md
+      version: fb2282d641a3b5b3a66a27f3bd5df50fd79d6ecf
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 61b003ff4ddfbe6123ae3a1123e39e379f1559edc44634e6c14ba3f2671f9fd8
+  mediapath: /docs/bytecodealliance__wasmtime--purpose_statement_candidate--61b003ff4ddf.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    bytecodealliance/wasmtime\",\n  \"text_sha256\": \"61b003ff4ddfbe6123ae3a1123e39e379f1559edc44634e6c14ba3f2671f9fd8\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-119-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"61b003ff4ddfbe6123ae3a1123e39e379f1559edc44634e6c14ba3f2671f9fd8\",\n    \
+    \  \"id\": \"corpus-119-purpose\",\n      \"url\": \"https://github.com/bytecodealliance/wasmtime/blob/fb2282d641a3b5b3a66a27f3bd5df50fd79d6ecf/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/bytecodealliance/wasmtime/fb2282d641a3b5b3a66a27f3bd5df50fd79d6ecf/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:00.773001+00:00\",\n      \"version\"\
+    : \"fb2282d641a3b5b3a66a27f3bd5df50fd79d6ecf\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-119-purpose.raw.md\"\
+    ,\n      \"sha256\": \"61b003ff4ddfbe6123ae3a1123e39e379f1559edc44634e6c14ba3f2671f9fd8\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"61b003ff4ddfbe6123ae3a1123e39e379f1559edc44634e6c14ba3f2671f9fd8\"\
+    ,\n    \"converted_sha256\": \"f2ca431953bf1fba5580eeb6b8af3ffb790f758e4766f7bd431a6846c1ad0b9a\"\
+    \n  }\n}"
+  name: bytecodealliance__wasmtime--purpose_statement_candidate--61b003ff4ddf.md
+  owner: NicolasH
+  risid: null
+name: bytecodealliance__wasmtime--purpose_statement_candidate--61b003ff4ddf.md
+path: corpus/qda-case-119/442.txt

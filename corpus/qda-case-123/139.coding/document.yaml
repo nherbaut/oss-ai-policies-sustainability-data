@@ -1,0 +1,50 @@
+hash: 98beb8c3e06d6b84c4cec4a2c286930e86e98d5f272ea6f59265e45fac78d551
+id: qda-source-139@qda-case-123
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 123
+    date: '2026-11-05 22:19:55'
+    fid: 139
+    id: 138
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 14060
+  content_sha256: 98beb8c3e06d6b84c4cec4a2c286930e86e98d5f272ea6f59265e45fac78d551
+  date: '2026-11-05 22:19:55'
+  id: 139
+  import_metadata:
+    conversion:
+      converted_sha256: 98beb8c3e06d6b84c4cec4a2c286930e86e98d5f272ea6f59265e45fac78d551
+      original_sha256: 2001ec9aab1f41b8938308373a76050dfaf5f69cd5dcb45049cd3354138b7505
+      version: oss-ai-policies/clean-markdown-v1
+    entity: github/spec-kit
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 2001ec9aab1f41b8938308373a76050dfaf5f69cd5dcb45049cd3354138b7505
+      path: data/281/policies/github/spec-kit/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/github/spec-kit/blob/fd101d531eaec8a1e709db2f37632bc93b6ce4d6/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 2001ec9aab1f41b8938308373a76050dfaf5f69cd5dcb45049cd3354138b7505
+  mediapath: /docs/github__spec-kit--contributing--2001ec9aab1f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    github/spec-kit\",\n  \"text_sha256\": \"2001ec9aab1f41b8938308373a76050dfaf5f69cd5dcb45049cd3354138b7505\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/github/spec-kit/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"2001ec9aab1f41b8938308373a76050dfaf5f69cd5dcb45049cd3354138b7505\"\
+    ,\n      \"source_url_cell\": \"https://github.com/github/spec-kit/blob/fd101d531eaec8a1e709db2f37632bc93b6ce4d6/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"2001ec9aab1f41b8938308373a76050dfaf5f69cd5dcb45049cd3354138b7505\"\
+    ,\n    \"converted_sha256\": \"98beb8c3e06d6b84c4cec4a2c286930e86e98d5f272ea6f59265e45fac78d551\"\
+    \n  }\n}"
+  name: github__spec-kit--contributing--2001ec9aab1f.md
+  owner: NicolasH
+  risid: null
+name: github__spec-kit--contributing--2001ec9aab1f.md
+path: corpus/qda-case-123/139.txt

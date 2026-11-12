@@ -1,0 +1,51 @@
+hash: 8386634c3c1a881cbc043ad4983c710ea97aa67ad5ef2a88b715f1db212a5f17
+id: qda-source-388@qda-case-66
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 66
+    date: '2026-11-05 22:19:55'
+    fid: 388
+    id: 388
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3664
+  content_sha256: 8386634c3c1a881cbc043ad4983c710ea97aa67ad5ef2a88b715f1db212a5f17
+  date: '2026-11-05 22:19:55'
+  id: 388
+  import_metadata:
+    entity: PROJ (OSGeo)
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.578511+00:00'
+      id: corpus-066-purpose
+      original_file_sha256: 8386634c3c1a881cbc043ad4983c710ea97aa67ad5ef2a88b715f1db212a5f17
+      path: analysis/corpus-assessment/sources/corpus-066-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-066-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/OSGeo/PROJ/master/README.md
+      role: purpose_statement_candidate
+      sha256: 8386634c3c1a881cbc043ad4983c710ea97aa67ad5ef2a88b715f1db212a5f17
+      url: https://github.com/OSGeo/PROJ/blob/master/README.md
+      version: master
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 8386634c3c1a881cbc043ad4983c710ea97aa67ad5ef2a88b715f1db212a5f17
+  mediapath: /docs/PROJ__OSGeo--purpose_statement_candidate--8386634c3c1a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    PROJ (OSGeo)\",\n  \"text_sha256\": \"8386634c3c1a881cbc043ad4983c710ea97aa67ad5ef2a88b715f1db212a5f17\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-066-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"8386634c3c1a881cbc043ad4983c710ea97aa67ad5ef2a88b715f1db212a5f17\",\n    \
+    \  \"id\": \"corpus-066-purpose\",\n      \"url\": \"https://github.com/OSGeo/PROJ/blob/master/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/OSGeo/PROJ/master/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:55.578511+00:00\",\n      \"version\"\
+    : \"master\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-066-purpose.raw.md\"\
+    ,\n      \"sha256\": \"8386634c3c1a881cbc043ad4983c710ea97aa67ad5ef2a88b715f1db212a5f17\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: PROJ__OSGeo--purpose_statement_candidate--8386634c3c1a.md
+  owner: NicolasH
+  risid: null
+name: PROJ__OSGeo--purpose_statement_candidate--8386634c3c1a.md
+path: corpus/qda-case-66/388.txt

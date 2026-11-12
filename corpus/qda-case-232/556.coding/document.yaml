@@ -1,0 +1,58 @@
+hash: f40a334fafcc724e9c4ba64e19ca07d02e1e832f4aff5917870e6c5a86562476
+id: qda-source-556@qda-case-232
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 232
+    date: '2026-11-05 22:19:55'
+    fid: 556
+    id: 556
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 16416
+  content_sha256: f40a334fafcc724e9c4ba64e19ca07d02e1e832f4aff5917870e6c5a86562476
+  date: '2026-11-05 22:19:55'
+  id: 556
+  import_metadata:
+    conversion:
+      converted_sha256: f40a334fafcc724e9c4ba64e19ca07d02e1e832f4aff5917870e6c5a86562476
+      original_sha256: 5a159c3bb7739bc8b7df10e3b181ea59e44cce635fc7bc05f2a80dd740345ea3
+      version: oss-ai-policies/clean-markdown-v1
+    entity: eyaltoledano/claude-task-master
+    provenance:
+    - accessed_at: '2026-11-05T19:12:13.232765+00:00'
+      id: corpus-232-purpose
+      original_file_sha256: 5a159c3bb7739bc8b7df10e3b181ea59e44cce635fc7bc05f2a80dd740345ea3
+      path: analysis/corpus-assessment/sources/corpus-232-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-232-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/eyaltoledano/claude-task-master/c0c98d367c55296bfe69e65680625b6db437af02/README.md
+      role: purpose_statement_candidate
+      sha256: 5a159c3bb7739bc8b7df10e3b181ea59e44cce635fc7bc05f2a80dd740345ea3
+      url: https://github.com/eyaltoledano/claude-task-master/blob/c0c98d367c55296bfe69e65680625b6db437af02/README.md
+      version: c0c98d367c55296bfe69e65680625b6db437af02
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 5a159c3bb7739bc8b7df10e3b181ea59e44cce635fc7bc05f2a80dd740345ea3
+  mediapath: /docs/eyaltoledano__claude-task-master--purpose_statement_candidate--5a159c3bb773.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    eyaltoledano/claude-task-master\",\n  \"text_sha256\": \"5a159c3bb7739bc8b7df10e3b181ea59e44cce635fc7bc05f2a80dd740345ea3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-232-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5a159c3bb7739bc8b7df10e3b181ea59e44cce635fc7bc05f2a80dd740345ea3\",\n    \
+    \  \"id\": \"corpus-232-purpose\",\n      \"url\": \"https://github.com/eyaltoledano/claude-task-master/blob/c0c98d367c55296bfe69e65680625b6db437af02/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/eyaltoledano/claude-task-master/c0c98d367c55296bfe69e65680625b6db437af02/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:13.232765+00:00\",\n      \"version\"\
+    : \"c0c98d367c55296bfe69e65680625b6db437af02\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-232-purpose.raw.md\"\
+    ,\n      \"sha256\": \"5a159c3bb7739bc8b7df10e3b181ea59e44cce635fc7bc05f2a80dd740345ea3\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"5a159c3bb7739bc8b7df10e3b181ea59e44cce635fc7bc05f2a80dd740345ea3\"\
+    ,\n    \"converted_sha256\": \"f40a334fafcc724e9c4ba64e19ca07d02e1e832f4aff5917870e6c5a86562476\"\
+    \n  }\n}"
+  name: eyaltoledano__claude-task-master--purpose_statement_candidate--5a159c3bb773.md
+  owner: NicolasH
+  risid: null
+name: eyaltoledano__claude-task-master--purpose_statement_candidate--5a159c3bb773.md
+path: corpus/qda-case-232/556.txt

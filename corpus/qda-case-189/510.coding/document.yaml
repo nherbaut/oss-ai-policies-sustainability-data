@@ -1,0 +1,58 @@
+hash: 33c85394bf704f2d7dacc5cf8455f8d4c4715391c6cab0e4e7e5253775f150fc
+id: qda-source-510@qda-case-189
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 189
+    date: '2026-11-05 22:19:55'
+    fid: 510
+    id: 510
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11755
+  content_sha256: 33c85394bf704f2d7dacc5cf8455f8d4c4715391c6cab0e4e7e5253775f150fc
+  date: '2026-11-05 22:19:55'
+  id: 510
+  import_metadata:
+    conversion:
+      converted_sha256: 33c85394bf704f2d7dacc5cf8455f8d4c4715391c6cab0e4e7e5253775f150fc
+      original_sha256: bef39992fe78aa0c5b1ee118e7652206090b8090f973ae311c94444a9c3907e4
+      version: oss-ai-policies/clean-markdown-v1
+    entity: huggingface/diffusers
+    provenance:
+    - accessed_at: '2026-11-05T19:12:07.546184+00:00'
+      id: corpus-189-purpose
+      original_file_sha256: bef39992fe78aa0c5b1ee118e7652206090b8090f973ae311c94444a9c3907e4
+      path: analysis/corpus-assessment/sources/corpus-189-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-189-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/huggingface/diffusers/612036aa14e416902fc38c3f3ef30fe8357acf7f/README.md
+      role: purpose_statement_candidate
+      sha256: bef39992fe78aa0c5b1ee118e7652206090b8090f973ae311c94444a9c3907e4
+      url: https://github.com/huggingface/diffusers/blob/612036aa14e416902fc38c3f3ef30fe8357acf7f/README.md
+      version: 612036aa14e416902fc38c3f3ef30fe8357acf7f
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: bef39992fe78aa0c5b1ee118e7652206090b8090f973ae311c94444a9c3907e4
+  mediapath: /docs/huggingface__diffusers--purpose_statement_candidate--bef39992fe78.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    huggingface/diffusers\",\n  \"text_sha256\": \"bef39992fe78aa0c5b1ee118e7652206090b8090f973ae311c94444a9c3907e4\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-189-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"bef39992fe78aa0c5b1ee118e7652206090b8090f973ae311c94444a9c3907e4\",\n    \
+    \  \"id\": \"corpus-189-purpose\",\n      \"url\": \"https://github.com/huggingface/diffusers/blob/612036aa14e416902fc38c3f3ef30fe8357acf7f/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/huggingface/diffusers/612036aa14e416902fc38c3f3ef30fe8357acf7f/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:07.546184+00:00\",\n      \"version\"\
+    : \"612036aa14e416902fc38c3f3ef30fe8357acf7f\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-189-purpose.raw.md\"\
+    ,\n      \"sha256\": \"bef39992fe78aa0c5b1ee118e7652206090b8090f973ae311c94444a9c3907e4\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"bef39992fe78aa0c5b1ee118e7652206090b8090f973ae311c94444a9c3907e4\"\
+    ,\n    \"converted_sha256\": \"33c85394bf704f2d7dacc5cf8455f8d4c4715391c6cab0e4e7e5253775f150fc\"\
+    \n  }\n}"
+  name: huggingface__diffusers--purpose_statement_candidate--bef39992fe78.md
+  owner: NicolasH
+  risid: null
+name: huggingface__diffusers--purpose_statement_candidate--bef39992fe78.md
+path: corpus/qda-case-189/510.txt

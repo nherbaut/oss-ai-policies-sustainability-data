@@ -1,0 +1,43 @@
+hash: 25ce9cdcf84a501cfc227721ce88d70388463ca8045f471aad5a49ea399ae0de
+id: qda-source-26@qda-case-21
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 21
+    date: '2026-11-05 22:19:55'
+    fid: 26
+    id: 25
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10104
+  content_sha256: 25ce9cdcf84a501cfc227721ce88d70388463ca8045f471aad5a49ea399ae0de
+  date: '2026-11-05 22:19:55'
+  id: 26
+  import_metadata:
+    entity: keras-team/keras
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 25ce9cdcf84a501cfc227721ce88d70388463ca8045f471aad5a49ea399ae0de
+      path: data/281/policies/keras-team/keras/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/keras-team/keras/blob/8ec790152e67f170e88876a61dd6cb685e7d53b4/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 25ce9cdcf84a501cfc227721ce88d70388463ca8045f471aad5a49ea399ae0de
+  mediapath: /docs/keras-team__keras--contributing--25ce9cdcf84a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    keras-team/keras\",\n  \"text_sha256\": \"25ce9cdcf84a501cfc227721ce88d70388463ca8045f471aad5a49ea399ae0de\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/keras-team/keras/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"25ce9cdcf84a501cfc227721ce88d70388463ca8045f471aad5a49ea399ae0de\"\
+    ,\n      \"source_url_cell\": \"https://github.com/keras-team/keras/blob/8ec790152e67f170e88876a61dd6cb685e7d53b4/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: keras-team__keras--contributing--25ce9cdcf84a.md
+  owner: NicolasH
+  risid: null
+name: keras-team__keras--contributing--25ce9cdcf84a.md
+path: corpus/qda-case-21/26.txt

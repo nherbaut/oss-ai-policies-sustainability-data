@@ -1,0 +1,58 @@
+hash: 3fb251a5d72d71e874df198ec2da5d9cb544b991eb4a51c66b24dec8e601e693
+id: qda-source-392@qda-case-70
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 70
+    date: '2026-11-05 22:19:55'
+    fid: 392
+    id: 392
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9953
+  content_sha256: 3fb251a5d72d71e874df198ec2da5d9cb544b991eb4a51c66b24dec8e601e693
+  date: '2026-11-05 22:19:55'
+  id: 392
+  import_metadata:
+    conversion:
+      converted_sha256: 3fb251a5d72d71e874df198ec2da5d9cb544b991eb4a51c66b24dec8e601e693
+      original_sha256: dc549b184582c8b0662a32f543ddb461a98c5640b41a5001518a18a22d9a1679
+      version: oss-ai-policies/clean-markdown-v1
+    entity: huggingface/lerobot
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.975884+00:00'
+      id: corpus-070-purpose
+      original_file_sha256: dc549b184582c8b0662a32f543ddb461a98c5640b41a5001518a18a22d9a1679
+      path: analysis/corpus-assessment/sources/corpus-070-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-070-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/huggingface/lerobot/3f2179f3b69708b6ad009b2e7685dd9d05269ee1/README.md
+      role: purpose_statement_candidate
+      sha256: dc549b184582c8b0662a32f543ddb461a98c5640b41a5001518a18a22d9a1679
+      url: https://github.com/huggingface/lerobot/blob/3f2179f3b69708b6ad009b2e7685dd9d05269ee1/README.md
+      version: 3f2179f3b69708b6ad009b2e7685dd9d05269ee1
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: dc549b184582c8b0662a32f543ddb461a98c5640b41a5001518a18a22d9a1679
+  mediapath: /docs/huggingface__lerobot--purpose_statement_candidate--dc549b184582.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    huggingface/lerobot\",\n  \"text_sha256\": \"dc549b184582c8b0662a32f543ddb461a98c5640b41a5001518a18a22d9a1679\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-070-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"dc549b184582c8b0662a32f543ddb461a98c5640b41a5001518a18a22d9a1679\",\n    \
+    \  \"id\": \"corpus-070-purpose\",\n      \"url\": \"https://github.com/huggingface/lerobot/blob/3f2179f3b69708b6ad009b2e7685dd9d05269ee1/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/huggingface/lerobot/3f2179f3b69708b6ad009b2e7685dd9d05269ee1/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:55.975884+00:00\",\n      \"version\"\
+    : \"3f2179f3b69708b6ad009b2e7685dd9d05269ee1\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-070-purpose.raw.md\"\
+    ,\n      \"sha256\": \"dc549b184582c8b0662a32f543ddb461a98c5640b41a5001518a18a22d9a1679\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"dc549b184582c8b0662a32f543ddb461a98c5640b41a5001518a18a22d9a1679\"\
+    ,\n    \"converted_sha256\": \"3fb251a5d72d71e874df198ec2da5d9cb544b991eb4a51c66b24dec8e601e693\"\
+    \n  }\n}"
+  name: huggingface__lerobot--purpose_statement_candidate--dc549b184582.md
+  owner: NicolasH
+  risid: null
+name: huggingface__lerobot--purpose_statement_candidate--dc549b184582.md
+path: corpus/qda-case-70/392.txt

@@ -1,0 +1,58 @@
+hash: 6fc10d0307567ddd0d9cc0a2913b6c89812601e2c37cbe0e51407932f0f8bdd8
+id: qda-source-472@qda-case-152
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 152
+    date: '2026-11-05 22:19:55'
+    fid: 472
+    id: 472
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3545
+  content_sha256: 6fc10d0307567ddd0d9cc0a2913b6c89812601e2c37cbe0e51407932f0f8bdd8
+  date: '2026-11-05 22:19:55'
+  id: 472
+  import_metadata:
+    conversion:
+      converted_sha256: 6fc10d0307567ddd0d9cc0a2913b6c89812601e2c37cbe0e51407932f0f8bdd8
+      original_sha256: c8c8b1e5c4e1970bbc6d56232b9b408d64952926078ecda5e5135973ef31530f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: rizinorg/cutter
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.455021+00:00'
+      id: corpus-152-purpose
+      original_file_sha256: c8c8b1e5c4e1970bbc6d56232b9b408d64952926078ecda5e5135973ef31530f
+      path: analysis/corpus-assessment/sources/corpus-152-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-152-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/rizinorg/cutter/e01d86b5fa12542b7eed9e35ce7d597b6b0a31ee/README.md
+      role: purpose_statement_candidate
+      sha256: c8c8b1e5c4e1970bbc6d56232b9b408d64952926078ecda5e5135973ef31530f
+      url: https://github.com/rizinorg/cutter/blob/e01d86b5fa12542b7eed9e35ce7d597b6b0a31ee/README.md
+      version: e01d86b5fa12542b7eed9e35ce7d597b6b0a31ee
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: c8c8b1e5c4e1970bbc6d56232b9b408d64952926078ecda5e5135973ef31530f
+  mediapath: /docs/rizinorg__cutter--purpose_statement_candidate--c8c8b1e5c4e1.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rizinorg/cutter\",\n  \"text_sha256\": \"c8c8b1e5c4e1970bbc6d56232b9b408d64952926078ecda5e5135973ef31530f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-152-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"c8c8b1e5c4e1970bbc6d56232b9b408d64952926078ecda5e5135973ef31530f\",\n    \
+    \  \"id\": \"corpus-152-purpose\",\n      \"url\": \"https://github.com/rizinorg/cutter/blob/e01d86b5fa12542b7eed9e35ce7d597b6b0a31ee/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/rizinorg/cutter/e01d86b5fa12542b7eed9e35ce7d597b6b0a31ee/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.455021+00:00\",\n      \"version\"\
+    : \"e01d86b5fa12542b7eed9e35ce7d597b6b0a31ee\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-152-purpose.raw.md\"\
+    ,\n      \"sha256\": \"c8c8b1e5c4e1970bbc6d56232b9b408d64952926078ecda5e5135973ef31530f\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"c8c8b1e5c4e1970bbc6d56232b9b408d64952926078ecda5e5135973ef31530f\"\
+    ,\n    \"converted_sha256\": \"6fc10d0307567ddd0d9cc0a2913b6c89812601e2c37cbe0e51407932f0f8bdd8\"\
+    \n  }\n}"
+  name: rizinorg__cutter--purpose_statement_candidate--c8c8b1e5c4e1.md
+  owner: NicolasH
+  risid: null
+name: rizinorg__cutter--purpose_statement_candidate--c8c8b1e5c4e1.md
+path: corpus/qda-case-152/472.txt

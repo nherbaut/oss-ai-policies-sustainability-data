@@ -1,0 +1,43 @@
+hash: 38654c868b81c677d15949864f72aa1d1cce4ae444671fde3804894d9349eba0
+id: qda-source-163@qda-case-145
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 145
+    date: '2026-11-05 22:19:55'
+    fid: 163
+    id: 162
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11078
+  content_sha256: 38654c868b81c677d15949864f72aa1d1cce4ae444671fde3804894d9349eba0
+  date: '2026-11-05 22:19:55'
+  id: 163
+  import_metadata:
+    entity: cjpais/Handy
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 38654c868b81c677d15949864f72aa1d1cce4ae444671fde3804894d9349eba0
+      path: data/281/policies/cjpais/Handy/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/cjpais/Handy/blob/b9925d01972a933544d0344a2e62360580368f18/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 38654c868b81c677d15949864f72aa1d1cce4ae444671fde3804894d9349eba0
+  mediapath: /docs/cjpais__Handy--contributing--38654c868b81.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    cjpais/Handy\",\n  \"text_sha256\": \"38654c868b81c677d15949864f72aa1d1cce4ae444671fde3804894d9349eba0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/cjpais/Handy/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"38654c868b81c677d15949864f72aa1d1cce4ae444671fde3804894d9349eba0\"\
+    ,\n      \"source_url_cell\": \"https://github.com/cjpais/Handy/blob/b9925d01972a933544d0344a2e62360580368f18/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: cjpais__Handy--contributing--38654c868b81.md
+  owner: NicolasH
+  risid: null
+name: cjpais__Handy--contributing--38654c868b81.md
+path: corpus/qda-case-145/163.txt

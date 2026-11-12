@@ -1,0 +1,57 @@
+hash: f3624bf320c76a16699fb6ee47621c1aa4348c18e07cf7232747c64fb5fc3da5
+id: qda-source-518@qda-case-196
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 196
+    date: '2026-11-05 22:19:55'
+    fid: 518
+    id: 518
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4260
+  content_sha256: f3624bf320c76a16699fb6ee47621c1aa4348c18e07cf7232747c64fb5fc3da5
+  date: '2026-11-05 22:19:55'
+  id: 518
+  import_metadata:
+    conversion:
+      converted_sha256: f3624bf320c76a16699fb6ee47621c1aa4348c18e07cf7232747c64fb5fc3da5
+      original_sha256: 36665163c4aac8b2437459af69e0cdc32b49761d23a5eb841c1679c6b64a6b2f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Servo
+    provenance:
+    - accessed_at: '2026-11-05T19:12:08.536970+00:00'
+      id: corpus-196-purpose
+      original_file_sha256: 36665163c4aac8b2437459af69e0cdc32b49761d23a5eb841c1679c6b64a6b2f
+      path: analysis/corpus-assessment/sources/corpus-196-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-196-purpose.html
+      resolved_url: https://servo.org/
+      role: purpose_statement_candidate
+      sha256: 5bcd74898a7308334073ce20c0af915abe75b3e9b3006744a826f5a96bff1c5c
+      url: https://servo.org/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 36665163c4aac8b2437459af69e0cdc32b49761d23a5eb841c1679c6b64a6b2f
+  mediapath: /docs/Servo--purpose_statement_candidate--36665163c4aa.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Servo\",\n  \"text_sha256\": \"36665163c4aac8b2437459af69e0cdc32b49761d23a5eb841c1679c6b64a6b2f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-196-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"36665163c4aac8b2437459af69e0cdc32b49761d23a5eb841c1679c6b64a6b2f\",\n    \
+    \  \"id\": \"corpus-196-purpose\",\n      \"url\": \"https://servo.org/\",\n \
+    \     \"resolved_url\": \"https://servo.org/\",\n      \"accessed_at\": \"2026-11-05T19:12:08.536970+00:00\"\
+    ,\n      \"version\": null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-196-purpose.html\"\
+    ,\n      \"sha256\": \"5bcd74898a7308334073ce20c0af915abe75b3e9b3006744a826f5a96bff1c5c\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"36665163c4aac8b2437459af69e0cdc32b49761d23a5eb841c1679c6b64a6b2f\"\
+    ,\n    \"converted_sha256\": \"f3624bf320c76a16699fb6ee47621c1aa4348c18e07cf7232747c64fb5fc3da5\"\
+    \n  }\n}"
+  name: Servo--purpose_statement_candidate--36665163c4aa.md
+  owner: NicolasH
+  risid: null
+name: Servo--purpose_statement_candidate--36665163c4aa.md
+path: corpus/qda-case-196/518.txt

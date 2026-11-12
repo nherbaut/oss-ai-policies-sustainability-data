@@ -1,0 +1,43 @@
+hash: 9a4a821830a444bfd05d70bc1b5b1fab06d3029a87dce6552aaca7f72a6cc8fd
+id: qda-source-261@qda-case-239
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 239
+    date: '2026-11-05 22:19:55'
+    fid: 261
+    id: 260
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8469
+  content_sha256: 9a4a821830a444bfd05d70bc1b5b1fab06d3029a87dce6552aaca7f72a6cc8fd
+  date: '2026-11-05 22:19:55'
+  id: 261
+  import_metadata:
+    entity: prettier/prettier
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 9a4a821830a444bfd05d70bc1b5b1fab06d3029a87dce6552aaca7f72a6cc8fd
+      path: data/281/policies/prettier/prettier/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/prettier/prettier/blob/36bc0b7ef4343701272ad094ba7c1a2e25b0039f/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 9a4a821830a444bfd05d70bc1b5b1fab06d3029a87dce6552aaca7f72a6cc8fd
+  mediapath: /docs/prettier__prettier--contributing--9a4a821830a4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    prettier/prettier\",\n  \"text_sha256\": \"9a4a821830a444bfd05d70bc1b5b1fab06d3029a87dce6552aaca7f72a6cc8fd\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/prettier/prettier/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"9a4a821830a444bfd05d70bc1b5b1fab06d3029a87dce6552aaca7f72a6cc8fd\"\
+    ,\n      \"source_url_cell\": \"https://github.com/prettier/prettier/blob/36bc0b7ef4343701272ad094ba7c1a2e25b0039f/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: prettier__prettier--contributing--9a4a821830a4.md
+  owner: NicolasH
+  risid: null
+name: prettier__prettier--contributing--9a4a821830a4.md
+path: corpus/qda-case-239/261.txt

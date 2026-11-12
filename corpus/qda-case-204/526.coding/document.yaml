@@ -1,0 +1,69 @@
+hash: 760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313
+id: qda-source-526@qda-case-204
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 204
+    date: '2026-11-05 22:19:55'
+    fid: 526
+    id: 526
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11536
+  content_sha256: 760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313
+  date: '2026-11-05 22:19:55'
+  id: 526
+  import_metadata:
+    entity: budibase/budibase
+    provenance:
+    - accessed_at: '2026-11-05T19:17:21.010066+00:00'
+      id: corpus-204-contributing-1
+      original_file_sha256: 760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313
+      path: analysis/corpus-assessment/sources/corpus-204-contributing-1.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-204-contributing-1.raw.md
+      resolved_url: https://raw.githubusercontent.com/budibase/budibase/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/docs/CONTRIBUTING.md
+      role: supplementary_policy
+      sha256: 760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313
+      url: https://github.com/budibase/budibase/blob/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/docs/CONTRIBUTING.md
+      version: 5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63
+    - accessed_at: '2026-11-05T19:12:09.633512+00:00'
+      id: corpus-204-other_policy-1
+      original_file_sha256: 760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313
+      path: analysis/corpus-assessment/sources/corpus-204-other_policy-1.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-204-other_policy-1.raw.md
+      resolved_url: https://raw.githubusercontent.com/Budibase/budibase/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/docs/CONTRIBUTING.md
+      role: supplementary_policy
+      sha256: 760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313
+      url: https://github.com/Budibase/budibase/blob/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/docs/CONTRIBUTING.md
+      version: 5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313
+  mediapath: /docs/budibase__budibase--supplementary_policy--760f04f96a8c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    budibase/budibase\",\n  \"text_sha256\": \"760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-204-contributing-1.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313\",\n    \
+    \  \"id\": \"corpus-204-contributing-1\",\n      \"url\": \"https://github.com/budibase/budibase/blob/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/docs/CONTRIBUTING.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/budibase/budibase/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/docs/CONTRIBUTING.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:17:21.010066+00:00\",\n      \"version\"\
+    : \"5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-204-contributing-1.raw.md\"\
+    ,\n      \"sha256\": \"760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313\"\
+    \n    },\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-204-other_policy-1.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313\",\n    \
+    \  \"id\": \"corpus-204-other_policy-1\",\n      \"url\": \"https://github.com/Budibase/budibase/blob/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/docs/CONTRIBUTING.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/Budibase/budibase/5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63/docs/CONTRIBUTING.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:09.633512+00:00\",\n      \"version\"\
+    : \"5bcc04c35b6d3e3f95619b4c3dc37fd01be22b63\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-204-other_policy-1.raw.md\"\
+    ,\n      \"sha256\": \"760f04f96a8c7b78f70236e92d1198764b0cb24cf4df6faa62e0afc5a181e313\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: budibase__budibase--supplementary_policy--760f04f96a8c.md
+  owner: NicolasH
+  risid: null
+name: budibase__budibase--supplementary_policy--760f04f96a8c.md
+path: corpus/qda-case-204/526.txt

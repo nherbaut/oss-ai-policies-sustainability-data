@@ -1,0 +1,58 @@
+hash: 0b116f8ca237c169a7e5d2e066b922759547765577fa44f17718b2cc20201110
+id: qda-source-307@qda-case-130
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 130
+    date: '2026-11-05 22:19:55'
+    fid: 307
+    id: 307
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11557
+  content_sha256: 0b116f8ca237c169a7e5d2e066b922759547765577fa44f17718b2cc20201110
+  date: '2026-11-05 22:19:55'
+  id: 307
+  import_metadata:
+    conversion:
+      converted_sha256: 0b116f8ca237c169a7e5d2e066b922759547765577fa44f17718b2cc20201110
+      original_sha256: 3e7bcda0dda8771d86a1b88b5b67694d32c50f3845cd5d12d6a3a981fec8d83b
+      version: oss-ai-policies/clean-markdown-v1
+    entity: EFF
+    provenance:
+    - accessed_at: '2026-11-05T16:00:19.226472+00:00'
+      id: 03-purpose
+      original_file_sha256: 3e7bcda0dda8771d86a1b88b5b67694d32c50f3845cd5d12d6a3a981fec8d83b
+      path: analysis/feasibility-pilot/sources/03-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/03-purpose.html
+      resolved_url: https://www.eff.org/about
+      role: purpose_statement_candidate
+      sha256: 4ba011b9ce988e7f6670570e3694d2c1df32d1a22a4fdda141abad834b807655
+      url: https://www.eff.org/about
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 3e7bcda0dda8771d86a1b88b5b67694d32c50f3845cd5d12d6a3a981fec8d83b
+  mediapath: /docs/EFF--purpose_statement_candidate--3e7bcda0dda8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    EFF\",\n  \"text_sha256\": \"3e7bcda0dda8771d86a1b88b5b67694d32c50f3845cd5d12d6a3a981fec8d83b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/03-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"3e7bcda0dda8771d86a1b88b5b67694d32c50f3845cd5d12d6a3a981fec8d83b\",\n    \
+    \  \"id\": \"03-purpose\",\n      \"url\": \"https://www.eff.org/about\",\n  \
+    \    \"resolved_url\": \"https://www.eff.org/about\",\n      \"accessed_at\":\
+    \ \"2026-11-05T16:00:19.226472+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/feasibility-pilot/sources/03-purpose.html\",\n      \"sha256\": \"\
+    4ba011b9ce988e7f6670570e3694d2c1df32d1a22a4fdda141abad834b807655\"\n    }\n  ],\n\
+    \  \"text_format\": \"Clean Markdown for coding; original corpus retained.\",\n\
+    \  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\",\n\
+    \    \"original_sha256\": \"3e7bcda0dda8771d86a1b88b5b67694d32c50f3845cd5d12d6a3a981fec8d83b\"\
+    ,\n    \"converted_sha256\": \"0b116f8ca237c169a7e5d2e066b922759547765577fa44f17718b2cc20201110\"\
+    \n  }\n}"
+  name: EFF--purpose_statement_candidate--3e7bcda0dda8.md
+  owner: NicolasH
+  risid: null
+name: EFF--purpose_statement_candidate--3e7bcda0dda8.md
+path: corpus/qda-case-130/307.txt

@@ -1,0 +1,58 @@
+hash: 0b2f864b845f3a6ed6975034a09def668aa4553b140d33b1f5ee3ea4db03e97a
+id: qda-source-414@qda-case-91
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 91
+    date: '2026-11-05 22:19:55'
+    fid: 414
+    id: 414
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 19529
+  content_sha256: 0b2f864b845f3a6ed6975034a09def668aa4553b140d33b1f5ee3ea4db03e97a
+  date: '2026-11-05 22:19:55'
+  id: 414
+  import_metadata:
+    conversion:
+      converted_sha256: 0b2f864b845f3a6ed6975034a09def668aa4553b140d33b1f5ee3ea4db03e97a
+      original_sha256: e1b995d3ad7a4728f02b8adb4cb250da925f50c933c0bd2edfdae290b6652195
+      version: oss-ai-policies/clean-markdown-v1
+    entity: timescale/timescaledb
+    provenance:
+    - accessed_at: '2026-11-05T19:11:57.685718+00:00'
+      id: corpus-091-purpose
+      original_file_sha256: e1b995d3ad7a4728f02b8adb4cb250da925f50c933c0bd2edfdae290b6652195
+      path: analysis/corpus-assessment/sources/corpus-091-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-091-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/timescale/timescaledb/9b1d8e68a27e1ea56911f798f994a108ed49cc6b/README.md
+      role: purpose_statement_candidate
+      sha256: e1b995d3ad7a4728f02b8adb4cb250da925f50c933c0bd2edfdae290b6652195
+      url: https://github.com/timescale/timescaledb/blob/9b1d8e68a27e1ea56911f798f994a108ed49cc6b/README.md
+      version: 9b1d8e68a27e1ea56911f798f994a108ed49cc6b
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e1b995d3ad7a4728f02b8adb4cb250da925f50c933c0bd2edfdae290b6652195
+  mediapath: /docs/timescale__timescaledb--purpose_statement_candidate--e1b995d3ad7a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    timescale/timescaledb\",\n  \"text_sha256\": \"e1b995d3ad7a4728f02b8adb4cb250da925f50c933c0bd2edfdae290b6652195\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-091-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e1b995d3ad7a4728f02b8adb4cb250da925f50c933c0bd2edfdae290b6652195\",\n    \
+    \  \"id\": \"corpus-091-purpose\",\n      \"url\": \"https://github.com/timescale/timescaledb/blob/9b1d8e68a27e1ea56911f798f994a108ed49cc6b/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/timescale/timescaledb/9b1d8e68a27e1ea56911f798f994a108ed49cc6b/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:57.685718+00:00\",\n      \"version\"\
+    : \"9b1d8e68a27e1ea56911f798f994a108ed49cc6b\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-091-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e1b995d3ad7a4728f02b8adb4cb250da925f50c933c0bd2edfdae290b6652195\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e1b995d3ad7a4728f02b8adb4cb250da925f50c933c0bd2edfdae290b6652195\"\
+    ,\n    \"converted_sha256\": \"0b2f864b845f3a6ed6975034a09def668aa4553b140d33b1f5ee3ea4db03e97a\"\
+    \n  }\n}"
+  name: timescale__timescaledb--purpose_statement_candidate--e1b995d3ad7a.md
+  owner: NicolasH
+  risid: null
+name: timescale__timescaledb--purpose_statement_candidate--e1b995d3ad7a.md
+path: corpus/qda-case-91/414.txt

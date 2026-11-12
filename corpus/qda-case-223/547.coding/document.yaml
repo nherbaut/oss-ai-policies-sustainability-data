@@ -1,0 +1,51 @@
+hash: b4bc7b56b4be371f272a3599944df96fecc46da7e63b317df81a03c0279ace3f
+id: qda-source-547@qda-case-223
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 223
+    date: '2026-11-05 22:19:55'
+    fid: 547
+    id: 547
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3270
+  content_sha256: b4bc7b56b4be371f272a3599944df96fecc46da7e63b317df81a03c0279ace3f
+  date: '2026-11-05 22:19:55'
+  id: 547
+  import_metadata:
+    entity: rapid7/metasploit-framework
+    provenance:
+    - accessed_at: '2026-11-05T19:12:12.362465+00:00'
+      id: corpus-223-purpose
+      original_file_sha256: b4bc7b56b4be371f272a3599944df96fecc46da7e63b317df81a03c0279ace3f
+      path: analysis/corpus-assessment/sources/corpus-223-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-223-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/rapid7/metasploit-framework/c0cb225b06341a1b590979dff51e8a2039e05e80/README.md
+      role: purpose_statement_candidate
+      sha256: b4bc7b56b4be371f272a3599944df96fecc46da7e63b317df81a03c0279ace3f
+      url: https://github.com/rapid7/metasploit-framework/blob/c0cb225b06341a1b590979dff51e8a2039e05e80/README.md
+      version: c0cb225b06341a1b590979dff51e8a2039e05e80
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: b4bc7b56b4be371f272a3599944df96fecc46da7e63b317df81a03c0279ace3f
+  mediapath: /docs/rapid7__metasploit-framework--purpose_statement_candidate--b4bc7b56b4be.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rapid7/metasploit-framework\",\n  \"text_sha256\": \"b4bc7b56b4be371f272a3599944df96fecc46da7e63b317df81a03c0279ace3f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-223-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b4bc7b56b4be371f272a3599944df96fecc46da7e63b317df81a03c0279ace3f\",\n    \
+    \  \"id\": \"corpus-223-purpose\",\n      \"url\": \"https://github.com/rapid7/metasploit-framework/blob/c0cb225b06341a1b590979dff51e8a2039e05e80/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/rapid7/metasploit-framework/c0cb225b06341a1b590979dff51e8a2039e05e80/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:12.362465+00:00\",\n      \"version\"\
+    : \"c0cb225b06341a1b590979dff51e8a2039e05e80\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-223-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b4bc7b56b4be371f272a3599944df96fecc46da7e63b317df81a03c0279ace3f\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: rapid7__metasploit-framework--purpose_statement_candidate--b4bc7b56b4be.md
+  owner: NicolasH
+  risid: null
+name: rapid7__metasploit-framework--purpose_statement_candidate--b4bc7b56b4be.md
+path: corpus/qda-case-223/547.txt

@@ -1,0 +1,51 @@
+hash: 1883b22f54c53f19de1b29331e3b5099901490b63ad504dc761f81b5bcc5517d
+id: qda-source-397@qda-case-75
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 75
+    date: '2026-11-05 22:19:55'
+    fid: 397
+    id: 397
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6253
+  content_sha256: 1883b22f54c53f19de1b29331e3b5099901490b63ad504dc761f81b5bcc5517d
+  date: '2026-11-05 22:19:55'
+  id: 397
+  import_metadata:
+    entity: apache/pulsar
+    provenance:
+    - accessed_at: '2026-11-05T19:11:56.594825+00:00'
+      id: corpus-075-other_policy-1
+      original_file_sha256: 1883b22f54c53f19de1b29331e3b5099901490b63ad504dc761f81b5bcc5517d
+      path: analysis/corpus-assessment/sources/corpus-075-other_policy-1.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-075-other_policy-1.raw.md
+      resolved_url: https://raw.githubusercontent.com/apache/pulsar/8576283da4ad3f3742168fc4bf4a527f31923297/AGENTS.md
+      role: supplementary_policy
+      sha256: 1883b22f54c53f19de1b29331e3b5099901490b63ad504dc761f81b5bcc5517d
+      url: https://github.com/apache/pulsar/blob/8576283da4ad3f3742168fc4bf4a527f31923297/AGENTS.md
+      version: 8576283da4ad3f3742168fc4bf4a527f31923297
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 1883b22f54c53f19de1b29331e3b5099901490b63ad504dc761f81b5bcc5517d
+  mediapath: /docs/apache__pulsar--supplementary_policy--1883b22f54c5.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    apache/pulsar\",\n  \"text_sha256\": \"1883b22f54c53f19de1b29331e3b5099901490b63ad504dc761f81b5bcc5517d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-075-other_policy-1.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"1883b22f54c53f19de1b29331e3b5099901490b63ad504dc761f81b5bcc5517d\",\n    \
+    \  \"id\": \"corpus-075-other_policy-1\",\n      \"url\": \"https://github.com/apache/pulsar/blob/8576283da4ad3f3742168fc4bf4a527f31923297/AGENTS.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/apache/pulsar/8576283da4ad3f3742168fc4bf4a527f31923297/AGENTS.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:56.594825+00:00\",\n      \"version\"\
+    : \"8576283da4ad3f3742168fc4bf4a527f31923297\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-075-other_policy-1.raw.md\"\
+    ,\n      \"sha256\": \"1883b22f54c53f19de1b29331e3b5099901490b63ad504dc761f81b5bcc5517d\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: apache__pulsar--supplementary_policy--1883b22f54c5.md
+  owner: NicolasH
+  risid: null
+name: apache__pulsar--supplementary_policy--1883b22f54c5.md
+path: corpus/qda-case-75/397.txt

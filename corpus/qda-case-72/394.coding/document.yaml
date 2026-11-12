@@ -1,0 +1,58 @@
+hash: ed60e011f67cad0efbacdbb8b4c3f4836abcafeb8133e0d290eb1e97e8a98766
+id: qda-source-394@qda-case-72
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 72
+    date: '2026-11-05 22:19:55'
+    fid: 394
+    id: 394
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 13708
+  content_sha256: ed60e011f67cad0efbacdbb8b4c3f4836abcafeb8133e0d290eb1e97e8a98766
+  date: '2026-11-05 22:19:55'
+  id: 394
+  import_metadata:
+    conversion:
+      converted_sha256: ed60e011f67cad0efbacdbb8b4c3f4836abcafeb8133e0d290eb1e97e8a98766
+      original_sha256: 0ccb6de95e81fd11f411c989a48b634c508bb5c03abe39b1f474cc92a711da09
+      version: oss-ai-policies/clean-markdown-v1
+    entity: simdjson/simdjson
+    provenance:
+    - accessed_at: '2026-11-05T19:11:56.075392+00:00'
+      id: corpus-072-purpose
+      original_file_sha256: 0ccb6de95e81fd11f411c989a48b634c508bb5c03abe39b1f474cc92a711da09
+      path: analysis/corpus-assessment/sources/corpus-072-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-072-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/simdjson/simdjson/8e6bac94877f2d3d026000d36ce81e0aaf38d26f/README.md
+      role: purpose_statement_candidate
+      sha256: 0ccb6de95e81fd11f411c989a48b634c508bb5c03abe39b1f474cc92a711da09
+      url: https://github.com/simdjson/simdjson/blob/8e6bac94877f2d3d026000d36ce81e0aaf38d26f/README.md
+      version: 8e6bac94877f2d3d026000d36ce81e0aaf38d26f
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 0ccb6de95e81fd11f411c989a48b634c508bb5c03abe39b1f474cc92a711da09
+  mediapath: /docs/simdjson__simdjson--purpose_statement_candidate--0ccb6de95e81.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    simdjson/simdjson\",\n  \"text_sha256\": \"0ccb6de95e81fd11f411c989a48b634c508bb5c03abe39b1f474cc92a711da09\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-072-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0ccb6de95e81fd11f411c989a48b634c508bb5c03abe39b1f474cc92a711da09\",\n    \
+    \  \"id\": \"corpus-072-purpose\",\n      \"url\": \"https://github.com/simdjson/simdjson/blob/8e6bac94877f2d3d026000d36ce81e0aaf38d26f/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/simdjson/simdjson/8e6bac94877f2d3d026000d36ce81e0aaf38d26f/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:56.075392+00:00\",\n      \"version\"\
+    : \"8e6bac94877f2d3d026000d36ce81e0aaf38d26f\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-072-purpose.raw.md\"\
+    ,\n      \"sha256\": \"0ccb6de95e81fd11f411c989a48b634c508bb5c03abe39b1f474cc92a711da09\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"0ccb6de95e81fd11f411c989a48b634c508bb5c03abe39b1f474cc92a711da09\"\
+    ,\n    \"converted_sha256\": \"ed60e011f67cad0efbacdbb8b4c3f4836abcafeb8133e0d290eb1e97e8a98766\"\
+    \n  }\n}"
+  name: simdjson__simdjson--purpose_statement_candidate--0ccb6de95e81.md
+  owner: NicolasH
+  risid: null
+name: simdjson__simdjson--purpose_statement_candidate--0ccb6de95e81.md
+path: corpus/qda-case-72/394.txt

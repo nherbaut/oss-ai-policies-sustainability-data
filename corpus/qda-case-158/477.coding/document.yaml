@@ -1,0 +1,58 @@
+hash: fa139ddd24b9e6107ae2148f23cd5d56faf723ab25d6e6e4b2aec10fd009e67c
+id: qda-source-477@qda-case-158
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 158
+    date: '2026-11-05 22:19:55'
+    fid: 477
+    id: 477
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5488
+  content_sha256: fa139ddd24b9e6107ae2148f23cd5d56faf723ab25d6e6e4b2aec10fd009e67c
+  date: '2026-11-05 22:19:55'
+  id: 477
+  import_metadata:
+    conversion:
+      converted_sha256: fa139ddd24b9e6107ae2148f23cd5d56faf723ab25d6e6e4b2aec10fd009e67c
+      original_sha256: 44580f1b4d6707cec4c2f563a378be1e73ec2a6489f7d9f28a2238cfa61ee113
+      version: oss-ai-policies/clean-markdown-v1
+    entity: textualize/textual
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.570983+00:00'
+      id: corpus-158-purpose
+      original_file_sha256: 44580f1b4d6707cec4c2f563a378be1e73ec2a6489f7d9f28a2238cfa61ee113
+      path: analysis/corpus-assessment/sources/corpus-158-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-158-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/textualize/textual/06dbeef4bb70fb718236aa418ed658ef4667a126/README.md
+      role: purpose_statement_candidate
+      sha256: 44580f1b4d6707cec4c2f563a378be1e73ec2a6489f7d9f28a2238cfa61ee113
+      url: https://github.com/textualize/textual/blob/06dbeef4bb70fb718236aa418ed658ef4667a126/README.md
+      version: 06dbeef4bb70fb718236aa418ed658ef4667a126
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 44580f1b4d6707cec4c2f563a378be1e73ec2a6489f7d9f28a2238cfa61ee113
+  mediapath: /docs/textualize__textual--purpose_statement_candidate--44580f1b4d67.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    textualize/textual\",\n  \"text_sha256\": \"44580f1b4d6707cec4c2f563a378be1e73ec2a6489f7d9f28a2238cfa61ee113\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-158-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"44580f1b4d6707cec4c2f563a378be1e73ec2a6489f7d9f28a2238cfa61ee113\",\n    \
+    \  \"id\": \"corpus-158-purpose\",\n      \"url\": \"https://github.com/textualize/textual/blob/06dbeef4bb70fb718236aa418ed658ef4667a126/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/textualize/textual/06dbeef4bb70fb718236aa418ed658ef4667a126/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.570983+00:00\",\n      \"version\"\
+    : \"06dbeef4bb70fb718236aa418ed658ef4667a126\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-158-purpose.raw.md\"\
+    ,\n      \"sha256\": \"44580f1b4d6707cec4c2f563a378be1e73ec2a6489f7d9f28a2238cfa61ee113\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"44580f1b4d6707cec4c2f563a378be1e73ec2a6489f7d9f28a2238cfa61ee113\"\
+    ,\n    \"converted_sha256\": \"fa139ddd24b9e6107ae2148f23cd5d56faf723ab25d6e6e4b2aec10fd009e67c\"\
+    \n  }\n}"
+  name: textualize__textual--purpose_statement_candidate--44580f1b4d67.md
+  owner: NicolasH
+  risid: null
+name: textualize__textual--purpose_statement_candidate--44580f1b4d67.md
+path: corpus/qda-case-158/477.txt

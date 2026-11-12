@@ -1,0 +1,58 @@
+hash: 85a98208ffd14cf91e56b6cb30b7506cef477ebdf1ba544da9c005a6d16e5bf2
+id: qda-source-557@qda-case-233
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 233
+    date: '2026-11-05 22:19:55'
+    fid: 557
+    id: 557
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1289
+  content_sha256: 85a98208ffd14cf91e56b6cb30b7506cef477ebdf1ba544da9c005a6d16e5bf2
+  date: '2026-11-05 22:19:55'
+  id: 557
+  import_metadata:
+    conversion:
+      converted_sha256: 85a98208ffd14cf91e56b6cb30b7506cef477ebdf1ba544da9c005a6d16e5bf2
+      original_sha256: e720e147591fef7b067ab03f9afc8d390ea52115ed0aedac732dae69227e407b
+      version: oss-ai-policies/clean-markdown-v1
+    entity: tornadoweb/tornado
+    provenance:
+    - accessed_at: '2026-11-05T19:12:13.526016+00:00'
+      id: corpus-233-purpose
+      original_file_sha256: e720e147591fef7b067ab03f9afc8d390ea52115ed0aedac732dae69227e407b
+      path: analysis/corpus-assessment/sources/corpus-233-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-233-purpose.rst
+      resolved_url: https://raw.githubusercontent.com/tornadoweb/tornado/e530031405e2154654dedc4c84d5656b557ea310/README.rst
+      role: purpose_statement_candidate
+      sha256: 321b7ec54c8078f26f1a91aff0473eb6ea6bf594cd30aca79dd5c0d30fe0762d
+      url: https://github.com/tornadoweb/tornado/blob/e530031405e2154654dedc4c84d5656b557ea310/README.rst
+      version: e530031405e2154654dedc4c84d5656b557ea310
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e720e147591fef7b067ab03f9afc8d390ea52115ed0aedac732dae69227e407b
+  mediapath: /docs/tornadoweb__tornado--purpose_statement_candidate--e720e147591f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    tornadoweb/tornado\",\n  \"text_sha256\": \"e720e147591fef7b067ab03f9afc8d390ea52115ed0aedac732dae69227e407b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-233-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e720e147591fef7b067ab03f9afc8d390ea52115ed0aedac732dae69227e407b\",\n    \
+    \  \"id\": \"corpus-233-purpose\",\n      \"url\": \"https://github.com/tornadoweb/tornado/blob/e530031405e2154654dedc4c84d5656b557ea310/README.rst\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/tornadoweb/tornado/e530031405e2154654dedc4c84d5656b557ea310/README.rst\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:13.526016+00:00\",\n      \"version\"\
+    : \"e530031405e2154654dedc4c84d5656b557ea310\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-233-purpose.rst\"\
+    ,\n      \"sha256\": \"321b7ec54c8078f26f1a91aff0473eb6ea6bf594cd30aca79dd5c0d30fe0762d\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e720e147591fef7b067ab03f9afc8d390ea52115ed0aedac732dae69227e407b\"\
+    ,\n    \"converted_sha256\": \"85a98208ffd14cf91e56b6cb30b7506cef477ebdf1ba544da9c005a6d16e5bf2\"\
+    \n  }\n}"
+  name: tornadoweb__tornado--purpose_statement_candidate--e720e147591f.md
+  owner: NicolasH
+  risid: null
+name: tornadoweb__tornado--purpose_statement_candidate--e720e147591f.md
+path: corpus/qda-case-233/557.txt

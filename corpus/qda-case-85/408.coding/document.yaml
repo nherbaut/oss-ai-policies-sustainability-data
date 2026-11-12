@@ -1,0 +1,58 @@
+hash: bce19af998bbc1ec593aaf575712b4a2369413a4ed06750624fabeb3f4c7d6d5
+id: qda-source-408@qda-case-85
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 85
+    date: '2026-11-05 22:19:55'
+    fid: 408
+    id: 408
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 20742
+  content_sha256: bce19af998bbc1ec593aaf575712b4a2369413a4ed06750624fabeb3f4c7d6d5
+  date: '2026-11-05 22:19:55'
+  id: 408
+  import_metadata:
+    conversion:
+      converted_sha256: bce19af998bbc1ec593aaf575712b4a2369413a4ed06750624fabeb3f4c7d6d5
+      original_sha256: 2e192a938ff405792a633a0d9cc394b28ab6c679c93c1733dfd062f79993bcf5
+      version: oss-ai-policies/clean-markdown-v1
+    entity: dolphin-emu/dolphin
+    provenance:
+    - accessed_at: '2026-11-05T19:14:19.480151+00:00'
+      id: corpus-085-followup
+      original_file_sha256: 2e192a938ff405792a633a0d9cc394b28ab6c679c93c1733dfd062f79993bcf5
+      path: analysis/corpus-assessment/sources/corpus-085-followup.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-085-followup.html
+      resolved_url: https://dolphin-emu.org/docs/faq/
+      role: purpose_statement_candidate
+      sha256: c3b6045da0291aefd8b627282f49f1407d7b49d812e4329d209504e42666bc66
+      url: https://dolphin-emu.org/docs/faq/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 2e192a938ff405792a633a0d9cc394b28ab6c679c93c1733dfd062f79993bcf5
+  mediapath: /docs/dolphin-emu__dolphin--purpose_statement_candidate--2e192a938ff4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    dolphin-emu/dolphin\",\n  \"text_sha256\": \"2e192a938ff405792a633a0d9cc394b28ab6c679c93c1733dfd062f79993bcf5\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-085-followup.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"2e192a938ff405792a633a0d9cc394b28ab6c679c93c1733dfd062f79993bcf5\",\n    \
+    \  \"id\": \"corpus-085-followup\",\n      \"url\": \"https://dolphin-emu.org/docs/faq/\"\
+    ,\n      \"resolved_url\": \"https://dolphin-emu.org/docs/faq/\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:14:19.480151+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-085-followup.html\",\n      \"sha256\"\
+    : \"c3b6045da0291aefd8b627282f49f1407d7b49d812e4329d209504e42666bc66\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"2e192a938ff405792a633a0d9cc394b28ab6c679c93c1733dfd062f79993bcf5\"\
+    ,\n    \"converted_sha256\": \"bce19af998bbc1ec593aaf575712b4a2369413a4ed06750624fabeb3f4c7d6d5\"\
+    \n  }\n}"
+  name: dolphin-emu__dolphin--purpose_statement_candidate--2e192a938ff4.md
+  owner: NicolasH
+  risid: null
+name: dolphin-emu__dolphin--purpose_statement_candidate--2e192a938ff4.md
+path: corpus/qda-case-85/408.txt

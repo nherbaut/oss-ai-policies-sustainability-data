@@ -1,0 +1,51 @@
+hash: 6bbca0fb90da565f2e6b012c2e1b0580ee7252bacc4f93cb53b49bff56813d9e
+id: qda-source-342@qda-case-28
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 28
+    date: '2026-11-05 22:19:55'
+    fid: 342
+    id: 342
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8729
+  content_sha256: 6bbca0fb90da565f2e6b012c2e1b0580ee7252bacc4f93cb53b49bff56813d9e
+  date: '2026-11-05 22:19:55'
+  id: 342
+  import_metadata:
+    entity: oracle/graal
+    provenance:
+    - accessed_at: '2026-11-05T19:11:50.646149+00:00'
+      id: corpus-028-purpose
+      original_file_sha256: 6bbca0fb90da565f2e6b012c2e1b0580ee7252bacc4f93cb53b49bff56813d9e
+      path: analysis/corpus-assessment/sources/corpus-028-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-028-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/oracle/graal/be9330615b04b742baa98e503f32b1d169a99129/README.md
+      role: purpose_statement_candidate
+      sha256: 6bbca0fb90da565f2e6b012c2e1b0580ee7252bacc4f93cb53b49bff56813d9e
+      url: https://github.com/oracle/graal/blob/be9330615b04b742baa98e503f32b1d169a99129/README.md
+      version: be9330615b04b742baa98e503f32b1d169a99129
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 6bbca0fb90da565f2e6b012c2e1b0580ee7252bacc4f93cb53b49bff56813d9e
+  mediapath: /docs/oracle__graal--purpose_statement_candidate--6bbca0fb90da.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    oracle/graal\",\n  \"text_sha256\": \"6bbca0fb90da565f2e6b012c2e1b0580ee7252bacc4f93cb53b49bff56813d9e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-028-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"6bbca0fb90da565f2e6b012c2e1b0580ee7252bacc4f93cb53b49bff56813d9e\",\n    \
+    \  \"id\": \"corpus-028-purpose\",\n      \"url\": \"https://github.com/oracle/graal/blob/be9330615b04b742baa98e503f32b1d169a99129/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/oracle/graal/be9330615b04b742baa98e503f32b1d169a99129/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:50.646149+00:00\",\n      \"version\"\
+    : \"be9330615b04b742baa98e503f32b1d169a99129\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-028-purpose.raw.md\"\
+    ,\n      \"sha256\": \"6bbca0fb90da565f2e6b012c2e1b0580ee7252bacc4f93cb53b49bff56813d9e\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: oracle__graal--purpose_statement_candidate--6bbca0fb90da.md
+  owner: NicolasH
+  risid: null
+name: oracle__graal--purpose_statement_candidate--6bbca0fb90da.md
+path: corpus/qda-case-28/342.txt

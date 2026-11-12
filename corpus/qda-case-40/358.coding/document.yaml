@@ -1,0 +1,58 @@
+hash: a0becd2de22f2321bed1825a6d539f666f1436cab3aede7d37a79212a3d5e926
+id: qda-source-358@qda-case-40
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 40
+    date: '2026-11-05 22:19:55'
+    fid: 358
+    id: 358
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3557
+  content_sha256: a0becd2de22f2321bed1825a6d539f666f1436cab3aede7d37a79212a3d5e926
+  date: '2026-11-05 22:19:55'
+  id: 358
+  import_metadata:
+    conversion:
+      converted_sha256: a0becd2de22f2321bed1825a6d539f666f1436cab3aede7d37a79212a3d5e926
+      original_sha256: edd7ba359adc3768f774711550ca3683a0bd0689ad24e93f5aab34173ebbcdc4
+      version: oss-ai-policies/clean-markdown-v1
+    entity: OpenSSL
+    provenance:
+    - accessed_at: '2026-11-05T19:11:52.712902+00:00'
+      id: corpus-040-other_policy-1
+      original_file_sha256: edd7ba359adc3768f774711550ca3683a0bd0689ad24e93f5aab34173ebbcdc4
+      path: analysis/corpus-assessment/sources/corpus-040-other_policy-1.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-040-other_policy-1.html
+      resolved_url: https://openssl-library.org/policies/cla/
+      role: supplementary_policy
+      sha256: 5ce40bacab2cf071471dde097613e8d09811fac4ec209dfacfa3209ca753aa66
+      url: https://openssl-library.org/policies/cla/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: edd7ba359adc3768f774711550ca3683a0bd0689ad24e93f5aab34173ebbcdc4
+  mediapath: /docs/OpenSSL--supplementary_policy--edd7ba359adc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    OpenSSL\",\n  \"text_sha256\": \"edd7ba359adc3768f774711550ca3683a0bd0689ad24e93f5aab34173ebbcdc4\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-040-other_policy-1.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"edd7ba359adc3768f774711550ca3683a0bd0689ad24e93f5aab34173ebbcdc4\",\n    \
+    \  \"id\": \"corpus-040-other_policy-1\",\n      \"url\": \"https://openssl-library.org/policies/cla/\"\
+    ,\n      \"resolved_url\": \"https://openssl-library.org/policies/cla/\",\n  \
+    \    \"accessed_at\": \"2026-11-05T19:11:52.712902+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-040-other_policy-1.html\"\
+    ,\n      \"sha256\": \"5ce40bacab2cf071471dde097613e8d09811fac4ec209dfacfa3209ca753aa66\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"edd7ba359adc3768f774711550ca3683a0bd0689ad24e93f5aab34173ebbcdc4\"\
+    ,\n    \"converted_sha256\": \"a0becd2de22f2321bed1825a6d539f666f1436cab3aede7d37a79212a3d5e926\"\
+    \n  }\n}"
+  name: OpenSSL--supplementary_policy--edd7ba359adc.md
+  owner: NicolasH
+  risid: null
+name: OpenSSL--supplementary_policy--edd7ba359adc.md
+path: corpus/qda-case-40/358.txt

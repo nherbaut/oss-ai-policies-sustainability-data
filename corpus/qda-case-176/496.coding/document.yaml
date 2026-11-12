@@ -1,0 +1,58 @@
+hash: 6385201c50593aeef614a833e6572efe4c15b2a56cf24b5210a30c0dd459ce45
+id: qda-source-496@qda-case-176
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 176
+    date: '2026-11-05 22:19:55'
+    fid: 496
+    id: 496
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10899
+  content_sha256: 6385201c50593aeef614a833e6572efe4c15b2a56cf24b5210a30c0dd459ce45
+  date: '2026-11-05 22:19:55'
+  id: 496
+  import_metadata:
+    conversion:
+      converted_sha256: 6385201c50593aeef614a833e6572efe4c15b2a56cf24b5210a30c0dd459ce45
+      original_sha256: ce7f1f588cd65c219aa1d253e84028c92de865d5d4be0d359be4bc309ae26381
+      version: oss-ai-policies/clean-markdown-v1
+    entity: vscodium/vscodium
+    provenance:
+    - accessed_at: '2026-11-05T19:12:05.939385+00:00'
+      id: corpus-176-purpose
+      original_file_sha256: ce7f1f588cd65c219aa1d253e84028c92de865d5d4be0d359be4bc309ae26381
+      path: analysis/corpus-assessment/sources/corpus-176-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-176-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/vscodium/vscodium/12b08023848522f884b04173ac0894849dd9fa05/README.md
+      role: purpose_statement_candidate
+      sha256: ce7f1f588cd65c219aa1d253e84028c92de865d5d4be0d359be4bc309ae26381
+      url: https://github.com/vscodium/vscodium/blob/12b08023848522f884b04173ac0894849dd9fa05/README.md
+      version: 12b08023848522f884b04173ac0894849dd9fa05
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ce7f1f588cd65c219aa1d253e84028c92de865d5d4be0d359be4bc309ae26381
+  mediapath: /docs/vscodium__vscodium--purpose_statement_candidate--ce7f1f588cd6.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    vscodium/vscodium\",\n  \"text_sha256\": \"ce7f1f588cd65c219aa1d253e84028c92de865d5d4be0d359be4bc309ae26381\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-176-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"ce7f1f588cd65c219aa1d253e84028c92de865d5d4be0d359be4bc309ae26381\",\n    \
+    \  \"id\": \"corpus-176-purpose\",\n      \"url\": \"https://github.com/vscodium/vscodium/blob/12b08023848522f884b04173ac0894849dd9fa05/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/vscodium/vscodium/12b08023848522f884b04173ac0894849dd9fa05/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:05.939385+00:00\",\n      \"version\"\
+    : \"12b08023848522f884b04173ac0894849dd9fa05\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-176-purpose.raw.md\"\
+    ,\n      \"sha256\": \"ce7f1f588cd65c219aa1d253e84028c92de865d5d4be0d359be4bc309ae26381\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"ce7f1f588cd65c219aa1d253e84028c92de865d5d4be0d359be4bc309ae26381\"\
+    ,\n    \"converted_sha256\": \"6385201c50593aeef614a833e6572efe4c15b2a56cf24b5210a30c0dd459ce45\"\
+    \n  }\n}"
+  name: vscodium__vscodium--purpose_statement_candidate--ce7f1f588cd6.md
+  owner: NicolasH
+  risid: null
+name: vscodium__vscodium--purpose_statement_candidate--ce7f1f588cd6.md
+path: corpus/qda-case-176/496.txt

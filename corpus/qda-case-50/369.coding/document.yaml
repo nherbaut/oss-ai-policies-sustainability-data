@@ -1,0 +1,58 @@
+hash: 2feee1277490e33a533647bab45f57aec32d3c626f4a04f84519a3095e718373
+id: qda-source-369@qda-case-50
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 50
+    date: '2026-11-05 22:19:55'
+    fid: 369
+    id: 369
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7334
+  content_sha256: 2feee1277490e33a533647bab45f57aec32d3c626f4a04f84519a3095e718373
+  date: '2026-11-05 22:19:55'
+  id: 369
+  import_metadata:
+    conversion:
+      converted_sha256: 2feee1277490e33a533647bab45f57aec32d3c626f4a04f84519a3095e718373
+      original_sha256: 9b9d389b0e927664a58e29a617b63f86232db700518f80b461b6949aaf1f7c6f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: suitenumerique/docs
+    provenance:
+    - accessed_at: '2026-11-05T19:11:53.888462+00:00'
+      id: corpus-050-purpose
+      original_file_sha256: 9b9d389b0e927664a58e29a617b63f86232db700518f80b461b6949aaf1f7c6f
+      path: analysis/corpus-assessment/sources/corpus-050-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-050-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/suitenumerique/docs/8d2dd5b565396c42e3526bd71e0c4fc20acc6393/README.md
+      role: purpose_statement_candidate
+      sha256: 9b9d389b0e927664a58e29a617b63f86232db700518f80b461b6949aaf1f7c6f
+      url: https://github.com/suitenumerique/docs/blob/8d2dd5b565396c42e3526bd71e0c4fc20acc6393/README.md
+      version: 8d2dd5b565396c42e3526bd71e0c4fc20acc6393
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9b9d389b0e927664a58e29a617b63f86232db700518f80b461b6949aaf1f7c6f
+  mediapath: /docs/suitenumerique__docs--purpose_statement_candidate--9b9d389b0e92.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    suitenumerique/docs\",\n  \"text_sha256\": \"9b9d389b0e927664a58e29a617b63f86232db700518f80b461b6949aaf1f7c6f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-050-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9b9d389b0e927664a58e29a617b63f86232db700518f80b461b6949aaf1f7c6f\",\n    \
+    \  \"id\": \"corpus-050-purpose\",\n      \"url\": \"https://github.com/suitenumerique/docs/blob/8d2dd5b565396c42e3526bd71e0c4fc20acc6393/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/suitenumerique/docs/8d2dd5b565396c42e3526bd71e0c4fc20acc6393/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:53.888462+00:00\",\n      \"version\"\
+    : \"8d2dd5b565396c42e3526bd71e0c4fc20acc6393\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-050-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9b9d389b0e927664a58e29a617b63f86232db700518f80b461b6949aaf1f7c6f\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9b9d389b0e927664a58e29a617b63f86232db700518f80b461b6949aaf1f7c6f\"\
+    ,\n    \"converted_sha256\": \"2feee1277490e33a533647bab45f57aec32d3c626f4a04f84519a3095e718373\"\
+    \n  }\n}"
+  name: suitenumerique__docs--purpose_statement_candidate--9b9d389b0e92.md
+  owner: NicolasH
+  risid: null
+name: suitenumerique__docs--purpose_statement_candidate--9b9d389b0e92.md
+path: corpus/qda-case-50/369.txt

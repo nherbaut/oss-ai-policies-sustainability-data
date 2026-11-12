@@ -1,0 +1,43 @@
+hash: f85dafb73da4a3886e2b54310beee6508ae14d9c63897f84ceb9bf975b82de92
+id: qda-source-110@qda-case-97
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 97
+    date: '2026-11-05 22:19:55'
+    fid: 110
+    id: 109
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 30119
+  content_sha256: f85dafb73da4a3886e2b54310beee6508ae14d9c63897f84ceb9bf975b82de92
+  date: '2026-11-05 22:19:55'
+  id: 110
+  import_metadata:
+    entity: rclone/rclone
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: f85dafb73da4a3886e2b54310beee6508ae14d9c63897f84ceb9bf975b82de92
+      path: data/281/policies/rclone/rclone/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/rclone/rclone/blob/2eb6f6d961ec6a2c2eedc00f547a084bd812814c/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: f85dafb73da4a3886e2b54310beee6508ae14d9c63897f84ceb9bf975b82de92
+  mediapath: /docs/rclone__rclone--contributing--f85dafb73da4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rclone/rclone\",\n  \"text_sha256\": \"f85dafb73da4a3886e2b54310beee6508ae14d9c63897f84ceb9bf975b82de92\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/rclone/rclone/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"f85dafb73da4a3886e2b54310beee6508ae14d9c63897f84ceb9bf975b82de92\"\
+    ,\n      \"source_url_cell\": \"https://github.com/rclone/rclone/blob/2eb6f6d961ec6a2c2eedc00f547a084bd812814c/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: rclone__rclone--contributing--f85dafb73da4.md
+  owner: NicolasH
+  risid: null
+name: rclone__rclone--contributing--f85dafb73da4.md
+path: corpus/qda-case-97/110.txt

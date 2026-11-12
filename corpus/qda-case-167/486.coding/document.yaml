@@ -1,0 +1,58 @@
+hash: 6ce1cdb10cf46756843157307e07e458bd385232d9ddf9d04596d381840a68bd
+id: qda-source-486@qda-case-167
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 167
+    date: '2026-11-05 22:19:55'
+    fid: 486
+    id: 486
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 17587
+  content_sha256: 6ce1cdb10cf46756843157307e07e458bd385232d9ddf9d04596d381840a68bd
+  date: '2026-11-05 22:19:55'
+  id: 486
+  import_metadata:
+    conversion:
+      converted_sha256: 6ce1cdb10cf46756843157307e07e458bd385232d9ddf9d04596d381840a68bd
+      original_sha256: 09e1aaf901e9a4239daba5ba124bb1cced7cb0c9f4c34359c0f2e29fbb9c5f72
+      version: oss-ai-policies/clean-markdown-v1
+    entity: paperclipai/paperclip
+    provenance:
+    - accessed_at: '2026-11-05T19:12:04.228412+00:00'
+      id: corpus-167-purpose
+      original_file_sha256: 09e1aaf901e9a4239daba5ba124bb1cced7cb0c9f4c34359c0f2e29fbb9c5f72
+      path: analysis/corpus-assessment/sources/corpus-167-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-167-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/paperclipai/paperclip/3ae2c30f2f48a53fec87c3da05ab63f1964785f1/README.md
+      role: purpose_statement_candidate
+      sha256: 09e1aaf901e9a4239daba5ba124bb1cced7cb0c9f4c34359c0f2e29fbb9c5f72
+      url: https://github.com/paperclipai/paperclip/blob/3ae2c30f2f48a53fec87c3da05ab63f1964785f1/README.md
+      version: 3ae2c30f2f48a53fec87c3da05ab63f1964785f1
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 09e1aaf901e9a4239daba5ba124bb1cced7cb0c9f4c34359c0f2e29fbb9c5f72
+  mediapath: /docs/paperclipai__paperclip--purpose_statement_candidate--09e1aaf901e9.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    paperclipai/paperclip\",\n  \"text_sha256\": \"09e1aaf901e9a4239daba5ba124bb1cced7cb0c9f4c34359c0f2e29fbb9c5f72\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-167-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"09e1aaf901e9a4239daba5ba124bb1cced7cb0c9f4c34359c0f2e29fbb9c5f72\",\n    \
+    \  \"id\": \"corpus-167-purpose\",\n      \"url\": \"https://github.com/paperclipai/paperclip/blob/3ae2c30f2f48a53fec87c3da05ab63f1964785f1/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/paperclipai/paperclip/3ae2c30f2f48a53fec87c3da05ab63f1964785f1/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:04.228412+00:00\",\n      \"version\"\
+    : \"3ae2c30f2f48a53fec87c3da05ab63f1964785f1\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-167-purpose.raw.md\"\
+    ,\n      \"sha256\": \"09e1aaf901e9a4239daba5ba124bb1cced7cb0c9f4c34359c0f2e29fbb9c5f72\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"09e1aaf901e9a4239daba5ba124bb1cced7cb0c9f4c34359c0f2e29fbb9c5f72\"\
+    ,\n    \"converted_sha256\": \"6ce1cdb10cf46756843157307e07e458bd385232d9ddf9d04596d381840a68bd\"\
+    \n  }\n}"
+  name: paperclipai__paperclip--purpose_statement_candidate--09e1aaf901e9.md
+  owner: NicolasH
+  risid: null
+name: paperclipai__paperclip--purpose_statement_candidate--09e1aaf901e9.md
+path: corpus/qda-case-167/486.txt

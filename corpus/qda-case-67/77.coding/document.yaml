@@ -1,0 +1,43 @@
+hash: c76c0004271bef82d7cc72fde49a3b94338d9f19f1dfeccc3a386f7c8f8bb264
+id: qda-source-77@qda-case-67
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 67
+    date: '2026-11-05 22:19:55'
+    fid: 77
+    id: 76
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 13385
+  content_sha256: c76c0004271bef82d7cc72fde49a3b94338d9f19f1dfeccc3a386f7c8f8bb264
+  date: '2026-11-05 22:19:55'
+  id: 77
+  import_metadata:
+    entity: ory/hydra
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: c76c0004271bef82d7cc72fde49a3b94338d9f19f1dfeccc3a386f7c8f8bb264
+      path: data/281/policies/ory/hydra/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/ory/hydra/blob/6b3ddb43f3b977c6d70c78166b0bba0b8f74fae8/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: c76c0004271bef82d7cc72fde49a3b94338d9f19f1dfeccc3a386f7c8f8bb264
+  mediapath: /docs/ory__hydra--contributing--c76c0004271b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ory/hydra\",\n  \"text_sha256\": \"c76c0004271bef82d7cc72fde49a3b94338d9f19f1dfeccc3a386f7c8f8bb264\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/ory/hydra/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"c76c0004271bef82d7cc72fde49a3b94338d9f19f1dfeccc3a386f7c8f8bb264\"\
+    ,\n      \"source_url_cell\": \"https://github.com/ory/hydra/blob/6b3ddb43f3b977c6d70c78166b0bba0b8f74fae8/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: ory__hydra--contributing--c76c0004271b.md
+  owner: NicolasH
+  risid: null
+name: ory__hydra--contributing--c76c0004271b.md
+path: corpus/qda-case-67/77.txt

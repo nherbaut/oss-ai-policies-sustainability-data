@@ -1,0 +1,43 @@
+hash: 52fb840189077366446ff562f14d23a236f1c8c2471d14624644712be1bad23a
+id: qda-source-167@qda-case-149
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 149
+    date: '2026-11-05 22:19:55'
+    fid: 167
+    id: 166
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2752
+  content_sha256: 52fb840189077366446ff562f14d23a236f1c8c2471d14624644712be1bad23a
+  date: '2026-11-05 22:19:55'
+  id: 167
+  import_metadata:
+    entity: aristocratos/btop
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 52fb840189077366446ff562f14d23a236f1c8c2471d14624644712be1bad23a
+      path: data/281/policies/aristocratos/btop/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/aristocratos/btop/blob/34831e7095f83f4d4de4693377a03a7493aae7e8/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 52fb840189077366446ff562f14d23a236f1c8c2471d14624644712be1bad23a
+  mediapath: /docs/aristocratos__btop--contributing--52fb84018907.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    aristocratos/btop\",\n  \"text_sha256\": \"52fb840189077366446ff562f14d23a236f1c8c2471d14624644712be1bad23a\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/aristocratos/btop/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"52fb840189077366446ff562f14d23a236f1c8c2471d14624644712be1bad23a\"\
+    ,\n      \"source_url_cell\": \"https://github.com/aristocratos/btop/blob/34831e7095f83f4d4de4693377a03a7493aae7e8/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: aristocratos__btop--contributing--52fb84018907.md
+  owner: NicolasH
+  risid: null
+name: aristocratos__btop--contributing--52fb84018907.md
+path: corpus/qda-case-149/167.txt

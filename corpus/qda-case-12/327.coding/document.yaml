@@ -1,0 +1,51 @@
+hash: e7343b7d008763547860aa32f87a580c95819123dd07c9cb3fe9a47f0d23c15f
+id: qda-source-327@qda-case-12
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 12
+    date: '2026-11-05 22:19:55'
+    fid: 327
+    id: 327
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2140
+  content_sha256: e7343b7d008763547860aa32f87a580c95819123dd07c9cb3fe9a47f0d23c15f
+  date: '2026-11-05 22:19:55'
+  id: 327
+  import_metadata:
+    entity: nixos/nix
+    provenance:
+    - accessed_at: '2026-11-05T16:00:22.762782+00:00'
+      id: 23-purpose
+      original_file_sha256: e7343b7d008763547860aa32f87a580c95819123dd07c9cb3fe9a47f0d23c15f
+      path: analysis/feasibility-pilot/sources/23-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/23-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/nixos/nix/55cc1cab880a60cd204e36e9398fee536371f06e/README.md
+      role: purpose_statement_candidate
+      sha256: e7343b7d008763547860aa32f87a580c95819123dd07c9cb3fe9a47f0d23c15f
+      url: https://github.com/nixos/nix/blob/55cc1cab880a60cd204e36e9398fee536371f06e/README.md
+      version: 55cc1cab880a60cd204e36e9398fee536371f06e
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: e7343b7d008763547860aa32f87a580c95819123dd07c9cb3fe9a47f0d23c15f
+  mediapath: /docs/nixos__nix--purpose_statement_candidate--e7343b7d0087.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    nixos/nix\",\n  \"text_sha256\": \"e7343b7d008763547860aa32f87a580c95819123dd07c9cb3fe9a47f0d23c15f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/23-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e7343b7d008763547860aa32f87a580c95819123dd07c9cb3fe9a47f0d23c15f\",\n    \
+    \  \"id\": \"23-purpose\",\n      \"url\": \"https://github.com/nixos/nix/blob/55cc1cab880a60cd204e36e9398fee536371f06e/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/nixos/nix/55cc1cab880a60cd204e36e9398fee536371f06e/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:22.762782+00:00\",\n      \"version\"\
+    : \"55cc1cab880a60cd204e36e9398fee536371f06e\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/23-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e7343b7d008763547860aa32f87a580c95819123dd07c9cb3fe9a47f0d23c15f\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: nixos__nix--purpose_statement_candidate--e7343b7d0087.md
+  owner: NicolasH
+  risid: null
+name: nixos__nix--purpose_statement_candidate--e7343b7d0087.md
+path: corpus/qda-case-12/327.txt

@@ -1,0 +1,58 @@
+hash: a8598f2f7ea9cf7ff65deb11ec7cf17b56ed4e2d785c22d809dfcce399c39608
+id: qda-source-479@qda-case-160
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 160
+    date: '2026-11-05 22:19:55'
+    fid: 479
+    id: 479
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4490
+  content_sha256: a8598f2f7ea9cf7ff65deb11ec7cf17b56ed4e2d785c22d809dfcce399c39608
+  date: '2026-11-05 22:19:55'
+  id: 479
+  import_metadata:
+    conversion:
+      converted_sha256: a8598f2f7ea9cf7ff65deb11ec7cf17b56ed4e2d785c22d809dfcce399c39608
+      original_sha256: ee04510fcc6e82fa87258c3bba766da73bbffd1f8bd8a2320babee8bc291ff30
+      version: oss-ai-policies/clean-markdown-v1
+    entity: agno-agi/agno
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.817392+00:00'
+      id: corpus-160-purpose
+      original_file_sha256: ee04510fcc6e82fa87258c3bba766da73bbffd1f8bd8a2320babee8bc291ff30
+      path: analysis/corpus-assessment/sources/corpus-160-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-160-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/agno-agi/agno/f6b475995a5fdb9114959e771d93423ac6e7d3a0/README.md
+      role: purpose_statement_candidate
+      sha256: ee04510fcc6e82fa87258c3bba766da73bbffd1f8bd8a2320babee8bc291ff30
+      url: https://github.com/agno-agi/agno/blob/f6b475995a5fdb9114959e771d93423ac6e7d3a0/README.md
+      version: f6b475995a5fdb9114959e771d93423ac6e7d3a0
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ee04510fcc6e82fa87258c3bba766da73bbffd1f8bd8a2320babee8bc291ff30
+  mediapath: /docs/agno-agi__agno--purpose_statement_candidate--ee04510fcc6e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    agno-agi/agno\",\n  \"text_sha256\": \"ee04510fcc6e82fa87258c3bba766da73bbffd1f8bd8a2320babee8bc291ff30\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-160-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"ee04510fcc6e82fa87258c3bba766da73bbffd1f8bd8a2320babee8bc291ff30\",\n    \
+    \  \"id\": \"corpus-160-purpose\",\n      \"url\": \"https://github.com/agno-agi/agno/blob/f6b475995a5fdb9114959e771d93423ac6e7d3a0/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/agno-agi/agno/f6b475995a5fdb9114959e771d93423ac6e7d3a0/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.817392+00:00\",\n      \"version\"\
+    : \"f6b475995a5fdb9114959e771d93423ac6e7d3a0\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-160-purpose.raw.md\"\
+    ,\n      \"sha256\": \"ee04510fcc6e82fa87258c3bba766da73bbffd1f8bd8a2320babee8bc291ff30\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"ee04510fcc6e82fa87258c3bba766da73bbffd1f8bd8a2320babee8bc291ff30\"\
+    ,\n    \"converted_sha256\": \"a8598f2f7ea9cf7ff65deb11ec7cf17b56ed4e2d785c22d809dfcce399c39608\"\
+    \n  }\n}"
+  name: agno-agi__agno--purpose_statement_candidate--ee04510fcc6e.md
+  owner: NicolasH
+  risid: null
+name: agno-agi__agno--purpose_statement_candidate--ee04510fcc6e.md
+path: corpus/qda-case-160/479.txt

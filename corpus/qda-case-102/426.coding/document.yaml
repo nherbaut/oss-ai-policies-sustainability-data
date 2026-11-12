@@ -1,0 +1,58 @@
+hash: 6d016995f9aec6f1a774b4be61ec3978bec700128dfbd70835e91a4cb0184c10
+id: qda-source-426@qda-case-102
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 102
+    date: '2026-11-05 22:19:55'
+    fid: 426
+    id: 426
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6051
+  content_sha256: 6d016995f9aec6f1a774b4be61ec3978bec700128dfbd70835e91a4cb0184c10
+  date: '2026-11-05 22:19:55'
+  id: 426
+  import_metadata:
+    conversion:
+      converted_sha256: 6d016995f9aec6f1a774b4be61ec3978bec700128dfbd70835e91a4cb0184c10
+      original_sha256: b5bcf7c2ed458a41c63cfadd6df4c127b6e20f7c6bdc2028c4d71fc409b10149
+      version: oss-ai-policies/clean-markdown-v1
+    entity: HeyPuter/puter
+    provenance:
+    - accessed_at: '2026-11-05T19:11:59.197928+00:00'
+      id: corpus-102-purpose
+      original_file_sha256: b5bcf7c2ed458a41c63cfadd6df4c127b6e20f7c6bdc2028c4d71fc409b10149
+      path: analysis/corpus-assessment/sources/corpus-102-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-102-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/HeyPuter/puter/c237e2433f88afd29e4429ef21132c901aed3e00/README.md
+      role: purpose_statement_candidate
+      sha256: b5bcf7c2ed458a41c63cfadd6df4c127b6e20f7c6bdc2028c4d71fc409b10149
+      url: https://github.com/HeyPuter/puter/blob/c237e2433f88afd29e4429ef21132c901aed3e00/README.md
+      version: c237e2433f88afd29e4429ef21132c901aed3e00
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b5bcf7c2ed458a41c63cfadd6df4c127b6e20f7c6bdc2028c4d71fc409b10149
+  mediapath: /docs/HeyPuter__puter--purpose_statement_candidate--b5bcf7c2ed45.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    HeyPuter/puter\",\n  \"text_sha256\": \"b5bcf7c2ed458a41c63cfadd6df4c127b6e20f7c6bdc2028c4d71fc409b10149\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-102-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b5bcf7c2ed458a41c63cfadd6df4c127b6e20f7c6bdc2028c4d71fc409b10149\",\n    \
+    \  \"id\": \"corpus-102-purpose\",\n      \"url\": \"https://github.com/HeyPuter/puter/blob/c237e2433f88afd29e4429ef21132c901aed3e00/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/HeyPuter/puter/c237e2433f88afd29e4429ef21132c901aed3e00/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:59.197928+00:00\",\n      \"version\"\
+    : \"c237e2433f88afd29e4429ef21132c901aed3e00\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-102-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b5bcf7c2ed458a41c63cfadd6df4c127b6e20f7c6bdc2028c4d71fc409b10149\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b5bcf7c2ed458a41c63cfadd6df4c127b6e20f7c6bdc2028c4d71fc409b10149\"\
+    ,\n    \"converted_sha256\": \"6d016995f9aec6f1a774b4be61ec3978bec700128dfbd70835e91a4cb0184c10\"\
+    \n  }\n}"
+  name: HeyPuter__puter--purpose_statement_candidate--b5bcf7c2ed45.md
+  owner: NicolasH
+  risid: null
+name: HeyPuter__puter--purpose_statement_candidate--b5bcf7c2ed45.md
+path: corpus/qda-case-102/426.txt

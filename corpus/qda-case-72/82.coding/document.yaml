@@ -1,0 +1,43 @@
+hash: 782b6407cd0db6b08f5052c742666d6965a64d20bb5254f665a80836f131bdd3
+id: qda-source-82@qda-case-72
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 72
+    date: '2026-11-05 22:19:55'
+    fid: 82
+    id: 81
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2808
+  content_sha256: 782b6407cd0db6b08f5052c742666d6965a64d20bb5254f665a80836f131bdd3
+  date: '2026-11-05 22:19:55'
+  id: 82
+  import_metadata:
+    entity: simdjson/simdjson
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 782b6407cd0db6b08f5052c742666d6965a64d20bb5254f665a80836f131bdd3
+      path: data/281/policies/simdjson/simdjson/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/simdjson/simdjson/blob/8e6bac94877f2d3d026000d36ce81e0aaf38d26f/AI_USAGE_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 782b6407cd0db6b08f5052c742666d6965a64d20bb5254f665a80836f131bdd3
+  mediapath: /docs/simdjson__simdjson--ai_policy--782b6407cd0d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    simdjson/simdjson\",\n  \"text_sha256\": \"782b6407cd0db6b08f5052c742666d6965a64d20bb5254f665a80836f131bdd3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/simdjson/simdjson/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"782b6407cd0db6b08f5052c742666d6965a64d20bb5254f665a80836f131bdd3\"\
+    ,\n      \"source_url_cell\": \"https://github.com/simdjson/simdjson/blob/8e6bac94877f2d3d026000d36ce81e0aaf38d26f/AI_USAGE_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: simdjson__simdjson--ai_policy--782b6407cd0d.md
+  owner: NicolasH
+  risid: null
+name: simdjson__simdjson--ai_policy--782b6407cd0d.md
+path: corpus/qda-case-72/82.txt

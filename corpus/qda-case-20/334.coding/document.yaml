@@ -1,0 +1,51 @@
+hash: 0ca0d87a431ee40785d382e8869b52afa9f3a935900433a23a570aa89ad1ac4c
+id: qda-source-334@qda-case-20
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 20
+    date: '2026-11-05 22:19:55'
+    fid: 334
+    id: 334
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 28042
+  content_sha256: 0ca0d87a431ee40785d382e8869b52afa9f3a935900433a23a570aa89ad1ac4c
+  date: '2026-11-05 22:19:55'
+  id: 334
+  import_metadata:
+    entity: sharkdp/fd
+    provenance:
+    - accessed_at: '2026-11-05T19:11:49.883346+00:00'
+      id: corpus-020-purpose
+      original_file_sha256: 0ca0d87a431ee40785d382e8869b52afa9f3a935900433a23a570aa89ad1ac4c
+      path: analysis/corpus-assessment/sources/corpus-020-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-020-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/sharkdp/fd/1bfeea237a48c9545211e5c21d623d398fa712c6/README.md
+      role: purpose_statement_candidate
+      sha256: 0ca0d87a431ee40785d382e8869b52afa9f3a935900433a23a570aa89ad1ac4c
+      url: https://github.com/sharkdp/fd/blob/1bfeea237a48c9545211e5c21d623d398fa712c6/README.md
+      version: 1bfeea237a48c9545211e5c21d623d398fa712c6
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 0ca0d87a431ee40785d382e8869b52afa9f3a935900433a23a570aa89ad1ac4c
+  mediapath: /docs/sharkdp__fd--purpose_statement_candidate--0ca0d87a431e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    sharkdp/fd\",\n  \"text_sha256\": \"0ca0d87a431ee40785d382e8869b52afa9f3a935900433a23a570aa89ad1ac4c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-020-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0ca0d87a431ee40785d382e8869b52afa9f3a935900433a23a570aa89ad1ac4c\",\n    \
+    \  \"id\": \"corpus-020-purpose\",\n      \"url\": \"https://github.com/sharkdp/fd/blob/1bfeea237a48c9545211e5c21d623d398fa712c6/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/sharkdp/fd/1bfeea237a48c9545211e5c21d623d398fa712c6/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:49.883346+00:00\",\n      \"version\"\
+    : \"1bfeea237a48c9545211e5c21d623d398fa712c6\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-020-purpose.raw.md\"\
+    ,\n      \"sha256\": \"0ca0d87a431ee40785d382e8869b52afa9f3a935900433a23a570aa89ad1ac4c\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: sharkdp__fd--purpose_statement_candidate--0ca0d87a431e.md
+  owner: NicolasH
+  risid: null
+name: sharkdp__fd--purpose_statement_candidate--0ca0d87a431e.md
+path: corpus/qda-case-20/334.txt

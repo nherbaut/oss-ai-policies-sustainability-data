@@ -1,0 +1,58 @@
+hash: d1d0dd8335098a0649caf30bb23d427ae5d02916811588abb8ab701517b2910d
+id: qda-source-345@qda-case-31
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 31
+    date: '2026-11-05 22:19:55'
+    fid: 345
+    id: 345
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 15244
+  content_sha256: d1d0dd8335098a0649caf30bb23d427ae5d02916811588abb8ab701517b2910d
+  date: '2026-11-05 22:19:55'
+  id: 345
+  import_metadata:
+    conversion:
+      converted_sha256: d1d0dd8335098a0649caf30bb23d427ae5d02916811588abb8ab701517b2910d
+      original_sha256: 83929117b73b31f7233abb5237bfd04141dc278f6d6597c38ee3b65b1a3501c3
+      version: oss-ai-policies/clean-markdown-v1
+    entity: meilisearch/meilisearch
+    provenance:
+    - accessed_at: '2026-11-05T19:11:51.442780+00:00'
+      id: corpus-031-purpose
+      original_file_sha256: 83929117b73b31f7233abb5237bfd04141dc278f6d6597c38ee3b65b1a3501c3
+      path: analysis/corpus-assessment/sources/corpus-031-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-031-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/meilisearch/meilisearch/016d04564525ef68ca5ab8b9cee834c33e0e150a/README.md
+      role: purpose_statement_candidate
+      sha256: 83929117b73b31f7233abb5237bfd04141dc278f6d6597c38ee3b65b1a3501c3
+      url: https://github.com/meilisearch/meilisearch/blob/016d04564525ef68ca5ab8b9cee834c33e0e150a/README.md
+      version: 016d04564525ef68ca5ab8b9cee834c33e0e150a
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 83929117b73b31f7233abb5237bfd04141dc278f6d6597c38ee3b65b1a3501c3
+  mediapath: /docs/meilisearch__meilisearch--purpose_statement_candidate--83929117b73b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    meilisearch/meilisearch\",\n  \"text_sha256\": \"83929117b73b31f7233abb5237bfd04141dc278f6d6597c38ee3b65b1a3501c3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-031-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"83929117b73b31f7233abb5237bfd04141dc278f6d6597c38ee3b65b1a3501c3\",\n    \
+    \  \"id\": \"corpus-031-purpose\",\n      \"url\": \"https://github.com/meilisearch/meilisearch/blob/016d04564525ef68ca5ab8b9cee834c33e0e150a/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/meilisearch/meilisearch/016d04564525ef68ca5ab8b9cee834c33e0e150a/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:51.442780+00:00\",\n      \"version\"\
+    : \"016d04564525ef68ca5ab8b9cee834c33e0e150a\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-031-purpose.raw.md\"\
+    ,\n      \"sha256\": \"83929117b73b31f7233abb5237bfd04141dc278f6d6597c38ee3b65b1a3501c3\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"83929117b73b31f7233abb5237bfd04141dc278f6d6597c38ee3b65b1a3501c3\"\
+    ,\n    \"converted_sha256\": \"d1d0dd8335098a0649caf30bb23d427ae5d02916811588abb8ab701517b2910d\"\
+    \n  }\n}"
+  name: meilisearch__meilisearch--purpose_statement_candidate--83929117b73b.md
+  owner: NicolasH
+  risid: null
+name: meilisearch__meilisearch--purpose_statement_candidate--83929117b73b.md
+path: corpus/qda-case-31/345.txt

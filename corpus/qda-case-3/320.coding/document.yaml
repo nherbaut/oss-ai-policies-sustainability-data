@@ -1,0 +1,51 @@
+hash: 5a5b61cb4caa1e113cc53fd07794fc8b78cafce254761ab6c690dcfb7355879c
+id: qda-source-320@qda-case-3
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 3
+    date: '2026-11-05 22:19:55'
+    fid: 320
+    id: 320
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4410
+  content_sha256: 5a5b61cb4caa1e113cc53fd07794fc8b78cafce254761ab6c690dcfb7355879c
+  date: '2026-11-05 22:19:55'
+  id: 320
+  import_metadata:
+    entity: keycloak/keycloak
+    provenance:
+    - accessed_at: '2026-11-05T16:00:21.954917+00:00'
+      id: 16-purpose
+      original_file_sha256: 5a5b61cb4caa1e113cc53fd07794fc8b78cafce254761ab6c690dcfb7355879c
+      path: analysis/feasibility-pilot/sources/16-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/16-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/keycloak/keycloak/def10975b737ccc7eb08f12c44187ee922448563/README.md
+      role: purpose_statement_candidate
+      sha256: 5a5b61cb4caa1e113cc53fd07794fc8b78cafce254761ab6c690dcfb7355879c
+      url: https://github.com/keycloak/keycloak/blob/def10975b737ccc7eb08f12c44187ee922448563/README.md
+      version: def10975b737ccc7eb08f12c44187ee922448563
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 5a5b61cb4caa1e113cc53fd07794fc8b78cafce254761ab6c690dcfb7355879c
+  mediapath: /docs/keycloak__keycloak--purpose_statement_candidate--5a5b61cb4caa.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    keycloak/keycloak\",\n  \"text_sha256\": \"5a5b61cb4caa1e113cc53fd07794fc8b78cafce254761ab6c690dcfb7355879c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/16-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5a5b61cb4caa1e113cc53fd07794fc8b78cafce254761ab6c690dcfb7355879c\",\n    \
+    \  \"id\": \"16-purpose\",\n      \"url\": \"https://github.com/keycloak/keycloak/blob/def10975b737ccc7eb08f12c44187ee922448563/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/keycloak/keycloak/def10975b737ccc7eb08f12c44187ee922448563/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:21.954917+00:00\",\n      \"version\"\
+    : \"def10975b737ccc7eb08f12c44187ee922448563\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/16-purpose.raw.md\"\
+    ,\n      \"sha256\": \"5a5b61cb4caa1e113cc53fd07794fc8b78cafce254761ab6c690dcfb7355879c\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: keycloak__keycloak--purpose_statement_candidate--5a5b61cb4caa.md
+  owner: NicolasH
+  risid: null
+name: keycloak__keycloak--purpose_statement_candidate--5a5b61cb4caa.md
+path: corpus/qda-case-3/320.txt

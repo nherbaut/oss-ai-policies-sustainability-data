@@ -1,0 +1,58 @@
+hash: 516a93973bc0ff6f82f0ccfeab4ff277c7af37f1ef46a3979f3310393319eec2
+id: qda-source-465@qda-case-145
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 145
+    date: '2026-11-05 22:19:55'
+    fid: 465
+    id: 465
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 21194
+  content_sha256: 516a93973bc0ff6f82f0ccfeab4ff277c7af37f1ef46a3979f3310393319eec2
+  date: '2026-11-05 22:19:55'
+  id: 465
+  import_metadata:
+    conversion:
+      converted_sha256: 516a93973bc0ff6f82f0ccfeab4ff277c7af37f1ef46a3979f3310393319eec2
+      original_sha256: df63e57928437372f2ce98c0895f32d414515e16fedd2e70b09f6407b1fc18b1
+      version: oss-ai-policies/clean-markdown-v1
+    entity: cjpais/Handy
+    provenance:
+    - accessed_at: '2026-11-05T19:12:02.594479+00:00'
+      id: corpus-145-purpose
+      original_file_sha256: df63e57928437372f2ce98c0895f32d414515e16fedd2e70b09f6407b1fc18b1
+      path: analysis/corpus-assessment/sources/corpus-145-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-145-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/cjpais/Handy/b9925d01972a933544d0344a2e62360580368f18/README.md
+      role: purpose_statement_candidate
+      sha256: df63e57928437372f2ce98c0895f32d414515e16fedd2e70b09f6407b1fc18b1
+      url: https://github.com/cjpais/Handy/blob/b9925d01972a933544d0344a2e62360580368f18/README.md
+      version: b9925d01972a933544d0344a2e62360580368f18
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: df63e57928437372f2ce98c0895f32d414515e16fedd2e70b09f6407b1fc18b1
+  mediapath: /docs/cjpais__Handy--purpose_statement_candidate--df63e5792843.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    cjpais/Handy\",\n  \"text_sha256\": \"df63e57928437372f2ce98c0895f32d414515e16fedd2e70b09f6407b1fc18b1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-145-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"df63e57928437372f2ce98c0895f32d414515e16fedd2e70b09f6407b1fc18b1\",\n    \
+    \  \"id\": \"corpus-145-purpose\",\n      \"url\": \"https://github.com/cjpais/Handy/blob/b9925d01972a933544d0344a2e62360580368f18/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/cjpais/Handy/b9925d01972a933544d0344a2e62360580368f18/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:02.594479+00:00\",\n      \"version\"\
+    : \"b9925d01972a933544d0344a2e62360580368f18\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-145-purpose.raw.md\"\
+    ,\n      \"sha256\": \"df63e57928437372f2ce98c0895f32d414515e16fedd2e70b09f6407b1fc18b1\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"df63e57928437372f2ce98c0895f32d414515e16fedd2e70b09f6407b1fc18b1\"\
+    ,\n    \"converted_sha256\": \"516a93973bc0ff6f82f0ccfeab4ff277c7af37f1ef46a3979f3310393319eec2\"\
+    \n  }\n}"
+  name: cjpais__Handy--purpose_statement_candidate--df63e5792843.md
+  owner: NicolasH
+  risid: null
+name: cjpais__Handy--purpose_statement_candidate--df63e5792843.md
+path: corpus/qda-case-145/465.txt

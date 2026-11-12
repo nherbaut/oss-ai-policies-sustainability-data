@@ -1,0 +1,43 @@
+hash: 467a8fcee62b9de19c8fc69d6b77249e12cf020c84b077f19195fc69ae0adfdb
+id: qda-source-298@qda-case-276
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 276
+    date: '2026-11-05 22:19:55'
+    fid: 298
+    id: 297
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6010
+  content_sha256: 467a8fcee62b9de19c8fc69d6b77249e12cf020c84b077f19195fc69ae0adfdb
+  date: '2026-11-05 22:19:55'
+  id: 298
+  import_metadata:
+    entity: PrefectHQ/fastmcp
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 467a8fcee62b9de19c8fc69d6b77249e12cf020c84b077f19195fc69ae0adfdb
+      path: data/281/policies/PrefectHQ/fastmcp/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/PrefectHQ/fastmcp/blob/1d932cc778a24cc0bf46fc4baad8306d4fed9c4b/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 467a8fcee62b9de19c8fc69d6b77249e12cf020c84b077f19195fc69ae0adfdb
+  mediapath: /docs/PrefectHQ__fastmcp--contributing--467a8fcee62b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    PrefectHQ/fastmcp\",\n  \"text_sha256\": \"467a8fcee62b9de19c8fc69d6b77249e12cf020c84b077f19195fc69ae0adfdb\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/PrefectHQ/fastmcp/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"467a8fcee62b9de19c8fc69d6b77249e12cf020c84b077f19195fc69ae0adfdb\"\
+    ,\n      \"source_url_cell\": \"https://github.com/PrefectHQ/fastmcp/blob/1d932cc778a24cc0bf46fc4baad8306d4fed9c4b/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: PrefectHQ__fastmcp--contributing--467a8fcee62b.md
+  owner: NicolasH
+  risid: null
+name: PrefectHQ__fastmcp--contributing--467a8fcee62b.md
+path: corpus/qda-case-276/298.txt

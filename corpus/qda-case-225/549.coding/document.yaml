@@ -1,0 +1,58 @@
+hash: 65add3bb18cde3b2a9438ebe0ae79b5e6bca7fd3bb5576252fd76118eb15c33d
+id: qda-source-549@qda-case-225
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 225
+    date: '2026-11-05 22:19:55'
+    fid: 549
+    id: 549
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4145
+  content_sha256: 65add3bb18cde3b2a9438ebe0ae79b5e6bca7fd3bb5576252fd76118eb15c33d
+  date: '2026-11-05 22:19:55'
+  id: 549
+  import_metadata:
+    conversion:
+      converted_sha256: 65add3bb18cde3b2a9438ebe0ae79b5e6bca7fd3bb5576252fd76118eb15c33d
+      original_sha256: 5f7b69cbc20dba4417917c6e5f12b811d2ef100f63dc73e139fbcfb236fbf49d
+      version: oss-ai-policies/clean-markdown-v1
+    entity: catchorg/catch2
+    provenance:
+    - accessed_at: '2026-11-05T19:12:12.440962+00:00'
+      id: corpus-225-purpose
+      original_file_sha256: 5f7b69cbc20dba4417917c6e5f12b811d2ef100f63dc73e139fbcfb236fbf49d
+      path: analysis/corpus-assessment/sources/corpus-225-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-225-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/catchorg/catch2/ae5d271da2c88b859d6365281ac075112115d4b1/README.md
+      role: purpose_statement_candidate
+      sha256: 5f7b69cbc20dba4417917c6e5f12b811d2ef100f63dc73e139fbcfb236fbf49d
+      url: https://github.com/catchorg/catch2/blob/ae5d271da2c88b859d6365281ac075112115d4b1/README.md
+      version: ae5d271da2c88b859d6365281ac075112115d4b1
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 5f7b69cbc20dba4417917c6e5f12b811d2ef100f63dc73e139fbcfb236fbf49d
+  mediapath: /docs/catchorg__catch2--purpose_statement_candidate--5f7b69cbc20d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    catchorg/catch2\",\n  \"text_sha256\": \"5f7b69cbc20dba4417917c6e5f12b811d2ef100f63dc73e139fbcfb236fbf49d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-225-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5f7b69cbc20dba4417917c6e5f12b811d2ef100f63dc73e139fbcfb236fbf49d\",\n    \
+    \  \"id\": \"corpus-225-purpose\",\n      \"url\": \"https://github.com/catchorg/catch2/blob/ae5d271da2c88b859d6365281ac075112115d4b1/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/catchorg/catch2/ae5d271da2c88b859d6365281ac075112115d4b1/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:12.440962+00:00\",\n      \"version\"\
+    : \"ae5d271da2c88b859d6365281ac075112115d4b1\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-225-purpose.raw.md\"\
+    ,\n      \"sha256\": \"5f7b69cbc20dba4417917c6e5f12b811d2ef100f63dc73e139fbcfb236fbf49d\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"5f7b69cbc20dba4417917c6e5f12b811d2ef100f63dc73e139fbcfb236fbf49d\"\
+    ,\n    \"converted_sha256\": \"65add3bb18cde3b2a9438ebe0ae79b5e6bca7fd3bb5576252fd76118eb15c33d\"\
+    \n  }\n}"
+  name: catchorg__catch2--purpose_statement_candidate--5f7b69cbc20d.md
+  owner: NicolasH
+  risid: null
+name: catchorg__catch2--purpose_statement_candidate--5f7b69cbc20d.md
+path: corpus/qda-case-225/549.txt

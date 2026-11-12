@@ -1,0 +1,43 @@
+hash: 4fba00e8a4e895d44f1302991de5215e88fb00fedff8ab329875444715b47aac
+id: qda-source-223@qda-case-200
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 200
+    date: '2026-11-05 22:19:55'
+    fid: 223
+    id: 222
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10022
+  content_sha256: 4fba00e8a4e895d44f1302991de5215e88fb00fedff8ab329875444715b47aac
+  date: '2026-11-05 22:19:55'
+  id: 223
+  import_metadata:
+    entity: obsproject/obs-studio
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 4fba00e8a4e895d44f1302991de5215e88fb00fedff8ab329875444715b47aac
+      path: data/281/policies/obsproject/obs-studio/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/obsproject/obs-studio/blob/9d38a938318aa32906e3727be30a972a3ecd0d94/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 4fba00e8a4e895d44f1302991de5215e88fb00fedff8ab329875444715b47aac
+  mediapath: /docs/obsproject__obs-studio--contributing--4fba00e8a4e8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    obsproject/obs-studio\",\n  \"text_sha256\": \"4fba00e8a4e895d44f1302991de5215e88fb00fedff8ab329875444715b47aac\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/obsproject/obs-studio/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"4fba00e8a4e895d44f1302991de5215e88fb00fedff8ab329875444715b47aac\"\
+    ,\n      \"source_url_cell\": \"https://github.com/obsproject/obs-studio/blob/9d38a938318aa32906e3727be30a972a3ecd0d94/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: obsproject__obs-studio--contributing--4fba00e8a4e8.md
+  owner: NicolasH
+  risid: null
+name: obsproject__obs-studio--contributing--4fba00e8a4e8.md
+path: corpus/qda-case-200/223.txt

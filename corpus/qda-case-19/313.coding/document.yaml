@@ -1,0 +1,58 @@
+hash: 438bc3c84e34e6669c9d5ea609da3287b491005fd73147a745937f59d042f1d5
+id: qda-source-313@qda-case-19
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 19
+    date: '2026-11-05 22:19:55'
+    fid: 313
+    id: 313
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7963
+  content_sha256: 438bc3c84e34e6669c9d5ea609da3287b491005fd73147a745937f59d042f1d5
+  date: '2026-11-05 22:19:55'
+  id: 313
+  import_metadata:
+    conversion:
+      converted_sha256: 438bc3c84e34e6669c9d5ea609da3287b491005fd73147a745937f59d042f1d5
+      original_sha256: ae3e1bf723b4a14d32eb664dd39572cc21a86f543efd4cc26fb42ad53435e8de
+      version: oss-ai-policies/clean-markdown-v1
+    entity: vectordotdev/vector
+    provenance:
+    - accessed_at: '2026-11-05T16:00:20.887787+00:00'
+      id: 09-purpose
+      original_file_sha256: ae3e1bf723b4a14d32eb664dd39572cc21a86f543efd4cc26fb42ad53435e8de
+      path: analysis/feasibility-pilot/sources/09-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/09-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/vectordotdev/vector/b5f53eb3319d2cfc3ca19962cf6a55f67b7baaa8/README.md
+      role: purpose_statement_candidate
+      sha256: ae3e1bf723b4a14d32eb664dd39572cc21a86f543efd4cc26fb42ad53435e8de
+      url: https://github.com/vectordotdev/vector/blob/b5f53eb3319d2cfc3ca19962cf6a55f67b7baaa8/README.md
+      version: b5f53eb3319d2cfc3ca19962cf6a55f67b7baaa8
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ae3e1bf723b4a14d32eb664dd39572cc21a86f543efd4cc26fb42ad53435e8de
+  mediapath: /docs/vectordotdev__vector--purpose_statement_candidate--ae3e1bf723b4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    vectordotdev/vector\",\n  \"text_sha256\": \"ae3e1bf723b4a14d32eb664dd39572cc21a86f543efd4cc26fb42ad53435e8de\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/09-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"ae3e1bf723b4a14d32eb664dd39572cc21a86f543efd4cc26fb42ad53435e8de\",\n    \
+    \  \"id\": \"09-purpose\",\n      \"url\": \"https://github.com/vectordotdev/vector/blob/b5f53eb3319d2cfc3ca19962cf6a55f67b7baaa8/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/vectordotdev/vector/b5f53eb3319d2cfc3ca19962cf6a55f67b7baaa8/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:20.887787+00:00\",\n      \"version\"\
+    : \"b5f53eb3319d2cfc3ca19962cf6a55f67b7baaa8\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/09-purpose.raw.md\"\
+    ,\n      \"sha256\": \"ae3e1bf723b4a14d32eb664dd39572cc21a86f543efd4cc26fb42ad53435e8de\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"ae3e1bf723b4a14d32eb664dd39572cc21a86f543efd4cc26fb42ad53435e8de\"\
+    ,\n    \"converted_sha256\": \"438bc3c84e34e6669c9d5ea609da3287b491005fd73147a745937f59d042f1d5\"\
+    \n  }\n}"
+  name: vectordotdev__vector--purpose_statement_candidate--ae3e1bf723b4.md
+  owner: NicolasH
+  risid: null
+name: vectordotdev__vector--purpose_statement_candidate--ae3e1bf723b4.md
+path: corpus/qda-case-19/313.txt

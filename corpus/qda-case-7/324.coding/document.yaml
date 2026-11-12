@@ -1,0 +1,58 @@
+hash: cb60a21af191925d756a025bb1471e855e812fa1e04b7f5e49d53f74f2cd604d
+id: qda-source-324@qda-case-7
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 7
+    date: '2026-11-05 22:19:55'
+    fid: 324
+    id: 324
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2473
+  content_sha256: cb60a21af191925d756a025bb1471e855e812fa1e04b7f5e49d53f74f2cd604d
+  date: '2026-11-05 22:19:55'
+  id: 324
+  import_metadata:
+    conversion:
+      converted_sha256: cb60a21af191925d756a025bb1471e855e812fa1e04b7f5e49d53f74f2cd604d
+      original_sha256: 12088386740a84f313a37a0e7afc5326385349ee00c4089a3ff3973fee5b5d42
+      version: oss-ai-policies/clean-markdown-v1
+    entity: rust-lang/rust-analyzer
+    provenance:
+    - accessed_at: '2026-11-05T16:00:22.331836+00:00'
+      id: 20-purpose
+      original_file_sha256: 12088386740a84f313a37a0e7afc5326385349ee00c4089a3ff3973fee5b5d42
+      path: analysis/feasibility-pilot/sources/20-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/20-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/rust-lang/rust-analyzer/7a5ecc88dbdfa13bac99fa4e0f38adcfdca1bb0a/README.md
+      role: purpose_statement_candidate
+      sha256: 12088386740a84f313a37a0e7afc5326385349ee00c4089a3ff3973fee5b5d42
+      url: https://github.com/rust-lang/rust-analyzer/blob/7a5ecc88dbdfa13bac99fa4e0f38adcfdca1bb0a/README.md
+      version: 7a5ecc88dbdfa13bac99fa4e0f38adcfdca1bb0a
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 12088386740a84f313a37a0e7afc5326385349ee00c4089a3ff3973fee5b5d42
+  mediapath: /docs/rust-lang__rust-analyzer--purpose_statement_candidate--12088386740a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rust-lang/rust-analyzer\",\n  \"text_sha256\": \"12088386740a84f313a37a0e7afc5326385349ee00c4089a3ff3973fee5b5d42\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/20-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"12088386740a84f313a37a0e7afc5326385349ee00c4089a3ff3973fee5b5d42\",\n    \
+    \  \"id\": \"20-purpose\",\n      \"url\": \"https://github.com/rust-lang/rust-analyzer/blob/7a5ecc88dbdfa13bac99fa4e0f38adcfdca1bb0a/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/rust-lang/rust-analyzer/7a5ecc88dbdfa13bac99fa4e0f38adcfdca1bb0a/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:22.331836+00:00\",\n      \"version\"\
+    : \"7a5ecc88dbdfa13bac99fa4e0f38adcfdca1bb0a\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/20-purpose.raw.md\"\
+    ,\n      \"sha256\": \"12088386740a84f313a37a0e7afc5326385349ee00c4089a3ff3973fee5b5d42\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"12088386740a84f313a37a0e7afc5326385349ee00c4089a3ff3973fee5b5d42\"\
+    ,\n    \"converted_sha256\": \"cb60a21af191925d756a025bb1471e855e812fa1e04b7f5e49d53f74f2cd604d\"\
+    \n  }\n}"
+  name: rust-lang__rust-analyzer--purpose_statement_candidate--12088386740a.md
+  owner: NicolasH
+  risid: null
+name: rust-lang__rust-analyzer--purpose_statement_candidate--12088386740a.md
+path: corpus/qda-case-7/324.txt

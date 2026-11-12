@@ -1,0 +1,43 @@
+hash: 4cbe4421a445a4a7bff861fe70222ccb3b6d107de4524ae28b0a6b4e55e8696b
+id: qda-source-233@qda-case-211
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 211
+    date: '2026-11-05 22:19:55'
+    fid: 233
+    id: 232
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9003
+  content_sha256: 4cbe4421a445a4a7bff861fe70222ccb3b6d107de4524ae28b0a6b4e55e8696b
+  date: '2026-11-05 22:19:55'
+  id: 233
+  import_metadata:
+    entity: teamnewpipe/newpipe
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 4cbe4421a445a4a7bff861fe70222ccb3b6d107de4524ae28b0a6b4e55e8696b
+      path: data/281/policies/teamnewpipe/newpipe/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/teamnewpipe/newpipe/blob/903cf9ece040d2d04f5c6352288e3d94b554160c/.github/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 4cbe4421a445a4a7bff861fe70222ccb3b6d107de4524ae28b0a6b4e55e8696b
+  mediapath: /docs/teamnewpipe__newpipe--contributing--4cbe4421a445.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    teamnewpipe/newpipe\",\n  \"text_sha256\": \"4cbe4421a445a4a7bff861fe70222ccb3b6d107de4524ae28b0a6b4e55e8696b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/teamnewpipe/newpipe/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"4cbe4421a445a4a7bff861fe70222ccb3b6d107de4524ae28b0a6b4e55e8696b\"\
+    ,\n      \"source_url_cell\": \"https://github.com/teamnewpipe/newpipe/blob/903cf9ece040d2d04f5c6352288e3d94b554160c/.github/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: teamnewpipe__newpipe--contributing--4cbe4421a445.md
+  owner: NicolasH
+  risid: null
+name: teamnewpipe__newpipe--contributing--4cbe4421a445.md
+path: corpus/qda-case-211/233.txt

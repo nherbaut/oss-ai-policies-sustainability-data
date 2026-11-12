@@ -1,0 +1,58 @@
+hash: 42e982d6bdcec5022d4558c8d72b2fa1d0579bc7eca74606c68e6912d479d6ae
+id: qda-source-542@qda-case-218
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 218
+    date: '2026-11-05 22:19:55'
+    fid: 542
+    id: 542
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 13291
+  content_sha256: 42e982d6bdcec5022d4558c8d72b2fa1d0579bc7eca74606c68e6912d479d6ae
+  date: '2026-11-05 22:19:55'
+  id: 542
+  import_metadata:
+    conversion:
+      converted_sha256: 42e982d6bdcec5022d4558c8d72b2fa1d0579bc7eca74606c68e6912d479d6ae
+      original_sha256: 6abd9e0a5e9bb976856d674bf73598bd6b3ce78074a981d27306b09478df4754
+      version: oss-ai-policies/clean-markdown-v1
+    entity: mikf/gallery-dl
+    provenance:
+    - accessed_at: '2026-11-05T19:12:11.235734+00:00'
+      id: corpus-218-purpose
+      original_file_sha256: 6abd9e0a5e9bb976856d674bf73598bd6b3ce78074a981d27306b09478df4754
+      path: analysis/corpus-assessment/sources/corpus-218-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-218-purpose.rst
+      resolved_url: https://raw.githubusercontent.com/mikf/gallery-dl/01f5dff21fbbde04c9729cecdabac7306a997121/README.rst
+      role: purpose_statement_candidate
+      sha256: 16002f3f09793bafcd5c3825ca6b10e60eee1724f858acca76b444d2263478ea
+      url: https://github.com/mikf/gallery-dl/blob/01f5dff21fbbde04c9729cecdabac7306a997121/README.rst
+      version: 01f5dff21fbbde04c9729cecdabac7306a997121
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 6abd9e0a5e9bb976856d674bf73598bd6b3ce78074a981d27306b09478df4754
+  mediapath: /docs/mikf__gallery-dl--purpose_statement_candidate--6abd9e0a5e9b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    mikf/gallery-dl\",\n  \"text_sha256\": \"6abd9e0a5e9bb976856d674bf73598bd6b3ce78074a981d27306b09478df4754\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-218-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"6abd9e0a5e9bb976856d674bf73598bd6b3ce78074a981d27306b09478df4754\",\n    \
+    \  \"id\": \"corpus-218-purpose\",\n      \"url\": \"https://github.com/mikf/gallery-dl/blob/01f5dff21fbbde04c9729cecdabac7306a997121/README.rst\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/mikf/gallery-dl/01f5dff21fbbde04c9729cecdabac7306a997121/README.rst\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:11.235734+00:00\",\n      \"version\"\
+    : \"01f5dff21fbbde04c9729cecdabac7306a997121\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-218-purpose.rst\"\
+    ,\n      \"sha256\": \"16002f3f09793bafcd5c3825ca6b10e60eee1724f858acca76b444d2263478ea\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"6abd9e0a5e9bb976856d674bf73598bd6b3ce78074a981d27306b09478df4754\"\
+    ,\n    \"converted_sha256\": \"42e982d6bdcec5022d4558c8d72b2fa1d0579bc7eca74606c68e6912d479d6ae\"\
+    \n  }\n}"
+  name: mikf__gallery-dl--purpose_statement_candidate--6abd9e0a5e9b.md
+  owner: NicolasH
+  risid: null
+name: mikf__gallery-dl--purpose_statement_candidate--6abd9e0a5e9b.md
+path: corpus/qda-case-218/542.txt

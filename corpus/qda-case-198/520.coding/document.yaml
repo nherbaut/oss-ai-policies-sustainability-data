@@ -1,0 +1,58 @@
+hash: 504a32400d858561c29b07e61b211e0d163c5def6a6d939431c945210d493a97
+id: qda-source-520@qda-case-198
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 198
+    date: '2026-11-05 22:19:55'
+    fid: 520
+    id: 520
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3337
+  content_sha256: 504a32400d858561c29b07e61b211e0d163c5def6a6d939431c945210d493a97
+  date: '2026-11-05 22:19:55'
+  id: 520
+  import_metadata:
+    conversion:
+      converted_sha256: 504a32400d858561c29b07e61b211e0d163c5def6a6d939431c945210d493a97
+      original_sha256: 08b3e96a0eaf8b4dc4e8f525580b9a9db71cdf866ea8a92f8db771c90dbe8b0c
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Zig
+    provenance:
+    - accessed_at: '2026-11-05T19:12:08.725842+00:00'
+      id: corpus-198-purpose
+      original_file_sha256: 08b3e96a0eaf8b4dc4e8f525580b9a9db71cdf866ea8a92f8db771c90dbe8b0c
+      path: analysis/corpus-assessment/sources/corpus-198-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-198-purpose.html
+      resolved_url: https://ziglang.org/
+      role: purpose_statement_candidate
+      sha256: 26eb6eb8468ee7065433fb7bbe96e5740a8358da5754c46d224bd64f777e22d7
+      url: https://ziglang.org/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 08b3e96a0eaf8b4dc4e8f525580b9a9db71cdf866ea8a92f8db771c90dbe8b0c
+  mediapath: /docs/Zig--purpose_statement_candidate--08b3e96a0eaf.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Zig\",\n  \"text_sha256\": \"08b3e96a0eaf8b4dc4e8f525580b9a9db71cdf866ea8a92f8db771c90dbe8b0c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-198-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"08b3e96a0eaf8b4dc4e8f525580b9a9db71cdf866ea8a92f8db771c90dbe8b0c\",\n    \
+    \  \"id\": \"corpus-198-purpose\",\n      \"url\": \"https://ziglang.org/\",\n\
+    \      \"resolved_url\": \"https://ziglang.org/\",\n      \"accessed_at\": \"\
+    2026-11-05T19:12:08.725842+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-198-purpose.html\",\n      \"sha256\"\
+    : \"26eb6eb8468ee7065433fb7bbe96e5740a8358da5754c46d224bd64f777e22d7\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"08b3e96a0eaf8b4dc4e8f525580b9a9db71cdf866ea8a92f8db771c90dbe8b0c\"\
+    ,\n    \"converted_sha256\": \"504a32400d858561c29b07e61b211e0d163c5def6a6d939431c945210d493a97\"\
+    \n  }\n}"
+  name: Zig--purpose_statement_candidate--08b3e96a0eaf.md
+  owner: NicolasH
+  risid: null
+name: Zig--purpose_statement_candidate--08b3e96a0eaf.md
+path: corpus/qda-case-198/520.txt

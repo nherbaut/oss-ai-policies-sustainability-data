@@ -1,0 +1,43 @@
+hash: b0ecd1dbf21b71800301e2dc1257787373ca26ce90e50d68e724c9296c8124d2
+id: qda-source-204@qda-case-184
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 184
+    date: '2026-11-05 22:19:55'
+    fid: 204
+    id: 203
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2756
+  content_sha256: b0ecd1dbf21b71800301e2dc1257787373ca26ce90e50d68e724c9296c8124d2
+  date: '2026-11-05 22:19:55'
+  id: 204
+  import_metadata:
+    entity: letta-ai/letta
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: b0ecd1dbf21b71800301e2dc1257787373ca26ce90e50d68e724c9296c8124d2
+      path: data/281/policies/letta-ai/letta/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/letta-ai/letta/blob/b76da9092518cbaa2d09042e52fdcbde69243e18/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: b0ecd1dbf21b71800301e2dc1257787373ca26ce90e50d68e724c9296c8124d2
+  mediapath: /docs/letta-ai__letta--ai_policy--b0ecd1dbf21b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    letta-ai/letta\",\n  \"text_sha256\": \"b0ecd1dbf21b71800301e2dc1257787373ca26ce90e50d68e724c9296c8124d2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/letta-ai/letta/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"b0ecd1dbf21b71800301e2dc1257787373ca26ce90e50d68e724c9296c8124d2\"\
+    ,\n      \"source_url_cell\": \"https://github.com/letta-ai/letta/blob/b76da9092518cbaa2d09042e52fdcbde69243e18/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: letta-ai__letta--ai_policy--b0ecd1dbf21b.md
+  owner: NicolasH
+  risid: null
+name: letta-ai__letta--ai_policy--b0ecd1dbf21b.md
+path: corpus/qda-case-184/204.txt

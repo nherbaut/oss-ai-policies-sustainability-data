@@ -1,0 +1,58 @@
+hash: 3dc5669f7b5c8d91bd1607bfb09be8185a0cc57a3a555538450504e75c2a3fad
+id: qda-source-532@qda-case-208
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 208
+    date: '2026-11-05 22:19:55'
+    fid: 532
+    id: 532
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9200
+  content_sha256: 3dc5669f7b5c8d91bd1607bfb09be8185a0cc57a3a555538450504e75c2a3fad
+  date: '2026-11-05 22:19:55'
+  id: 532
+  import_metadata:
+    conversion:
+      converted_sha256: 3dc5669f7b5c8d91bd1607bfb09be8185a0cc57a3a555538450504e75c2a3fad
+      original_sha256: 9b92a598519e4ce227e1c94ff1ea8716355a481341f1e4a1c8e19990d0f1a028
+      version: oss-ai-policies/clean-markdown-v1
+    entity: nothings/stb
+    provenance:
+    - accessed_at: '2026-11-05T19:12:10.219277+00:00'
+      id: corpus-208-purpose
+      original_file_sha256: 9b92a598519e4ce227e1c94ff1ea8716355a481341f1e4a1c8e19990d0f1a028
+      path: analysis/corpus-assessment/sources/corpus-208-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-208-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/nothings/stb/31c1ad37456438565541f4919958214b6e762fb4/README.md
+      role: purpose_statement_candidate
+      sha256: 9b92a598519e4ce227e1c94ff1ea8716355a481341f1e4a1c8e19990d0f1a028
+      url: https://github.com/nothings/stb/blob/31c1ad37456438565541f4919958214b6e762fb4/README.md
+      version: 31c1ad37456438565541f4919958214b6e762fb4
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9b92a598519e4ce227e1c94ff1ea8716355a481341f1e4a1c8e19990d0f1a028
+  mediapath: /docs/nothings__stb--purpose_statement_candidate--9b92a598519e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    nothings/stb\",\n  \"text_sha256\": \"9b92a598519e4ce227e1c94ff1ea8716355a481341f1e4a1c8e19990d0f1a028\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-208-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9b92a598519e4ce227e1c94ff1ea8716355a481341f1e4a1c8e19990d0f1a028\",\n    \
+    \  \"id\": \"corpus-208-purpose\",\n      \"url\": \"https://github.com/nothings/stb/blob/31c1ad37456438565541f4919958214b6e762fb4/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/nothings/stb/31c1ad37456438565541f4919958214b6e762fb4/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:10.219277+00:00\",\n      \"version\"\
+    : \"31c1ad37456438565541f4919958214b6e762fb4\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-208-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9b92a598519e4ce227e1c94ff1ea8716355a481341f1e4a1c8e19990d0f1a028\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9b92a598519e4ce227e1c94ff1ea8716355a481341f1e4a1c8e19990d0f1a028\"\
+    ,\n    \"converted_sha256\": \"3dc5669f7b5c8d91bd1607bfb09be8185a0cc57a3a555538450504e75c2a3fad\"\
+    \n  }\n}"
+  name: nothings__stb--purpose_statement_candidate--9b92a598519e.md
+  owner: NicolasH
+  risid: null
+name: nothings__stb--purpose_statement_candidate--9b92a598519e.md
+path: corpus/qda-case-208/532.txt

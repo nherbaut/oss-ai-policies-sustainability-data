@@ -1,0 +1,43 @@
+hash: 4f663ef74cbff605bc64948424b7d8d188c097f2b169870515892feda5e67afe
+id: qda-source-126@qda-case-112
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 112
+    date: '2026-11-05 22:19:55'
+    fid: 126
+    id: 125
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4454
+  content_sha256: 4f663ef74cbff605bc64948424b7d8d188c097f2b169870515892feda5e67afe
+  date: '2026-11-05 22:19:55'
+  id: 126
+  import_metadata:
+    entity: psf/requests
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 4f663ef74cbff605bc64948424b7d8d188c097f2b169870515892feda5e67afe
+      path: data/281/policies/psf/requests/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/psf/requests/blob/f361ead047be5cb873174218582f7d8b9fcd9f49/.github/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 4f663ef74cbff605bc64948424b7d8d188c097f2b169870515892feda5e67afe
+  mediapath: /docs/psf__requests--ai_policy--4f663ef74cbf.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    psf/requests\",\n  \"text_sha256\": \"4f663ef74cbff605bc64948424b7d8d188c097f2b169870515892feda5e67afe\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/psf/requests/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"4f663ef74cbff605bc64948424b7d8d188c097f2b169870515892feda5e67afe\"\
+    ,\n      \"source_url_cell\": \"https://github.com/psf/requests/blob/f361ead047be5cb873174218582f7d8b9fcd9f49/.github/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: psf__requests--ai_policy--4f663ef74cbf.md
+  owner: NicolasH
+  risid: null
+name: psf__requests--ai_policy--4f663ef74cbf.md
+path: corpus/qda-case-112/126.txt

@@ -1,0 +1,43 @@
+hash: 35f4fb66d82fb2915ddc49e372ec635ba627ae0b9b8deb28f23d9f46128d6e9e
+id: qda-source-294@qda-case-272
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 272
+    date: '2026-11-05 22:19:55'
+    fid: 294
+    id: 293
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 11665
+  content_sha256: 35f4fb66d82fb2915ddc49e372ec635ba627ae0b9b8deb28f23d9f46128d6e9e
+  date: '2026-11-05 22:19:55'
+  id: 294
+  import_metadata:
+    entity: anomalyco/opencode
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 35f4fb66d82fb2915ddc49e372ec635ba627ae0b9b8deb28f23d9f46128d6e9e
+      path: data/281/policies/anomalyco/opencode/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/anomalyco/opencode/blob/888c4cb50476aaecaad48e6a448759da3040ed2e/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 35f4fb66d82fb2915ddc49e372ec635ba627ae0b9b8deb28f23d9f46128d6e9e
+  mediapath: /docs/anomalyco__opencode--contributing--35f4fb66d82f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    anomalyco/opencode\",\n  \"text_sha256\": \"35f4fb66d82fb2915ddc49e372ec635ba627ae0b9b8deb28f23d9f46128d6e9e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/anomalyco/opencode/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"35f4fb66d82fb2915ddc49e372ec635ba627ae0b9b8deb28f23d9f46128d6e9e\"\
+    ,\n      \"source_url_cell\": \"https://github.com/anomalyco/opencode/blob/888c4cb50476aaecaad48e6a448759da3040ed2e/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: anomalyco__opencode--contributing--35f4fb66d82f.md
+  owner: NicolasH
+  risid: null
+name: anomalyco__opencode--contributing--35f4fb66d82f.md
+path: corpus/qda-case-272/294.txt

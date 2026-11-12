@@ -1,0 +1,43 @@
+hash: 2992b604a5e6730ef9e6e11dd59db7d6a0441510c87076f50ea9479a65591705
+id: qda-source-242@qda-case-220
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 220
+    date: '2026-11-05 22:19:55'
+    fid: 242
+    id: 241
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4198
+  content_sha256: 2992b604a5e6730ef9e6e11dd59db7d6a0441510c87076f50ea9479a65591705
+  date: '2026-11-05 22:19:55'
+  id: 242
+  import_metadata:
+    entity: jaywcjlove/awesome-mac
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 2992b604a5e6730ef9e6e11dd59db7d6a0441510c87076f50ea9479a65591705
+      path: data/281/policies/jaywcjlove/awesome-mac/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/jaywcjlove/awesome-mac/blob/9ac448f6768427ea7f1b4c93728c0342e64731aa/docs/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 2992b604a5e6730ef9e6e11dd59db7d6a0441510c87076f50ea9479a65591705
+  mediapath: /docs/jaywcjlove__awesome-mac--contributing--2992b604a5e6.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    jaywcjlove/awesome-mac\",\n  \"text_sha256\": \"2992b604a5e6730ef9e6e11dd59db7d6a0441510c87076f50ea9479a65591705\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/jaywcjlove/awesome-mac/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"2992b604a5e6730ef9e6e11dd59db7d6a0441510c87076f50ea9479a65591705\"\
+    ,\n      \"source_url_cell\": \"https://github.com/jaywcjlove/awesome-mac/blob/9ac448f6768427ea7f1b4c93728c0342e64731aa/docs/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: jaywcjlove__awesome-mac--contributing--2992b604a5e6.md
+  owner: NicolasH
+  risid: null
+name: jaywcjlove__awesome-mac--contributing--2992b604a5e6.md
+path: corpus/qda-case-220/242.txt

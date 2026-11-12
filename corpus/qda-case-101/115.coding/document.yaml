@@ -1,0 +1,43 @@
+hash: 4573bcfbaaf0fcc4b2eb72902c90ae96001c50ed1a79517eacc9cf2d09e9b1c8
+id: qda-source-115@qda-case-101
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 101
+    date: '2026-11-05 22:19:55'
+    fid: 115
+    id: 114
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 14875
+  content_sha256: 4573bcfbaaf0fcc4b2eb72902c90ae96001c50ed1a79517eacc9cf2d09e9b1c8
+  date: '2026-11-05 22:19:55'
+  id: 115
+  import_metadata:
+    entity: Kilo-Org/kilocode
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 4573bcfbaaf0fcc4b2eb72902c90ae96001c50ed1a79517eacc9cf2d09e9b1c8
+      path: data/281/policies/Kilo-Org/kilocode/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/Kilo-Org/kilocode/blob/abd24c7223df8cd8df203d9b457e5a7bcd9147d2/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 4573bcfbaaf0fcc4b2eb72902c90ae96001c50ed1a79517eacc9cf2d09e9b1c8
+  mediapath: /docs/Kilo-Org__kilocode--contributing--4573bcfbaaf0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Kilo-Org/kilocode\",\n  \"text_sha256\": \"4573bcfbaaf0fcc4b2eb72902c90ae96001c50ed1a79517eacc9cf2d09e9b1c8\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Kilo-Org/kilocode/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"4573bcfbaaf0fcc4b2eb72902c90ae96001c50ed1a79517eacc9cf2d09e9b1c8\"\
+    ,\n      \"source_url_cell\": \"https://github.com/Kilo-Org/kilocode/blob/abd24c7223df8cd8df203d9b457e5a7bcd9147d2/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: Kilo-Org__kilocode--contributing--4573bcfbaaf0.md
+  owner: NicolasH
+  risid: null
+name: Kilo-Org__kilocode--contributing--4573bcfbaaf0.md
+path: corpus/qda-case-101/115.txt

@@ -1,0 +1,51 @@
+hash: c1ccb21255a86e0c78201922260d6bc97615f2557c89da0e056f2f25a7444be3
+id: qda-source-494@qda-case-174
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 174
+    date: '2026-11-05 22:19:55'
+    fid: 494
+    id: 494
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4283
+  content_sha256: c1ccb21255a86e0c78201922260d6bc97615f2557c89da0e056f2f25a7444be3
+  date: '2026-11-05 22:19:55'
+  id: 494
+  import_metadata:
+    entity: owasp/cheatsheetseries
+    provenance:
+    - accessed_at: '2026-11-05T19:12:05.732951+00:00'
+      id: corpus-174-purpose
+      original_file_sha256: c1ccb21255a86e0c78201922260d6bc97615f2557c89da0e056f2f25a7444be3
+      path: analysis/corpus-assessment/sources/corpus-174-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-174-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/owasp/cheatsheetseries/ae0b3f22f5b24381455f742af9b5fa84063ad770/README.md
+      role: purpose_statement_candidate
+      sha256: c1ccb21255a86e0c78201922260d6bc97615f2557c89da0e056f2f25a7444be3
+      url: https://github.com/owasp/cheatsheetseries/blob/ae0b3f22f5b24381455f742af9b5fa84063ad770/README.md
+      version: ae0b3f22f5b24381455f742af9b5fa84063ad770
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: c1ccb21255a86e0c78201922260d6bc97615f2557c89da0e056f2f25a7444be3
+  mediapath: /docs/owasp__cheatsheetseries--purpose_statement_candidate--c1ccb21255a8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    owasp/cheatsheetseries\",\n  \"text_sha256\": \"c1ccb21255a86e0c78201922260d6bc97615f2557c89da0e056f2f25a7444be3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-174-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"c1ccb21255a86e0c78201922260d6bc97615f2557c89da0e056f2f25a7444be3\",\n    \
+    \  \"id\": \"corpus-174-purpose\",\n      \"url\": \"https://github.com/owasp/cheatsheetseries/blob/ae0b3f22f5b24381455f742af9b5fa84063ad770/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/owasp/cheatsheetseries/ae0b3f22f5b24381455f742af9b5fa84063ad770/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:05.732951+00:00\",\n      \"version\"\
+    : \"ae0b3f22f5b24381455f742af9b5fa84063ad770\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-174-purpose.raw.md\"\
+    ,\n      \"sha256\": \"c1ccb21255a86e0c78201922260d6bc97615f2557c89da0e056f2f25a7444be3\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: owasp__cheatsheetseries--purpose_statement_candidate--c1ccb21255a8.md
+  owner: NicolasH
+  risid: null
+name: owasp__cheatsheetseries--purpose_statement_candidate--c1ccb21255a8.md
+path: corpus/qda-case-174/494.txt

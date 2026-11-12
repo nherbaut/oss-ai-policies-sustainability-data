@@ -1,0 +1,58 @@
+hash: b07a0c462e1a83cbeb7ef1a70bddebb05ed0469d224b5bfbdab8248b63ffa414
+id: qda-source-432@qda-case-109
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 109
+    date: '2026-11-05 22:19:55'
+    fid: 432
+    id: 432
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8322
+  content_sha256: b07a0c462e1a83cbeb7ef1a70bddebb05ed0469d224b5bfbdab8248b63ffa414
+  date: '2026-11-05 22:19:55'
+  id: 432
+  import_metadata:
+    conversion:
+      converted_sha256: b07a0c462e1a83cbeb7ef1a70bddebb05ed0469d224b5bfbdab8248b63ffa414
+      original_sha256: eaf4504092fe7a7d4d70418a44dd757b7e406cd3cd840f773724d1b73cb4939d
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Castle Game Engine
+    provenance:
+    - accessed_at: '2026-11-05T19:11:59.776421+00:00'
+      id: corpus-109-purpose
+      original_file_sha256: eaf4504092fe7a7d4d70418a44dd757b7e406cd3cd840f773724d1b73cb4939d
+      path: analysis/corpus-assessment/sources/corpus-109-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-109-purpose.html
+      resolved_url: https://castle-engine.io/
+      role: purpose_statement_candidate
+      sha256: e9a079eb85092556f914f909d5c4b339fbe69ca6560d95789b1db67681431d9d
+      url: https://castle-engine.io/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: eaf4504092fe7a7d4d70418a44dd757b7e406cd3cd840f773724d1b73cb4939d
+  mediapath: /docs/Castle__Game__Engine--purpose_statement_candidate--eaf4504092fe.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Castle Game Engine\",\n  \"text_sha256\": \"eaf4504092fe7a7d4d70418a44dd757b7e406cd3cd840f773724d1b73cb4939d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-109-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"eaf4504092fe7a7d4d70418a44dd757b7e406cd3cd840f773724d1b73cb4939d\",\n    \
+    \  \"id\": \"corpus-109-purpose\",\n      \"url\": \"https://castle-engine.io/\"\
+    ,\n      \"resolved_url\": \"https://castle-engine.io/\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:11:59.776421+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-109-purpose.html\",\n      \"sha256\"\
+    : \"e9a079eb85092556f914f909d5c4b339fbe69ca6560d95789b1db67681431d9d\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"eaf4504092fe7a7d4d70418a44dd757b7e406cd3cd840f773724d1b73cb4939d\"\
+    ,\n    \"converted_sha256\": \"b07a0c462e1a83cbeb7ef1a70bddebb05ed0469d224b5bfbdab8248b63ffa414\"\
+    \n  }\n}"
+  name: Castle__Game__Engine--purpose_statement_candidate--eaf4504092fe.md
+  owner: NicolasH
+  risid: null
+name: Castle__Game__Engine--purpose_statement_candidate--eaf4504092fe.md
+path: corpus/qda-case-109/432.txt

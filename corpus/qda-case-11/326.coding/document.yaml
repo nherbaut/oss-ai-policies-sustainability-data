@@ -1,0 +1,58 @@
+hash: 4341ddd4042024115df83846f402fa0089847b6620dac1c20507e33d2160e1a3
+id: qda-source-326@qda-case-11
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 11
+    date: '2026-11-05 22:19:55'
+    fid: 326
+    id: 326
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 9949
+  content_sha256: 4341ddd4042024115df83846f402fa0089847b6620dac1c20507e33d2160e1a3
+  date: '2026-11-05 22:19:55'
+  id: 326
+  import_metadata:
+    conversion:
+      converted_sha256: 4341ddd4042024115df83846f402fa0089847b6620dac1c20507e33d2160e1a3
+      original_sha256: 8672914d49851b0df81cd6bac562f67666f0fcf3a94db34b3778e49e5263debb
+      version: oss-ai-policies/clean-markdown-v1
+    entity: posthog/posthog
+    provenance:
+    - accessed_at: '2026-11-05T16:00:22.637572+00:00'
+      id: 22-purpose
+      original_file_sha256: 8672914d49851b0df81cd6bac562f67666f0fcf3a94db34b3778e49e5263debb
+      path: analysis/feasibility-pilot/sources/22-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/22-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/posthog/posthog/e8858fdabe15cce244324d360f067c814bfebc56/README.md
+      role: purpose_statement_candidate
+      sha256: 8672914d49851b0df81cd6bac562f67666f0fcf3a94db34b3778e49e5263debb
+      url: https://github.com/posthog/posthog/blob/e8858fdabe15cce244324d360f067c814bfebc56/README.md
+      version: e8858fdabe15cce244324d360f067c814bfebc56
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 8672914d49851b0df81cd6bac562f67666f0fcf3a94db34b3778e49e5263debb
+  mediapath: /docs/posthog__posthog--purpose_statement_candidate--8672914d4985.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    posthog/posthog\",\n  \"text_sha256\": \"8672914d49851b0df81cd6bac562f67666f0fcf3a94db34b3778e49e5263debb\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/22-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"8672914d49851b0df81cd6bac562f67666f0fcf3a94db34b3778e49e5263debb\",\n    \
+    \  \"id\": \"22-purpose\",\n      \"url\": \"https://github.com/posthog/posthog/blob/e8858fdabe15cce244324d360f067c814bfebc56/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/posthog/posthog/e8858fdabe15cce244324d360f067c814bfebc56/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:22.637572+00:00\",\n      \"version\"\
+    : \"e8858fdabe15cce244324d360f067c814bfebc56\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/22-purpose.raw.md\"\
+    ,\n      \"sha256\": \"8672914d49851b0df81cd6bac562f67666f0fcf3a94db34b3778e49e5263debb\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"8672914d49851b0df81cd6bac562f67666f0fcf3a94db34b3778e49e5263debb\"\
+    ,\n    \"converted_sha256\": \"4341ddd4042024115df83846f402fa0089847b6620dac1c20507e33d2160e1a3\"\
+    \n  }\n}"
+  name: posthog__posthog--purpose_statement_candidate--8672914d4985.md
+  owner: NicolasH
+  risid: null
+name: posthog__posthog--purpose_statement_candidate--8672914d4985.md
+path: corpus/qda-case-11/326.txt

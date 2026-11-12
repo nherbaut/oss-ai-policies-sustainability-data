@@ -1,0 +1,50 @@
+hash: d9b0dacab9e2794aa70aeb964fb983f9934cb68384e300b0d7e85538938bee09
+id: qda-source-146@qda-case-130
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 130
+    date: '2026-11-05 22:19:55'
+    fid: 146
+    id: 145
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 22720
+  content_sha256: d9b0dacab9e2794aa70aeb964fb983f9934cb68384e300b0d7e85538938bee09
+  date: '2026-11-05 22:19:55'
+  id: 146
+  import_metadata:
+    conversion:
+      converted_sha256: d9b0dacab9e2794aa70aeb964fb983f9934cb68384e300b0d7e85538938bee09
+      original_sha256: 4419fa567e332ffcdc1be743b3ad5a1f09b0a03e3a747a45ee62869e88ff932e
+      version: oss-ai-policies/clean-markdown-v1
+    entity: EFF
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 4419fa567e332ffcdc1be743b3ad5a1f09b0a03e3a747a45ee62869e88ff932e
+      path: data/281/policies/EFF/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 4419fa567e332ffcdc1be743b3ad5a1f09b0a03e3a747a45ee62869e88ff932e
+  mediapath: /docs/EFF--ai_policy--4419fa567e33.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    EFF\",\n  \"text_sha256\": \"4419fa567e332ffcdc1be743b3ad5a1f09b0a03e3a747a45ee62869e88ff932e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/EFF/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"4419fa567e332ffcdc1be743b3ad5a1f09b0a03e3a747a45ee62869e88ff932e\"\
+    ,\n      \"source_url_cell\": \"https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"4419fa567e332ffcdc1be743b3ad5a1f09b0a03e3a747a45ee62869e88ff932e\"\
+    ,\n    \"converted_sha256\": \"d9b0dacab9e2794aa70aeb964fb983f9934cb68384e300b0d7e85538938bee09\"\
+    \n  }\n}"
+  name: EFF--ai_policy--4419fa567e33.md
+  owner: NicolasH
+  risid: null
+name: EFF--ai_policy--4419fa567e33.md
+path: corpus/qda-case-130/146.txt

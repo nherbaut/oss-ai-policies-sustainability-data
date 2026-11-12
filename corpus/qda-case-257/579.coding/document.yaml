@@ -1,0 +1,58 @@
+hash: 8c82659a6f0337601d21ba9270c7af5e7c821e8f87e0d404157c28cc495b6635
+id: qda-source-579@qda-case-257
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 257
+    date: '2026-11-05 22:19:55'
+    fid: 579
+    id: 579
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3314
+  content_sha256: 8c82659a6f0337601d21ba9270c7af5e7c821e8f87e0d404157c28cc495b6635
+  date: '2026-11-05 22:19:55'
+  id: 579
+  import_metadata:
+    conversion:
+      converted_sha256: 8c82659a6f0337601d21ba9270c7af5e7c821e8f87e0d404157c28cc495b6635
+      original_sha256: b35e134405426f24d859ee9d575374207e3d51bff4f3a39fc77a25998b031ac7
+      version: oss-ai-policies/clean-markdown-v1
+    entity: QEMU
+    provenance:
+    - accessed_at: '2026-11-05T19:12:15.274430+00:00'
+      id: corpus-257-purpose
+      original_file_sha256: b35e134405426f24d859ee9d575374207e3d51bff4f3a39fc77a25998b031ac7
+      path: analysis/corpus-assessment/sources/corpus-257-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-257-purpose.html
+      resolved_url: https://www.qemu.org/
+      role: purpose_statement_candidate
+      sha256: 3f6ea59c3f3b85331c8b390e0a5aa13fee30b294b80cb3aa4e23997995365a7d
+      url: https://www.qemu.org/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b35e134405426f24d859ee9d575374207e3d51bff4f3a39fc77a25998b031ac7
+  mediapath: /docs/QEMU--purpose_statement_candidate--b35e13440542.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    QEMU\",\n  \"text_sha256\": \"b35e134405426f24d859ee9d575374207e3d51bff4f3a39fc77a25998b031ac7\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-257-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b35e134405426f24d859ee9d575374207e3d51bff4f3a39fc77a25998b031ac7\",\n    \
+    \  \"id\": \"corpus-257-purpose\",\n      \"url\": \"https://www.qemu.org/\",\n\
+    \      \"resolved_url\": \"https://www.qemu.org/\",\n      \"accessed_at\": \"\
+    2026-11-05T19:12:15.274430+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-257-purpose.html\",\n      \"sha256\"\
+    : \"3f6ea59c3f3b85331c8b390e0a5aa13fee30b294b80cb3aa4e23997995365a7d\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b35e134405426f24d859ee9d575374207e3d51bff4f3a39fc77a25998b031ac7\"\
+    ,\n    \"converted_sha256\": \"8c82659a6f0337601d21ba9270c7af5e7c821e8f87e0d404157c28cc495b6635\"\
+    \n  }\n}"
+  name: QEMU--purpose_statement_candidate--b35e13440542.md
+  owner: NicolasH
+  risid: null
+name: QEMU--purpose_statement_candidate--b35e13440542.md
+path: corpus/qda-case-257/579.txt

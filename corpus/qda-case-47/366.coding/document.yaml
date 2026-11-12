@@ -1,0 +1,58 @@
+hash: cc435ae46a5dd2ed062cfc22cefee282a5da42a3b68db9f2d4e6d80490a51bdc
+id: qda-source-366@qda-case-47
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 47
+    date: '2026-11-05 22:19:55'
+    fid: 366
+    id: 366
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 54026
+  content_sha256: cc435ae46a5dd2ed062cfc22cefee282a5da42a3b68db9f2d4e6d80490a51bdc
+  date: '2026-11-05 22:19:55'
+  id: 366
+  import_metadata:
+    conversion:
+      converted_sha256: cc435ae46a5dd2ed062cfc22cefee282a5da42a3b68db9f2d4e6d80490a51bdc
+      original_sha256: c995c7c9994a4d635f19f06ec10a6b6da201da36e0d0525f781576232f989a50
+      version: oss-ai-policies/clean-markdown-v1
+    entity: bytedance/deer-flow
+    provenance:
+    - accessed_at: '2026-11-05T19:11:53.439128+00:00'
+      id: corpus-047-purpose
+      original_file_sha256: c995c7c9994a4d635f19f06ec10a6b6da201da36e0d0525f781576232f989a50
+      path: analysis/corpus-assessment/sources/corpus-047-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-047-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/bytedance/deer-flow/de55982c5acd6edf5ccaa1a3a1d20a65185325ee/README.md
+      role: purpose_statement_candidate
+      sha256: c995c7c9994a4d635f19f06ec10a6b6da201da36e0d0525f781576232f989a50
+      url: https://github.com/bytedance/deer-flow/blob/de55982c5acd6edf5ccaa1a3a1d20a65185325ee/README.md
+      version: de55982c5acd6edf5ccaa1a3a1d20a65185325ee
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: c995c7c9994a4d635f19f06ec10a6b6da201da36e0d0525f781576232f989a50
+  mediapath: /docs/bytedance__deer-flow--purpose_statement_candidate--c995c7c9994a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    bytedance/deer-flow\",\n  \"text_sha256\": \"c995c7c9994a4d635f19f06ec10a6b6da201da36e0d0525f781576232f989a50\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-047-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"c995c7c9994a4d635f19f06ec10a6b6da201da36e0d0525f781576232f989a50\",\n    \
+    \  \"id\": \"corpus-047-purpose\",\n      \"url\": \"https://github.com/bytedance/deer-flow/blob/de55982c5acd6edf5ccaa1a3a1d20a65185325ee/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/bytedance/deer-flow/de55982c5acd6edf5ccaa1a3a1d20a65185325ee/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:53.439128+00:00\",\n      \"version\"\
+    : \"de55982c5acd6edf5ccaa1a3a1d20a65185325ee\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-047-purpose.raw.md\"\
+    ,\n      \"sha256\": \"c995c7c9994a4d635f19f06ec10a6b6da201da36e0d0525f781576232f989a50\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"c995c7c9994a4d635f19f06ec10a6b6da201da36e0d0525f781576232f989a50\"\
+    ,\n    \"converted_sha256\": \"cc435ae46a5dd2ed062cfc22cefee282a5da42a3b68db9f2d4e6d80490a51bdc\"\
+    \n  }\n}"
+  name: bytedance__deer-flow--purpose_statement_candidate--c995c7c9994a.md
+  owner: NicolasH
+  risid: null
+name: bytedance__deer-flow--purpose_statement_candidate--c995c7c9994a.md
+path: corpus/qda-case-47/366.txt

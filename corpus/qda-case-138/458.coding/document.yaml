@@ -1,0 +1,58 @@
+hash: 24e67cfb472408aa45bdff2b4bcdbd7bcb619f41cee2c096ec842cd425be65a2
+id: qda-source-458@qda-case-138
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 138
+    date: '2026-11-05 22:19:55'
+    fid: 458
+    id: 458
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12000
+  content_sha256: 24e67cfb472408aa45bdff2b4bcdbd7bcb619f41cee2c096ec842cd425be65a2
+  date: '2026-11-05 22:19:55'
+  id: 458
+  import_metadata:
+    conversion:
+      converted_sha256: 24e67cfb472408aa45bdff2b4bcdbd7bcb619f41cee2c096ec842cd425be65a2
+      original_sha256: 6979c68b711a5f16dec8a5f094c63d2167143673e1bd25b5f272534e344d8160
+      version: oss-ai-policies/clean-markdown-v1
+    entity: scikit-learn
+    provenance:
+    - accessed_at: '2026-11-05T19:12:02.189258+00:00'
+      id: corpus-138-purpose
+      original_file_sha256: 6979c68b711a5f16dec8a5f094c63d2167143673e1bd25b5f272534e344d8160
+      path: analysis/corpus-assessment/sources/corpus-138-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-138-purpose.html
+      resolved_url: https://scikit-learn.org/stable/about.html
+      role: purpose_statement_candidate
+      sha256: acd6f53bfef59460d18d8f888a6ef5090e4d01671936c9732e81dbe6bef6178f
+      url: https://scikit-learn.org/stable/about.html
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 6979c68b711a5f16dec8a5f094c63d2167143673e1bd25b5f272534e344d8160
+  mediapath: /docs/scikit-learn--purpose_statement_candidate--6979c68b711a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    scikit-learn\",\n  \"text_sha256\": \"6979c68b711a5f16dec8a5f094c63d2167143673e1bd25b5f272534e344d8160\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-138-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"6979c68b711a5f16dec8a5f094c63d2167143673e1bd25b5f272534e344d8160\",\n    \
+    \  \"id\": \"corpus-138-purpose\",\n      \"url\": \"https://scikit-learn.org/stable/about.html\"\
+    ,\n      \"resolved_url\": \"https://scikit-learn.org/stable/about.html\",\n \
+    \     \"accessed_at\": \"2026-11-05T19:12:02.189258+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-138-purpose.html\"\
+    ,\n      \"sha256\": \"acd6f53bfef59460d18d8f888a6ef5090e4d01671936c9732e81dbe6bef6178f\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"6979c68b711a5f16dec8a5f094c63d2167143673e1bd25b5f272534e344d8160\"\
+    ,\n    \"converted_sha256\": \"24e67cfb472408aa45bdff2b4bcdbd7bcb619f41cee2c096ec842cd425be65a2\"\
+    \n  }\n}"
+  name: scikit-learn--purpose_statement_candidate--6979c68b711a.md
+  owner: NicolasH
+  risid: null
+name: scikit-learn--purpose_statement_candidate--6979c68b711a.md
+path: corpus/qda-case-138/458.txt

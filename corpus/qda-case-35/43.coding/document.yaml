@@ -1,0 +1,50 @@
+hash: a17c8609508e6e7e715ea5e9957e1d4ddee90a0c66b5e5f3775677f95a413610
+id: qda-source-43@qda-case-35
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 35
+    date: '2026-11-05 22:19:55'
+    fid: 43
+    id: 42
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 20361
+  content_sha256: a17c8609508e6e7e715ea5e9957e1d4ddee90a0c66b5e5f3775677f95a413610
+  date: '2026-11-05 22:19:55'
+  id: 43
+  import_metadata:
+    conversion:
+      converted_sha256: a17c8609508e6e7e715ea5e9957e1d4ddee90a0c66b5e5f3775677f95a413610
+      original_sha256: 75ecdf82b17b313853d2e19c6929b5a5aaa4c1b74ea266267e3654bd29f2223f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: huggingface/peft
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 75ecdf82b17b313853d2e19c6929b5a5aaa4c1b74ea266267e3654bd29f2223f
+      path: data/281/policies/huggingface/peft/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://huggingface.co/docs/peft/main/en/developer_guides/contributing
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 75ecdf82b17b313853d2e19c6929b5a5aaa4c1b74ea266267e3654bd29f2223f
+  mediapath: /docs/huggingface__peft--other_policy--75ecdf82b17b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    huggingface/peft\",\n  \"text_sha256\": \"75ecdf82b17b313853d2e19c6929b5a5aaa4c1b74ea266267e3654bd29f2223f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/huggingface/peft/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"75ecdf82b17b313853d2e19c6929b5a5aaa4c1b74ea266267e3654bd29f2223f\"\
+    ,\n      \"source_url_cell\": \"https://huggingface.co/docs/peft/main/en/developer_guides/contributing\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"75ecdf82b17b313853d2e19c6929b5a5aaa4c1b74ea266267e3654bd29f2223f\"\
+    ,\n    \"converted_sha256\": \"a17c8609508e6e7e715ea5e9957e1d4ddee90a0c66b5e5f3775677f95a413610\"\
+    \n  }\n}"
+  name: huggingface__peft--other_policy--75ecdf82b17b.md
+  owner: NicolasH
+  risid: null
+name: huggingface__peft--other_policy--75ecdf82b17b.md
+path: corpus/qda-case-35/43.txt

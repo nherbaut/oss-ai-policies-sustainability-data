@@ -1,0 +1,43 @@
+hash: 893c3f8435c9a4e6bb405cc340332cc716f914f10add95c64de239876bc63123
+id: qda-source-189@qda-case-170
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 170
+    date: '2026-11-05 22:19:55'
+    fid: 189
+    id: 188
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 15098
+  content_sha256: 893c3f8435c9a4e6bb405cc340332cc716f914f10add95c64de239876bc63123
+  date: '2026-11-05 22:19:55'
+  id: 189
+  import_metadata:
+    entity: openclaw/openclaw
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 893c3f8435c9a4e6bb405cc340332cc716f914f10add95c64de239876bc63123
+      path: data/281/policies/openclaw/openclaw/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/openclaw/openclaw/blob/94b27740985a4b6a270c95207501afe13ba20cf0/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 893c3f8435c9a4e6bb405cc340332cc716f914f10add95c64de239876bc63123
+  mediapath: /docs/openclaw__openclaw--contributing--893c3f8435c9.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    openclaw/openclaw\",\n  \"text_sha256\": \"893c3f8435c9a4e6bb405cc340332cc716f914f10add95c64de239876bc63123\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/openclaw/openclaw/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"893c3f8435c9a4e6bb405cc340332cc716f914f10add95c64de239876bc63123\"\
+    ,\n      \"source_url_cell\": \"https://github.com/openclaw/openclaw/blob/94b27740985a4b6a270c95207501afe13ba20cf0/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: openclaw__openclaw--contributing--893c3f8435c9.md
+  owner: NicolasH
+  risid: null
+name: openclaw__openclaw--contributing--893c3f8435c9.md
+path: corpus/qda-case-170/189.txt

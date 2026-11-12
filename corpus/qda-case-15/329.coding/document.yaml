@@ -1,0 +1,51 @@
+hash: 975ad1416e11b9b0b27bc48766f749ae9518a179a78b50b6a1e9039e735f8441
+id: qda-source-329@qda-case-15
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 15
+    date: '2026-11-05 22:19:55'
+    fid: 329
+    id: 329
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10804
+  content_sha256: 975ad1416e11b9b0b27bc48766f749ae9518a179a78b50b6a1e9039e735f8441
+  date: '2026-11-05 22:19:55'
+  id: 329
+  import_metadata:
+    entity: k3s-io/k3s
+    provenance:
+    - accessed_at: '2026-11-05T19:11:49.881175+00:00'
+      id: corpus-015-purpose
+      original_file_sha256: 975ad1416e11b9b0b27bc48766f749ae9518a179a78b50b6a1e9039e735f8441
+      path: analysis/corpus-assessment/sources/corpus-015-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-015-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/k3s-io/k3s/0cd872ed9b8d8da005d3b4cc87f84b31f99bec2d/README.md
+      role: purpose_statement_candidate
+      sha256: 975ad1416e11b9b0b27bc48766f749ae9518a179a78b50b6a1e9039e735f8441
+      url: https://github.com/k3s-io/k3s/blob/0cd872ed9b8d8da005d3b4cc87f84b31f99bec2d/README.md
+      version: 0cd872ed9b8d8da005d3b4cc87f84b31f99bec2d
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 975ad1416e11b9b0b27bc48766f749ae9518a179a78b50b6a1e9039e735f8441
+  mediapath: /docs/k3s-io__k3s--purpose_statement_candidate--975ad1416e11.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    k3s-io/k3s\",\n  \"text_sha256\": \"975ad1416e11b9b0b27bc48766f749ae9518a179a78b50b6a1e9039e735f8441\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-015-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"975ad1416e11b9b0b27bc48766f749ae9518a179a78b50b6a1e9039e735f8441\",\n    \
+    \  \"id\": \"corpus-015-purpose\",\n      \"url\": \"https://github.com/k3s-io/k3s/blob/0cd872ed9b8d8da005d3b4cc87f84b31f99bec2d/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/k3s-io/k3s/0cd872ed9b8d8da005d3b4cc87f84b31f99bec2d/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:49.881175+00:00\",\n      \"version\"\
+    : \"0cd872ed9b8d8da005d3b4cc87f84b31f99bec2d\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-015-purpose.raw.md\"\
+    ,\n      \"sha256\": \"975ad1416e11b9b0b27bc48766f749ae9518a179a78b50b6a1e9039e735f8441\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: k3s-io__k3s--purpose_statement_candidate--975ad1416e11.md
+  owner: NicolasH
+  risid: null
+name: k3s-io__k3s--purpose_statement_candidate--975ad1416e11.md
+path: corpus/qda-case-15/329.txt

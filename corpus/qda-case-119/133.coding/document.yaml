@@ -1,0 +1,43 @@
+hash: 7e7080ef127369c9081a4b417118fc474af6dfbd00f3bd4596d4e8f88ba67411
+id: qda-source-133@qda-case-119
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 119
+    date: '2026-11-05 22:19:55'
+    fid: 133
+    id: 132
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 940
+  content_sha256: 7e7080ef127369c9081a4b417118fc474af6dfbd00f3bd4596d4e8f88ba67411
+  date: '2026-11-05 22:19:55'
+  id: 133
+  import_metadata:
+    entity: bytecodealliance/wasmtime
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 7e7080ef127369c9081a4b417118fc474af6dfbd00f3bd4596d4e8f88ba67411
+      path: data/281/policies/bytecodealliance/wasmtime/agent.md
+      retrieved_at: null
+      role: agent
+      source_url_cell: https://github.com/bytecodealliance/wasmtime/blob/fb2282d641a3b5b3a66a27f3bd5df50fd79d6ecf/AGENTS.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 7e7080ef127369c9081a4b417118fc474af6dfbd00f3bd4596d4e8f88ba67411
+  mediapath: /docs/bytecodealliance__wasmtime--agent--7e7080ef1273.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    bytecodealliance/wasmtime\",\n  \"text_sha256\": \"7e7080ef127369c9081a4b417118fc474af6dfbd00f3bd4596d4e8f88ba67411\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/bytecodealliance/wasmtime/agent.md\"\
+    ,\n      \"role\": \"agent\",\n      \"original_file_sha256\": \"7e7080ef127369c9081a4b417118fc474af6dfbd00f3bd4596d4e8f88ba67411\"\
+    ,\n      \"source_url_cell\": \"https://github.com/bytecodealliance/wasmtime/blob/fb2282d641a3b5b3a66a27f3bd5df50fd79d6ecf/AGENTS.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: bytecodealliance__wasmtime--agent--7e7080ef1273.md
+  owner: NicolasH
+  risid: null
+name: bytecodealliance__wasmtime--agent--7e7080ef1273.md
+path: corpus/qda-case-119/133.txt

@@ -1,0 +1,51 @@
+hash: 6e49c08311bed5b886233e399f66149f00d422af5a74cd7a8b42435127334bb1
+id: qda-source-349@qda-case-35
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 35
+    date: '2026-11-05 22:19:55'
+    fid: 349
+    id: 349
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4259
+  content_sha256: 6e49c08311bed5b886233e399f66149f00d422af5a74cd7a8b42435127334bb1
+  date: '2026-11-05 22:19:55'
+  id: 349
+  import_metadata:
+    entity: huggingface/peft
+    provenance:
+    - accessed_at: '2026-11-05T19:17:21.009214+00:00'
+      id: corpus-035-agent-1
+      original_file_sha256: 6e49c08311bed5b886233e399f66149f00d422af5a74cd7a8b42435127334bb1
+      path: analysis/corpus-assessment/sources/corpus-035-agent-1.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-035-agent-1.raw.md
+      resolved_url: https://raw.githubusercontent.com/huggingface/peft/cea8213158c8b682acc0839405c2062d57fdf867/.ai/AGENTS.md
+      role: supplementary_policy
+      sha256: 6e49c08311bed5b886233e399f66149f00d422af5a74cd7a8b42435127334bb1
+      url: https://github.com/huggingface/peft/blob/cea8213158c8b682acc0839405c2062d57fdf867/.ai/AGENTS.md
+      version: cea8213158c8b682acc0839405c2062d57fdf867
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 6e49c08311bed5b886233e399f66149f00d422af5a74cd7a8b42435127334bb1
+  mediapath: /docs/huggingface__peft--supplementary_policy--6e49c08311be.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    huggingface/peft\",\n  \"text_sha256\": \"6e49c08311bed5b886233e399f66149f00d422af5a74cd7a8b42435127334bb1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-035-agent-1.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"6e49c08311bed5b886233e399f66149f00d422af5a74cd7a8b42435127334bb1\",\n    \
+    \  \"id\": \"corpus-035-agent-1\",\n      \"url\": \"https://github.com/huggingface/peft/blob/cea8213158c8b682acc0839405c2062d57fdf867/.ai/AGENTS.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/huggingface/peft/cea8213158c8b682acc0839405c2062d57fdf867/.ai/AGENTS.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:17:21.009214+00:00\",\n      \"version\"\
+    : \"cea8213158c8b682acc0839405c2062d57fdf867\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-035-agent-1.raw.md\"\
+    ,\n      \"sha256\": \"6e49c08311bed5b886233e399f66149f00d422af5a74cd7a8b42435127334bb1\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: huggingface__peft--supplementary_policy--6e49c08311be.md
+  owner: NicolasH
+  risid: null
+name: huggingface__peft--supplementary_policy--6e49c08311be.md
+path: corpus/qda-case-35/349.txt

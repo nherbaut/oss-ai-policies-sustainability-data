@@ -1,0 +1,43 @@
+hash: 945a1e597aacbfb5a3f20db985abba02288445439ef7ee4696af3467611ba960
+id: qda-source-128@qda-case-114
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 114
+    date: '2026-11-05 22:19:55'
+    fid: 128
+    id: 127
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4324
+  content_sha256: 945a1e597aacbfb5a3f20db985abba02288445439ef7ee4696af3467611ba960
+  date: '2026-11-05 22:19:55'
+  id: 128
+  import_metadata:
+    entity: python-attrs
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 945a1e597aacbfb5a3f20db985abba02288445439ef7ee4696af3467611ba960
+      path: data/281/policies/python-attrs/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/python-attrs/attrs/blob/main/.github/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 945a1e597aacbfb5a3f20db985abba02288445439ef7ee4696af3467611ba960
+  mediapath: /docs/python-attrs--ai_policy--945a1e597aac.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    python-attrs\",\n  \"text_sha256\": \"945a1e597aacbfb5a3f20db985abba02288445439ef7ee4696af3467611ba960\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/python-attrs/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"945a1e597aacbfb5a3f20db985abba02288445439ef7ee4696af3467611ba960\"\
+    ,\n      \"source_url_cell\": \"https://github.com/python-attrs/attrs/blob/main/.github/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: python-attrs--ai_policy--945a1e597aac.md
+  owner: NicolasH
+  risid: null
+name: python-attrs--ai_policy--945a1e597aac.md
+path: corpus/qda-case-114/128.txt

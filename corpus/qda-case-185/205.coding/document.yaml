@@ -1,0 +1,43 @@
+hash: 45ac3c00a62a2746b61f411e0d1bb9b31d78cfa826495ccb9bd3d381c52bb36b
+id: qda-source-205@qda-case-185
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 185
+    date: '2026-11-05 22:19:55'
+    fid: 205
+    id: 204
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2396
+  content_sha256: 45ac3c00a62a2746b61f411e0d1bb9b31d78cfa826495ccb9bd3d381c52bb36b
+  date: '2026-11-05 22:19:55'
+  id: 205
+  import_metadata:
+    entity: lichess-org/lila
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 45ac3c00a62a2746b61f411e0d1bb9b31d78cfa826495ccb9bd3d381c52bb36b
+      path: data/281/policies/lichess-org/lila/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/lichess-org/lila/blob/cdad1c52a8fee807a94d914c5704b122abcebaed/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 45ac3c00a62a2746b61f411e0d1bb9b31d78cfa826495ccb9bd3d381c52bb36b
+  mediapath: /docs/lichess-org__lila--ai_policy--45ac3c00a62a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    lichess-org/lila\",\n  \"text_sha256\": \"45ac3c00a62a2746b61f411e0d1bb9b31d78cfa826495ccb9bd3d381c52bb36b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/lichess-org/lila/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"45ac3c00a62a2746b61f411e0d1bb9b31d78cfa826495ccb9bd3d381c52bb36b\"\
+    ,\n      \"source_url_cell\": \"https://github.com/lichess-org/lila/blob/cdad1c52a8fee807a94d914c5704b122abcebaed/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: lichess-org__lila--ai_policy--45ac3c00a62a.md
+  owner: NicolasH
+  risid: null
+name: lichess-org__lila--ai_policy--45ac3c00a62a.md
+path: corpus/qda-case-185/205.txt

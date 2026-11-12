@@ -1,0 +1,51 @@
+hash: 6efb460f3be87126df0447f300002c2e64ac03137e5015ed87d6a8c67abe72a0
+id: qda-source-360@qda-case-41
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 41
+    date: '2026-11-05 22:19:55'
+    fid: 360
+    id: 360
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3471
+  content_sha256: 6efb460f3be87126df0447f300002c2e64ac03137e5015ed87d6a8c67abe72a0
+  date: '2026-11-05 22:19:55'
+  id: 360
+  import_metadata:
+    entity: microsoft/typescript
+    provenance:
+    - accessed_at: '2026-11-05T19:11:52.860008+00:00'
+      id: corpus-041-purpose
+      original_file_sha256: 13263d9066dd6ae05b2933e7ffa13ea00594d6a55506a67e1dfc1d25f3cb550f
+      path: analysis/corpus-assessment/sources/corpus-041-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-041-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/microsoft/typescript/637d5746b70257028fb95aad32ddec6b26ab0a14/README.md
+      role: purpose_statement_candidate
+      sha256: 13263d9066dd6ae05b2933e7ffa13ea00594d6a55506a67e1dfc1d25f3cb550f
+      url: https://github.com/microsoft/typescript/blob/637d5746b70257028fb95aad32ddec6b26ab0a14/README.md
+      version: 637d5746b70257028fb95aad32ddec6b26ab0a14
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 6efb460f3be87126df0447f300002c2e64ac03137e5015ed87d6a8c67abe72a0
+  mediapath: /docs/microsoft__typescript--purpose_statement_candidate--6efb460f3be8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    microsoft/typescript\",\n  \"text_sha256\": \"6efb460f3be87126df0447f300002c2e64ac03137e5015ed87d6a8c67abe72a0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-041-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"13263d9066dd6ae05b2933e7ffa13ea00594d6a55506a67e1dfc1d25f3cb550f\",\n    \
+    \  \"id\": \"corpus-041-purpose\",\n      \"url\": \"https://github.com/microsoft/typescript/blob/637d5746b70257028fb95aad32ddec6b26ab0a14/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/microsoft/typescript/637d5746b70257028fb95aad32ddec6b26ab0a14/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:52.860008+00:00\",\n      \"version\"\
+    : \"637d5746b70257028fb95aad32ddec6b26ab0a14\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-041-purpose.raw.md\"\
+    ,\n      \"sha256\": \"13263d9066dd6ae05b2933e7ffa13ea00594d6a55506a67e1dfc1d25f3cb550f\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: microsoft__typescript--purpose_statement_candidate--6efb460f3be8.md
+  owner: NicolasH
+  risid: null
+name: microsoft__typescript--purpose_statement_candidate--6efb460f3be8.md
+path: corpus/qda-case-41/360.txt

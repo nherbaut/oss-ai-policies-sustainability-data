@@ -1,0 +1,50 @@
+hash: c6b62069cf687dcffc862d8899f000f1129bfec7b65dde5f4c1795c15cee808a
+id: qda-source-235@qda-case-213
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 213
+    date: '2026-11-05 22:19:55'
+    fid: 235
+    id: 234
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 19029
+  content_sha256: c6b62069cf687dcffc862d8899f000f1129bfec7b65dde5f4c1795c15cee808a
+  date: '2026-11-05 22:19:55'
+  id: 235
+  import_metadata:
+    conversion:
+      converted_sha256: c6b62069cf687dcffc862d8899f000f1129bfec7b65dde5f4c1795c15cee808a
+      original_sha256: 559b39fe344ca98bb3f48469bbe6e06db8746b39ed5895af1b04a225472f53b7
+      version: oss-ai-policies/clean-markdown-v1
+    entity: KDE (page GSoC)
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 559b39fe344ca98bb3f48469bbe6e06db8746b39ed5895af1b04a225472f53b7
+      path: data/281/policies/KDE (page GSoC)/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://community.kde.org/GSoC#Regarding_AI_usage
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 559b39fe344ca98bb3f48469bbe6e06db8746b39ed5895af1b04a225472f53b7
+  mediapath: /docs/KDE__page__GSoC--ai_policy--559b39fe344c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    KDE (page GSoC)\",\n  \"text_sha256\": \"559b39fe344ca98bb3f48469bbe6e06db8746b39ed5895af1b04a225472f53b7\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/KDE (page GSoC)/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"559b39fe344ca98bb3f48469bbe6e06db8746b39ed5895af1b04a225472f53b7\"\
+    ,\n      \"source_url_cell\": \"https://community.kde.org/GSoC#Regarding_AI_usage\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"559b39fe344ca98bb3f48469bbe6e06db8746b39ed5895af1b04a225472f53b7\"\
+    ,\n    \"converted_sha256\": \"c6b62069cf687dcffc862d8899f000f1129bfec7b65dde5f4c1795c15cee808a\"\
+    \n  }\n}"
+  name: KDE__page__GSoC--ai_policy--559b39fe344c.md
+  owner: NicolasH
+  risid: null
+name: KDE__page__GSoC--ai_policy--559b39fe344c.md
+path: corpus/qda-case-213/235.txt

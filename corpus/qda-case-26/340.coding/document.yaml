@@ -1,0 +1,51 @@
+hash: 12f23980bda8215bf1c9b767d9cc238456694bc4b2cadb1603f7ac2d624f4bd3
+id: qda-source-340@qda-case-26
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 26
+    date: '2026-11-05 22:19:55'
+    fid: 340
+    id: 340
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7659
+  content_sha256: 12f23980bda8215bf1c9b767d9cc238456694bc4b2cadb1603f7ac2d624f4bd3
+  date: '2026-11-05 22:19:55'
+  id: 340
+  import_metadata:
+    entity: apache/flink
+    provenance:
+    - accessed_at: '2026-11-05T19:11:50.542563+00:00'
+      id: corpus-026-purpose
+      original_file_sha256: 12f23980bda8215bf1c9b767d9cc238456694bc4b2cadb1603f7ac2d624f4bd3
+      path: analysis/corpus-assessment/sources/corpus-026-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-026-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/apache/flink/5004b5bee5e7ee4e6ce931ea61b98006addbf6ea/README.md
+      role: purpose_statement_candidate
+      sha256: 12f23980bda8215bf1c9b767d9cc238456694bc4b2cadb1603f7ac2d624f4bd3
+      url: https://github.com/apache/flink/blob/5004b5bee5e7ee4e6ce931ea61b98006addbf6ea/README.md
+      version: 5004b5bee5e7ee4e6ce931ea61b98006addbf6ea
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 12f23980bda8215bf1c9b767d9cc238456694bc4b2cadb1603f7ac2d624f4bd3
+  mediapath: /docs/apache__flink--purpose_statement_candidate--12f23980bda8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    apache/flink\",\n  \"text_sha256\": \"12f23980bda8215bf1c9b767d9cc238456694bc4b2cadb1603f7ac2d624f4bd3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-026-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"12f23980bda8215bf1c9b767d9cc238456694bc4b2cadb1603f7ac2d624f4bd3\",\n    \
+    \  \"id\": \"corpus-026-purpose\",\n      \"url\": \"https://github.com/apache/flink/blob/5004b5bee5e7ee4e6ce931ea61b98006addbf6ea/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/apache/flink/5004b5bee5e7ee4e6ce931ea61b98006addbf6ea/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:50.542563+00:00\",\n      \"version\"\
+    : \"5004b5bee5e7ee4e6ce931ea61b98006addbf6ea\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-026-purpose.raw.md\"\
+    ,\n      \"sha256\": \"12f23980bda8215bf1c9b767d9cc238456694bc4b2cadb1603f7ac2d624f4bd3\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: apache__flink--purpose_statement_candidate--12f23980bda8.md
+  owner: NicolasH
+  risid: null
+name: apache__flink--purpose_statement_candidate--12f23980bda8.md
+path: corpus/qda-case-26/340.txt

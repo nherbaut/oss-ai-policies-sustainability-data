@@ -1,0 +1,58 @@
+hash: 4772957469f42cc859adacda7d1a4853cb22778e76650325d7c822873f85b65f
+id: qda-source-539@qda-case-215
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 215
+    date: '2026-11-05 22:19:55'
+    fid: 539
+    id: 539
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8926
+  content_sha256: 4772957469f42cc859adacda7d1a4853cb22778e76650325d7c822873f85b65f
+  date: '2026-11-05 22:19:55'
+  id: 539
+  import_metadata:
+    conversion:
+      converted_sha256: 4772957469f42cc859adacda7d1a4853cb22778e76650325d7c822873f85b65f
+      original_sha256: 5691e8812f2b8a68f901adb58ca98f5ad25a25efddfaf3f955fea5c52828a100
+      version: oss-ai-policies/clean-markdown-v1
+    entity: fastapi/full-stack-fastapi-template
+    provenance:
+    - accessed_at: '2026-11-05T19:12:11.145520+00:00'
+      id: corpus-215-purpose
+      original_file_sha256: 5691e8812f2b8a68f901adb58ca98f5ad25a25efddfaf3f955fea5c52828a100
+      path: analysis/corpus-assessment/sources/corpus-215-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-215-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/fastapi/full-stack-fastapi-template/4d3d5e92c1ea6b3fa0fab02c41124844ec45bca8/README.md
+      role: purpose_statement_candidate
+      sha256: 5691e8812f2b8a68f901adb58ca98f5ad25a25efddfaf3f955fea5c52828a100
+      url: https://github.com/fastapi/full-stack-fastapi-template/blob/4d3d5e92c1ea6b3fa0fab02c41124844ec45bca8/README.md
+      version: 4d3d5e92c1ea6b3fa0fab02c41124844ec45bca8
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 5691e8812f2b8a68f901adb58ca98f5ad25a25efddfaf3f955fea5c52828a100
+  mediapath: /docs/fastapi__full-stack-fastapi-template--purpose_statement_candidate--5691e8812f2b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    fastapi/full-stack-fastapi-template\",\n  \"text_sha256\": \"5691e8812f2b8a68f901adb58ca98f5ad25a25efddfaf3f955fea5c52828a100\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-215-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5691e8812f2b8a68f901adb58ca98f5ad25a25efddfaf3f955fea5c52828a100\",\n    \
+    \  \"id\": \"corpus-215-purpose\",\n      \"url\": \"https://github.com/fastapi/full-stack-fastapi-template/blob/4d3d5e92c1ea6b3fa0fab02c41124844ec45bca8/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/fastapi/full-stack-fastapi-template/4d3d5e92c1ea6b3fa0fab02c41124844ec45bca8/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:11.145520+00:00\",\n      \"version\"\
+    : \"4d3d5e92c1ea6b3fa0fab02c41124844ec45bca8\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-215-purpose.raw.md\"\
+    ,\n      \"sha256\": \"5691e8812f2b8a68f901adb58ca98f5ad25a25efddfaf3f955fea5c52828a100\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"5691e8812f2b8a68f901adb58ca98f5ad25a25efddfaf3f955fea5c52828a100\"\
+    ,\n    \"converted_sha256\": \"4772957469f42cc859adacda7d1a4853cb22778e76650325d7c822873f85b65f\"\
+    \n  }\n}"
+  name: fastapi__full-stack-fastapi-template--purpose_statement_candidate--5691e8812f2b.md
+  owner: NicolasH
+  risid: null
+name: fastapi__full-stack-fastapi-template--purpose_statement_candidate--5691e8812f2b.md
+path: corpus/qda-case-215/539.txt

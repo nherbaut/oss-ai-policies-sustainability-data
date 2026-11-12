@@ -1,0 +1,43 @@
+hash: 6e518e7802d4e2d1c381f02dac0539da3b88ef2975b92ba5c2b2efd9b7215c8b
+id: qda-source-48@qda-case-41
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 41
+    date: '2026-11-05 22:19:55'
+    fid: 48
+    id: 47
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 19648
+  content_sha256: 6e518e7802d4e2d1c381f02dac0539da3b88ef2975b92ba5c2b2efd9b7215c8b
+  date: '2026-11-05 22:19:55'
+  id: 48
+  import_metadata:
+    entity: microsoft/typescript
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 6e518e7802d4e2d1c381f02dac0539da3b88ef2975b92ba5c2b2efd9b7215c8b
+      path: data/281/policies/microsoft/typescript/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/microsoft/typescript/blob/637d5746b70257028fb95aad32ddec6b26ab0a14/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 6e518e7802d4e2d1c381f02dac0539da3b88ef2975b92ba5c2b2efd9b7215c8b
+  mediapath: /docs/microsoft__typescript--contributing--6e518e7802d4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    microsoft/typescript\",\n  \"text_sha256\": \"6e518e7802d4e2d1c381f02dac0539da3b88ef2975b92ba5c2b2efd9b7215c8b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/microsoft/typescript/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"6e518e7802d4e2d1c381f02dac0539da3b88ef2975b92ba5c2b2efd9b7215c8b\"\
+    ,\n      \"source_url_cell\": \"https://github.com/microsoft/typescript/blob/637d5746b70257028fb95aad32ddec6b26ab0a14/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: microsoft__typescript--contributing--6e518e7802d4.md
+  owner: NicolasH
+  risid: null
+name: microsoft__typescript--contributing--6e518e7802d4.md
+path: corpus/qda-case-41/48.txt

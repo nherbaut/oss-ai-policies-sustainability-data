@@ -1,0 +1,43 @@
+hash: 386b00625f13af448d193299f806ace34bdedc421a99fddac418da2e27a33378
+id: qda-source-217@qda-case-194
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 194
+    date: '2026-11-05 22:19:55'
+    fid: 217
+    id: 216
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8970
+  content_sha256: 386b00625f13af448d193299f806ace34bdedc421a99fddac418da2e27a33378
+  date: '2026-11-05 22:19:55'
+  id: 217
+  import_metadata:
+    entity: apache/pouchdb
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 386b00625f13af448d193299f806ace34bdedc421a99fddac418da2e27a33378
+      path: data/281/policies/apache/pouchdb/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/apache/pouchdb/blob/70b9de3c2072fa97e4b5b97cb74faa712ac184e0/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 386b00625f13af448d193299f806ace34bdedc421a99fddac418da2e27a33378
+  mediapath: /docs/apache__pouchdb--contributing--386b00625f13.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    apache/pouchdb\",\n  \"text_sha256\": \"386b00625f13af448d193299f806ace34bdedc421a99fddac418da2e27a33378\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/apache/pouchdb/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"386b00625f13af448d193299f806ace34bdedc421a99fddac418da2e27a33378\"\
+    ,\n      \"source_url_cell\": \"https://github.com/apache/pouchdb/blob/70b9de3c2072fa97e4b5b97cb74faa712ac184e0/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: apache__pouchdb--contributing--386b00625f13.md
+  owner: NicolasH
+  risid: null
+name: apache__pouchdb--contributing--386b00625f13.md
+path: corpus/qda-case-194/217.txt

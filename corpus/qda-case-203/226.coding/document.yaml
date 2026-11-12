@@ -1,0 +1,50 @@
+hash: 9896193e92245e3433e874e024f02291798192f16c2b85ad78920fef438f80a4
+id: qda-source-226@qda-case-203
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 203
+    date: '2026-11-05 22:19:55'
+    fid: 226
+    id: 225
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2608
+  content_sha256: 9896193e92245e3433e874e024f02291798192f16c2b85ad78920fef438f80a4
+  date: '2026-11-05 22:19:55'
+  id: 226
+  import_metadata:
+    conversion:
+      converted_sha256: 9896193e92245e3433e874e024f02291798192f16c2b85ad78920fef438f80a4
+      original_sha256: 9f69c92cb7b763b7d08f2ac4a8e42219975b5c8141e8004c0fee5861b9f45756
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Gentoo
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 9f69c92cb7b763b7d08f2ac4a8e42219975b5c8141e8004c0fee5861b9f45756
+      path: data/281/policies/Gentoo/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://wiki.gentoo.org/wiki/Project:Council/AI_policy
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9f69c92cb7b763b7d08f2ac4a8e42219975b5c8141e8004c0fee5861b9f45756
+  mediapath: /docs/Gentoo--ai_policy--9f69c92cb7b7.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Gentoo\",\n  \"text_sha256\": \"9f69c92cb7b763b7d08f2ac4a8e42219975b5c8141e8004c0fee5861b9f45756\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/Gentoo/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"9f69c92cb7b763b7d08f2ac4a8e42219975b5c8141e8004c0fee5861b9f45756\"\
+    ,\n      \"source_url_cell\": \"https://wiki.gentoo.org/wiki/Project:Council/AI_policy\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"9f69c92cb7b763b7d08f2ac4a8e42219975b5c8141e8004c0fee5861b9f45756\"\
+    ,\n    \"converted_sha256\": \"9896193e92245e3433e874e024f02291798192f16c2b85ad78920fef438f80a4\"\
+    \n  }\n}"
+  name: Gentoo--ai_policy--9f69c92cb7b7.md
+  owner: NicolasH
+  risid: null
+name: Gentoo--ai_policy--9f69c92cb7b7.md
+path: corpus/qda-case-203/226.txt

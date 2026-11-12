@@ -1,0 +1,58 @@
+hash: 1469b9f3215690eba26f10640ad9e18042dda22db9e89c2ca8806be29109c521
+id: qda-source-351@qda-case-36
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 36
+    date: '2026-11-05 22:19:55'
+    fid: 351
+    id: 351
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 37770
+  content_sha256: 1469b9f3215690eba26f10640ad9e18042dda22db9e89c2ca8806be29109c521
+  date: '2026-11-05 22:19:55'
+  id: 351
+  import_metadata:
+    conversion:
+      converted_sha256: 1469b9f3215690eba26f10640ad9e18042dda22db9e89c2ca8806be29109c521
+      original_sha256: a6c46bb67d246942d214cb590e0d7d10bc51256f613a5625687d5fcf32714fe6
+      version: oss-ai-policies/clean-markdown-v1
+    entity: verl-project/verl
+    provenance:
+    - accessed_at: '2026-11-05T19:11:52.045809+00:00'
+      id: corpus-036-purpose
+      original_file_sha256: a6c46bb67d246942d214cb590e0d7d10bc51256f613a5625687d5fcf32714fe6
+      path: analysis/corpus-assessment/sources/corpus-036-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-036-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/verl-project/verl/6f2aa24abfc01cc72811b376aeb3936503885096/README.md
+      role: purpose_statement_candidate
+      sha256: a6c46bb67d246942d214cb590e0d7d10bc51256f613a5625687d5fcf32714fe6
+      url: https://github.com/verl-project/verl/blob/6f2aa24abfc01cc72811b376aeb3936503885096/README.md
+      version: 6f2aa24abfc01cc72811b376aeb3936503885096
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: a6c46bb67d246942d214cb590e0d7d10bc51256f613a5625687d5fcf32714fe6
+  mediapath: /docs/verl-project__verl--purpose_statement_candidate--a6c46bb67d24.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    verl-project/verl\",\n  \"text_sha256\": \"a6c46bb67d246942d214cb590e0d7d10bc51256f613a5625687d5fcf32714fe6\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-036-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"a6c46bb67d246942d214cb590e0d7d10bc51256f613a5625687d5fcf32714fe6\",\n    \
+    \  \"id\": \"corpus-036-purpose\",\n      \"url\": \"https://github.com/verl-project/verl/blob/6f2aa24abfc01cc72811b376aeb3936503885096/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/verl-project/verl/6f2aa24abfc01cc72811b376aeb3936503885096/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:52.045809+00:00\",\n      \"version\"\
+    : \"6f2aa24abfc01cc72811b376aeb3936503885096\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-036-purpose.raw.md\"\
+    ,\n      \"sha256\": \"a6c46bb67d246942d214cb590e0d7d10bc51256f613a5625687d5fcf32714fe6\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"a6c46bb67d246942d214cb590e0d7d10bc51256f613a5625687d5fcf32714fe6\"\
+    ,\n    \"converted_sha256\": \"1469b9f3215690eba26f10640ad9e18042dda22db9e89c2ca8806be29109c521\"\
+    \n  }\n}"
+  name: verl-project__verl--purpose_statement_candidate--a6c46bb67d24.md
+  owner: NicolasH
+  risid: null
+name: verl-project__verl--purpose_statement_candidate--a6c46bb67d24.md
+path: corpus/qda-case-36/351.txt

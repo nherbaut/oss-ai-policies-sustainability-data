@@ -1,0 +1,58 @@
+hash: 23fd13c50a39197a662ea5bfa7888d275a0230232e87126bde349a516d62ad82
+id: qda-source-516@qda-case-195
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 195
+    date: '2026-11-05 22:19:55'
+    fid: 516
+    id: 516
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4199
+  content_sha256: 23fd13c50a39197a662ea5bfa7888d275a0230232e87126bde349a516d62ad82
+  date: '2026-11-05 22:19:55'
+  id: 516
+  import_metadata:
+    conversion:
+      converted_sha256: 23fd13c50a39197a662ea5bfa7888d275a0230232e87126bde349a516d62ad82
+      original_sha256: 6ba4ee735f4665a956517147c6c800e3583593ab942fa409fb56638e2d411dca
+      version: oss-ai-policies/clean-markdown-v1
+    entity: redox-os/redox
+    provenance:
+    - accessed_at: '2026-11-05T19:12:08.535584+00:00'
+      id: corpus-195-purpose
+      original_file_sha256: 6ba4ee735f4665a956517147c6c800e3583593ab942fa409fb56638e2d411dca
+      path: analysis/corpus-assessment/sources/corpus-195-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-195-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/redox-os/redox/b0ade5b4d2afa36ca7f9186f656618f2f50c3dd9/README.md
+      role: purpose_statement_candidate
+      sha256: 6ba4ee735f4665a956517147c6c800e3583593ab942fa409fb56638e2d411dca
+      url: https://github.com/redox-os/redox/blob/b0ade5b4d2afa36ca7f9186f656618f2f50c3dd9/README.md
+      version: b0ade5b4d2afa36ca7f9186f656618f2f50c3dd9
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 6ba4ee735f4665a956517147c6c800e3583593ab942fa409fb56638e2d411dca
+  mediapath: /docs/redox-os__redox--purpose_statement_candidate--6ba4ee735f46.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    redox-os/redox\",\n  \"text_sha256\": \"6ba4ee735f4665a956517147c6c800e3583593ab942fa409fb56638e2d411dca\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-195-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"6ba4ee735f4665a956517147c6c800e3583593ab942fa409fb56638e2d411dca\",\n    \
+    \  \"id\": \"corpus-195-purpose\",\n      \"url\": \"https://github.com/redox-os/redox/blob/b0ade5b4d2afa36ca7f9186f656618f2f50c3dd9/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/redox-os/redox/b0ade5b4d2afa36ca7f9186f656618f2f50c3dd9/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:08.535584+00:00\",\n      \"version\"\
+    : \"b0ade5b4d2afa36ca7f9186f656618f2f50c3dd9\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-195-purpose.raw.md\"\
+    ,\n      \"sha256\": \"6ba4ee735f4665a956517147c6c800e3583593ab942fa409fb56638e2d411dca\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"6ba4ee735f4665a956517147c6c800e3583593ab942fa409fb56638e2d411dca\"\
+    ,\n    \"converted_sha256\": \"23fd13c50a39197a662ea5bfa7888d275a0230232e87126bde349a516d62ad82\"\
+    \n  }\n}"
+  name: redox-os__redox--purpose_statement_candidate--6ba4ee735f46.md
+  owner: NicolasH
+  risid: null
+name: redox-os__redox--purpose_statement_candidate--6ba4ee735f46.md
+path: corpus/qda-case-195/516.txt

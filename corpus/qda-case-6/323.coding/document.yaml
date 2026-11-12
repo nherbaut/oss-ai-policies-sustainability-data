@@ -1,0 +1,58 @@
+hash: 2e724847ab1a9520beecf738bb5ae6fc0bdcb5cf68bbcd991675d0bb02c4b081
+id: qda-source-323@qda-case-6
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 6
+    date: '2026-11-05 22:19:55'
+    fid: 323
+    id: 323
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5486
+  content_sha256: 2e724847ab1a9520beecf738bb5ae6fc0bdcb5cf68bbcd991675d0bb02c4b081
+  date: '2026-11-05 22:19:55'
+  id: 323
+  import_metadata:
+    conversion:
+      converted_sha256: 2e724847ab1a9520beecf738bb5ae6fc0bdcb5cf68bbcd991675d0bb02c4b081
+      original_sha256: fc19a5dcbef5fb5b018055e5bda0426087dc576384305ed130704dac8f81d144
+      version: oss-ai-policies/clean-markdown-v1
+    entity: mastodon/mastodon
+    provenance:
+    - accessed_at: '2026-11-05T16:00:22.320278+00:00'
+      id: 19-purpose
+      original_file_sha256: fc19a5dcbef5fb5b018055e5bda0426087dc576384305ed130704dac8f81d144
+      path: analysis/feasibility-pilot/sources/19-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/19-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/mastodon/mastodon/52e9ec7814fc971598696ba4bf33d06ac1a51938/README.md
+      role: purpose_statement_candidate
+      sha256: fc19a5dcbef5fb5b018055e5bda0426087dc576384305ed130704dac8f81d144
+      url: https://github.com/mastodon/mastodon/blob/52e9ec7814fc971598696ba4bf33d06ac1a51938/README.md
+      version: 52e9ec7814fc971598696ba4bf33d06ac1a51938
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: fc19a5dcbef5fb5b018055e5bda0426087dc576384305ed130704dac8f81d144
+  mediapath: /docs/mastodon__mastodon--purpose_statement_candidate--fc19a5dcbef5.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    mastodon/mastodon\",\n  \"text_sha256\": \"fc19a5dcbef5fb5b018055e5bda0426087dc576384305ed130704dac8f81d144\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/19-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"fc19a5dcbef5fb5b018055e5bda0426087dc576384305ed130704dac8f81d144\",\n    \
+    \  \"id\": \"19-purpose\",\n      \"url\": \"https://github.com/mastodon/mastodon/blob/52e9ec7814fc971598696ba4bf33d06ac1a51938/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/mastodon/mastodon/52e9ec7814fc971598696ba4bf33d06ac1a51938/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:22.320278+00:00\",\n      \"version\"\
+    : \"52e9ec7814fc971598696ba4bf33d06ac1a51938\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/19-purpose.raw.md\"\
+    ,\n      \"sha256\": \"fc19a5dcbef5fb5b018055e5bda0426087dc576384305ed130704dac8f81d144\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"fc19a5dcbef5fb5b018055e5bda0426087dc576384305ed130704dac8f81d144\"\
+    ,\n    \"converted_sha256\": \"2e724847ab1a9520beecf738bb5ae6fc0bdcb5cf68bbcd991675d0bb02c4b081\"\
+    \n  }\n}"
+  name: mastodon__mastodon--purpose_statement_candidate--fc19a5dcbef5.md
+  owner: NicolasH
+  risid: null
+name: mastodon__mastodon--purpose_statement_candidate--fc19a5dcbef5.md
+path: corpus/qda-case-6/323.txt

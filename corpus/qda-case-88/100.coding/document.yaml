@@ -1,0 +1,43 @@
+hash: 456acae52e683687c099355a100acb77db0bbfc696085ac88f847293ffd4d1b0
+id: qda-source-100@qda-case-88
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 88
+    date: '2026-11-05 22:19:55'
+    fid: 100
+    id: 99
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1876
+  content_sha256: 456acae52e683687c099355a100acb77db0bbfc696085ac88f847293ffd4d1b0
+  date: '2026-11-05 22:19:55'
+  id: 100
+  import_metadata:
+    entity: qbittorrent/qbittorrent
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 456acae52e683687c099355a100acb77db0bbfc696085ac88f847293ffd4d1b0
+      path: data/281/policies/qbittorrent/qbittorrent/agent.md
+      retrieved_at: null
+      role: agent
+      source_url_cell: https://github.com/qbittorrent/qbittorrent/blob/5a07050da1ced1f3a03280b4270c448c2d0f2344/AGENTS.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 456acae52e683687c099355a100acb77db0bbfc696085ac88f847293ffd4d1b0
+  mediapath: /docs/qbittorrent__qbittorrent--agent--456acae52e68.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    qbittorrent/qbittorrent\",\n  \"text_sha256\": \"456acae52e683687c099355a100acb77db0bbfc696085ac88f847293ffd4d1b0\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/qbittorrent/qbittorrent/agent.md\"\
+    ,\n      \"role\": \"agent\",\n      \"original_file_sha256\": \"456acae52e683687c099355a100acb77db0bbfc696085ac88f847293ffd4d1b0\"\
+    ,\n      \"source_url_cell\": \"https://github.com/qbittorrent/qbittorrent/blob/5a07050da1ced1f3a03280b4270c448c2d0f2344/AGENTS.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: qbittorrent__qbittorrent--agent--456acae52e68.md
+  owner: NicolasH
+  risid: null
+name: qbittorrent__qbittorrent--agent--456acae52e68.md
+path: corpus/qda-case-88/100.txt

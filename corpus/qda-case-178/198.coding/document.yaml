@@ -1,0 +1,43 @@
+hash: 5c01a2b6ea8b1788db88e7c46fad20c1554b9976dedabdf1547c576a97a36bb3
+id: qda-source-198@qda-case-178
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 178
+    date: '2026-11-05 22:19:55'
+    fid: 198
+    id: 197
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3299
+  content_sha256: 5c01a2b6ea8b1788db88e7c46fad20c1554b9976dedabdf1547c576a97a36bb3
+  date: '2026-11-05 22:19:55'
+  id: 198
+  import_metadata:
+    entity: goreleaser/goreleaser
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 5c01a2b6ea8b1788db88e7c46fad20c1554b9976dedabdf1547c576a97a36bb3
+      path: data/281/policies/goreleaser/goreleaser/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/goreleaser/goreleaser/blob/ae4debbe4383dcc565f9251df2ea719501b8d9ea/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 5c01a2b6ea8b1788db88e7c46fad20c1554b9976dedabdf1547c576a97a36bb3
+  mediapath: /docs/goreleaser__goreleaser--contributing--5c01a2b6ea8b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    goreleaser/goreleaser\",\n  \"text_sha256\": \"5c01a2b6ea8b1788db88e7c46fad20c1554b9976dedabdf1547c576a97a36bb3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/goreleaser/goreleaser/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"5c01a2b6ea8b1788db88e7c46fad20c1554b9976dedabdf1547c576a97a36bb3\"\
+    ,\n      \"source_url_cell\": \"https://github.com/goreleaser/goreleaser/blob/ae4debbe4383dcc565f9251df2ea719501b8d9ea/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: goreleaser__goreleaser--contributing--5c01a2b6ea8b.md
+  owner: NicolasH
+  risid: null
+name: goreleaser__goreleaser--contributing--5c01a2b6ea8b.md
+path: corpus/qda-case-178/198.txt

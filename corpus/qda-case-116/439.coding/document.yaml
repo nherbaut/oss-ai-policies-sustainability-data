@@ -1,0 +1,58 @@
+hash: 611d50285cb511f6731927a322bce6aaa71cb7ac45cef8992f7ecd4dfb46db43
+id: qda-source-439@qda-case-116
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 116
+    date: '2026-11-05 22:19:55'
+    fid: 439
+    id: 439
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2783
+  content_sha256: 611d50285cb511f6731927a322bce6aaa71cb7ac45cef8992f7ecd4dfb46db43
+  date: '2026-11-05 22:19:55'
+  id: 439
+  import_metadata:
+    conversion:
+      converted_sha256: 611d50285cb511f6731927a322bce6aaa71cb7ac45cef8992f7ecd4dfb46db43
+      original_sha256: eba13436afb8b34b2b2fdf0a59d133729ac90fd303b045d6d808be9819687882
+      version: oss-ai-policies/clean-markdown-v1
+    entity: cypress-io/cypress
+    provenance:
+    - accessed_at: '2026-11-05T19:12:00.474978+00:00'
+      id: corpus-116-purpose
+      original_file_sha256: eba13436afb8b34b2b2fdf0a59d133729ac90fd303b045d6d808be9819687882
+      path: analysis/corpus-assessment/sources/corpus-116-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-116-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/cypress-io/cypress/b2ea7e5c15a152ebe6f2218bb2961e5c8e08e8d4/README.md
+      role: purpose_statement_candidate
+      sha256: eba13436afb8b34b2b2fdf0a59d133729ac90fd303b045d6d808be9819687882
+      url: https://github.com/cypress-io/cypress/blob/b2ea7e5c15a152ebe6f2218bb2961e5c8e08e8d4/README.md
+      version: b2ea7e5c15a152ebe6f2218bb2961e5c8e08e8d4
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: eba13436afb8b34b2b2fdf0a59d133729ac90fd303b045d6d808be9819687882
+  mediapath: /docs/cypress-io__cypress--purpose_statement_candidate--eba13436afb8.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    cypress-io/cypress\",\n  \"text_sha256\": \"eba13436afb8b34b2b2fdf0a59d133729ac90fd303b045d6d808be9819687882\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-116-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"eba13436afb8b34b2b2fdf0a59d133729ac90fd303b045d6d808be9819687882\",\n    \
+    \  \"id\": \"corpus-116-purpose\",\n      \"url\": \"https://github.com/cypress-io/cypress/blob/b2ea7e5c15a152ebe6f2218bb2961e5c8e08e8d4/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/cypress-io/cypress/b2ea7e5c15a152ebe6f2218bb2961e5c8e08e8d4/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:00.474978+00:00\",\n      \"version\"\
+    : \"b2ea7e5c15a152ebe6f2218bb2961e5c8e08e8d4\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-116-purpose.raw.md\"\
+    ,\n      \"sha256\": \"eba13436afb8b34b2b2fdf0a59d133729ac90fd303b045d6d808be9819687882\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"eba13436afb8b34b2b2fdf0a59d133729ac90fd303b045d6d808be9819687882\"\
+    ,\n    \"converted_sha256\": \"611d50285cb511f6731927a322bce6aaa71cb7ac45cef8992f7ecd4dfb46db43\"\
+    \n  }\n}"
+  name: cypress-io__cypress--purpose_statement_candidate--eba13436afb8.md
+  owner: NicolasH
+  risid: null
+name: cypress-io__cypress--purpose_statement_candidate--eba13436afb8.md
+path: corpus/qda-case-116/439.txt

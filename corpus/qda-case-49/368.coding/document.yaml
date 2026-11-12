@@ -1,0 +1,58 @@
+hash: d81192b685c62586366711d86f3565bf0c5b6670d036efd37911c3eb01100ca0
+id: qda-source-368@qda-case-49
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 49
+    date: '2026-11-05 22:19:55'
+    fid: 368
+    id: 368
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 28012
+  content_sha256: d81192b685c62586366711d86f3565bf0c5b6670d036efd37911c3eb01100ca0
+  date: '2026-11-05 22:19:55'
+  id: 368
+  import_metadata:
+    conversion:
+      converted_sha256: d81192b685c62586366711d86f3565bf0c5b6670d036efd37911c3eb01100ca0
+      original_sha256: 9300fb5a905b102db7e59cabfd33b9e675f06a9e6bd1771eaa23ef32be42964c
+      version: oss-ai-policies/clean-markdown-v1
+    entity: comet-ml/opik
+    provenance:
+    - accessed_at: '2026-11-05T19:11:53.682990+00:00'
+      id: corpus-049-purpose
+      original_file_sha256: 9300fb5a905b102db7e59cabfd33b9e675f06a9e6bd1771eaa23ef32be42964c
+      path: analysis/corpus-assessment/sources/corpus-049-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-049-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/comet-ml/opik/38ccfe7ac810d548e57d6ed980f0130b3d9c15e1/README.md
+      role: purpose_statement_candidate
+      sha256: 9300fb5a905b102db7e59cabfd33b9e675f06a9e6bd1771eaa23ef32be42964c
+      url: https://github.com/comet-ml/opik/blob/38ccfe7ac810d548e57d6ed980f0130b3d9c15e1/README.md
+      version: 38ccfe7ac810d548e57d6ed980f0130b3d9c15e1
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9300fb5a905b102db7e59cabfd33b9e675f06a9e6bd1771eaa23ef32be42964c
+  mediapath: /docs/comet-ml__opik--purpose_statement_candidate--9300fb5a905b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    comet-ml/opik\",\n  \"text_sha256\": \"9300fb5a905b102db7e59cabfd33b9e675f06a9e6bd1771eaa23ef32be42964c\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-049-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9300fb5a905b102db7e59cabfd33b9e675f06a9e6bd1771eaa23ef32be42964c\",\n    \
+    \  \"id\": \"corpus-049-purpose\",\n      \"url\": \"https://github.com/comet-ml/opik/blob/38ccfe7ac810d548e57d6ed980f0130b3d9c15e1/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/comet-ml/opik/38ccfe7ac810d548e57d6ed980f0130b3d9c15e1/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:53.682990+00:00\",\n      \"version\"\
+    : \"38ccfe7ac810d548e57d6ed980f0130b3d9c15e1\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-049-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9300fb5a905b102db7e59cabfd33b9e675f06a9e6bd1771eaa23ef32be42964c\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9300fb5a905b102db7e59cabfd33b9e675f06a9e6bd1771eaa23ef32be42964c\"\
+    ,\n    \"converted_sha256\": \"d81192b685c62586366711d86f3565bf0c5b6670d036efd37911c3eb01100ca0\"\
+    \n  }\n}"
+  name: comet-ml__opik--purpose_statement_candidate--9300fb5a905b.md
+  owner: NicolasH
+  risid: null
+name: comet-ml__opik--purpose_statement_candidate--9300fb5a905b.md
+path: corpus/qda-case-49/368.txt

@@ -1,0 +1,58 @@
+hash: af055e870ba5bd4b29443f35c714abfc10bef76ebd7dad846005de99c8dbc93e
+id: qda-source-508@qda-case-187
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 187
+    date: '2026-11-05 22:19:55'
+    fid: 508
+    id: 508
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5091
+  content_sha256: af055e870ba5bd4b29443f35c714abfc10bef76ebd7dad846005de99c8dbc93e
+  date: '2026-11-05 22:19:55'
+  id: 508
+  import_metadata:
+    conversion:
+      converted_sha256: af055e870ba5bd4b29443f35c714abfc10bef76ebd7dad846005de99c8dbc93e
+      original_sha256: b28b177769ef964602117ac69b4c1d04d1522deddee47e0117f68f0b6e8f14dc
+      version: oss-ai-policies/clean-markdown-v1
+    entity: nuxt/nuxt
+    provenance:
+    - accessed_at: '2026-11-05T19:12:07.523850+00:00'
+      id: corpus-187-purpose
+      original_file_sha256: b28b177769ef964602117ac69b4c1d04d1522deddee47e0117f68f0b6e8f14dc
+      path: analysis/corpus-assessment/sources/corpus-187-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-187-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/nuxt/nuxt/b437b50f5049e2ad1b438dd53fb410410e8b8db5/README.md
+      role: purpose_statement_candidate
+      sha256: b28b177769ef964602117ac69b4c1d04d1522deddee47e0117f68f0b6e8f14dc
+      url: https://github.com/nuxt/nuxt/blob/b437b50f5049e2ad1b438dd53fb410410e8b8db5/README.md
+      version: b437b50f5049e2ad1b438dd53fb410410e8b8db5
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b28b177769ef964602117ac69b4c1d04d1522deddee47e0117f68f0b6e8f14dc
+  mediapath: /docs/nuxt__nuxt--purpose_statement_candidate--b28b177769ef.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    nuxt/nuxt\",\n  \"text_sha256\": \"b28b177769ef964602117ac69b4c1d04d1522deddee47e0117f68f0b6e8f14dc\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-187-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b28b177769ef964602117ac69b4c1d04d1522deddee47e0117f68f0b6e8f14dc\",\n    \
+    \  \"id\": \"corpus-187-purpose\",\n      \"url\": \"https://github.com/nuxt/nuxt/blob/b437b50f5049e2ad1b438dd53fb410410e8b8db5/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/nuxt/nuxt/b437b50f5049e2ad1b438dd53fb410410e8b8db5/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:07.523850+00:00\",\n      \"version\"\
+    : \"b437b50f5049e2ad1b438dd53fb410410e8b8db5\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-187-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b28b177769ef964602117ac69b4c1d04d1522deddee47e0117f68f0b6e8f14dc\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b28b177769ef964602117ac69b4c1d04d1522deddee47e0117f68f0b6e8f14dc\"\
+    ,\n    \"converted_sha256\": \"af055e870ba5bd4b29443f35c714abfc10bef76ebd7dad846005de99c8dbc93e\"\
+    \n  }\n}"
+  name: nuxt__nuxt--purpose_statement_candidate--b28b177769ef.md
+  owner: NicolasH
+  risid: null
+name: nuxt__nuxt--purpose_statement_candidate--b28b177769ef.md
+path: corpus/qda-case-187/508.txt

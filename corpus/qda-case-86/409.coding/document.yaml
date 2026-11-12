@@ -1,0 +1,58 @@
+hash: c2cacaeda0749e3bb1f68b791566101effb6c8545f818dc7a04cd69b58279e3f
+id: qda-source-409@qda-case-86
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 86
+    date: '2026-11-05 22:19:55'
+    fid: 409
+    id: 409
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 37121
+  content_sha256: c2cacaeda0749e3bb1f68b791566101effb6c8545f818dc7a04cd69b58279e3f
+  date: '2026-11-05 22:19:55'
+  id: 409
+  import_metadata:
+    conversion:
+      converted_sha256: c2cacaeda0749e3bb1f68b791566101effb6c8545f818dc7a04cd69b58279e3f
+      original_sha256: eb9e6ed5f8f06ae765616c1f764b372088d00a9fcedcbf50d226a85cc5a54c12
+      version: oss-ai-policies/clean-markdown-v1
+    entity: reactivex/rxjava
+    provenance:
+    - accessed_at: '2026-11-05T19:11:57.174799+00:00'
+      id: corpus-086-purpose
+      original_file_sha256: eb9e6ed5f8f06ae765616c1f764b372088d00a9fcedcbf50d226a85cc5a54c12
+      path: analysis/corpus-assessment/sources/corpus-086-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-086-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/reactivex/rxjava/6915226894f46c3dc1bdcd6bc3734c7c95af9536/README.md
+      role: purpose_statement_candidate
+      sha256: eb9e6ed5f8f06ae765616c1f764b372088d00a9fcedcbf50d226a85cc5a54c12
+      url: https://github.com/reactivex/rxjava/blob/6915226894f46c3dc1bdcd6bc3734c7c95af9536/README.md
+      version: 6915226894f46c3dc1bdcd6bc3734c7c95af9536
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: eb9e6ed5f8f06ae765616c1f764b372088d00a9fcedcbf50d226a85cc5a54c12
+  mediapath: /docs/reactivex__rxjava--purpose_statement_candidate--eb9e6ed5f8f0.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    reactivex/rxjava\",\n  \"text_sha256\": \"eb9e6ed5f8f06ae765616c1f764b372088d00a9fcedcbf50d226a85cc5a54c12\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-086-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"eb9e6ed5f8f06ae765616c1f764b372088d00a9fcedcbf50d226a85cc5a54c12\",\n    \
+    \  \"id\": \"corpus-086-purpose\",\n      \"url\": \"https://github.com/reactivex/rxjava/blob/6915226894f46c3dc1bdcd6bc3734c7c95af9536/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/reactivex/rxjava/6915226894f46c3dc1bdcd6bc3734c7c95af9536/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:57.174799+00:00\",\n      \"version\"\
+    : \"6915226894f46c3dc1bdcd6bc3734c7c95af9536\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-086-purpose.raw.md\"\
+    ,\n      \"sha256\": \"eb9e6ed5f8f06ae765616c1f764b372088d00a9fcedcbf50d226a85cc5a54c12\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"eb9e6ed5f8f06ae765616c1f764b372088d00a9fcedcbf50d226a85cc5a54c12\"\
+    ,\n    \"converted_sha256\": \"c2cacaeda0749e3bb1f68b791566101effb6c8545f818dc7a04cd69b58279e3f\"\
+    \n  }\n}"
+  name: reactivex__rxjava--purpose_statement_candidate--eb9e6ed5f8f0.md
+  owner: NicolasH
+  risid: null
+name: reactivex__rxjava--purpose_statement_candidate--eb9e6ed5f8f0.md
+path: corpus/qda-case-86/409.txt

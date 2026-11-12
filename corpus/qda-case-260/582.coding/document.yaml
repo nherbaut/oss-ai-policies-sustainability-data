@@ -1,0 +1,51 @@
+hash: 144706621c08f446abfc49009d453db46ee099cfbbe787d3f49a8f38957f7508
+id: qda-source-582@qda-case-260
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 260
+    date: '2026-11-05 22:19:55'
+    fid: 582
+    id: 582
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6761
+  content_sha256: 144706621c08f446abfc49009d453db46ee099cfbbe787d3f49a8f38957f7508
+  date: '2026-11-05 22:19:55'
+  id: 582
+  import_metadata:
+    entity: influxdata/telegraf
+    provenance:
+    - accessed_at: '2026-11-05T19:12:15.369522+00:00'
+      id: corpus-260-purpose
+      original_file_sha256: 144706621c08f446abfc49009d453db46ee099cfbbe787d3f49a8f38957f7508
+      path: analysis/corpus-assessment/sources/corpus-260-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-260-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/influxdata/telegraf/7c40d48b559065672441cd877a9de3728ab8bee8/README.md
+      role: purpose_statement_candidate
+      sha256: 144706621c08f446abfc49009d453db46ee099cfbbe787d3f49a8f38957f7508
+      url: https://github.com/influxdata/telegraf/blob/7c40d48b559065672441cd877a9de3728ab8bee8/README.md
+      version: 7c40d48b559065672441cd877a9de3728ab8bee8
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 144706621c08f446abfc49009d453db46ee099cfbbe787d3f49a8f38957f7508
+  mediapath: /docs/influxdata__telegraf--purpose_statement_candidate--144706621c08.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    influxdata/telegraf\",\n  \"text_sha256\": \"144706621c08f446abfc49009d453db46ee099cfbbe787d3f49a8f38957f7508\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-260-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"144706621c08f446abfc49009d453db46ee099cfbbe787d3f49a8f38957f7508\",\n    \
+    \  \"id\": \"corpus-260-purpose\",\n      \"url\": \"https://github.com/influxdata/telegraf/blob/7c40d48b559065672441cd877a9de3728ab8bee8/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/influxdata/telegraf/7c40d48b559065672441cd877a9de3728ab8bee8/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:15.369522+00:00\",\n      \"version\"\
+    : \"7c40d48b559065672441cd877a9de3728ab8bee8\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-260-purpose.raw.md\"\
+    ,\n      \"sha256\": \"144706621c08f446abfc49009d453db46ee099cfbbe787d3f49a8f38957f7508\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: influxdata__telegraf--purpose_statement_candidate--144706621c08.md
+  owner: NicolasH
+  risid: null
+name: influxdata__telegraf--purpose_statement_candidate--144706621c08.md
+path: corpus/qda-case-260/582.txt

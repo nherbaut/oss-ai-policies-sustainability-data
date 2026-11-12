@@ -1,0 +1,51 @@
+hash: cee5ce62bf1f6ff719c6236fb1bb6d286df9ba9782e9f1ecb3f9e3ccc3a8b284
+id: qda-source-568@qda-case-246
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 246
+    date: '2026-11-05 22:19:55'
+    fid: 568
+    id: 568
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 15158
+  content_sha256: cee5ce62bf1f6ff719c6236fb1bb6d286df9ba9782e9f1ecb3f9e3ccc3a8b284
+  date: '2026-11-05 22:19:55'
+  id: 568
+  import_metadata:
+    entity: ether/etherpad-lite
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.379975+00:00'
+      id: corpus-246-purpose
+      original_file_sha256: cee5ce62bf1f6ff719c6236fb1bb6d286df9ba9782e9f1ecb3f9e3ccc3a8b284
+      path: analysis/corpus-assessment/sources/corpus-246-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-246-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/ether/etherpad-lite/9a6109bd1dba05cc9c32b981c4ec96ecf68edc8b/README.md
+      role: purpose_statement_candidate
+      sha256: cee5ce62bf1f6ff719c6236fb1bb6d286df9ba9782e9f1ecb3f9e3ccc3a8b284
+      url: https://github.com/ether/etherpad-lite/blob/9a6109bd1dba05cc9c32b981c4ec96ecf68edc8b/README.md
+      version: 9a6109bd1dba05cc9c32b981c4ec96ecf68edc8b
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: cee5ce62bf1f6ff719c6236fb1bb6d286df9ba9782e9f1ecb3f9e3ccc3a8b284
+  mediapath: /docs/ether__etherpad-lite--purpose_statement_candidate--cee5ce62bf1f.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    ether/etherpad-lite\",\n  \"text_sha256\": \"cee5ce62bf1f6ff719c6236fb1bb6d286df9ba9782e9f1ecb3f9e3ccc3a8b284\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-246-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"cee5ce62bf1f6ff719c6236fb1bb6d286df9ba9782e9f1ecb3f9e3ccc3a8b284\",\n    \
+    \  \"id\": \"corpus-246-purpose\",\n      \"url\": \"https://github.com/ether/etherpad-lite/blob/9a6109bd1dba05cc9c32b981c4ec96ecf68edc8b/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/ether/etherpad-lite/9a6109bd1dba05cc9c32b981c4ec96ecf68edc8b/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.379975+00:00\",\n      \"version\"\
+    : \"9a6109bd1dba05cc9c32b981c4ec96ecf68edc8b\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-246-purpose.raw.md\"\
+    ,\n      \"sha256\": \"cee5ce62bf1f6ff719c6236fb1bb6d286df9ba9782e9f1ecb3f9e3ccc3a8b284\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: ether__etherpad-lite--purpose_statement_candidate--cee5ce62bf1f.md
+  owner: NicolasH
+  risid: null
+name: ether__etherpad-lite--purpose_statement_candidate--cee5ce62bf1f.md
+path: corpus/qda-case-246/568.txt

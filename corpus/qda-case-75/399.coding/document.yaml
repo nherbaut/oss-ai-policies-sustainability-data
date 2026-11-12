@@ -1,0 +1,51 @@
+hash: 48bb3df29d0b9dce8d8217be57405106d9e163df705c5028597bf4721bb93f5b
+id: qda-source-399@qda-case-75
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 75
+    date: '2026-11-05 22:19:55'
+    fid: 399
+    id: 399
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 14638
+  content_sha256: 48bb3df29d0b9dce8d8217be57405106d9e163df705c5028597bf4721bb93f5b
+  date: '2026-11-05 22:19:55'
+  id: 399
+  import_metadata:
+    entity: apache/pulsar
+    provenance:
+    - accessed_at: '2026-11-05T19:11:56.404454+00:00'
+      id: corpus-075-purpose
+      original_file_sha256: 48bb3df29d0b9dce8d8217be57405106d9e163df705c5028597bf4721bb93f5b
+      path: analysis/corpus-assessment/sources/corpus-075-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-075-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/apache/pulsar/8576283da4ad3f3742168fc4bf4a527f31923297/README.md
+      role: purpose_statement_candidate
+      sha256: 48bb3df29d0b9dce8d8217be57405106d9e163df705c5028597bf4721bb93f5b
+      url: https://github.com/apache/pulsar/blob/8576283da4ad3f3742168fc4bf4a527f31923297/README.md
+      version: 8576283da4ad3f3742168fc4bf4a527f31923297
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 48bb3df29d0b9dce8d8217be57405106d9e163df705c5028597bf4721bb93f5b
+  mediapath: /docs/apache__pulsar--purpose_statement_candidate--48bb3df29d0b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    apache/pulsar\",\n  \"text_sha256\": \"48bb3df29d0b9dce8d8217be57405106d9e163df705c5028597bf4721bb93f5b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-075-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"48bb3df29d0b9dce8d8217be57405106d9e163df705c5028597bf4721bb93f5b\",\n    \
+    \  \"id\": \"corpus-075-purpose\",\n      \"url\": \"https://github.com/apache/pulsar/blob/8576283da4ad3f3742168fc4bf4a527f31923297/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/apache/pulsar/8576283da4ad3f3742168fc4bf4a527f31923297/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:56.404454+00:00\",\n      \"version\"\
+    : \"8576283da4ad3f3742168fc4bf4a527f31923297\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-075-purpose.raw.md\"\
+    ,\n      \"sha256\": \"48bb3df29d0b9dce8d8217be57405106d9e163df705c5028597bf4721bb93f5b\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: apache__pulsar--purpose_statement_candidate--48bb3df29d0b.md
+  owner: NicolasH
+  risid: null
+name: apache__pulsar--purpose_statement_candidate--48bb3df29d0b.md
+path: corpus/qda-case-75/399.txt

@@ -1,0 +1,58 @@
+hash: 4b4d7e1f688574a6420e7c518aaebcc398a335a3646647910086097657b08f90
+id: qda-source-341@qda-case-27
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 27
+    date: '2026-11-05 22:19:55'
+    fid: 341
+    id: 341
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 21030
+  content_sha256: 4b4d7e1f688574a6420e7c518aaebcc398a335a3646647910086097657b08f90
+  date: '2026-11-05 22:19:55'
+  id: 341
+  import_metadata:
+    conversion:
+      converted_sha256: 4b4d7e1f688574a6420e7c518aaebcc398a335a3646647910086097657b08f90
+      original_sha256: c64c774d6af474efac8402736ff82c1b2f934cedefedcbe2049be9bddd896062
+      version: oss-ai-policies/clean-markdown-v1
+    entity: simple-icons/simple-icons
+    provenance:
+    - accessed_at: '2026-11-05T19:11:50.636645+00:00'
+      id: corpus-027-purpose
+      original_file_sha256: c64c774d6af474efac8402736ff82c1b2f934cedefedcbe2049be9bddd896062
+      path: analysis/corpus-assessment/sources/corpus-027-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-027-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/simple-icons/simple-icons/0f9fa549da00e9aa6e3ef8d3d2171f481360e638/README.md
+      role: purpose_statement_candidate
+      sha256: c64c774d6af474efac8402736ff82c1b2f934cedefedcbe2049be9bddd896062
+      url: https://github.com/simple-icons/simple-icons/blob/0f9fa549da00e9aa6e3ef8d3d2171f481360e638/README.md
+      version: 0f9fa549da00e9aa6e3ef8d3d2171f481360e638
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: c64c774d6af474efac8402736ff82c1b2f934cedefedcbe2049be9bddd896062
+  mediapath: /docs/simple-icons__simple-icons--purpose_statement_candidate--c64c774d6af4.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    simple-icons/simple-icons\",\n  \"text_sha256\": \"c64c774d6af474efac8402736ff82c1b2f934cedefedcbe2049be9bddd896062\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-027-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"c64c774d6af474efac8402736ff82c1b2f934cedefedcbe2049be9bddd896062\",\n    \
+    \  \"id\": \"corpus-027-purpose\",\n      \"url\": \"https://github.com/simple-icons/simple-icons/blob/0f9fa549da00e9aa6e3ef8d3d2171f481360e638/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/simple-icons/simple-icons/0f9fa549da00e9aa6e3ef8d3d2171f481360e638/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:50.636645+00:00\",\n      \"version\"\
+    : \"0f9fa549da00e9aa6e3ef8d3d2171f481360e638\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-027-purpose.raw.md\"\
+    ,\n      \"sha256\": \"c64c774d6af474efac8402736ff82c1b2f934cedefedcbe2049be9bddd896062\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"c64c774d6af474efac8402736ff82c1b2f934cedefedcbe2049be9bddd896062\"\
+    ,\n    \"converted_sha256\": \"4b4d7e1f688574a6420e7c518aaebcc398a335a3646647910086097657b08f90\"\
+    \n  }\n}"
+  name: simple-icons__simple-icons--purpose_statement_candidate--c64c774d6af4.md
+  owner: NicolasH
+  risid: null
+name: simple-icons__simple-icons--purpose_statement_candidate--c64c774d6af4.md
+path: corpus/qda-case-27/341.txt

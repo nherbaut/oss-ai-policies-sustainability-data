@@ -1,0 +1,43 @@
+hash: e03afd8232886f0e545e5750c8cfe39f40bf75aa44e46fde05b4ec9dced79cb2
+id: qda-source-240@qda-case-218
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 218
+    date: '2026-11-05 22:19:55'
+    fid: 240
+    id: 239
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 503
+  content_sha256: e03afd8232886f0e545e5750c8cfe39f40bf75aa44e46fde05b4ec9dced79cb2
+  date: '2026-11-05 22:19:55'
+  id: 240
+  import_metadata:
+    entity: mikf/gallery-dl
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: e03afd8232886f0e545e5750c8cfe39f40bf75aa44e46fde05b4ec9dced79cb2
+      path: data/281/policies/mikf/gallery-dl/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/mikf/gallery-dl/blob/01f5dff21fbbde04c9729cecdabac7306a997121/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: e03afd8232886f0e545e5750c8cfe39f40bf75aa44e46fde05b4ec9dced79cb2
+  mediapath: /docs/mikf__gallery-dl--contributing--e03afd823288.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    mikf/gallery-dl\",\n  \"text_sha256\": \"e03afd8232886f0e545e5750c8cfe39f40bf75aa44e46fde05b4ec9dced79cb2\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/mikf/gallery-dl/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"e03afd8232886f0e545e5750c8cfe39f40bf75aa44e46fde05b4ec9dced79cb2\"\
+    ,\n      \"source_url_cell\": \"https://github.com/mikf/gallery-dl/blob/01f5dff21fbbde04c9729cecdabac7306a997121/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: mikf__gallery-dl--contributing--e03afd823288.md
+  owner: NicolasH
+  risid: null
+name: mikf__gallery-dl--contributing--e03afd823288.md
+path: corpus/qda-case-218/240.txt

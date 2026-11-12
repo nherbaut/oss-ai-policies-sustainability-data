@@ -1,0 +1,43 @@
+hash: b6e7c649a084df4540af44e3a7a617e81e7bb84b18ac80658c0074965fe44695
+id: qda-source-166@qda-case-148
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 148
+    date: '2026-11-05 22:19:55'
+    fid: 166
+    id: 165
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1999
+  content_sha256: b6e7c649a084df4540af44e3a7a617e81e7bb84b18ac80658c0074965fe44695
+  date: '2026-11-05 22:19:55'
+  id: 166
+  import_metadata:
+    entity: starship/starship
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: b6e7c649a084df4540af44e3a7a617e81e7bb84b18ac80658c0074965fe44695
+      path: data/281/policies/starship/starship/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/starship/starship/blob/8eb25b8130d1b7bf0c98c71d6f978224814b5208/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: b6e7c649a084df4540af44e3a7a617e81e7bb84b18ac80658c0074965fe44695
+  mediapath: /docs/starship__starship--ai_policy--b6e7c649a084.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    starship/starship\",\n  \"text_sha256\": \"b6e7c649a084df4540af44e3a7a617e81e7bb84b18ac80658c0074965fe44695\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/starship/starship/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"b6e7c649a084df4540af44e3a7a617e81e7bb84b18ac80658c0074965fe44695\"\
+    ,\n      \"source_url_cell\": \"https://github.com/starship/starship/blob/8eb25b8130d1b7bf0c98c71d6f978224814b5208/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: starship__starship--ai_policy--b6e7c649a084.md
+  owner: NicolasH
+  risid: null
+name: starship__starship--ai_policy--b6e7c649a084.md
+path: corpus/qda-case-148/166.txt

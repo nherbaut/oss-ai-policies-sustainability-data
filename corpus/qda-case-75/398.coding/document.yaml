@@ -1,0 +1,58 @@
+hash: b7c38647aa8ccd66e8302a215f15df7c4b14ce810679f990fde0f6079883a457
+id: qda-source-398@qda-case-75
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 75
+    date: '2026-11-05 22:19:55'
+    fid: 398
+    id: 398
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 10635
+  content_sha256: b7c38647aa8ccd66e8302a215f15df7c4b14ce810679f990fde0f6079883a457
+  date: '2026-11-05 22:19:55'
+  id: 398
+  import_metadata:
+    conversion:
+      converted_sha256: b7c38647aa8ccd66e8302a215f15df7c4b14ce810679f990fde0f6079883a457
+      original_sha256: 08639c86d4a36c7165db4f602f55fdc39257f1324dfd499347e6246ba0dcf691
+      version: oss-ai-policies/clean-markdown-v1
+    entity: apache/pulsar
+    provenance:
+    - accessed_at: '2026-11-05T19:11:56.596291+00:00'
+      id: corpus-075-other_policy-2
+      original_file_sha256: 08639c86d4a36c7165db4f602f55fdc39257f1324dfd499347e6246ba0dcf691
+      path: analysis/corpus-assessment/sources/corpus-075-other_policy-2.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-075-other_policy-2.html
+      resolved_url: https://www.apache.org/legal/generative-tooling.html
+      role: supplementary_policy
+      sha256: a8f2aeaabecab1bc434e72e4af4c77b5d9fcff5f8940ee5d6c0007401e479ed5
+      url: https://www.apache.org/legal/generative-tooling.html
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 08639c86d4a36c7165db4f602f55fdc39257f1324dfd499347e6246ba0dcf691
+  mediapath: /docs/apache__pulsar--supplementary_policy--08639c86d4a3.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    apache/pulsar\",\n  \"text_sha256\": \"08639c86d4a36c7165db4f602f55fdc39257f1324dfd499347e6246ba0dcf691\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-075-other_policy-2.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"08639c86d4a36c7165db4f602f55fdc39257f1324dfd499347e6246ba0dcf691\",\n    \
+    \  \"id\": \"corpus-075-other_policy-2\",\n      \"url\": \"https://www.apache.org/legal/generative-tooling.html\"\
+    ,\n      \"resolved_url\": \"https://www.apache.org/legal/generative-tooling.html\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:56.596291+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-075-other_policy-2.html\"\
+    ,\n      \"sha256\": \"a8f2aeaabecab1bc434e72e4af4c77b5d9fcff5f8940ee5d6c0007401e479ed5\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"08639c86d4a36c7165db4f602f55fdc39257f1324dfd499347e6246ba0dcf691\"\
+    ,\n    \"converted_sha256\": \"b7c38647aa8ccd66e8302a215f15df7c4b14ce810679f990fde0f6079883a457\"\
+    \n  }\n}"
+  name: apache__pulsar--supplementary_policy--08639c86d4a3.md
+  owner: NicolasH
+  risid: null
+name: apache__pulsar--supplementary_policy--08639c86d4a3.md
+path: corpus/qda-case-75/398.txt

@@ -1,0 +1,58 @@
+hash: de3d477b497d16a3f3d6a98487efbce8204a5903ff9e2c2c6d7ff24aabae2795
+id: qda-source-538@qda-case-214
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 214
+    date: '2026-11-05 22:19:55'
+    fid: 538
+    id: 538
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 3144
+  content_sha256: de3d477b497d16a3f3d6a98487efbce8204a5903ff9e2c2c6d7ff24aabae2795
+  date: '2026-11-05 22:19:55'
+  id: 538
+  import_metadata:
+    conversion:
+      converted_sha256: de3d477b497d16a3f3d6a98487efbce8204a5903ff9e2c2c6d7ff24aabae2795
+      original_sha256: d9c9c8eff8d1a3dfa5a85044bcef56da5af611a7fc48534f877c2954dccd9636
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Flathub
+    provenance:
+    - accessed_at: '2026-11-05T19:12:11.130150+00:00'
+      id: corpus-214-purpose
+      original_file_sha256: d9c9c8eff8d1a3dfa5a85044bcef56da5af611a7fc48534f877c2954dccd9636
+      path: analysis/corpus-assessment/sources/corpus-214-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-214-purpose.html
+      resolved_url: https://flathub.org/en/about
+      role: purpose_statement_candidate
+      sha256: fce4d56c83418277ddf3611adc978e6ad99cf30563fcc0c83c60d45dae42ba2c
+      url: https://flathub.org/about
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: d9c9c8eff8d1a3dfa5a85044bcef56da5af611a7fc48534f877c2954dccd9636
+  mediapath: /docs/Flathub--purpose_statement_candidate--d9c9c8eff8d1.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Flathub\",\n  \"text_sha256\": \"d9c9c8eff8d1a3dfa5a85044bcef56da5af611a7fc48534f877c2954dccd9636\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-214-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"d9c9c8eff8d1a3dfa5a85044bcef56da5af611a7fc48534f877c2954dccd9636\",\n    \
+    \  \"id\": \"corpus-214-purpose\",\n      \"url\": \"https://flathub.org/about\"\
+    ,\n      \"resolved_url\": \"https://flathub.org/en/about\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:12:11.130150+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-214-purpose.html\",\n      \"sha256\"\
+    : \"fce4d56c83418277ddf3611adc978e6ad99cf30563fcc0c83c60d45dae42ba2c\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"d9c9c8eff8d1a3dfa5a85044bcef56da5af611a7fc48534f877c2954dccd9636\"\
+    ,\n    \"converted_sha256\": \"de3d477b497d16a3f3d6a98487efbce8204a5903ff9e2c2c6d7ff24aabae2795\"\
+    \n  }\n}"
+  name: Flathub--purpose_statement_candidate--d9c9c8eff8d1.md
+  owner: NicolasH
+  risid: null
+name: Flathub--purpose_statement_candidate--d9c9c8eff8d1.md
+path: corpus/qda-case-214/538.txt

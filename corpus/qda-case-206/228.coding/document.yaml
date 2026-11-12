@@ -1,0 +1,50 @@
+hash: 02468289610b03639db6da4d501151e4d054e8bbb82381a8046b8a6be19ec0a2
+id: qda-source-228@qda-case-206
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 206
+    date: '2026-11-05 22:19:55'
+    fid: 228
+    id: 227
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12113
+  content_sha256: 02468289610b03639db6da4d501151e4d054e8bbb82381a8046b8a6be19ec0a2
+  date: '2026-11-05 22:19:55'
+  id: 228
+  import_metadata:
+    conversion:
+      converted_sha256: 02468289610b03639db6da4d501151e4d054e8bbb82381a8046b8a6be19ec0a2
+      original_sha256: de0dcdb4d4ac59674b447adebd1dd902f5c9c00ee8b2bf93484403770e9481d1
+      version: oss-ai-policies/clean-markdown-v1
+    entity: netbox-community/netbox
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: de0dcdb4d4ac59674b447adebd1dd902f5c9c00ee8b2bf93484403770e9481d1
+      path: data/281/policies/netbox-community/netbox/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/netbox-community/netbox/blob/6c501413ee403613817c01709d3004cf243c9880/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: de0dcdb4d4ac59674b447adebd1dd902f5c9c00ee8b2bf93484403770e9481d1
+  mediapath: /docs/netbox-community__netbox--contributing--de0dcdb4d4ac.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    netbox-community/netbox\",\n  \"text_sha256\": \"de0dcdb4d4ac59674b447adebd1dd902f5c9c00ee8b2bf93484403770e9481d1\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/netbox-community/netbox/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"de0dcdb4d4ac59674b447adebd1dd902f5c9c00ee8b2bf93484403770e9481d1\"\
+    ,\n      \"source_url_cell\": \"https://github.com/netbox-community/netbox/blob/6c501413ee403613817c01709d3004cf243c9880/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"de0dcdb4d4ac59674b447adebd1dd902f5c9c00ee8b2bf93484403770e9481d1\"\
+    ,\n    \"converted_sha256\": \"02468289610b03639db6da4d501151e4d054e8bbb82381a8046b8a6be19ec0a2\"\
+    \n  }\n}"
+  name: netbox-community__netbox--contributing--de0dcdb4d4ac.md
+  owner: NicolasH
+  risid: null
+name: netbox-community__netbox--contributing--de0dcdb4d4ac.md
+path: corpus/qda-case-206/228.txt

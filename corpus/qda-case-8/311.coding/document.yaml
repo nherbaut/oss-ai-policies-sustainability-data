@@ -1,0 +1,58 @@
+hash: 518ec66caf94b27d9c7f1e89fee966dab5c1efa52dc3035a8e8165af7dffe13b
+id: qda-source-311@qda-case-8
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 8
+    date: '2026-11-05 22:19:55'
+    fid: 311
+    id: 311
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 16431
+  content_sha256: 518ec66caf94b27d9c7f1e89fee966dab5c1efa52dc3035a8e8165af7dffe13b
+  date: '2026-11-05 22:19:55'
+  id: 311
+  import_metadata:
+    conversion:
+      converted_sha256: 518ec66caf94b27d9c7f1e89fee966dab5c1efa52dc3035a8e8165af7dffe13b
+      original_sha256: d9687dd3d5159775cce8c742ba518294a69ad1316bcb8cc061816597103cfeb4
+      version: oss-ai-policies/clean-markdown-v1
+    entity: scala/scala
+    provenance:
+    - accessed_at: '2026-11-05T16:00:20.598904+00:00'
+      id: 07-purpose
+      original_file_sha256: d9687dd3d5159775cce8c742ba518294a69ad1316bcb8cc061816597103cfeb4
+      path: analysis/feasibility-pilot/sources/07-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/07-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/scala/scala/e2bf3551286f729b4f2bec78b36e3f890fccfd80/README.md
+      role: purpose_statement_candidate
+      sha256: d9687dd3d5159775cce8c742ba518294a69ad1316bcb8cc061816597103cfeb4
+      url: https://github.com/scala/scala/blob/e2bf3551286f729b4f2bec78b36e3f890fccfd80/README.md
+      version: e2bf3551286f729b4f2bec78b36e3f890fccfd80
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: d9687dd3d5159775cce8c742ba518294a69ad1316bcb8cc061816597103cfeb4
+  mediapath: /docs/scala__scala--purpose_statement_candidate--d9687dd3d515.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    scala/scala\",\n  \"text_sha256\": \"d9687dd3d5159775cce8c742ba518294a69ad1316bcb8cc061816597103cfeb4\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/07-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"d9687dd3d5159775cce8c742ba518294a69ad1316bcb8cc061816597103cfeb4\",\n    \
+    \  \"id\": \"07-purpose\",\n      \"url\": \"https://github.com/scala/scala/blob/e2bf3551286f729b4f2bec78b36e3f890fccfd80/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/scala/scala/e2bf3551286f729b4f2bec78b36e3f890fccfd80/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:20.598904+00:00\",\n      \"version\"\
+    : \"e2bf3551286f729b4f2bec78b36e3f890fccfd80\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/07-purpose.raw.md\"\
+    ,\n      \"sha256\": \"d9687dd3d5159775cce8c742ba518294a69ad1316bcb8cc061816597103cfeb4\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"d9687dd3d5159775cce8c742ba518294a69ad1316bcb8cc061816597103cfeb4\"\
+    ,\n    \"converted_sha256\": \"518ec66caf94b27d9c7f1e89fee966dab5c1efa52dc3035a8e8165af7dffe13b\"\
+    \n  }\n}"
+  name: scala__scala--purpose_statement_candidate--d9687dd3d515.md
+  owner: NicolasH
+  risid: null
+name: scala__scala--purpose_statement_candidate--d9687dd3d515.md
+path: corpus/qda-case-8/311.txt

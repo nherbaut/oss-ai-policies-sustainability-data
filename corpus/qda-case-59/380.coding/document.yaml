@@ -1,0 +1,58 @@
+hash: d02298b77d6748ca9d07269bc21ef129f57b5f7eccfcc7051fc60b4de2b78139
+id: qda-source-380@qda-case-59
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 59
+    date: '2026-11-05 22:19:55'
+    fid: 380
+    id: 380
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5863
+  content_sha256: d02298b77d6748ca9d07269bc21ef129f57b5f7eccfcc7051fc60b4de2b78139
+  date: '2026-11-05 22:19:55'
+  id: 380
+  import_metadata:
+    conversion:
+      converted_sha256: d02298b77d6748ca9d07269bc21ef129f57b5f7eccfcc7051fc60b4de2b78139
+      original_sha256: 14746d456f672bd3818bb51f2f2a8ddc294e451646aee7e6243312acd6d56e91
+      version: oss-ai-policies/clean-markdown-v1
+    entity: modelcontextprotocol/python-sdk
+    provenance:
+    - accessed_at: '2026-11-05T19:11:54.891887+00:00'
+      id: corpus-059-purpose
+      original_file_sha256: 14746d456f672bd3818bb51f2f2a8ddc294e451646aee7e6243312acd6d56e91
+      path: analysis/corpus-assessment/sources/corpus-059-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-059-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/modelcontextprotocol/python-sdk/2713b53b127afc094dc97d6067df9f69b647661c/README.md
+      role: purpose_statement_candidate
+      sha256: 14746d456f672bd3818bb51f2f2a8ddc294e451646aee7e6243312acd6d56e91
+      url: https://github.com/modelcontextprotocol/python-sdk/blob/2713b53b127afc094dc97d6067df9f69b647661c/README.md
+      version: 2713b53b127afc094dc97d6067df9f69b647661c
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 14746d456f672bd3818bb51f2f2a8ddc294e451646aee7e6243312acd6d56e91
+  mediapath: /docs/modelcontextprotocol__python-sdk--purpose_statement_candidate--14746d456f67.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    modelcontextprotocol/python-sdk\",\n  \"text_sha256\": \"14746d456f672bd3818bb51f2f2a8ddc294e451646aee7e6243312acd6d56e91\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-059-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"14746d456f672bd3818bb51f2f2a8ddc294e451646aee7e6243312acd6d56e91\",\n    \
+    \  \"id\": \"corpus-059-purpose\",\n      \"url\": \"https://github.com/modelcontextprotocol/python-sdk/blob/2713b53b127afc094dc97d6067df9f69b647661c/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/modelcontextprotocol/python-sdk/2713b53b127afc094dc97d6067df9f69b647661c/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:54.891887+00:00\",\n      \"version\"\
+    : \"2713b53b127afc094dc97d6067df9f69b647661c\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-059-purpose.raw.md\"\
+    ,\n      \"sha256\": \"14746d456f672bd3818bb51f2f2a8ddc294e451646aee7e6243312acd6d56e91\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"14746d456f672bd3818bb51f2f2a8ddc294e451646aee7e6243312acd6d56e91\"\
+    ,\n    \"converted_sha256\": \"d02298b77d6748ca9d07269bc21ef129f57b5f7eccfcc7051fc60b4de2b78139\"\
+    \n  }\n}"
+  name: modelcontextprotocol__python-sdk--purpose_statement_candidate--14746d456f67.md
+  owner: NicolasH
+  risid: null
+name: modelcontextprotocol__python-sdk--purpose_statement_candidate--14746d456f67.md
+path: corpus/qda-case-59/380.txt

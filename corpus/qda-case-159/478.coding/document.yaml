@@ -1,0 +1,58 @@
+hash: 302a7c2ecf939e5d99350730c0967354bc9baa4a9782d1d4657765638664335c
+id: qda-source-478@qda-case-159
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 159
+    date: '2026-11-05 22:19:55'
+    fid: 478
+    id: 478
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5263
+  content_sha256: 302a7c2ecf939e5d99350730c0967354bc9baa4a9782d1d4657765638664335c
+  date: '2026-11-05 22:19:55'
+  id: 478
+  import_metadata:
+    conversion:
+      converted_sha256: 302a7c2ecf939e5d99350730c0967354bc9baa4a9782d1d4657765638664335c
+      original_sha256: de36b442f04502189d1b8ff03c3e799e638eb2943ffe92aefbff5431c8426c92
+      version: oss-ai-policies/clean-markdown-v1
+    entity: vllm-project/vllm
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.731409+00:00'
+      id: corpus-159-purpose
+      original_file_sha256: de36b442f04502189d1b8ff03c3e799e638eb2943ffe92aefbff5431c8426c92
+      path: analysis/corpus-assessment/sources/corpus-159-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-159-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/vllm-project/vllm/2dab187f756f2c4549fd5e57019413f3415365a4/README.md
+      role: purpose_statement_candidate
+      sha256: de36b442f04502189d1b8ff03c3e799e638eb2943ffe92aefbff5431c8426c92
+      url: https://github.com/vllm-project/vllm/blob/2dab187f756f2c4549fd5e57019413f3415365a4/README.md
+      version: 2dab187f756f2c4549fd5e57019413f3415365a4
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: de36b442f04502189d1b8ff03c3e799e638eb2943ffe92aefbff5431c8426c92
+  mediapath: /docs/vllm-project__vllm--purpose_statement_candidate--de36b442f045.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    vllm-project/vllm\",\n  \"text_sha256\": \"de36b442f04502189d1b8ff03c3e799e638eb2943ffe92aefbff5431c8426c92\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-159-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"de36b442f04502189d1b8ff03c3e799e638eb2943ffe92aefbff5431c8426c92\",\n    \
+    \  \"id\": \"corpus-159-purpose\",\n      \"url\": \"https://github.com/vllm-project/vllm/blob/2dab187f756f2c4549fd5e57019413f3415365a4/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/vllm-project/vllm/2dab187f756f2c4549fd5e57019413f3415365a4/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.731409+00:00\",\n      \"version\"\
+    : \"2dab187f756f2c4549fd5e57019413f3415365a4\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-159-purpose.raw.md\"\
+    ,\n      \"sha256\": \"de36b442f04502189d1b8ff03c3e799e638eb2943ffe92aefbff5431c8426c92\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"de36b442f04502189d1b8ff03c3e799e638eb2943ffe92aefbff5431c8426c92\"\
+    ,\n    \"converted_sha256\": \"302a7c2ecf939e5d99350730c0967354bc9baa4a9782d1d4657765638664335c\"\
+    \n  }\n}"
+  name: vllm-project__vllm--purpose_statement_candidate--de36b442f045.md
+  owner: NicolasH
+  risid: null
+name: vllm-project__vllm--purpose_statement_candidate--de36b442f045.md
+path: corpus/qda-case-159/478.txt

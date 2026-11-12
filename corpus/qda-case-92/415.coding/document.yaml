@@ -1,0 +1,58 @@
+hash: 26a7bed6463eaba0ac74f8f920f0662fecdf30edac093aa64f94837467e3ce70
+id: qda-source-415@qda-case-92
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 92
+    date: '2026-11-05 22:19:55'
+    fid: 415
+    id: 415
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 8458
+  content_sha256: 26a7bed6463eaba0ac74f8f920f0662fecdf30edac093aa64f94837467e3ce70
+  date: '2026-11-05 22:19:55'
+  id: 415
+  import_metadata:
+    conversion:
+      converted_sha256: 26a7bed6463eaba0ac74f8f920f0662fecdf30edac093aa64f94837467e3ce70
+      original_sha256: 759214de6b66c50dad9a571c513f08fa2bc926d9ecebb08ef1a2956f8ce5967b
+      version: oss-ai-policies/clean-markdown-v1
+    entity: gfx-rs/wgpu
+    provenance:
+    - accessed_at: '2026-11-05T19:11:57.688058+00:00'
+      id: corpus-092-purpose
+      original_file_sha256: 759214de6b66c50dad9a571c513f08fa2bc926d9ecebb08ef1a2956f8ce5967b
+      path: analysis/corpus-assessment/sources/corpus-092-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-092-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/gfx-rs/wgpu/4e58833072840a236becf1b199cd05d81f139ef6/README.md
+      role: purpose_statement_candidate
+      sha256: 759214de6b66c50dad9a571c513f08fa2bc926d9ecebb08ef1a2956f8ce5967b
+      url: https://github.com/gfx-rs/wgpu/blob/4e58833072840a236becf1b199cd05d81f139ef6/README.md
+      version: 4e58833072840a236becf1b199cd05d81f139ef6
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 759214de6b66c50dad9a571c513f08fa2bc926d9ecebb08ef1a2956f8ce5967b
+  mediapath: /docs/gfx-rs__wgpu--purpose_statement_candidate--759214de6b66.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    gfx-rs/wgpu\",\n  \"text_sha256\": \"759214de6b66c50dad9a571c513f08fa2bc926d9ecebb08ef1a2956f8ce5967b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-092-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"759214de6b66c50dad9a571c513f08fa2bc926d9ecebb08ef1a2956f8ce5967b\",\n    \
+    \  \"id\": \"corpus-092-purpose\",\n      \"url\": \"https://github.com/gfx-rs/wgpu/blob/4e58833072840a236becf1b199cd05d81f139ef6/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/gfx-rs/wgpu/4e58833072840a236becf1b199cd05d81f139ef6/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:57.688058+00:00\",\n      \"version\"\
+    : \"4e58833072840a236becf1b199cd05d81f139ef6\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-092-purpose.raw.md\"\
+    ,\n      \"sha256\": \"759214de6b66c50dad9a571c513f08fa2bc926d9ecebb08ef1a2956f8ce5967b\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"759214de6b66c50dad9a571c513f08fa2bc926d9ecebb08ef1a2956f8ce5967b\"\
+    ,\n    \"converted_sha256\": \"26a7bed6463eaba0ac74f8f920f0662fecdf30edac093aa64f94837467e3ce70\"\
+    \n  }\n}"
+  name: gfx-rs__wgpu--purpose_statement_candidate--759214de6b66.md
+  owner: NicolasH
+  risid: null
+name: gfx-rs__wgpu--purpose_statement_candidate--759214de6b66.md
+path: corpus/qda-case-92/415.txt

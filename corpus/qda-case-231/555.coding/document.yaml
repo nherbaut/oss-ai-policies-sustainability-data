@@ -1,0 +1,58 @@
+hash: ef4a07ebe9612b6637206ff51441f1dc472a5acce9964a26b110d01948b4a4b2
+id: qda-source-555@qda-case-231
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 231
+    date: '2026-11-05 22:19:55'
+    fid: 555
+    id: 555
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 14142
+  content_sha256: ef4a07ebe9612b6637206ff51441f1dc472a5acce9964a26b110d01948b4a4b2
+  date: '2026-11-05 22:19:55'
+  id: 555
+  import_metadata:
+    conversion:
+      converted_sha256: ef4a07ebe9612b6637206ff51441f1dc472a5acce9964a26b110d01948b4a4b2
+      original_sha256: e97ed79e2fa7797160ad6bb29eeb487b79eb0e39be65b7049040d9042d99c228
+      version: oss-ai-policies/clean-markdown-v1
+    entity: photoprism/photoprism
+    provenance:
+    - accessed_at: '2026-11-05T19:12:13.225231+00:00'
+      id: corpus-231-purpose
+      original_file_sha256: e97ed79e2fa7797160ad6bb29eeb487b79eb0e39be65b7049040d9042d99c228
+      path: analysis/corpus-assessment/sources/corpus-231-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-231-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/photoprism/photoprism/017e24927ea77aeabdb79f86a9da6a8ca91d790d/README.md
+      role: purpose_statement_candidate
+      sha256: e97ed79e2fa7797160ad6bb29eeb487b79eb0e39be65b7049040d9042d99c228
+      url: https://github.com/photoprism/photoprism/blob/017e24927ea77aeabdb79f86a9da6a8ca91d790d/README.md
+      version: 017e24927ea77aeabdb79f86a9da6a8ca91d790d
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e97ed79e2fa7797160ad6bb29eeb487b79eb0e39be65b7049040d9042d99c228
+  mediapath: /docs/photoprism__photoprism--purpose_statement_candidate--e97ed79e2fa7.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    photoprism/photoprism\",\n  \"text_sha256\": \"e97ed79e2fa7797160ad6bb29eeb487b79eb0e39be65b7049040d9042d99c228\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-231-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e97ed79e2fa7797160ad6bb29eeb487b79eb0e39be65b7049040d9042d99c228\",\n    \
+    \  \"id\": \"corpus-231-purpose\",\n      \"url\": \"https://github.com/photoprism/photoprism/blob/017e24927ea77aeabdb79f86a9da6a8ca91d790d/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/photoprism/photoprism/017e24927ea77aeabdb79f86a9da6a8ca91d790d/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:13.225231+00:00\",\n      \"version\"\
+    : \"017e24927ea77aeabdb79f86a9da6a8ca91d790d\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-231-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e97ed79e2fa7797160ad6bb29eeb487b79eb0e39be65b7049040d9042d99c228\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e97ed79e2fa7797160ad6bb29eeb487b79eb0e39be65b7049040d9042d99c228\"\
+    ,\n    \"converted_sha256\": \"ef4a07ebe9612b6637206ff51441f1dc472a5acce9964a26b110d01948b4a4b2\"\
+    \n  }\n}"
+  name: photoprism__photoprism--purpose_statement_candidate--e97ed79e2fa7.md
+  owner: NicolasH
+  risid: null
+name: photoprism__photoprism--purpose_statement_candidate--e97ed79e2fa7.md
+path: corpus/qda-case-231/555.txt

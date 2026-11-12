@@ -1,0 +1,58 @@
+hash: 0914f250c94f1961ecb49bdc2ceecb5300b224b8f2d191decd038ce18ac7a5fb
+id: qda-source-381@qda-case-60
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 60
+    date: '2026-11-05 22:19:55'
+    fid: 381
+    id: 381
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4506
+  content_sha256: 0914f250c94f1961ecb49bdc2ceecb5300b224b8f2d191decd038ce18ac7a5fb
+  date: '2026-11-05 22:19:55'
+  id: 381
+  import_metadata:
+    conversion:
+      converted_sha256: 0914f250c94f1961ecb49bdc2ceecb5300b224b8f2d191decd038ce18ac7a5fb
+      original_sha256: 0c3066c03940abd496276ccd89624753f4bf96207451da7016ee201c1de21c5b
+      version: oss-ai-policies/clean-markdown-v1
+    entity: wg-easy/wg-easy
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.088775+00:00'
+      id: corpus-060-purpose
+      original_file_sha256: 0c3066c03940abd496276ccd89624753f4bf96207451da7016ee201c1de21c5b
+      path: analysis/corpus-assessment/sources/corpus-060-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-060-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/wg-easy/wg-easy/78b283849895b35ad45c6f83fa01228c0f1a6774/README.md
+      role: purpose_statement_candidate
+      sha256: 0c3066c03940abd496276ccd89624753f4bf96207451da7016ee201c1de21c5b
+      url: https://github.com/wg-easy/wg-easy/blob/78b283849895b35ad45c6f83fa01228c0f1a6774/README.md
+      version: 78b283849895b35ad45c6f83fa01228c0f1a6774
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 0c3066c03940abd496276ccd89624753f4bf96207451da7016ee201c1de21c5b
+  mediapath: /docs/wg-easy__wg-easy--purpose_statement_candidate--0c3066c03940.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    wg-easy/wg-easy\",\n  \"text_sha256\": \"0c3066c03940abd496276ccd89624753f4bf96207451da7016ee201c1de21c5b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-060-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0c3066c03940abd496276ccd89624753f4bf96207451da7016ee201c1de21c5b\",\n    \
+    \  \"id\": \"corpus-060-purpose\",\n      \"url\": \"https://github.com/wg-easy/wg-easy/blob/78b283849895b35ad45c6f83fa01228c0f1a6774/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/wg-easy/wg-easy/78b283849895b35ad45c6f83fa01228c0f1a6774/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:55.088775+00:00\",\n      \"version\"\
+    : \"78b283849895b35ad45c6f83fa01228c0f1a6774\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-060-purpose.raw.md\"\
+    ,\n      \"sha256\": \"0c3066c03940abd496276ccd89624753f4bf96207451da7016ee201c1de21c5b\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"0c3066c03940abd496276ccd89624753f4bf96207451da7016ee201c1de21c5b\"\
+    ,\n    \"converted_sha256\": \"0914f250c94f1961ecb49bdc2ceecb5300b224b8f2d191decd038ce18ac7a5fb\"\
+    \n  }\n}"
+  name: wg-easy__wg-easy--purpose_statement_candidate--0c3066c03940.md
+  owner: NicolasH
+  risid: null
+name: wg-easy__wg-easy--purpose_statement_candidate--0c3066c03940.md
+path: corpus/qda-case-60/381.txt

@@ -1,0 +1,43 @@
+hash: 28f4ad9570537b854856907c629642236bd3ce0530a81e1cef0ccb2692bed62e
+id: qda-source-227@qda-case-205
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 205
+    date: '2026-11-05 22:19:55'
+    fid: 227
+    id: 226
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 599
+  content_sha256: 28f4ad9570537b854856907c629642236bd3ce0530a81e1cef0ccb2692bed62e
+  date: '2026-11-05 22:19:55'
+  id: 227
+  import_metadata:
+    entity: lint-staged/lint-staged
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 28f4ad9570537b854856907c629642236bd3ce0530a81e1cef0ccb2692bed62e
+      path: data/281/policies/lint-staged/lint-staged/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/lint-staged/lint-staged/blob/8289e6031230f46aa228f2d2d650aff0b98131bf/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 28f4ad9570537b854856907c629642236bd3ce0530a81e1cef0ccb2692bed62e
+  mediapath: /docs/lint-staged__lint-staged--contributing--28f4ad957053.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    lint-staged/lint-staged\",\n  \"text_sha256\": \"28f4ad9570537b854856907c629642236bd3ce0530a81e1cef0ccb2692bed62e\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/lint-staged/lint-staged/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"28f4ad9570537b854856907c629642236bd3ce0530a81e1cef0ccb2692bed62e\"\
+    ,\n      \"source_url_cell\": \"https://github.com/lint-staged/lint-staged/blob/8289e6031230f46aa228f2d2d650aff0b98131bf/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: lint-staged__lint-staged--contributing--28f4ad957053.md
+  owner: NicolasH
+  risid: null
+name: lint-staged__lint-staged--contributing--28f4ad957053.md
+path: corpus/qda-case-205/227.txt

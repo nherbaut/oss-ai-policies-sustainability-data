@@ -1,0 +1,58 @@
+hash: 43a7538f4945eec966e2abc645c1b23536c8cb9a43acd9f272ed289c90145b15
+id: qda-source-571@qda-case-249
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 249
+    date: '2026-11-05 22:19:55'
+    fid: 571
+    id: 571
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 47265
+  content_sha256: 43a7538f4945eec966e2abc645c1b23536c8cb9a43acd9f272ed289c90145b15
+  date: '2026-11-05 22:19:55'
+  id: 571
+  import_metadata:
+    conversion:
+      converted_sha256: 43a7538f4945eec966e2abc645c1b23536c8cb9a43acd9f272ed289c90145b15
+      original_sha256: 3a2d0d319b60da974575496c3c7c196689c2d89efe2cd39fade268b195370e64
+      version: oss-ai-policies/clean-markdown-v1
+    entity: github/awesome-copilot
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.672489+00:00'
+      id: corpus-249-purpose
+      original_file_sha256: 3a2d0d319b60da974575496c3c7c196689c2d89efe2cd39fade268b195370e64
+      path: analysis/corpus-assessment/sources/corpus-249-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-249-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/github/awesome-copilot/e4a1f57fd9d8c22d2a345d498fe6fde306c6456e/README.md
+      role: purpose_statement_candidate
+      sha256: 3a2d0d319b60da974575496c3c7c196689c2d89efe2cd39fade268b195370e64
+      url: https://github.com/github/awesome-copilot/blob/e4a1f57fd9d8c22d2a345d498fe6fde306c6456e/README.md
+      version: e4a1f57fd9d8c22d2a345d498fe6fde306c6456e
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 3a2d0d319b60da974575496c3c7c196689c2d89efe2cd39fade268b195370e64
+  mediapath: /docs/github__awesome-copilot--purpose_statement_candidate--3a2d0d319b60.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    github/awesome-copilot\",\n  \"text_sha256\": \"3a2d0d319b60da974575496c3c7c196689c2d89efe2cd39fade268b195370e64\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-249-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"3a2d0d319b60da974575496c3c7c196689c2d89efe2cd39fade268b195370e64\",\n    \
+    \  \"id\": \"corpus-249-purpose\",\n      \"url\": \"https://github.com/github/awesome-copilot/blob/e4a1f57fd9d8c22d2a345d498fe6fde306c6456e/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/github/awesome-copilot/e4a1f57fd9d8c22d2a345d498fe6fde306c6456e/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.672489+00:00\",\n      \"version\"\
+    : \"e4a1f57fd9d8c22d2a345d498fe6fde306c6456e\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-249-purpose.raw.md\"\
+    ,\n      \"sha256\": \"3a2d0d319b60da974575496c3c7c196689c2d89efe2cd39fade268b195370e64\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"3a2d0d319b60da974575496c3c7c196689c2d89efe2cd39fade268b195370e64\"\
+    ,\n    \"converted_sha256\": \"43a7538f4945eec966e2abc645c1b23536c8cb9a43acd9f272ed289c90145b15\"\
+    \n  }\n}"
+  name: github__awesome-copilot--purpose_statement_candidate--3a2d0d319b60.md
+  owner: NicolasH
+  risid: null
+name: github__awesome-copilot--purpose_statement_candidate--3a2d0d319b60.md
+path: corpus/qda-case-249/571.txt

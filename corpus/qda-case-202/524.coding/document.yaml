@@ -1,0 +1,58 @@
+hash: 21a7874aec91c089782ba032d321b9ed3f6138458e2651989833bd1be43f3e78
+id: qda-source-524@qda-case-202
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 202
+    date: '2026-11-05 22:19:55'
+    fid: 524
+    id: 524
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5893
+  content_sha256: 21a7874aec91c089782ba032d321b9ed3f6138458e2651989833bd1be43f3e78
+  date: '2026-11-05 22:19:55'
+  id: 524
+  import_metadata:
+    conversion:
+      converted_sha256: 21a7874aec91c089782ba032d321b9ed3f6138458e2651989833bd1be43f3e78
+      original_sha256: 52f24855e84d34624dcb41c531a9970d87560eb8ad739942507f4d46d42f5ccc
+      version: oss-ai-policies/clean-markdown-v1
+    entity: pocketbase/pocketbase
+    provenance:
+    - accessed_at: '2026-11-05T19:12:09.325443+00:00'
+      id: corpus-202-purpose
+      original_file_sha256: 52f24855e84d34624dcb41c531a9970d87560eb8ad739942507f4d46d42f5ccc
+      path: analysis/corpus-assessment/sources/corpus-202-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-202-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/pocketbase/pocketbase/089ca8ae412a1dbe29d2ae90d74f3866429d9c52/README.md
+      role: purpose_statement_candidate
+      sha256: 52f24855e84d34624dcb41c531a9970d87560eb8ad739942507f4d46d42f5ccc
+      url: https://github.com/pocketbase/pocketbase/blob/089ca8ae412a1dbe29d2ae90d74f3866429d9c52/README.md
+      version: 089ca8ae412a1dbe29d2ae90d74f3866429d9c52
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 52f24855e84d34624dcb41c531a9970d87560eb8ad739942507f4d46d42f5ccc
+  mediapath: /docs/pocketbase__pocketbase--purpose_statement_candidate--52f24855e84d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    pocketbase/pocketbase\",\n  \"text_sha256\": \"52f24855e84d34624dcb41c531a9970d87560eb8ad739942507f4d46d42f5ccc\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-202-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"52f24855e84d34624dcb41c531a9970d87560eb8ad739942507f4d46d42f5ccc\",\n    \
+    \  \"id\": \"corpus-202-purpose\",\n      \"url\": \"https://github.com/pocketbase/pocketbase/blob/089ca8ae412a1dbe29d2ae90d74f3866429d9c52/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/pocketbase/pocketbase/089ca8ae412a1dbe29d2ae90d74f3866429d9c52/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:09.325443+00:00\",\n      \"version\"\
+    : \"089ca8ae412a1dbe29d2ae90d74f3866429d9c52\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-202-purpose.raw.md\"\
+    ,\n      \"sha256\": \"52f24855e84d34624dcb41c531a9970d87560eb8ad739942507f4d46d42f5ccc\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"52f24855e84d34624dcb41c531a9970d87560eb8ad739942507f4d46d42f5ccc\"\
+    ,\n    \"converted_sha256\": \"21a7874aec91c089782ba032d321b9ed3f6138458e2651989833bd1be43f3e78\"\
+    \n  }\n}"
+  name: pocketbase__pocketbase--purpose_statement_candidate--52f24855e84d.md
+  owner: NicolasH
+  risid: null
+name: pocketbase__pocketbase--purpose_statement_candidate--52f24855e84d.md
+path: corpus/qda-case-202/524.txt

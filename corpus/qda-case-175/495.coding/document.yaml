@@ -1,0 +1,58 @@
+hash: b2b88c6b7cc1aaf2f6366f528d2e27f59421474cf0b2763de0ddc13642187a00
+id: qda-source-495@qda-case-175
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 175
+    date: '2026-11-05 22:19:55'
+    fid: 495
+    id: 495
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 7537
+  content_sha256: b2b88c6b7cc1aaf2f6366f528d2e27f59421474cf0b2763de0ddc13642187a00
+  date: '2026-11-05 22:19:55'
+  id: 495
+  import_metadata:
+    conversion:
+      converted_sha256: b2b88c6b7cc1aaf2f6366f528d2e27f59421474cf0b2763de0ddc13642187a00
+      original_sha256: b4852e4e1e96a16d5390a2d76ff8648d98884c73f669cf1ae3549aee3b3a3483
+      version: oss-ai-policies/clean-markdown-v1
+    entity: gradle/gradle
+    provenance:
+    - accessed_at: '2026-11-05T19:12:05.923231+00:00'
+      id: corpus-175-purpose
+      original_file_sha256: b4852e4e1e96a16d5390a2d76ff8648d98884c73f669cf1ae3549aee3b3a3483
+      path: analysis/corpus-assessment/sources/corpus-175-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-175-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/gradle/gradle/e2d9eb0ed14d7e13990cfb2aae2254fed2389eae/README.md
+      role: purpose_statement_candidate
+      sha256: b4852e4e1e96a16d5390a2d76ff8648d98884c73f669cf1ae3549aee3b3a3483
+      url: https://github.com/gradle/gradle/blob/e2d9eb0ed14d7e13990cfb2aae2254fed2389eae/README.md
+      version: e2d9eb0ed14d7e13990cfb2aae2254fed2389eae
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b4852e4e1e96a16d5390a2d76ff8648d98884c73f669cf1ae3549aee3b3a3483
+  mediapath: /docs/gradle__gradle--purpose_statement_candidate--b4852e4e1e96.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    gradle/gradle\",\n  \"text_sha256\": \"b4852e4e1e96a16d5390a2d76ff8648d98884c73f669cf1ae3549aee3b3a3483\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-175-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b4852e4e1e96a16d5390a2d76ff8648d98884c73f669cf1ae3549aee3b3a3483\",\n    \
+    \  \"id\": \"corpus-175-purpose\",\n      \"url\": \"https://github.com/gradle/gradle/blob/e2d9eb0ed14d7e13990cfb2aae2254fed2389eae/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/gradle/gradle/e2d9eb0ed14d7e13990cfb2aae2254fed2389eae/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:05.923231+00:00\",\n      \"version\"\
+    : \"e2d9eb0ed14d7e13990cfb2aae2254fed2389eae\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-175-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b4852e4e1e96a16d5390a2d76ff8648d98884c73f669cf1ae3549aee3b3a3483\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b4852e4e1e96a16d5390a2d76ff8648d98884c73f669cf1ae3549aee3b3a3483\"\
+    ,\n    \"converted_sha256\": \"b2b88c6b7cc1aaf2f6366f528d2e27f59421474cf0b2763de0ddc13642187a00\"\
+    \n  }\n}"
+  name: gradle__gradle--purpose_statement_candidate--b4852e4e1e96.md
+  owner: NicolasH
+  risid: null
+name: gradle__gradle--purpose_statement_candidate--b4852e4e1e96.md
+path: corpus/qda-case-175/495.txt

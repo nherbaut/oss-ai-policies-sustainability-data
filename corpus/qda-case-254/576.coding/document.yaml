@@ -1,0 +1,58 @@
+hash: 733ab4774a5b6f615f76b09aa53a476004347f822fe89ed9878d2feac5c614b1
+id: qda-source-576@qda-case-254
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 254
+    date: '2026-11-05 22:19:55'
+    fid: 576
+    id: 576
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6154
+  content_sha256: 733ab4774a5b6f615f76b09aa53a476004347f822fe89ed9878d2feac5c614b1
+  date: '2026-11-05 22:19:55'
+  id: 576
+  import_metadata:
+    conversion:
+      converted_sha256: 733ab4774a5b6f615f76b09aa53a476004347f822fe89ed9878d2feac5c614b1
+      original_sha256: 8db249c3e25502b900b3f2470711f941f4789486dfaebd9c53bb3aeedcba2778
+      version: oss-ai-policies/clean-markdown-v1
+    entity: PostgREST/postgrest
+    provenance:
+    - accessed_at: '2026-11-05T19:12:14.869260+00:00'
+      id: corpus-254-purpose
+      original_file_sha256: 8db249c3e25502b900b3f2470711f941f4789486dfaebd9c53bb3aeedcba2778
+      path: analysis/corpus-assessment/sources/corpus-254-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-254-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/PostgREST/postgrest/c297d051dcce428a8e2ea8c8b44886c9a7893a93/README.md
+      role: purpose_statement_candidate
+      sha256: 8db249c3e25502b900b3f2470711f941f4789486dfaebd9c53bb3aeedcba2778
+      url: https://github.com/PostgREST/postgrest/blob/c297d051dcce428a8e2ea8c8b44886c9a7893a93/README.md
+      version: c297d051dcce428a8e2ea8c8b44886c9a7893a93
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 8db249c3e25502b900b3f2470711f941f4789486dfaebd9c53bb3aeedcba2778
+  mediapath: /docs/PostgREST__postgrest--purpose_statement_candidate--8db249c3e255.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    PostgREST/postgrest\",\n  \"text_sha256\": \"8db249c3e25502b900b3f2470711f941f4789486dfaebd9c53bb3aeedcba2778\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-254-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"8db249c3e25502b900b3f2470711f941f4789486dfaebd9c53bb3aeedcba2778\",\n    \
+    \  \"id\": \"corpus-254-purpose\",\n      \"url\": \"https://github.com/PostgREST/postgrest/blob/c297d051dcce428a8e2ea8c8b44886c9a7893a93/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/PostgREST/postgrest/c297d051dcce428a8e2ea8c8b44886c9a7893a93/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:14.869260+00:00\",\n      \"version\"\
+    : \"c297d051dcce428a8e2ea8c8b44886c9a7893a93\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-254-purpose.raw.md\"\
+    ,\n      \"sha256\": \"8db249c3e25502b900b3f2470711f941f4789486dfaebd9c53bb3aeedcba2778\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"8db249c3e25502b900b3f2470711f941f4789486dfaebd9c53bb3aeedcba2778\"\
+    ,\n    \"converted_sha256\": \"733ab4774a5b6f615f76b09aa53a476004347f822fe89ed9878d2feac5c614b1\"\
+    \n  }\n}"
+  name: PostgREST__postgrest--purpose_statement_candidate--8db249c3e255.md
+  owner: NicolasH
+  risid: null
+name: PostgREST__postgrest--purpose_statement_candidate--8db249c3e255.md
+path: corpus/qda-case-254/576.txt

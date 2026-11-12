@@ -1,0 +1,51 @@
+hash: 16b25cad4bccae5ae78af00179c978753a7a54df5f45592f7d262d64568e9e98
+id: qda-source-527@qda-case-204
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 204
+    date: '2026-11-05 22:19:55'
+    fid: 527
+    id: 527
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1329
+  content_sha256: 16b25cad4bccae5ae78af00179c978753a7a54df5f45592f7d262d64568e9e98
+  date: '2026-11-05 22:19:55'
+  id: 527
+  import_metadata:
+    entity: budibase/budibase
+    provenance:
+    - accessed_at: '2026-11-05T19:12:09.634236+00:00'
+      id: corpus-204-other_policy-2
+      original_file_sha256: 16b25cad4bccae5ae78af00179c978753a7a54df5f45592f7d262d64568e9e98
+      path: analysis/corpus-assessment/sources/corpus-204-other_policy-2.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-204-other_policy-2.raw.md
+      resolved_url: https://raw.githubusercontent.com/mitchellh/vouch/main/CONTRIBUTING.md
+      role: supplementary_policy
+      sha256: 16b25cad4bccae5ae78af00179c978753a7a54df5f45592f7d262d64568e9e98
+      url: https://github.com/mitchellh/vouch/blob/main/CONTRIBUTING.md
+      version: main
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 16b25cad4bccae5ae78af00179c978753a7a54df5f45592f7d262d64568e9e98
+  mediapath: /docs/budibase__budibase--supplementary_policy--16b25cad4bcc.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    budibase/budibase\",\n  \"text_sha256\": \"16b25cad4bccae5ae78af00179c978753a7a54df5f45592f7d262d64568e9e98\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-204-other_policy-2.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"16b25cad4bccae5ae78af00179c978753a7a54df5f45592f7d262d64568e9e98\",\n    \
+    \  \"id\": \"corpus-204-other_policy-2\",\n      \"url\": \"https://github.com/mitchellh/vouch/blob/main/CONTRIBUTING.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/mitchellh/vouch/main/CONTRIBUTING.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:09.634236+00:00\",\n      \"version\"\
+    : \"main\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-204-other_policy-2.raw.md\"\
+    ,\n      \"sha256\": \"16b25cad4bccae5ae78af00179c978753a7a54df5f45592f7d262d64568e9e98\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: budibase__budibase--supplementary_policy--16b25cad4bcc.md
+  owner: NicolasH
+  risid: null
+name: budibase__budibase--supplementary_policy--16b25cad4bcc.md
+path: corpus/qda-case-204/527.txt

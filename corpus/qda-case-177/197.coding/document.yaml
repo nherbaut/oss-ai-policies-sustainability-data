@@ -1,0 +1,43 @@
+hash: bc0c7de190a17e8b7467b71328693fe295cba1a8b768560acd92b8cd2ba6b482
+id: qda-source-197@qda-case-177
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 177
+    date: '2026-11-05 22:19:55'
+    fid: 197
+    id: 196
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 4886
+  content_sha256: bc0c7de190a17e8b7467b71328693fe295cba1a8b768560acd92b8cd2ba6b482
+  date: '2026-11-05 22:19:55'
+  id: 197
+  import_metadata:
+    entity: rustpython/rustpython
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: bc0c7de190a17e8b7467b71328693fe295cba1a8b768560acd92b8cd2ba6b482
+      path: data/281/policies/rustpython/rustpython/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://github.com/RustPython/.github/blob/main/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: bc0c7de190a17e8b7467b71328693fe295cba1a8b768560acd92b8cd2ba6b482
+  mediapath: /docs/rustpython__rustpython--other_policy--bc0c7de190a1.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rustpython/rustpython\",\n  \"text_sha256\": \"bc0c7de190a17e8b7467b71328693fe295cba1a8b768560acd92b8cd2ba6b482\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/rustpython/rustpython/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"bc0c7de190a17e8b7467b71328693fe295cba1a8b768560acd92b8cd2ba6b482\"\
+    ,\n      \"source_url_cell\": \"https://github.com/RustPython/.github/blob/main/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: rustpython__rustpython--other_policy--bc0c7de190a1.md
+  owner: NicolasH
+  risid: null
+name: rustpython__rustpython--other_policy--bc0c7de190a1.md
+path: corpus/qda-case-177/197.txt

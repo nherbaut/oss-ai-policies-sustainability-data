@@ -1,0 +1,43 @@
+hash: a8efe454b62ecc644e85f850044a616e308fce612d69b5edda8211ba213c0a94
+id: qda-source-53@qda-case-44
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 44
+    date: '2026-11-05 22:19:55'
+    fid: 53
+    id: 52
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2888
+  content_sha256: a8efe454b62ecc644e85f850044a616e308fce612d69b5edda8211ba213c0a94
+  date: '2026-11-05 22:19:55'
+  id: 53
+  import_metadata:
+    entity: webpack/webpack
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: a8efe454b62ecc644e85f850044a616e308fce612d69b5edda8211ba213c0a94
+      path: data/281/policies/webpack/webpack/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://github.com/webpack/governance/blob/main/AI_POLICY.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: a8efe454b62ecc644e85f850044a616e308fce612d69b5edda8211ba213c0a94
+  mediapath: /docs/webpack__webpack--other_policy--a8efe454b62e.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    webpack/webpack\",\n  \"text_sha256\": \"a8efe454b62ecc644e85f850044a616e308fce612d69b5edda8211ba213c0a94\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/webpack/webpack/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"a8efe454b62ecc644e85f850044a616e308fce612d69b5edda8211ba213c0a94\"\
+    ,\n      \"source_url_cell\": \"https://github.com/webpack/governance/blob/main/AI_POLICY.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: webpack__webpack--other_policy--a8efe454b62e.md
+  owner: NicolasH
+  risid: null
+name: webpack__webpack--other_policy--a8efe454b62e.md
+path: corpus/qda-case-44/53.txt

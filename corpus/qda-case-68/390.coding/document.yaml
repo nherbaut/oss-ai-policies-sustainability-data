@@ -1,0 +1,57 @@
+hash: 0920788b56d32999b5ed65b5115ecb371cffba2bffb819fad7cadbb2e161dafe
+id: qda-source-390@qda-case-68
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 68
+    date: '2026-11-05 22:19:55'
+    fid: 390
+    id: 390
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12811
+  content_sha256: 0920788b56d32999b5ed65b5115ecb371cffba2bffb819fad7cadbb2e161dafe
+  date: '2026-11-05 22:19:55'
+  id: 390
+  import_metadata:
+    conversion:
+      converted_sha256: 0920788b56d32999b5ed65b5115ecb371cffba2bffb819fad7cadbb2e161dafe
+      original_sha256: b100eaf8925c957760417a729b8fc28498926c6d0c75811961aa60ee2c1bd310
+      version: oss-ai-policies/clean-markdown-v1
+    entity: LLVM
+    provenance:
+    - accessed_at: '2026-11-05T19:11:55.676572+00:00'
+      id: corpus-068-purpose
+      original_file_sha256: b100eaf8925c957760417a729b8fc28498926c6d0c75811961aa60ee2c1bd310
+      path: analysis/corpus-assessment/sources/corpus-068-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-068-purpose.html
+      resolved_url: https://llvm.org/
+      role: purpose_statement_candidate
+      sha256: 2c967581aa10571a1dba9a6e1314acfff704db53535cdd1ca20804702136581c
+      url: https://llvm.org/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b100eaf8925c957760417a729b8fc28498926c6d0c75811961aa60ee2c1bd310
+  mediapath: /docs/LLVM--purpose_statement_candidate--b100eaf8925c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    LLVM\",\n  \"text_sha256\": \"b100eaf8925c957760417a729b8fc28498926c6d0c75811961aa60ee2c1bd310\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-068-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b100eaf8925c957760417a729b8fc28498926c6d0c75811961aa60ee2c1bd310\",\n    \
+    \  \"id\": \"corpus-068-purpose\",\n      \"url\": \"https://llvm.org/\",\n  \
+    \    \"resolved_url\": \"https://llvm.org/\",\n      \"accessed_at\": \"2026-11-05T19:11:55.676572+00:00\"\
+    ,\n      \"version\": null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-068-purpose.html\"\
+    ,\n      \"sha256\": \"2c967581aa10571a1dba9a6e1314acfff704db53535cdd1ca20804702136581c\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b100eaf8925c957760417a729b8fc28498926c6d0c75811961aa60ee2c1bd310\"\
+    ,\n    \"converted_sha256\": \"0920788b56d32999b5ed65b5115ecb371cffba2bffb819fad7cadbb2e161dafe\"\
+    \n  }\n}"
+  name: LLVM--purpose_statement_candidate--b100eaf8925c.md
+  owner: NicolasH
+  risid: null
+name: LLVM--purpose_statement_candidate--b100eaf8925c.md
+path: corpus/qda-case-68/390.txt

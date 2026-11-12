@@ -1,0 +1,58 @@
+hash: 167a22bf3840a988149f99f8172d12f5ecf0feedb817b71d3c708e40773abc4b
+id: qda-source-525@qda-case-203
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 203
+    date: '2026-11-05 22:19:55'
+    fid: 525
+    id: 525
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 6177
+  content_sha256: 167a22bf3840a988149f99f8172d12f5ecf0feedb817b71d3c708e40773abc4b
+  date: '2026-11-05 22:19:55'
+  id: 525
+  import_metadata:
+    conversion:
+      converted_sha256: 167a22bf3840a988149f99f8172d12f5ecf0feedb817b71d3c708e40773abc4b
+      original_sha256: a73032206a512795b5fea142f3fb330c5d9fde5379610e94c874bc3e56e45519
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Gentoo
+    provenance:
+    - accessed_at: '2026-11-05T19:12:09.395086+00:00'
+      id: corpus-203-purpose
+      original_file_sha256: a73032206a512795b5fea142f3fb330c5d9fde5379610e94c874bc3e56e45519
+      path: analysis/corpus-assessment/sources/corpus-203-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-203-purpose.html
+      resolved_url: https://www.gentoo.org/get-started/about/
+      role: purpose_statement_candidate
+      sha256: 558b7ba78815d22141ae4612fde4602fda673276ba45e5b8834a579cc970b5fc
+      url: https://www.gentoo.org/get-started/about/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: a73032206a512795b5fea142f3fb330c5d9fde5379610e94c874bc3e56e45519
+  mediapath: /docs/Gentoo--purpose_statement_candidate--a73032206a51.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Gentoo\",\n  \"text_sha256\": \"a73032206a512795b5fea142f3fb330c5d9fde5379610e94c874bc3e56e45519\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-203-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"a73032206a512795b5fea142f3fb330c5d9fde5379610e94c874bc3e56e45519\",\n    \
+    \  \"id\": \"corpus-203-purpose\",\n      \"url\": \"https://www.gentoo.org/get-started/about/\"\
+    ,\n      \"resolved_url\": \"https://www.gentoo.org/get-started/about/\",\n  \
+    \    \"accessed_at\": \"2026-11-05T19:12:09.395086+00:00\",\n      \"version\"\
+    : null,\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-203-purpose.html\"\
+    ,\n      \"sha256\": \"558b7ba78815d22141ae4612fde4602fda673276ba45e5b8834a579cc970b5fc\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"a73032206a512795b5fea142f3fb330c5d9fde5379610e94c874bc3e56e45519\"\
+    ,\n    \"converted_sha256\": \"167a22bf3840a988149f99f8172d12f5ecf0feedb817b71d3c708e40773abc4b\"\
+    \n  }\n}"
+  name: Gentoo--purpose_statement_candidate--a73032206a51.md
+  owner: NicolasH
+  risid: null
+name: Gentoo--purpose_statement_candidate--a73032206a51.md
+path: corpus/qda-case-203/525.txt

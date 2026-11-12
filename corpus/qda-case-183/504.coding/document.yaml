@@ -1,0 +1,58 @@
+hash: 065c44cc8527cca395aed334aab91ff99b44b2487f58e4a94cbc8ad6b2e46594
+id: qda-source-504@qda-case-183
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 183
+    date: '2026-11-05 22:19:55'
+    fid: 504
+    id: 504
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5418
+  content_sha256: 065c44cc8527cca395aed334aab91ff99b44b2487f58e4a94cbc8ad6b2e46594
+  date: '2026-11-05 22:19:55'
+  id: 504
+  import_metadata:
+    conversion:
+      converted_sha256: 065c44cc8527cca395aed334aab91ff99b44b2487f58e4a94cbc8ad6b2e46594
+      original_sha256: 9510935c739b6704c215e17aacfeca2e7db3fd10e7ff9a1a6b7d2f971d27f9c7
+      version: oss-ai-policies/clean-markdown-v1
+    entity: badlogic/pi-mono
+    provenance:
+    - accessed_at: '2026-11-05T19:12:06.730788+00:00'
+      id: corpus-183-purpose
+      original_file_sha256: 9510935c739b6704c215e17aacfeca2e7db3fd10e7ff9a1a6b7d2f971d27f9c7
+      path: analysis/corpus-assessment/sources/corpus-183-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-183-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/badlogic/pi-mono/c6d8371521fc8357958bb21fd43552c15f46c7f4/README.md
+      role: purpose_statement_candidate
+      sha256: 9510935c739b6704c215e17aacfeca2e7db3fd10e7ff9a1a6b7d2f971d27f9c7
+      url: https://github.com/badlogic/pi-mono/blob/c6d8371521fc8357958bb21fd43552c15f46c7f4/README.md
+      version: c6d8371521fc8357958bb21fd43552c15f46c7f4
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9510935c739b6704c215e17aacfeca2e7db3fd10e7ff9a1a6b7d2f971d27f9c7
+  mediapath: /docs/badlogic__pi-mono--purpose_statement_candidate--9510935c739b.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    badlogic/pi-mono\",\n  \"text_sha256\": \"9510935c739b6704c215e17aacfeca2e7db3fd10e7ff9a1a6b7d2f971d27f9c7\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-183-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9510935c739b6704c215e17aacfeca2e7db3fd10e7ff9a1a6b7d2f971d27f9c7\",\n    \
+    \  \"id\": \"corpus-183-purpose\",\n      \"url\": \"https://github.com/badlogic/pi-mono/blob/c6d8371521fc8357958bb21fd43552c15f46c7f4/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/badlogic/pi-mono/c6d8371521fc8357958bb21fd43552c15f46c7f4/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:06.730788+00:00\",\n      \"version\"\
+    : \"c6d8371521fc8357958bb21fd43552c15f46c7f4\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-183-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9510935c739b6704c215e17aacfeca2e7db3fd10e7ff9a1a6b7d2f971d27f9c7\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9510935c739b6704c215e17aacfeca2e7db3fd10e7ff9a1a6b7d2f971d27f9c7\"\
+    ,\n    \"converted_sha256\": \"065c44cc8527cca395aed334aab91ff99b44b2487f58e4a94cbc8ad6b2e46594\"\
+    \n  }\n}"
+  name: badlogic__pi-mono--purpose_statement_candidate--9510935c739b.md
+  owner: NicolasH
+  risid: null
+name: badlogic__pi-mono--purpose_statement_candidate--9510935c739b.md
+path: corpus/qda-case-183/504.txt

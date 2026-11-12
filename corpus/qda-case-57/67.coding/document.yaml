@@ -1,0 +1,50 @@
+hash: 93561fb941a4b596d1dee827ce38a198429d9de13038229cdd4fa7aa2f5973f6
+id: qda-source-67@qda-case-57
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 57
+    date: '2026-11-05 22:19:55'
+    fid: 67
+    id: 66
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 16078
+  content_sha256: 93561fb941a4b596d1dee827ce38a198429d9de13038229cdd4fa7aa2f5973f6
+  date: '2026-11-05 22:19:55'
+  id: 67
+  import_metadata:
+    conversion:
+      converted_sha256: 93561fb941a4b596d1dee827ce38a198429d9de13038229cdd4fa7aa2f5973f6
+      original_sha256: 1184919a0fc7ceee5e61498441f9a4023a5edd41f8cf95066007e9090e6be0df
+      version: oss-ai-policies/clean-markdown-v1
+    entity: go-gitea/gitea
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 1184919a0fc7ceee5e61498441f9a4023a5edd41f8cf95066007e9090e6be0df
+      path: data/281/policies/go-gitea/gitea/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/go-gitea/gitea/blob/11363e2f0cd61ce79965ccded3dcfe2f0324270a/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 1184919a0fc7ceee5e61498441f9a4023a5edd41f8cf95066007e9090e6be0df
+  mediapath: /docs/go-gitea__gitea--contributing--1184919a0fc7.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    go-gitea/gitea\",\n  \"text_sha256\": \"1184919a0fc7ceee5e61498441f9a4023a5edd41f8cf95066007e9090e6be0df\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/go-gitea/gitea/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"1184919a0fc7ceee5e61498441f9a4023a5edd41f8cf95066007e9090e6be0df\"\
+    ,\n      \"source_url_cell\": \"https://github.com/go-gitea/gitea/blob/11363e2f0cd61ce79965ccded3dcfe2f0324270a/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"1184919a0fc7ceee5e61498441f9a4023a5edd41f8cf95066007e9090e6be0df\"\
+    ,\n    \"converted_sha256\": \"93561fb941a4b596d1dee827ce38a198429d9de13038229cdd4fa7aa2f5973f6\"\
+    \n  }\n}"
+  name: go-gitea__gitea--contributing--1184919a0fc7.md
+  owner: NicolasH
+  risid: null
+name: go-gitea__gitea--contributing--1184919a0fc7.md
+path: corpus/qda-case-57/67.txt

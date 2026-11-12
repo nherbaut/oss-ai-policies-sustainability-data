@@ -1,0 +1,58 @@
+hash: 7eb267049687a565221b8d78c3f84598fee6b36460ac0c2729b6d38e9c0af246
+id: qda-source-521@qda-case-199
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 199
+    date: '2026-11-05 22:19:55'
+    fid: 521
+    id: 521
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5045
+  content_sha256: 7eb267049687a565221b8d78c3f84598fee6b36460ac0c2729b6d38e9c0af246
+  date: '2026-11-05 22:19:55'
+  id: 521
+  import_metadata:
+    conversion:
+      converted_sha256: 7eb267049687a565221b8d78c3f84598fee6b36460ac0c2729b6d38e9c0af246
+      original_sha256: ec4c237fa1be0044d6eb089dfae34b0db5f690aea3a54ae6b1ae977be2090572
+      version: oss-ai-policies/clean-markdown-v1
+    entity: danielmiessler/seclists
+    provenance:
+    - accessed_at: '2026-11-05T19:12:08.926765+00:00'
+      id: corpus-199-purpose
+      original_file_sha256: ec4c237fa1be0044d6eb089dfae34b0db5f690aea3a54ae6b1ae977be2090572
+      path: analysis/corpus-assessment/sources/corpus-199-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-199-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/danielmiessler/seclists/4d994b5a1fefd3c128e334031ef7cb4cc77f98d7/README.md
+      role: purpose_statement_candidate
+      sha256: ec4c237fa1be0044d6eb089dfae34b0db5f690aea3a54ae6b1ae977be2090572
+      url: https://github.com/danielmiessler/seclists/blob/4d994b5a1fefd3c128e334031ef7cb4cc77f98d7/README.md
+      version: 4d994b5a1fefd3c128e334031ef7cb4cc77f98d7
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ec4c237fa1be0044d6eb089dfae34b0db5f690aea3a54ae6b1ae977be2090572
+  mediapath: /docs/danielmiessler__seclists--purpose_statement_candidate--ec4c237fa1be.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    danielmiessler/seclists\",\n  \"text_sha256\": \"ec4c237fa1be0044d6eb089dfae34b0db5f690aea3a54ae6b1ae977be2090572\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-199-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"ec4c237fa1be0044d6eb089dfae34b0db5f690aea3a54ae6b1ae977be2090572\",\n    \
+    \  \"id\": \"corpus-199-purpose\",\n      \"url\": \"https://github.com/danielmiessler/seclists/blob/4d994b5a1fefd3c128e334031ef7cb4cc77f98d7/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/danielmiessler/seclists/4d994b5a1fefd3c128e334031ef7cb4cc77f98d7/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:08.926765+00:00\",\n      \"version\"\
+    : \"4d994b5a1fefd3c128e334031ef7cb4cc77f98d7\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-199-purpose.raw.md\"\
+    ,\n      \"sha256\": \"ec4c237fa1be0044d6eb089dfae34b0db5f690aea3a54ae6b1ae977be2090572\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"ec4c237fa1be0044d6eb089dfae34b0db5f690aea3a54ae6b1ae977be2090572\"\
+    ,\n    \"converted_sha256\": \"7eb267049687a565221b8d78c3f84598fee6b36460ac0c2729b6d38e9c0af246\"\
+    \n  }\n}"
+  name: danielmiessler__seclists--purpose_statement_candidate--ec4c237fa1be.md
+  owner: NicolasH
+  risid: null
+name: danielmiessler__seclists--purpose_statement_candidate--ec4c237fa1be.md
+path: corpus/qda-case-199/521.txt

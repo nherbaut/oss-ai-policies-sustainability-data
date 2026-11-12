@@ -1,0 +1,58 @@
+hash: e0d0543add56b4eed88b8f7b9fb9d972f046ffdcbc555a750ed95abad62e233f
+id: qda-source-468@qda-case-148
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 148
+    date: '2026-11-05 22:19:55'
+    fid: 468
+    id: 468
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12598
+  content_sha256: e0d0543add56b4eed88b8f7b9fb9d972f046ffdcbc555a750ed95abad62e233f
+  date: '2026-11-05 22:19:55'
+  id: 468
+  import_metadata:
+    conversion:
+      converted_sha256: e0d0543add56b4eed88b8f7b9fb9d972f046ffdcbc555a750ed95abad62e233f
+      original_sha256: 5e37ac89b9ac6c8c9ca1979e626e55e8c4781c9322dfd1e9ea8fe75c7b2a82fa
+      version: oss-ai-policies/clean-markdown-v1
+    entity: starship/starship
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.181436+00:00'
+      id: corpus-148-purpose
+      original_file_sha256: 5e37ac89b9ac6c8c9ca1979e626e55e8c4781c9322dfd1e9ea8fe75c7b2a82fa
+      path: analysis/corpus-assessment/sources/corpus-148-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-148-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/starship/starship/8eb25b8130d1b7bf0c98c71d6f978224814b5208/README.md
+      role: purpose_statement_candidate
+      sha256: 5e37ac89b9ac6c8c9ca1979e626e55e8c4781c9322dfd1e9ea8fe75c7b2a82fa
+      url: https://github.com/starship/starship/blob/8eb25b8130d1b7bf0c98c71d6f978224814b5208/README.md
+      version: 8eb25b8130d1b7bf0c98c71d6f978224814b5208
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 5e37ac89b9ac6c8c9ca1979e626e55e8c4781c9322dfd1e9ea8fe75c7b2a82fa
+  mediapath: /docs/starship__starship--purpose_statement_candidate--5e37ac89b9ac.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    starship/starship\",\n  \"text_sha256\": \"5e37ac89b9ac6c8c9ca1979e626e55e8c4781c9322dfd1e9ea8fe75c7b2a82fa\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-148-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"5e37ac89b9ac6c8c9ca1979e626e55e8c4781c9322dfd1e9ea8fe75c7b2a82fa\",\n    \
+    \  \"id\": \"corpus-148-purpose\",\n      \"url\": \"https://github.com/starship/starship/blob/8eb25b8130d1b7bf0c98c71d6f978224814b5208/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/starship/starship/8eb25b8130d1b7bf0c98c71d6f978224814b5208/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.181436+00:00\",\n      \"version\"\
+    : \"8eb25b8130d1b7bf0c98c71d6f978224814b5208\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-148-purpose.raw.md\"\
+    ,\n      \"sha256\": \"5e37ac89b9ac6c8c9ca1979e626e55e8c4781c9322dfd1e9ea8fe75c7b2a82fa\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"5e37ac89b9ac6c8c9ca1979e626e55e8c4781c9322dfd1e9ea8fe75c7b2a82fa\"\
+    ,\n    \"converted_sha256\": \"e0d0543add56b4eed88b8f7b9fb9d972f046ffdcbc555a750ed95abad62e233f\"\
+    \n  }\n}"
+  name: starship__starship--purpose_statement_candidate--5e37ac89b9ac.md
+  owner: NicolasH
+  risid: null
+name: starship__starship--purpose_statement_candidate--5e37ac89b9ac.md
+path: corpus/qda-case-148/468.txt

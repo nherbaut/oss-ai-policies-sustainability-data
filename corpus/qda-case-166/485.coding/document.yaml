@@ -1,0 +1,58 @@
+hash: 905362b0891acc30c6bef41daceccdd0a0ec48ee78fcd758b85b92f33e11faf7
+id: qda-source-485@qda-case-166
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 166
+    date: '2026-11-05 22:19:55'
+    fid: 485
+    id: 485
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2325
+  content_sha256: 905362b0891acc30c6bef41daceccdd0a0ec48ee78fcd758b85b92f33e11faf7
+  date: '2026-11-05 22:19:55'
+  id: 485
+  import_metadata:
+    conversion:
+      converted_sha256: 905362b0891acc30c6bef41daceccdd0a0ec48ee78fcd758b85b92f33e11faf7
+      original_sha256: bb8a327cb578dde5cdd96ea22b576ef17b844b26b0fa0fc873a0b4980a7af9d3
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Apache Software Foundation
+    provenance:
+    - accessed_at: '2026-11-05T19:12:04.227774+00:00'
+      id: corpus-166-purpose
+      original_file_sha256: bb8a327cb578dde5cdd96ea22b576ef17b844b26b0fa0fc873a0b4980a7af9d3
+      path: analysis/corpus-assessment/sources/corpus-166-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-166-purpose.html
+      resolved_url: https://www.apache.org/foundation/
+      role: purpose_statement_candidate
+      sha256: a1bb8fc61c9737c197f372b3a69cb35bf05c696607a34645e832894d953f86d5
+      url: https://www.apache.org/foundation/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: bb8a327cb578dde5cdd96ea22b576ef17b844b26b0fa0fc873a0b4980a7af9d3
+  mediapath: /docs/Apache__Software__Foundation--purpose_statement_candidate--bb8a327cb578.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Apache Software Foundation\",\n  \"text_sha256\": \"bb8a327cb578dde5cdd96ea22b576ef17b844b26b0fa0fc873a0b4980a7af9d3\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-166-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"bb8a327cb578dde5cdd96ea22b576ef17b844b26b0fa0fc873a0b4980a7af9d3\",\n    \
+    \  \"id\": \"corpus-166-purpose\",\n      \"url\": \"https://www.apache.org/foundation/\"\
+    ,\n      \"resolved_url\": \"https://www.apache.org/foundation/\",\n      \"accessed_at\"\
+    : \"2026-11-05T19:12:04.227774+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/corpus-assessment/sources/corpus-166-purpose.html\",\n      \"sha256\"\
+    : \"a1bb8fc61c9737c197f372b3a69cb35bf05c696607a34645e832894d953f86d5\"\n    }\n\
+    \  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus retained.\"\
+    ,\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"bb8a327cb578dde5cdd96ea22b576ef17b844b26b0fa0fc873a0b4980a7af9d3\"\
+    ,\n    \"converted_sha256\": \"905362b0891acc30c6bef41daceccdd0a0ec48ee78fcd758b85b92f33e11faf7\"\
+    \n  }\n}"
+  name: Apache__Software__Foundation--purpose_statement_candidate--bb8a327cb578.md
+  owner: NicolasH
+  risid: null
+name: Apache__Software__Foundation--purpose_statement_candidate--bb8a327cb578.md
+path: corpus/qda-case-166/485.txt

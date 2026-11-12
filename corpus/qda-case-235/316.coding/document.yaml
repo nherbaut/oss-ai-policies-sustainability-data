@@ -1,0 +1,58 @@
+hash: b4b14cfe854d60544eda2e45990ad6c1dfc0708f0c65e3b40e320a150792d15c
+id: qda-source-316@qda-case-235
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 235
+    date: '2026-11-05 22:19:55'
+    fid: 316
+    id: 316
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5154
+  content_sha256: b4b14cfe854d60544eda2e45990ad6c1dfc0708f0c65e3b40e320a150792d15c
+  date: '2026-11-05 22:19:55'
+  id: 316
+  import_metadata:
+    conversion:
+      converted_sha256: b4b14cfe854d60544eda2e45990ad6c1dfc0708f0c65e3b40e320a150792d15c
+      original_sha256: 9863c37ff407df7a85fef92c43dca31d9a552efd83cf42479847e11adb6d61bd
+      version: oss-ai-policies/clean-markdown-v1
+    entity: wavetermdev/waveterm
+    provenance:
+    - accessed_at: '2026-11-05T16:00:21.441706+00:00'
+      id: 12-purpose
+      original_file_sha256: 9863c37ff407df7a85fef92c43dca31d9a552efd83cf42479847e11adb6d61bd
+      path: analysis/feasibility-pilot/sources/12-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/12-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/wavetermdev/waveterm/c99022c15bd1f17273728e728a61743e690d6423/README.md
+      role: purpose_statement_candidate
+      sha256: 9863c37ff407df7a85fef92c43dca31d9a552efd83cf42479847e11adb6d61bd
+      url: https://github.com/wavetermdev/waveterm/blob/c99022c15bd1f17273728e728a61743e690d6423/README.md
+      version: c99022c15bd1f17273728e728a61743e690d6423
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 9863c37ff407df7a85fef92c43dca31d9a552efd83cf42479847e11adb6d61bd
+  mediapath: /docs/wavetermdev__waveterm--purpose_statement_candidate--9863c37ff407.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    wavetermdev/waveterm\",\n  \"text_sha256\": \"9863c37ff407df7a85fef92c43dca31d9a552efd83cf42479847e11adb6d61bd\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/12-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"9863c37ff407df7a85fef92c43dca31d9a552efd83cf42479847e11adb6d61bd\",\n    \
+    \  \"id\": \"12-purpose\",\n      \"url\": \"https://github.com/wavetermdev/waveterm/blob/c99022c15bd1f17273728e728a61743e690d6423/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/wavetermdev/waveterm/c99022c15bd1f17273728e728a61743e690d6423/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T16:00:21.441706+00:00\",\n      \"version\"\
+    : \"c99022c15bd1f17273728e728a61743e690d6423\",\n      \"raw_snapshot\": \"analysis/feasibility-pilot/sources/12-purpose.raw.md\"\
+    ,\n      \"sha256\": \"9863c37ff407df7a85fef92c43dca31d9a552efd83cf42479847e11adb6d61bd\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"9863c37ff407df7a85fef92c43dca31d9a552efd83cf42479847e11adb6d61bd\"\
+    ,\n    \"converted_sha256\": \"b4b14cfe854d60544eda2e45990ad6c1dfc0708f0c65e3b40e320a150792d15c\"\
+    \n  }\n}"
+  name: wavetermdev__waveterm--purpose_statement_candidate--9863c37ff407.md
+  owner: NicolasH
+  risid: null
+name: wavetermdev__waveterm--purpose_statement_candidate--9863c37ff407.md
+path: corpus/qda-case-235/316.txt

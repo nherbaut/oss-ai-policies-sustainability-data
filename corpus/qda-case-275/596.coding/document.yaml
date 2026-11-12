@@ -1,0 +1,58 @@
+hash: 5a5d752e7685bbb514418b184fb85df174e06bfe003247bf1ef48e397a216624
+id: qda-source-596@qda-case-275
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 275
+    date: '2026-11-05 22:19:55'
+    fid: 596
+    id: 596
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 28113
+  content_sha256: 5a5d752e7685bbb514418b184fb85df174e06bfe003247bf1ef48e397a216624
+  date: '2026-11-05 22:19:55'
+  id: 596
+  import_metadata:
+    conversion:
+      converted_sha256: 5a5d752e7685bbb514418b184fb85df174e06bfe003247bf1ef48e397a216624
+      original_sha256: a2be9addbef3d31c4e691dcf1ef17aa40754f640a5eb05e1985eca4e12a82d8d
+      version: oss-ai-policies/clean-markdown-v1
+    entity: camel-ai/camel
+    provenance:
+    - accessed_at: '2026-11-05T19:12:16.575674+00:00'
+      id: corpus-275-purpose
+      original_file_sha256: a2be9addbef3d31c4e691dcf1ef17aa40754f640a5eb05e1985eca4e12a82d8d
+      path: analysis/corpus-assessment/sources/corpus-275-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-275-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/camel-ai/camel/0b9d9862b863af13d54c971fdff0c2c7e2f2ae01/README.md
+      role: purpose_statement_candidate
+      sha256: a2be9addbef3d31c4e691dcf1ef17aa40754f640a5eb05e1985eca4e12a82d8d
+      url: https://github.com/camel-ai/camel/blob/0b9d9862b863af13d54c971fdff0c2c7e2f2ae01/README.md
+      version: 0b9d9862b863af13d54c971fdff0c2c7e2f2ae01
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: a2be9addbef3d31c4e691dcf1ef17aa40754f640a5eb05e1985eca4e12a82d8d
+  mediapath: /docs/camel-ai__camel--purpose_statement_candidate--a2be9addbef3.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    camel-ai/camel\",\n  \"text_sha256\": \"a2be9addbef3d31c4e691dcf1ef17aa40754f640a5eb05e1985eca4e12a82d8d\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-275-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"a2be9addbef3d31c4e691dcf1ef17aa40754f640a5eb05e1985eca4e12a82d8d\",\n    \
+    \  \"id\": \"corpus-275-purpose\",\n      \"url\": \"https://github.com/camel-ai/camel/blob/0b9d9862b863af13d54c971fdff0c2c7e2f2ae01/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/camel-ai/camel/0b9d9862b863af13d54c971fdff0c2c7e2f2ae01/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:16.575674+00:00\",\n      \"version\"\
+    : \"0b9d9862b863af13d54c971fdff0c2c7e2f2ae01\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-275-purpose.raw.md\"\
+    ,\n      \"sha256\": \"a2be9addbef3d31c4e691dcf1ef17aa40754f640a5eb05e1985eca4e12a82d8d\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"a2be9addbef3d31c4e691dcf1ef17aa40754f640a5eb05e1985eca4e12a82d8d\"\
+    ,\n    \"converted_sha256\": \"5a5d752e7685bbb514418b184fb85df174e06bfe003247bf1ef48e397a216624\"\
+    \n  }\n}"
+  name: camel-ai__camel--purpose_statement_candidate--a2be9addbef3.md
+  owner: NicolasH
+  risid: null
+name: camel-ai__camel--purpose_statement_candidate--a2be9addbef3.md
+path: corpus/qda-case-275/596.txt

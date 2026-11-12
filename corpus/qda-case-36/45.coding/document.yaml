@@ -1,0 +1,43 @@
+hash: 5fdec7a5182a29335088b200caf43c59a8fb5226de228915126a54bfbaa8739f
+id: qda-source-45@qda-case-36
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 36
+    date: '2026-11-05 22:19:55'
+    fid: 45
+    id: 44
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2881
+  content_sha256: 5fdec7a5182a29335088b200caf43c59a8fb5226de228915126a54bfbaa8739f
+  date: '2026-11-05 22:19:55'
+  id: 45
+  import_metadata:
+    entity: verl-project/verl
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 5fdec7a5182a29335088b200caf43c59a8fb5226de228915126a54bfbaa8739f
+      path: data/281/policies/verl-project/verl/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://github.com/verl-project/verl/blob/6f2aa24abfc01cc72811b376aeb3936503885096/AGENTS.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 5fdec7a5182a29335088b200caf43c59a8fb5226de228915126a54bfbaa8739f
+  mediapath: /docs/verl-project__verl--other_policy--5fdec7a5182a.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    verl-project/verl\",\n  \"text_sha256\": \"5fdec7a5182a29335088b200caf43c59a8fb5226de228915126a54bfbaa8739f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/verl-project/verl/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"5fdec7a5182a29335088b200caf43c59a8fb5226de228915126a54bfbaa8739f\"\
+    ,\n      \"source_url_cell\": \"https://github.com/verl-project/verl/blob/6f2aa24abfc01cc72811b376aeb3936503885096/AGENTS.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: verl-project__verl--other_policy--5fdec7a5182a.md
+  owner: NicolasH
+  risid: null
+name: verl-project__verl--other_policy--5fdec7a5182a.md
+path: corpus/qda-case-36/45.txt

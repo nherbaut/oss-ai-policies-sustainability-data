@@ -1,0 +1,50 @@
+hash: 1022f121565e1e3c13f5ec327de8e384f43dc665a11276ac735e4614b875d8f4
+id: qda-source-216@qda-case-193
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 193
+    date: '2026-11-05 22:19:55'
+    fid: 216
+    id: 215
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 12570
+  content_sha256: 1022f121565e1e3c13f5ec327de8e384f43dc665a11276ac735e4614b875d8f4
+  date: '2026-11-05 22:19:55'
+  id: 216
+  import_metadata:
+    conversion:
+      converted_sha256: 1022f121565e1e3c13f5ec327de8e384f43dc665a11276ac735e4614b875d8f4
+      original_sha256: ebf99f58754387c7644540ea4cd56c25324ddc6e3894128535a643091c7b8844
+      version: oss-ai-policies/clean-markdown-v1
+    entity: bevyengine/bevy
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: ebf99f58754387c7644540ea4cd56c25324ddc6e3894128535a643091c7b8844
+      path: data/281/policies/bevyengine/bevy/other_policy.md
+      retrieved_at: null
+      role: other_policy
+      source_url_cell: https://bevy.org/learn/contribute/policies/ai/
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: ebf99f58754387c7644540ea4cd56c25324ddc6e3894128535a643091c7b8844
+  mediapath: /docs/bevyengine__bevy--other_policy--ebf99f587543.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    bevyengine/bevy\",\n  \"text_sha256\": \"ebf99f58754387c7644540ea4cd56c25324ddc6e3894128535a643091c7b8844\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/bevyengine/bevy/other_policy.md\"\
+    ,\n      \"role\": \"other_policy\",\n      \"original_file_sha256\": \"ebf99f58754387c7644540ea4cd56c25324ddc6e3894128535a643091c7b8844\"\
+    ,\n      \"source_url_cell\": \"https://bevy.org/learn/contribute/policies/ai/\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Clean Markdown\
+    \ for coding; original corpus retained.\",\n  \"conversion\": {\n    \"version\"\
+    : \"oss-ai-policies/clean-markdown-v1\",\n    \"original_sha256\": \"ebf99f58754387c7644540ea4cd56c25324ddc6e3894128535a643091c7b8844\"\
+    ,\n    \"converted_sha256\": \"1022f121565e1e3c13f5ec327de8e384f43dc665a11276ac735e4614b875d8f4\"\
+    \n  }\n}"
+  name: bevyengine__bevy--other_policy--ebf99f587543.md
+  owner: NicolasH
+  risid: null
+name: bevyengine__bevy--other_policy--ebf99f587543.md
+path: corpus/qda-case-193/216.txt

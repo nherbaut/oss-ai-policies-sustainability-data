@@ -1,0 +1,58 @@
+hash: ffd1808e605d1cd4a7c0a1d66fd5a51cfb93fc67b08386524f76a5bb1541eb1f
+id: qda-source-309@qda-case-153
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 153
+    date: '2026-11-05 22:19:55'
+    fid: 309
+    id: 309
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5330
+  content_sha256: ffd1808e605d1cd4a7c0a1d66fd5a51cfb93fc67b08386524f76a5bb1541eb1f
+  date: '2026-11-05 22:19:55'
+  id: 309
+  import_metadata:
+    conversion:
+      converted_sha256: ffd1808e605d1cd4a7c0a1d66fd5a51cfb93fc67b08386524f76a5bb1541eb1f
+      original_sha256: 0ad134a41dd7ed4b633663796f37be3afe01707b7760e30541c75b8d3799c48f
+      version: oss-ai-policies/clean-markdown-v1
+    entity: Software Freedom Conservancy (recommandations LLM)
+    provenance:
+    - accessed_at: '2026-11-05T16:00:19.672280+00:00'
+      id: 05-purpose
+      original_file_sha256: 0ad134a41dd7ed4b633663796f37be3afe01707b7760e30541c75b8d3799c48f
+      path: analysis/feasibility-pilot/sources/05-purpose.md
+      raw_snapshot: analysis/feasibility-pilot/sources/05-purpose.html
+      resolved_url: https://sfconservancy.org/about/
+      role: purpose_statement_candidate
+      sha256: f822ac020588fbb0c08382800d011db35e45ce8dde4ab1d8c5ba6ad74c2e3705
+      url: https://sfconservancy.org/about/
+      version: null
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: 0ad134a41dd7ed4b633663796f37be3afe01707b7760e30541c75b8d3799c48f
+  mediapath: /docs/Software__Freedom__Conservancy__recommandations__LLM--purpose_statement_candidate--0ad134a41dd7.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    Software Freedom Conservancy (recommandations LLM)\",\n  \"text_sha256\": \"0ad134a41dd7ed4b633663796f37be3afe01707b7760e30541c75b8d3799c48f\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/feasibility-pilot/sources/05-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"0ad134a41dd7ed4b633663796f37be3afe01707b7760e30541c75b8d3799c48f\",\n    \
+    \  \"id\": \"05-purpose\",\n      \"url\": \"https://sfconservancy.org/about/\"\
+    ,\n      \"resolved_url\": \"https://sfconservancy.org/about/\",\n      \"accessed_at\"\
+    : \"2026-11-05T16:00:19.672280+00:00\",\n      \"version\": null,\n      \"raw_snapshot\"\
+    : \"analysis/feasibility-pilot/sources/05-purpose.html\",\n      \"sha256\": \"\
+    f822ac020588fbb0c08382800d011db35e45ce8dde4ab1d8c5ba6ad74c2e3705\"\n    }\n  ],\n\
+    \  \"text_format\": \"Clean Markdown for coding; original corpus retained.\",\n\
+    \  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\",\n\
+    \    \"original_sha256\": \"0ad134a41dd7ed4b633663796f37be3afe01707b7760e30541c75b8d3799c48f\"\
+    ,\n    \"converted_sha256\": \"ffd1808e605d1cd4a7c0a1d66fd5a51cfb93fc67b08386524f76a5bb1541eb1f\"\
+    \n  }\n}"
+  name: Software__Freedom__Conservancy__recommandations__LLM--purpose_statement_candidate--0ad134a41dd7.md
+  owner: NicolasH
+  risid: null
+name: Software__Freedom__Conservancy__recommandations__LLM--purpose_statement_candidate--0ad134a41dd7.md
+path: corpus/qda-case-153/309.txt

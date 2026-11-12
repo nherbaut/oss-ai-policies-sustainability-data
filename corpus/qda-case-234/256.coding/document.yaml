@@ -1,0 +1,43 @@
+hash: 66bb1b05bf29c3e356ea027105a150db7933e655ed5cac3cae96764fe68f6de9
+id: qda-source-256@qda-case-234
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 234
+    date: '2026-11-05 22:19:55'
+    fid: 256
+    id: 255
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 19020
+  content_sha256: 66bb1b05bf29c3e356ea027105a150db7933e655ed5cac3cae96764fe68f6de9
+  date: '2026-11-05 22:19:55'
+  id: 256
+  import_metadata:
+    entity: abhigyanpatwari/GitNexus
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 66bb1b05bf29c3e356ea027105a150db7933e655ed5cac3cae96764fe68f6de9
+      path: data/281/policies/abhigyanpatwari/GitNexus/contributing.md
+      retrieved_at: null
+      role: contributing
+      source_url_cell: https://github.com/abhigyanpatwari/GitNexus/blob/a05b5011025e61e56ac1898832688c4ededbd7ed/CONTRIBUTING.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 66bb1b05bf29c3e356ea027105a150db7933e655ed5cac3cae96764fe68f6de9
+  mediapath: /docs/abhigyanpatwari__GitNexus--contributing--66bb1b05bf29.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    abhigyanpatwari/GitNexus\",\n  \"text_sha256\": \"66bb1b05bf29c3e356ea027105a150db7933e655ed5cac3cae96764fe68f6de9\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/abhigyanpatwari/GitNexus/contributing.md\"\
+    ,\n      \"role\": \"contributing\",\n      \"original_file_sha256\": \"66bb1b05bf29c3e356ea027105a150db7933e655ed5cac3cae96764fe68f6de9\"\
+    ,\n      \"source_url_cell\": \"https://github.com/abhigyanpatwari/GitNexus/blob/a05b5011025e61e56ac1898832688c4ededbd7ed/CONTRIBUTING.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: abhigyanpatwari__GitNexus--contributing--66bb1b05bf29.md
+  owner: NicolasH
+  risid: null
+name: abhigyanpatwari__GitNexus--contributing--66bb1b05bf29.md
+path: corpus/qda-case-234/256.txt

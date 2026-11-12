@@ -1,0 +1,43 @@
+hash: 4e1a6d72e6ddf946dac383d060b9dfdc2d9a308fa00a902b26931c8d648ede41
+id: qda-source-136@qda-case-121
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 121
+    date: '2026-11-05 22:19:55'
+    fid: 136
+    id: 135
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1718
+  content_sha256: 4e1a6d72e6ddf946dac383d060b9dfdc2d9a308fa00a902b26931c8d648ede41
+  date: '2026-11-05 22:19:55'
+  id: 136
+  import_metadata:
+    entity: directus/directus
+    provenance:
+    - notes: Local extraction. Original retrieval date is not recorded.
+      original_file_sha256: 4e1a6d72e6ddf946dac383d060b9dfdc2d9a308fa00a902b26931c8d648ede41
+      path: data/281/policies/directus/directus/ai_policy.md
+      retrieved_at: null
+      role: ai_policy
+      source_url_cell: https://github.com/directus/directus/blob/240b801568b4cd99676dc69adc22682800215654/ai_policy.md
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 4e1a6d72e6ddf946dac383d060b9dfdc2d9a308fa00a902b26931c8d648ede41
+  mediapath: /docs/directus__directus--ai_policy--4e1a6d72e6dd.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    directus/directus\",\n  \"text_sha256\": \"4e1a6d72e6ddf946dac383d060b9dfdc2d9a308fa00a902b26931c8d648ede41\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"data/281/policies/directus/directus/ai_policy.md\"\
+    ,\n      \"role\": \"ai_policy\",\n      \"original_file_sha256\": \"4e1a6d72e6ddf946dac383d060b9dfdc2d9a308fa00a902b26931c8d648ede41\"\
+    ,\n      \"source_url_cell\": \"https://github.com/directus/directus/blob/240b801568b4cd99676dc69adc22682800215654/ai_policy.md\"\
+    ,\n      \"retrieved_at\": null,\n      \"notes\": \"Local extraction. Original\
+    \ retrieval date is not recorded.\"\n    }\n  ],\n  \"text_format\": \"Original\
+    \ Markdown/text; no analytical codes imported.\"\n}"
+  name: directus__directus--ai_policy--4e1a6d72e6dd.md
+  owner: NicolasH
+  risid: null
+name: directus__directus--ai_policy--4e1a6d72e6dd.md
+path: corpus/qda-case-121/136.txt

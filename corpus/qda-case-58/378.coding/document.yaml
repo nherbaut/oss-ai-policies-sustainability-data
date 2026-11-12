@@ -1,0 +1,51 @@
+hash: 7870e658dc9cc0c31931016d200b2791934fff53dd6d084ffa301a5ab779a3ae
+id: qda-source-378@qda-case-58
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 58
+    date: '2026-11-05 22:19:55'
+    fid: 378
+    id: 378
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 1973
+  content_sha256: 7870e658dc9cc0c31931016d200b2791934fff53dd6d084ffa301a5ab779a3ae
+  date: '2026-11-05 22:19:55'
+  id: 378
+  import_metadata:
+    entity: actualbudget/actual
+    provenance:
+    - accessed_at: '2026-11-05T19:11:54.891069+00:00'
+      id: corpus-058-other_policy-2
+      original_file_sha256: 7870e658dc9cc0c31931016d200b2791934fff53dd6d084ffa301a5ab779a3ae
+      path: analysis/corpus-assessment/sources/corpus-058-other_policy-2.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-058-other_policy-2.raw.md
+      resolved_url: https://raw.githubusercontent.com/actualbudget/actual/master/.github/agents/pr-and-commit-rules.md
+      role: supplementary_policy
+      sha256: 7870e658dc9cc0c31931016d200b2791934fff53dd6d084ffa301a5ab779a3ae
+      url: https://github.com/actualbudget/actual/blob/master/.github/agents/pr-and-commit-rules.md
+      version: master
+    schema: oss-ai-policies/document-import-v1
+    text_format: Original Markdown/text; no analytical codes imported.
+    text_sha256: 7870e658dc9cc0c31931016d200b2791934fff53dd6d084ffa301a5ab779a3ae
+  mediapath: /docs/actualbudget__actual--supplementary_policy--7870e658dc9c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    actualbudget/actual\",\n  \"text_sha256\": \"7870e658dc9cc0c31931016d200b2791934fff53dd6d084ffa301a5ab779a3ae\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-058-other_policy-2.md\"\
+    ,\n      \"role\": \"supplementary_policy\",\n      \"original_file_sha256\":\
+    \ \"7870e658dc9cc0c31931016d200b2791934fff53dd6d084ffa301a5ab779a3ae\",\n    \
+    \  \"id\": \"corpus-058-other_policy-2\",\n      \"url\": \"https://github.com/actualbudget/actual/blob/master/.github/agents/pr-and-commit-rules.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/actualbudget/actual/master/.github/agents/pr-and-commit-rules.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:54.891069+00:00\",\n      \"version\"\
+    : \"master\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-058-other_policy-2.raw.md\"\
+    ,\n      \"sha256\": \"7870e658dc9cc0c31931016d200b2791934fff53dd6d084ffa301a5ab779a3ae\"\
+    \n    }\n  ],\n  \"text_format\": \"Original Markdown/text; no analytical codes\
+    \ imported.\"\n}"
+  name: actualbudget__actual--supplementary_policy--7870e658dc9c.md
+  owner: NicolasH
+  risid: null
+name: actualbudget__actual--supplementary_policy--7870e658dc9c.md
+path: corpus/qda-case-58/378.txt

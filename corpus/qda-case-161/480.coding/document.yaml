@@ -1,0 +1,58 @@
+hash: f74c821f576b638427087903abb0f3925ea8cc4bfcb343c4dbb0b4ab5a106869
+id: qda-source-480@qda-case-161
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 161
+    date: '2026-11-05 22:19:55'
+    fid: 480
+    id: 480
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5777
+  content_sha256: f74c821f576b638427087903abb0f3925ea8cc4bfcb343c4dbb0b4ab5a106869
+  date: '2026-11-05 22:19:55'
+  id: 480
+  import_metadata:
+    conversion:
+      converted_sha256: f74c821f576b638427087903abb0f3925ea8cc4bfcb343c4dbb0b4ab5a106869
+      original_sha256: c53f8a4f9a6ceb243992ec10113d3c68307736ad9892351593da0bd6ae77479b
+      version: oss-ai-policies/clean-markdown-v1
+    entity: paperless-ngx/paperless-ngx
+    provenance:
+    - accessed_at: '2026-11-05T19:12:03.839120+00:00'
+      id: corpus-161-purpose
+      original_file_sha256: c53f8a4f9a6ceb243992ec10113d3c68307736ad9892351593da0bd6ae77479b
+      path: analysis/corpus-assessment/sources/corpus-161-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-161-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/paperless-ngx/paperless-ngx/0addb448f5b9fc3579b4285f779871ec2823e7a6/README.md
+      role: purpose_statement_candidate
+      sha256: c53f8a4f9a6ceb243992ec10113d3c68307736ad9892351593da0bd6ae77479b
+      url: https://github.com/paperless-ngx/paperless-ngx/blob/0addb448f5b9fc3579b4285f779871ec2823e7a6/README.md
+      version: 0addb448f5b9fc3579b4285f779871ec2823e7a6
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: c53f8a4f9a6ceb243992ec10113d3c68307736ad9892351593da0bd6ae77479b
+  mediapath: /docs/paperless-ngx__paperless-ngx--purpose_statement_candidate--c53f8a4f9a6c.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    paperless-ngx/paperless-ngx\",\n  \"text_sha256\": \"c53f8a4f9a6ceb243992ec10113d3c68307736ad9892351593da0bd6ae77479b\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-161-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"c53f8a4f9a6ceb243992ec10113d3c68307736ad9892351593da0bd6ae77479b\",\n    \
+    \  \"id\": \"corpus-161-purpose\",\n      \"url\": \"https://github.com/paperless-ngx/paperless-ngx/blob/0addb448f5b9fc3579b4285f779871ec2823e7a6/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/paperless-ngx/paperless-ngx/0addb448f5b9fc3579b4285f779871ec2823e7a6/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:03.839120+00:00\",\n      \"version\"\
+    : \"0addb448f5b9fc3579b4285f779871ec2823e7a6\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-161-purpose.raw.md\"\
+    ,\n      \"sha256\": \"c53f8a4f9a6ceb243992ec10113d3c68307736ad9892351593da0bd6ae77479b\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"c53f8a4f9a6ceb243992ec10113d3c68307736ad9892351593da0bd6ae77479b\"\
+    ,\n    \"converted_sha256\": \"f74c821f576b638427087903abb0f3925ea8cc4bfcb343c4dbb0b4ab5a106869\"\
+    \n  }\n}"
+  name: paperless-ngx__paperless-ngx--purpose_statement_candidate--c53f8a4f9a6c.md
+  owner: NicolasH
+  risid: null
+name: paperless-ngx__paperless-ngx--purpose_statement_candidate--c53f8a4f9a6c.md
+path: corpus/qda-case-161/480.txt

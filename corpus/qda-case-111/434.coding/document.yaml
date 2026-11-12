@@ -1,0 +1,58 @@
+hash: 59a23bfb011522b2f53ada92eb1f40909fa7b8573738e9febab52aceb31f8a8a
+id: qda-source-434@qda-case-111
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 111
+    date: '2026-11-05 22:19:55'
+    fid: 434
+    id: 434
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 2641
+  content_sha256: 59a23bfb011522b2f53ada92eb1f40909fa7b8573738e9febab52aceb31f8a8a
+  date: '2026-11-05 22:19:55'
+  id: 434
+  import_metadata:
+    conversion:
+      converted_sha256: 59a23bfb011522b2f53ada92eb1f40909fa7b8573738e9febab52aceb31f8a8a
+      original_sha256: b3f6ef2fef88b98cb9ec013a5c86213095e53e40eb228679574e4d06517f33c8
+      version: oss-ai-policies/clean-markdown-v1
+    entity: rust-lang/rust
+    provenance:
+    - accessed_at: '2026-11-05T19:11:59.977552+00:00'
+      id: corpus-111-purpose
+      original_file_sha256: b3f6ef2fef88b98cb9ec013a5c86213095e53e40eb228679574e4d06517f33c8
+      path: analysis/corpus-assessment/sources/corpus-111-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-111-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/rust-lang/rust/d0babd8b6b05ef9bb65d42f928cef4129d64cf65/README.md
+      role: purpose_statement_candidate
+      sha256: b3f6ef2fef88b98cb9ec013a5c86213095e53e40eb228679574e4d06517f33c8
+      url: https://github.com/rust-lang/rust/blob/d0babd8b6b05ef9bb65d42f928cef4129d64cf65/README.md
+      version: d0babd8b6b05ef9bb65d42f928cef4129d64cf65
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: b3f6ef2fef88b98cb9ec013a5c86213095e53e40eb228679574e4d06517f33c8
+  mediapath: /docs/rust-lang__rust--purpose_statement_candidate--b3f6ef2fef88.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    rust-lang/rust\",\n  \"text_sha256\": \"b3f6ef2fef88b98cb9ec013a5c86213095e53e40eb228679574e4d06517f33c8\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-111-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"b3f6ef2fef88b98cb9ec013a5c86213095e53e40eb228679574e4d06517f33c8\",\n    \
+    \  \"id\": \"corpus-111-purpose\",\n      \"url\": \"https://github.com/rust-lang/rust/blob/d0babd8b6b05ef9bb65d42f928cef4129d64cf65/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/rust-lang/rust/d0babd8b6b05ef9bb65d42f928cef4129d64cf65/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:11:59.977552+00:00\",\n      \"version\"\
+    : \"d0babd8b6b05ef9bb65d42f928cef4129d64cf65\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-111-purpose.raw.md\"\
+    ,\n      \"sha256\": \"b3f6ef2fef88b98cb9ec013a5c86213095e53e40eb228679574e4d06517f33c8\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"b3f6ef2fef88b98cb9ec013a5c86213095e53e40eb228679574e4d06517f33c8\"\
+    ,\n    \"converted_sha256\": \"59a23bfb011522b2f53ada92eb1f40909fa7b8573738e9febab52aceb31f8a8a\"\
+    \n  }\n}"
+  name: rust-lang__rust--purpose_statement_candidate--b3f6ef2fef88.md
+  owner: NicolasH
+  risid: null
+name: rust-lang__rust--purpose_statement_candidate--b3f6ef2fef88.md
+path: corpus/qda-case-111/434.txt

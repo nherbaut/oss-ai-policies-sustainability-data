@@ -1,0 +1,58 @@
+hash: d297e787fd0c8732ecfe9901b76e03bfe8f808baf38c9aaa4a2ab2b83a2b122d
+id: qda-source-507@qda-case-186
+metadata:
+  attributes: []
+  av_text_id: null
+  case_memberships:
+  - caseid: 186
+    date: '2026-11-05 22:19:55'
+    fid: 507
+    id: 507
+    memo: Entire document assigned to project case.
+    owner: NicolasH
+    pos0: 0
+    pos1: 5635
+  content_sha256: d297e787fd0c8732ecfe9901b76e03bfe8f808baf38c9aaa4a2ab2b83a2b122d
+  date: '2026-11-05 22:19:55'
+  id: 507
+  import_metadata:
+    conversion:
+      converted_sha256: d297e787fd0c8732ecfe9901b76e03bfe8f808baf38c9aaa4a2ab2b83a2b122d
+      original_sha256: e2860261bb3d74c3de517694c068904ef29d17e014cecd71e505aa5220d58cf8
+      version: oss-ai-policies/clean-markdown-v1
+    entity: pola-rs/polars
+    provenance:
+    - accessed_at: '2026-11-05T19:12:07.235847+00:00'
+      id: corpus-186-purpose
+      original_file_sha256: e2860261bb3d74c3de517694c068904ef29d17e014cecd71e505aa5220d58cf8
+      path: analysis/corpus-assessment/sources/corpus-186-purpose.md
+      raw_snapshot: analysis/corpus-assessment/sources/corpus-186-purpose.raw.md
+      resolved_url: https://raw.githubusercontent.com/pola-rs/polars/9c223540d8c6fffec1c9cdf532d11fca619c6e98/README.md
+      role: purpose_statement_candidate
+      sha256: e2860261bb3d74c3de517694c068904ef29d17e014cecd71e505aa5220d58cf8
+      url: https://github.com/pola-rs/polars/blob/9c223540d8c6fffec1c9cdf532d11fca619c6e98/README.md
+      version: 9c223540d8c6fffec1c9cdf532d11fca619c6e98
+    schema: oss-ai-policies/document-import-v1
+    text_format: Clean Markdown for coding; original corpus retained.
+    text_sha256: e2860261bb3d74c3de517694c068904ef29d17e014cecd71e505aa5220d58cf8
+  mediapath: /docs/pola-rs__polars--purpose_statement_candidate--e2860261bb3d.md
+  memo: "{\n  \"schema\": \"oss-ai-policies/document-import-v1\",\n  \"entity\": \"\
+    pola-rs/polars\",\n  \"text_sha256\": \"e2860261bb3d74c3de517694c068904ef29d17e014cecd71e505aa5220d58cf8\"\
+    ,\n  \"provenance\": [\n    {\n      \"path\": \"analysis/corpus-assessment/sources/corpus-186-purpose.md\"\
+    ,\n      \"role\": \"purpose_statement_candidate\",\n      \"original_file_sha256\"\
+    : \"e2860261bb3d74c3de517694c068904ef29d17e014cecd71e505aa5220d58cf8\",\n    \
+    \  \"id\": \"corpus-186-purpose\",\n      \"url\": \"https://github.com/pola-rs/polars/blob/9c223540d8c6fffec1c9cdf532d11fca619c6e98/README.md\"\
+    ,\n      \"resolved_url\": \"https://raw.githubusercontent.com/pola-rs/polars/9c223540d8c6fffec1c9cdf532d11fca619c6e98/README.md\"\
+    ,\n      \"accessed_at\": \"2026-11-05T19:12:07.235847+00:00\",\n      \"version\"\
+    : \"9c223540d8c6fffec1c9cdf532d11fca619c6e98\",\n      \"raw_snapshot\": \"analysis/corpus-assessment/sources/corpus-186-purpose.raw.md\"\
+    ,\n      \"sha256\": \"e2860261bb3d74c3de517694c068904ef29d17e014cecd71e505aa5220d58cf8\"\
+    \n    }\n  ],\n  \"text_format\": \"Clean Markdown for coding; original corpus\
+    \ retained.\",\n  \"conversion\": {\n    \"version\": \"oss-ai-policies/clean-markdown-v1\"\
+    ,\n    \"original_sha256\": \"e2860261bb3d74c3de517694c068904ef29d17e014cecd71e505aa5220d58cf8\"\
+    ,\n    \"converted_sha256\": \"d297e787fd0c8732ecfe9901b76e03bfe8f808baf38c9aaa4a2ab2b83a2b122d\"\
+    \n  }\n}"
+  name: pola-rs__polars--purpose_statement_candidate--e2860261bb3d.md
+  owner: NicolasH
+  risid: null
+name: pola-rs__polars--purpose_statement_candidate--e2860261bb3d.md
+path: corpus/qda-case-186/507.txt
