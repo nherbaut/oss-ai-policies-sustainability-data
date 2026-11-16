@@ -1,0 +1,26 @@
+hash: 9b04e8256a3e8a6f76929f2b431f735ba042e38f52271399ba675a26ca19aada
+id: 7a352d69-c2a1-46e7-b3b4-6ddbbf705f30
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:31+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 9b04e8256a3e8a6f76929f2b431f735ba042e38f52271399ba675a26ca19aada
+    snapshot: data/osssaysno/policies/grafana/grafana/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 9b04e8256a3e8a6f76929f2b431f735ba042e38f52271399ba675a26ca19aada
+    url: https://raw.githubusercontent.com/grafana/grafana/main/CHANGELOG.md
+  source_archive:
+    member: texts/56c0fa08fc192731472099518b0dde4bf22aad25e9b28c78406e86d7ad3d0e50.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9b04e8256a3e8a6f76929f2b431f735ba042e38f52271399ba675a26ca19aada
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/56c0fa08fc192731472099518b0dde4bf22aad25e9b28c78406e86d7ad3d0e50.md

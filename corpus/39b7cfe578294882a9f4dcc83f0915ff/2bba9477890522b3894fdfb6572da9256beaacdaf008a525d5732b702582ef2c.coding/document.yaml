@@ -1,0 +1,26 @@
+hash: 4089f72603880fc41084c9f2224cb4a502784a108da90d283dd6d68117b73b99
+id: 5d7c17f8-aa1c-480f-89c9-683e012eeea0
+metadata:
+  import_document_id: osssaysno:lmcache/lmcache:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:49+00:00'
+    id: osssaysno:github.com/lmcache/lmcache:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/lmcache/lmcache/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/LMCache/LMCache/dev/SECURITY.md
+    role: repository_root_document
+    sha256: 4089f72603880fc41084c9f2224cb4a502784a108da90d283dd6d68117b73b99
+    snapshot: data/osssaysno/policies/lmcache/lmcache/root/SECURITY.md
+    status: downloaded
+    text_sha256: 4089f72603880fc41084c9f2224cb4a502784a108da90d283dd6d68117b73b99
+    url: https://raw.githubusercontent.com/LMCache/LMCache/dev/SECURITY.md
+  source_archive:
+    member: texts/2bba9477890522b3894fdfb6572da9256beaacdaf008a525d5732b702582ef2c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4089f72603880fc41084c9f2224cb4a502784a108da90d283dd6d68117b73b99
+  url: ''
+name: root/SECURITY.md
+path: corpus/39b7cfe578294882a9f4dcc83f0915ff/2bba9477890522b3894fdfb6572da9256beaacdaf008a525d5732b702582ef2c.md

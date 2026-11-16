@@ -1,0 +1,26 @@
+hash: fe076a5ce58cd29af854431cf673472a32fd816f10d0ff825bf769919e67515d
+id: 2efd1530-4cef-4c35-80d4-71a69911b717
+metadata:
+  import_document_id: osssaysno:berriai/litellm:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:45+00:00'
+    id: osssaysno:github.com/berriai/litellm:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/berriai/litellm/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/BerriAI/litellm/main/AGENTS.md
+    role: repository_root_document
+    sha256: fe076a5ce58cd29af854431cf673472a32fd816f10d0ff825bf769919e67515d
+    snapshot: data/osssaysno/policies/berriai/litellm/root/AGENTS.md
+    status: downloaded
+    text_sha256: fe076a5ce58cd29af854431cf673472a32fd816f10d0ff825bf769919e67515d
+    url: https://raw.githubusercontent.com/BerriAI/litellm/main/AGENTS.md
+  source_archive:
+    member: texts/2849d4ef3ccd52bd74228e22fb15a244ffcaa41c388a4a16459f09bbd2d00c4f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fe076a5ce58cd29af854431cf673472a32fd816f10d0ff825bf769919e67515d
+  url: ''
+name: root/AGENTS.md
+path: corpus/b8db120f8df94de5ba22f0105865a9d2/2849d4ef3ccd52bd74228e22fb15a244ffcaa41c388a4a16459f09bbd2d00c4f.md

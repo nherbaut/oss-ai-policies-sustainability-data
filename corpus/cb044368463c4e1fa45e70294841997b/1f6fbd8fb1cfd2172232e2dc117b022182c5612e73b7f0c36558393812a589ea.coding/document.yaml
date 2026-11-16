@@ -1,0 +1,26 @@
+hash: eb30ec186bf0dc902e59a2d2e26ddcfabf26b0c1debf13df59ff0629a2f12a26
+id: 58efc2ab-1ac4-4f2f-9eea-df6dd752582e
+metadata:
+  import_document_id: osssaysno:ktorio/ktor:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:22+00:00'
+    id: osssaysno:github.com/ktorio/ktor:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/ktorio/ktor/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/ktorio/ktor/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: eb30ec186bf0dc902e59a2d2e26ddcfabf26b0c1debf13df59ff0629a2f12a26
+    snapshot: data/osssaysno/policies/ktorio/ktor/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: eb30ec186bf0dc902e59a2d2e26ddcfabf26b0c1debf13df59ff0629a2f12a26
+    url: https://raw.githubusercontent.com/ktorio/ktor/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/1f6fbd8fb1cfd2172232e2dc117b022182c5612e73b7f0c36558393812a589ea.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: eb30ec186bf0dc902e59a2d2e26ddcfabf26b0c1debf13df59ff0629a2f12a26
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/cb044368463c4e1fa45e70294841997b/1f6fbd8fb1cfd2172232e2dc117b022182c5612e73b7f0c36558393812a589ea.md

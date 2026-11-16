@@ -1,0 +1,26 @@
+hash: e6e50f804b79fa63e81b5bf505074ef70c4f846371c06e3e6629dfa4b4c12a0b
+id: 0800879f-5a3c-455a-aa54-b1be2ee443bd
+metadata:
+  import_document_id: osssaysno:grpc/grpc-java:root/RELEASING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:59+00:00'
+    id: osssaysno:github.com/grpc/grpc-java:root/RELEASING.md
+    import_slot: root/RELEASING.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-java/root/raw/RELEASING.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-java/master/RELEASING.md
+    role: repository_root_document
+    sha256: e6e50f804b79fa63e81b5bf505074ef70c4f846371c06e3e6629dfa4b4c12a0b
+    snapshot: data/osssaysno/policies/grpc/grpc-java/root/RELEASING.md
+    status: downloaded
+    text_sha256: e6e50f804b79fa63e81b5bf505074ef70c4f846371c06e3e6629dfa4b4c12a0b
+    url: https://raw.githubusercontent.com/grpc/grpc-java/master/RELEASING.md
+  source_archive:
+    member: texts/ef9347f861ce6a98e248c5b6cf439ba440695774fe81fc2116b9845943eefad8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e6e50f804b79fa63e81b5bf505074ef70c4f846371c06e3e6629dfa4b4c12a0b
+  url: ''
+name: root/RELEASING.md
+path: corpus/3e38e7dc201e40588ce69f5f92efec39/ef9347f861ce6a98e248c5b6cf439ba440695774fe81fc2116b9845943eefad8.md

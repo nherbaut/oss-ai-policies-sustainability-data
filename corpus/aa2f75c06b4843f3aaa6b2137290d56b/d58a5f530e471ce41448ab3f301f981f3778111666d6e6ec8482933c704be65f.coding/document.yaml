@@ -1,0 +1,26 @@
+hash: 74fe542c14c6c39492586a9c823131dfdb04cb8acb2e790762ec62e4ac1c280c
+id: 463e6244-3a09-43f6-af20-4ce4b3353d2b
+metadata:
+  import_document_id: osssaysno:lima-vm/lima:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:39+00:00'
+    id: osssaysno:github.com/lima-vm/lima:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/lima-vm/lima/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/lima-vm/lima/master/MAINTAINERS.md
+    role: repository_root_document
+    sha256: 74fe542c14c6c39492586a9c823131dfdb04cb8acb2e790762ec62e4ac1c280c
+    snapshot: data/osssaysno/policies/lima-vm/lima/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: 74fe542c14c6c39492586a9c823131dfdb04cb8acb2e790762ec62e4ac1c280c
+    url: https://raw.githubusercontent.com/lima-vm/lima/master/MAINTAINERS.md
+  source_archive:
+    member: texts/d58a5f530e471ce41448ab3f301f981f3778111666d6e6ec8482933c704be65f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 74fe542c14c6c39492586a9c823131dfdb04cb8acb2e790762ec62e4ac1c280c
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/aa2f75c06b4843f3aaa6b2137290d56b/d58a5f530e471ce41448ab3f301f981f3778111666d6e6ec8482933c704be65f.md

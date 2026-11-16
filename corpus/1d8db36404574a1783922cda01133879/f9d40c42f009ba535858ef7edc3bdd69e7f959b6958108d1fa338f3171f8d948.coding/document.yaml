@@ -1,0 +1,37 @@
+hash: a46e84718dd53a185540f8913e89fdb1359ca652bfc95e64c05aaa95fd272dbc
+id: a7e2edcb-72df-4b5b-9a22-61498c3bd630
+metadata:
+  import_document_id: osssaysno:riot-os/riot:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:59+00:00'
+    id: osssaysno:github.com/riot-os/riot:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/riot-os/riot/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/CONTRIBUTING.md
+    role: contributing
+    sha256: a46e84718dd53a185540f8913e89fdb1359ca652bfc95e64c05aaa95fd272dbc
+    snapshot: data/osssaysno/policies/riot-os/riot/contributing.md
+    status: downloaded
+    text_sha256: a46e84718dd53a185540f8913e89fdb1359ca652bfc95e64c05aaa95fd272dbc
+    url: https://github.com/RIOT-OS/RIOT/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:37:56+00:00'
+    id: osssaysno:github.com/riot-os/riot:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/riot-os/riot/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: a46e84718dd53a185540f8913e89fdb1359ca652bfc95e64c05aaa95fd272dbc
+    snapshot: data/osssaysno/policies/riot-os/riot/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: a46e84718dd53a185540f8913e89fdb1359ca652bfc95e64c05aaa95fd272dbc
+    url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/f9d40c42f009ba535858ef7edc3bdd69e7f959b6958108d1fa338f3171f8d948.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a46e84718dd53a185540f8913e89fdb1359ca652bfc95e64c05aaa95fd272dbc
+  url: ''
+name: contributing.md
+path: corpus/1d8db36404574a1783922cda01133879/f9d40c42f009ba535858ef7edc3bdd69e7f959b6958108d1fa338f3171f8d948.md

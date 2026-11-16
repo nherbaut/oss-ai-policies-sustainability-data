@@ -1,0 +1,26 @@
+hash: 430987b8c5f30c366ecd501bc344c8b29b6280e8a10174376a769f7443a187cd
+id: b41546c9-6461-43ff-a9d0-7fd59faa0e73
+metadata:
+  import_document_id: osssaysno:microsoft/generative-ai-for-beginners:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:21+00:00'
+    id: osssaysno:github.com/microsoft/generative-ai-for-beginners:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/SECURITY.md
+    role: repository_root_document
+    sha256: 430987b8c5f30c366ecd501bc344c8b29b6280e8a10174376a769f7443a187cd
+    snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/root/SECURITY.md
+    status: downloaded
+    text_sha256: 430987b8c5f30c366ecd501bc344c8b29b6280e8a10174376a769f7443a187cd
+    url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/SECURITY.md
+  source_archive:
+    member: texts/d52c7f65b9bec14cac4f19393159b5b232b18e06d08c883619f534d15b718dd8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 430987b8c5f30c366ecd501bc344c8b29b6280e8a10174376a769f7443a187cd
+  url: ''
+name: root/SECURITY.md
+path: corpus/4b61fce5a7204fe59b2dd4c442d24d6f/d52c7f65b9bec14cac4f19393159b5b232b18e06d08c883619f534d15b718dd8.md

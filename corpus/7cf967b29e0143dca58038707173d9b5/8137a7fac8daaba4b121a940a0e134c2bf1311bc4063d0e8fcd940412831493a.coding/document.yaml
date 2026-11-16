@@ -1,0 +1,26 @@
+hash: ba6630f69d4057d9c85b821a1b35bdcfdc54734d3cf1ba5c96e2a319bb637105
+id: 412093c8-3870-4232-8dbf-aa4f044f4c1d
+metadata:
+  import_document_id: osssaysno:motion-canvas/motion-canvas:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:53+00:00'
+    id: osssaysno:github.com/motion-canvas/motion-canvas:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/motion-canvas/motion-canvas/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/SECURITY.md
+    role: repository_root_document
+    sha256: ba6630f69d4057d9c85b821a1b35bdcfdc54734d3cf1ba5c96e2a319bb637105
+    snapshot: data/osssaysno/policies/motion-canvas/motion-canvas/root/SECURITY.md
+    status: downloaded
+    text_sha256: ba6630f69d4057d9c85b821a1b35bdcfdc54734d3cf1ba5c96e2a319bb637105
+    url: https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/SECURITY.md
+  source_archive:
+    member: texts/8137a7fac8daaba4b121a940a0e134c2bf1311bc4063d0e8fcd940412831493a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ba6630f69d4057d9c85b821a1b35bdcfdc54734d3cf1ba5c96e2a319bb637105
+  url: ''
+name: root/SECURITY.md
+path: corpus/7cf967b29e0143dca58038707173d9b5/8137a7fac8daaba4b121a940a0e134c2bf1311bc4063d0e8fcd940412831493a.md

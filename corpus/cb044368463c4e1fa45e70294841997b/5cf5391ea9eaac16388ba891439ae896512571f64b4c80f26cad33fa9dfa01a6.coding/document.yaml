@@ -1,0 +1,26 @@
+hash: 16e9457ea695612e990b3994add6b271c1c41c4dc77f569947e2f73a94002a54
+id: 0fde23af-c958-4e38-9bc0-bcebb8f112ab
+metadata:
+  import_document_id: osssaysno:ktorio/ktor:root/MIGRATION_GUIDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:23+00:00'
+    id: osssaysno:github.com/ktorio/ktor:root/MIGRATION_GUIDE.md
+    import_slot: root/MIGRATION_GUIDE.md
+    raw_snapshot: data/osssaysno/policies/ktorio/ktor/root/raw/MIGRATION_GUIDE.md
+    resolved_url: https://raw.githubusercontent.com/ktorio/ktor/main/MIGRATION_GUIDE.md
+    role: repository_root_document
+    sha256: 16e9457ea695612e990b3994add6b271c1c41c4dc77f569947e2f73a94002a54
+    snapshot: data/osssaysno/policies/ktorio/ktor/root/MIGRATION_GUIDE.md
+    status: downloaded
+    text_sha256: 16e9457ea695612e990b3994add6b271c1c41c4dc77f569947e2f73a94002a54
+    url: https://raw.githubusercontent.com/ktorio/ktor/main/MIGRATION_GUIDE.md
+  source_archive:
+    member: texts/5cf5391ea9eaac16388ba891439ae896512571f64b4c80f26cad33fa9dfa01a6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 16e9457ea695612e990b3994add6b271c1c41c4dc77f569947e2f73a94002a54
+  url: ''
+name: root/MIGRATION_GUIDE.md
+path: corpus/cb044368463c4e1fa45e70294841997b/5cf5391ea9eaac16388ba891439ae896512571f64b4c80f26cad33fa9dfa01a6.md

@@ -1,0 +1,26 @@
+hash: 24fae3a96feff3aad9bc6a37ffed38dd1d89a6cf3424f431c5416e9c62164a9c
+id: b962dc97-5a02-4b88-8fd8-7662abc579ad
+metadata:
+  import_document_id: osssaysno:debpalash/voicestudio:root/LICENSE-NOTICE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:24+00:00'
+    id: osssaysno:github.com/debpalash/voicestudio:root/LICENSE-NOTICE.md
+    import_slot: root/LICENSE-NOTICE.md
+    raw_snapshot: data/osssaysno/policies/debpalash/voicestudio/root/raw/LICENSE-NOTICE.md
+    resolved_url: https://raw.githubusercontent.com/debpalash/VoiceStudio/main/LICENSE-NOTICE.md
+    role: repository_root_document
+    sha256: 24fae3a96feff3aad9bc6a37ffed38dd1d89a6cf3424f431c5416e9c62164a9c
+    snapshot: data/osssaysno/policies/debpalash/voicestudio/root/LICENSE-NOTICE.md
+    status: downloaded
+    text_sha256: 24fae3a96feff3aad9bc6a37ffed38dd1d89a6cf3424f431c5416e9c62164a9c
+    url: https://raw.githubusercontent.com/debpalash/VoiceStudio/main/LICENSE-NOTICE.md
+  source_archive:
+    member: texts/d624150003f529a3d063f21f451fd5b0cb7498bfa9c5212b10403426bcadb72a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 24fae3a96feff3aad9bc6a37ffed38dd1d89a6cf3424f431c5416e9c62164a9c
+  url: ''
+name: root/LICENSE-NOTICE.md
+path: corpus/b9dd6666b9354098a0cd907bd3aa1242/d624150003f529a3d063f21f451fd5b0cb7498bfa9c5212b10403426bcadb72a.md

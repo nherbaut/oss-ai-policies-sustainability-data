@@ -1,0 +1,26 @@
+hash: f20fe972a1fdcca23db6c8dc79817059e3bf62155ba87a2dc36addbee0176b12
+id: 71a57b67-9fa2-432b-b1c0-ffd19d47f09a
+metadata:
+  import_document_id: osssaysno:nibzard/awesome-agentic-patterns:root/TODO.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:48+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:root/TODO.md
+    import_slot: root/TODO.md
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/raw/TODO.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/TODO.md
+    role: repository_root_document
+    sha256: f20fe972a1fdcca23db6c8dc79817059e3bf62155ba87a2dc36addbee0176b12
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/TODO.md
+    status: downloaded
+    text_sha256: f20fe972a1fdcca23db6c8dc79817059e3bf62155ba87a2dc36addbee0176b12
+    url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/TODO.md
+  source_archive:
+    member: texts/117f532ba2dbab6db5032f4953b557adc630db068bbb4ffa500efc996cd95e79.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f20fe972a1fdcca23db6c8dc79817059e3bf62155ba87a2dc36addbee0176b12
+  url: ''
+name: root/TODO.md
+path: corpus/dd94b9ffd2f94e2fbe0e75d0714cd789/117f532ba2dbab6db5032f4953b557adc630db068bbb4ffa500efc996cd95e79.md

@@ -1,0 +1,26 @@
+hash: 2a79c11655c4d574241a4a986012622a2777b6c617bd5044cd21cddd6975ee7a
+id: ba6da227-5ed9-40b4-9b9a-589278094a84
+metadata:
+  import_document_id: osssaysno:scipy/scipy:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:14+00:00'
+    id: osssaysno:github.com/scipy/scipy:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/scipy/scipy/raw/contributing.rst
+    resolved_url: https://raw.githubusercontent.com/scipy/scipy/main/CONTRIBUTING.rst
+    role: contributing
+    sha256: 1db8c3b9cb9271295679af1dd907cf540ef0b2083b1809e493c5310815ca2e7f
+    snapshot: data/osssaysno/policies/scipy/scipy/contributing.md
+    status: downloaded
+    text_sha256: 2a79c11655c4d574241a4a986012622a2777b6c617bd5044cd21cddd6975ee7a
+    url: https://github.com/scipy/scipy/blob/main/CONTRIBUTING.rst
+  source_archive:
+    member: texts/260b51ea202ac0f3bb6a44a794fe0107056f02899c0e82e6c89b742d7ce48086.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2a79c11655c4d574241a4a986012622a2777b6c617bd5044cd21cddd6975ee7a
+  url: ''
+name: contributing.md
+path: corpus/1c45fa12aa604bc1963f503e4cfd3b7d/260b51ea202ac0f3bb6a44a794fe0107056f02899c0e82e6c89b742d7ce48086.md

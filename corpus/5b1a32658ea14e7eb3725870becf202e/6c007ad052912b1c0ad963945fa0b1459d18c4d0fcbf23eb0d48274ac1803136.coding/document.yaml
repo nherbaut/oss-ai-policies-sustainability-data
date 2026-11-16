@@ -1,0 +1,37 @@
+hash: 78ba12a0b8479944b3a480669f7c124c14c45d7a1a8625b93d331564b514912d
+id: 9ff9b97f-92e6-4cb5-9d92-d9221e7dbc0c
+metadata:
+  import_document_id: osssaysno:aws/aws-sam-cli:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:50+00:00'
+    id: osssaysno:github.com/aws/aws-sam-cli:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/aws/aws-sam-cli/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/CONTRIBUTING.md
+    role: contributing
+    sha256: 78ba12a0b8479944b3a480669f7c124c14c45d7a1a8625b93d331564b514912d
+    snapshot: data/osssaysno/policies/aws/aws-sam-cli/contributing.md
+    status: downloaded
+    text_sha256: 78ba12a0b8479944b3a480669f7c124c14c45d7a1a8625b93d331564b514912d
+    url: https://github.com/aws/aws-sam-cli/blob/develop/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:37:15+00:00'
+    id: osssaysno:github.com/aws/aws-sam-cli:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/aws/aws-sam-cli/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 78ba12a0b8479944b3a480669f7c124c14c45d7a1a8625b93d331564b514912d
+    snapshot: data/osssaysno/policies/aws/aws-sam-cli/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 78ba12a0b8479944b3a480669f7c124c14c45d7a1a8625b93d331564b514912d
+    url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/CONTRIBUTING.md
+  source_archive:
+    member: texts/6c007ad052912b1c0ad963945fa0b1459d18c4d0fcbf23eb0d48274ac1803136.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 78ba12a0b8479944b3a480669f7c124c14c45d7a1a8625b93d331564b514912d
+  url: ''
+name: contributing.md
+path: corpus/5b1a32658ea14e7eb3725870becf202e/6c007ad052912b1c0ad963945fa0b1459d18c4d0fcbf23eb0d48274ac1803136.md

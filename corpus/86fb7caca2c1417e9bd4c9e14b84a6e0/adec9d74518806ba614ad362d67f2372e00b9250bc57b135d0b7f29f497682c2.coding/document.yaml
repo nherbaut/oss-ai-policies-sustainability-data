@@ -1,0 +1,26 @@
+hash: 7834c04d505d2be40052ef7278c219f884c85b652f49089331614ac746be1200
+id: e13e1694-fa21-4193-b709-abeb35cf3ef1
+metadata:
+  import_document_id: osssaysno:asciimoo/hister:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:41+00:00'
+    id: osssaysno:github.com/asciimoo/hister:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/asciimoo/hister/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/asciimoo/hister/master/SECURITY.md
+    role: repository_root_document
+    sha256: 7834c04d505d2be40052ef7278c219f884c85b652f49089331614ac746be1200
+    snapshot: data/osssaysno/policies/asciimoo/hister/root/SECURITY.md
+    status: downloaded
+    text_sha256: 7834c04d505d2be40052ef7278c219f884c85b652f49089331614ac746be1200
+    url: https://raw.githubusercontent.com/asciimoo/hister/master/SECURITY.md
+  source_archive:
+    member: texts/adec9d74518806ba614ad362d67f2372e00b9250bc57b135d0b7f29f497682c2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7834c04d505d2be40052ef7278c219f884c85b652f49089331614ac746be1200
+  url: ''
+name: root/SECURITY.md
+path: corpus/86fb7caca2c1417e9bd4c9e14b84a6e0/adec9d74518806ba614ad362d67f2372e00b9250bc57b135d0b7f29f497682c2.md

@@ -1,0 +1,37 @@
+hash: 944da8b7541f516203b77363a582a2218264c7574c1e2f34e555a0ecc346c78d
+id: c604ba78-9ac6-4b30-b3ae-05ae26e73e31
+metadata:
+  import_document_id: osssaysno:pgmq/pgmq:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:03+00:00'
+    id: osssaysno:github.com/pgmq/pgmq:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/pgmq/pgmq/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/pgmq/pgmq/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 944da8b7541f516203b77363a582a2218264c7574c1e2f34e555a0ecc346c78d
+    snapshot: data/osssaysno/policies/pgmq/pgmq/contributing.md
+    status: downloaded
+    text_sha256: 944da8b7541f516203b77363a582a2218264c7574c1e2f34e555a0ecc346c78d
+    url: https://github.com/pgmq/pgmq/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:38:22+00:00'
+    id: osssaysno:github.com/pgmq/pgmq:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/pgmq/pgmq/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/pgmq/pgmq/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 944da8b7541f516203b77363a582a2218264c7574c1e2f34e555a0ecc346c78d
+    snapshot: data/osssaysno/policies/pgmq/pgmq/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 944da8b7541f516203b77363a582a2218264c7574c1e2f34e555a0ecc346c78d
+    url: https://raw.githubusercontent.com/pgmq/pgmq/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/7f6ef9c889c9c9946613f23059681df849ed29329bf0e06563987f6547bd4507.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 944da8b7541f516203b77363a582a2218264c7574c1e2f34e555a0ecc346c78d
+  url: ''
+name: contributing.md
+path: corpus/13d6ecc485f14ac6993fcdb455b09859/7f6ef9c889c9c9946613f23059681df849ed29329bf0e06563987f6547bd4507.md

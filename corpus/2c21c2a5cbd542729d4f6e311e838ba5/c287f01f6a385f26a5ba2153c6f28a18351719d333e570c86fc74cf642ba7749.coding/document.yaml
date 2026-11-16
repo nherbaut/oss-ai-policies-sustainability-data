@@ -1,0 +1,26 @@
+hash: 869c20385ec53e454d1e56441b5690e9cb74a262289d3c6b29b1cf2e4cfeeac1
+id: 0a1fa2a2-9588-43cd-8564-c72a05f6af84
+metadata:
+  import_document_id: osssaysno:thanos-io/thanos:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:26+00:00'
+    id: osssaysno:github.com/thanos-io/thanos:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/thanos-io/thanos/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/thanos-io/thanos/main/README.md
+    role: repository_root_document
+    sha256: 869c20385ec53e454d1e56441b5690e9cb74a262289d3c6b29b1cf2e4cfeeac1
+    snapshot: data/osssaysno/policies/thanos-io/thanos/root/README.md
+    status: downloaded
+    text_sha256: 869c20385ec53e454d1e56441b5690e9cb74a262289d3c6b29b1cf2e4cfeeac1
+    url: https://raw.githubusercontent.com/thanos-io/thanos/main/README.md
+  source_archive:
+    member: texts/c287f01f6a385f26a5ba2153c6f28a18351719d333e570c86fc74cf642ba7749.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 869c20385ec53e454d1e56441b5690e9cb74a262289d3c6b29b1cf2e4cfeeac1
+  url: ''
+name: root/README.md
+path: corpus/2c21c2a5cbd542729d4f6e311e838ba5/c287f01f6a385f26a5ba2153c6f28a18351719d333e570c86fc74cf642ba7749.md

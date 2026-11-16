@@ -1,0 +1,26 @@
+hash: e798e6eff3a4d28a70943a477975b6d27bdb3cff1a82aae9ddf2ba79f6e9262a
+id: 4e31918a-5246-4b56-975d-5dad4eb70dce
+metadata:
+  import_document_id: osssaysno:berriai/litellm:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:45+00:00'
+    id: osssaysno:github.com/berriai/litellm:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/berriai/litellm/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/BerriAI/litellm/main/README.md
+    role: repository_root_document
+    sha256: e798e6eff3a4d28a70943a477975b6d27bdb3cff1a82aae9ddf2ba79f6e9262a
+    snapshot: data/osssaysno/policies/berriai/litellm/root/README.md
+    status: downloaded
+    text_sha256: e798e6eff3a4d28a70943a477975b6d27bdb3cff1a82aae9ddf2ba79f6e9262a
+    url: https://raw.githubusercontent.com/BerriAI/litellm/main/README.md
+  source_archive:
+    member: texts/7a0c379193f6cf9090979ac6fe40d16f4fa33746eb9300b7f6740879237cecbd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e798e6eff3a4d28a70943a477975b6d27bdb3cff1a82aae9ddf2ba79f6e9262a
+  url: ''
+name: root/README.md
+path: corpus/b8db120f8df94de5ba22f0105865a9d2/7a0c379193f6cf9090979ac6fe40d16f4fa33746eb9300b7f6740879237cecbd.md

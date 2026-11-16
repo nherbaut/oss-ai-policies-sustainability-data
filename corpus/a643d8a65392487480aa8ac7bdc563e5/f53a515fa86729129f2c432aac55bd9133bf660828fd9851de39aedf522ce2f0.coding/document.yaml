@@ -1,0 +1,37 @@
+hash: 91b9ea08b2b54bbd23f9f5a7fa7d9feaa2a89d8279975a78836d0fa28d1629d3
+id: a0a06d43-ccb7-4f91-bb9d-396df441d4e3
+metadata:
+  import_document_id: osssaysno:magicuidesign/magicui:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:32+00:00'
+    id: osssaysno:github.com/magicuidesign/magicui:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/magicuidesign/magicui/raw/agent.md
+    resolved_url: https://raw.githubusercontent.com/magicuidesign/magicui/main/AGENTS.md
+    role: agent
+    sha256: 91b9ea08b2b54bbd23f9f5a7fa7d9feaa2a89d8279975a78836d0fa28d1629d3
+    snapshot: data/osssaysno/policies/magicuidesign/magicui/agent.md
+    status: downloaded
+    text_sha256: 91b9ea08b2b54bbd23f9f5a7fa7d9feaa2a89d8279975a78836d0fa28d1629d3
+    url: https://github.com/magicuidesign/magicui/blob/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:28:33+00:00'
+    id: osssaysno:github.com/magicuidesign/magicui:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/magicuidesign/magicui/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/magicuidesign/magicui/main/AGENTS.md
+    role: repository_root_document
+    sha256: 91b9ea08b2b54bbd23f9f5a7fa7d9feaa2a89d8279975a78836d0fa28d1629d3
+    snapshot: data/osssaysno/policies/magicuidesign/magicui/root/AGENTS.md
+    status: downloaded
+    text_sha256: 91b9ea08b2b54bbd23f9f5a7fa7d9feaa2a89d8279975a78836d0fa28d1629d3
+    url: https://raw.githubusercontent.com/magicuidesign/magicui/main/AGENTS.md
+  source_archive:
+    member: texts/f53a515fa86729129f2c432aac55bd9133bf660828fd9851de39aedf522ce2f0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 91b9ea08b2b54bbd23f9f5a7fa7d9feaa2a89d8279975a78836d0fa28d1629d3
+  url: ''
+name: agent.md
+path: corpus/a643d8a65392487480aa8ac7bdc563e5/f53a515fa86729129f2c432aac55bd9133bf660828fd9851de39aedf522ce2f0.md

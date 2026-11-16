@@ -1,0 +1,26 @@
+hash: 8e9be0a138b96194e188b62c7b70a92d705ff6a2e53645bbaff23d9f81afc9de
+id: 85c148bc-0628-4c4c-bab2-f1d505939664
+metadata:
+  import_document_id: osssaysno:elastic/kibana:root/TYPESCRIPT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:42+00:00'
+    id: osssaysno:github.com/elastic/kibana:root/TYPESCRIPT.md
+    import_slot: root/TYPESCRIPT.md
+    raw_snapshot: data/osssaysno/policies/elastic/kibana/root/raw/TYPESCRIPT.md
+    resolved_url: https://raw.githubusercontent.com/elastic/kibana/main/TYPESCRIPT.md
+    role: repository_root_document
+    sha256: 8e9be0a138b96194e188b62c7b70a92d705ff6a2e53645bbaff23d9f81afc9de
+    snapshot: data/osssaysno/policies/elastic/kibana/root/TYPESCRIPT.md
+    status: downloaded
+    text_sha256: 8e9be0a138b96194e188b62c7b70a92d705ff6a2e53645bbaff23d9f81afc9de
+    url: https://raw.githubusercontent.com/elastic/kibana/main/TYPESCRIPT.md
+  source_archive:
+    member: texts/818d67f9458285be93cf05a66a3edca8121a572700dffc2b3743f13c6c10e922.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8e9be0a138b96194e188b62c7b70a92d705ff6a2e53645bbaff23d9f81afc9de
+  url: ''
+name: root/TYPESCRIPT.md
+path: corpus/082703ff56ea437b90604d07ebdd2932/818d67f9458285be93cf05a66a3edca8121a572700dffc2b3743f13c6c10e922.md

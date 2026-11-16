@@ -1,0 +1,26 @@
+hash: 87f20ce1b80bead451a1b5072ee7447c9fb266e529389e47b887bbbea0df27fc
+id: 3b371c2d-d788-471f-9ba1-cb37490c9e7e
+metadata:
+  import_document_id: osssaysno:valhalla/valhalla:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:31+00:00'
+    id: osssaysno:github.com/valhalla/valhalla:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/valhalla/valhalla/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/valhalla/valhalla/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: 87f20ce1b80bead451a1b5072ee7447c9fb266e529389e47b887bbbea0df27fc
+    snapshot: data/osssaysno/policies/valhalla/valhalla/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 87f20ce1b80bead451a1b5072ee7447c9fb266e529389e47b887bbbea0df27fc
+    url: https://raw.githubusercontent.com/valhalla/valhalla/master/CHANGELOG.md
+  source_archive:
+    member: texts/9276ca6d68b314b1571461202cc00cbd9ea560fb3fe103cb5da23db9bf1d298b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 87f20ce1b80bead451a1b5072ee7447c9fb266e529389e47b887bbbea0df27fc
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/630810638ca649c29ad30e0baf904285/9276ca6d68b314b1571461202cc00cbd9ea560fb3fe103cb5da23db9bf1d298b.md

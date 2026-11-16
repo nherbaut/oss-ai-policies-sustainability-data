@@ -1,0 +1,26 @@
+hash: 26dd8dfc9366f75ecfd21f9b3e57ecbd85f2d5fbce1d03c287c47005889a2f4d
+id: 55243d6b-412c-47c5-9fce-5a88d44fbe43
+metadata:
+  import_document_id: osssaysno:grpc/grpc:root/TROUBLESHOOTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:56+00:00'
+    id: osssaysno:github.com/grpc/grpc:root/TROUBLESHOOTING.md
+    import_slot: root/TROUBLESHOOTING.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc/root/raw/TROUBLESHOOTING.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc/master/TROUBLESHOOTING.md
+    role: repository_root_document
+    sha256: 26dd8dfc9366f75ecfd21f9b3e57ecbd85f2d5fbce1d03c287c47005889a2f4d
+    snapshot: data/osssaysno/policies/grpc/grpc/root/TROUBLESHOOTING.md
+    status: downloaded
+    text_sha256: 26dd8dfc9366f75ecfd21f9b3e57ecbd85f2d5fbce1d03c287c47005889a2f4d
+    url: https://raw.githubusercontent.com/grpc/grpc/master/TROUBLESHOOTING.md
+  source_archive:
+    member: texts/c95f36aeefed2008dc4666688a8fa576f2272c3c51fcfd3a0a1180e1b80ac219.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 26dd8dfc9366f75ecfd21f9b3e57ecbd85f2d5fbce1d03c287c47005889a2f4d
+  url: ''
+name: root/TROUBLESHOOTING.md
+path: corpus/50ff420aff9b4348bca915b7bbde4ec2/c95f36aeefed2008dc4666688a8fa576f2272c3c51fcfd3a0a1180e1b80ac219.md

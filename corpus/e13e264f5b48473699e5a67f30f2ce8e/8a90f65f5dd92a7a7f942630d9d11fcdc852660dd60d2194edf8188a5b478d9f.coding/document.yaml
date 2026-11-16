@@ -1,0 +1,26 @@
+hash: 03fcb1ebf9606edfa2a985a785ffdec22f5bd2c5d34de9fc8fdbb1c7276c2951
+id: ca9d575f-734a-4978-8186-63aa7e741d80
+metadata:
+  import_document_id: osssaysno:hatchet-dev/hatchet:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:19+00:00'
+    id: osssaysno:github.com/hatchet-dev/hatchet:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/hatchet-dev/hatchet/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/hatchet-dev/hatchet/main/AGENTS.md
+    role: repository_root_document
+    sha256: 03fcb1ebf9606edfa2a985a785ffdec22f5bd2c5d34de9fc8fdbb1c7276c2951
+    snapshot: data/osssaysno/policies/hatchet-dev/hatchet/root/AGENTS.md
+    status: downloaded
+    text_sha256: 03fcb1ebf9606edfa2a985a785ffdec22f5bd2c5d34de9fc8fdbb1c7276c2951
+    url: https://raw.githubusercontent.com/hatchet-dev/hatchet/main/AGENTS.md
+  source_archive:
+    member: texts/8a90f65f5dd92a7a7f942630d9d11fcdc852660dd60d2194edf8188a5b478d9f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 03fcb1ebf9606edfa2a985a785ffdec22f5bd2c5d34de9fc8fdbb1c7276c2951
+  url: ''
+name: root/AGENTS.md
+path: corpus/e13e264f5b48473699e5a67f30f2ce8e/8a90f65f5dd92a7a7f942630d9d11fcdc852660dd60d2194edf8188a5b478d9f.md

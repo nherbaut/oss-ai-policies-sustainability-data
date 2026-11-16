@@ -1,0 +1,26 @@
+hash: 3d3dbc75cf36ccf6a1dfa4522c50a12b9d88e98ff9d416742d82ecdeea6d94cf
+id: b01efd9b-22d0-419b-b33b-a2e29270fa68
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:root/readme.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:23+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/readme.md
+    import_slot: root/readme.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/readme.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/readme.md
+    role: repository_root_document
+    sha256: 3d3dbc75cf36ccf6a1dfa4522c50a12b9d88e98ff9d416742d82ecdeea6d94cf
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/readme.md
+    status: downloaded
+    text_sha256: 3d3dbc75cf36ccf6a1dfa4522c50a12b9d88e98ff9d416742d82ecdeea6d94cf
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/readme.md
+  source_archive:
+    member: texts/f7fd7b2678f50b2ca90ba34bf895ceb38190f954c93d85ee402f0f6ae16b9fda.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3d3dbc75cf36ccf6a1dfa4522c50a12b9d88e98ff9d416742d82ecdeea6d94cf
+  url: ''
+name: root/readme.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/f7fd7b2678f50b2ca90ba34bf895ceb38190f954c93d85ee402f0f6ae16b9fda.md

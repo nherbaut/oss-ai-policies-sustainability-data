@@ -1,0 +1,26 @@
+hash: 7ac084a62ab18f51564f83d3c3a1812aa2bfb5aee696b6d7d59741baad4e7fda
+id: 53bb8d7f-5c08-465b-8140-a3d1d0abe1fd
+metadata:
+  import_document_id: osssaysno:lightgbm-org/lightgbm:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:56+00:00'
+    id: osssaysno:github.com/lightgbm-org/lightgbm:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/lightgbm-org/lightgbm/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/SECURITY.md
+    role: repository_root_document
+    sha256: 7ac084a62ab18f51564f83d3c3a1812aa2bfb5aee696b6d7d59741baad4e7fda
+    snapshot: data/osssaysno/policies/lightgbm-org/lightgbm/root/SECURITY.md
+    status: downloaded
+    text_sha256: 7ac084a62ab18f51564f83d3c3a1812aa2bfb5aee696b6d7d59741baad4e7fda
+    url: https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/SECURITY.md
+  source_archive:
+    member: texts/eda82218357823f16ce1386a4fbbcea21ed54c0a5b8e2432987d9d06419ef7a5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7ac084a62ab18f51564f83d3c3a1812aa2bfb5aee696b6d7d59741baad4e7fda
+  url: ''
+name: root/SECURITY.md
+path: corpus/0153c401adfa4f44829327a452f86e3b/eda82218357823f16ce1386a4fbbcea21ed54c0a5b8e2432987d9d06419ef7a5.md

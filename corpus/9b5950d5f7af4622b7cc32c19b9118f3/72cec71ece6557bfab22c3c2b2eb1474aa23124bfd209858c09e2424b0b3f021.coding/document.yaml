@@ -1,0 +1,26 @@
+hash: 51d190b9ef7481d18845e269bcd10b6005355f50512cb93ac77e982fe59bfa90
+id: 9c8e14fc-9571-4627-b1fb-f7d5117bb3a8
+metadata:
+  import_document_id: osssaysno:yargs/yargs:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:15+00:00'
+    id: osssaysno:github.com/yargs/yargs:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/yargs/yargs/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/yargs/yargs/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 51d190b9ef7481d18845e269bcd10b6005355f50512cb93ac77e982fe59bfa90
+    snapshot: data/osssaysno/policies/yargs/yargs/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 51d190b9ef7481d18845e269bcd10b6005355f50512cb93ac77e982fe59bfa90
+    url: https://raw.githubusercontent.com/yargs/yargs/main/CHANGELOG.md
+  source_archive:
+    member: texts/72cec71ece6557bfab22c3c2b2eb1474aa23124bfd209858c09e2424b0b3f021.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 51d190b9ef7481d18845e269bcd10b6005355f50512cb93ac77e982fe59bfa90
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/9b5950d5f7af4622b7cc32c19b9118f3/72cec71ece6557bfab22c3c2b2eb1474aa23124bfd209858c09e2424b0b3f021.md

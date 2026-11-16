@@ -1,0 +1,26 @@
+hash: 5adacd616aaeab770dcf438b09488a8d9849824c709a5f66ae835cb6a43a7547
+id: 50fc8a6e-eebf-4b85-86a9-ba8423530a22
+metadata:
+  import_document_id: osssaysno:kunagent/kun:root/SECURITY.zh-CN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:37+00:00'
+    id: osssaysno:github.com/kunagent/kun:root/SECURITY.zh-CN.md
+    import_slot: root/SECURITY.zh-CN.md
+    raw_snapshot: data/osssaysno/policies/kunagent/kun/root/raw/SECURITY.zh-CN.md
+    resolved_url: https://raw.githubusercontent.com/KunAgent/Kun/master/SECURITY.zh-CN.md
+    role: repository_root_document
+    sha256: 5adacd616aaeab770dcf438b09488a8d9849824c709a5f66ae835cb6a43a7547
+    snapshot: data/osssaysno/policies/kunagent/kun/root/SECURITY.zh-CN.md
+    status: downloaded
+    text_sha256: 5adacd616aaeab770dcf438b09488a8d9849824c709a5f66ae835cb6a43a7547
+    url: https://raw.githubusercontent.com/KunAgent/Kun/master/SECURITY.zh-CN.md
+  source_archive:
+    member: texts/ec4acbaa90db4125087e9a11730b5ca1321250f329cd258a5956e8135e70d92c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5adacd616aaeab770dcf438b09488a8d9849824c709a5f66ae835cb6a43a7547
+  url: ''
+name: root/SECURITY.zh-CN.md
+path: corpus/64a7dfee45914169954b7d45c207c06c/ec4acbaa90db4125087e9a11730b5ca1321250f329cd258a5956e8135e70d92c.md

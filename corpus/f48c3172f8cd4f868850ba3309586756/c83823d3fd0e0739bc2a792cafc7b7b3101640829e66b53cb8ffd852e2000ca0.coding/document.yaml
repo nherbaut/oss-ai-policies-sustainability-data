@@ -1,0 +1,26 @@
+hash: 964f9f1af600859957aef38477ec6ecfcd25cd53c72d6ab441ad456c10609ffd
+id: 63d366e9-f7cc-48e1-852b-8ac485e1156a
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/CHANGES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:11+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/CHANGES.md
+    import_slot: root/CHANGES.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/CHANGES.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/CHANGES.md
+    role: repository_root_document
+    sha256: 964f9f1af600859957aef38477ec6ecfcd25cd53c72d6ab441ad456c10609ffd
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/CHANGES.md
+    status: downloaded
+    text_sha256: 964f9f1af600859957aef38477ec6ecfcd25cd53c72d6ab441ad456c10609ffd
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/CHANGES.md
+  source_archive:
+    member: texts/c83823d3fd0e0739bc2a792cafc7b7b3101640829e66b53cb8ffd852e2000ca0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 964f9f1af600859957aef38477ec6ecfcd25cd53c72d6ab441ad456c10609ffd
+  url: ''
+name: root/CHANGES.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/c83823d3fd0e0739bc2a792cafc7b7b3101640829e66b53cb8ffd852e2000ca0.md

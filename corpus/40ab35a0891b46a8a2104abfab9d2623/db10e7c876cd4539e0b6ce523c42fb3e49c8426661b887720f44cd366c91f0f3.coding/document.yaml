@@ -1,0 +1,26 @@
+hash: 8db10fc750d23aa87ed94fda4f1b9ffd581aa6a074e192f871e8ee7456f88f58
+id: ba523424-9419-4b1b-a2be-be8575ac1290
+metadata:
+  import_document_id: osssaysno:analogj/scrutiny:root/REFERENCES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:16+00:00'
+    id: osssaysno:github.com/analogj/scrutiny:root/REFERENCES.md
+    import_slot: root/REFERENCES.md
+    raw_snapshot: data/osssaysno/policies/analogj/scrutiny/root/raw/REFERENCES.md
+    resolved_url: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/REFERENCES.md
+    role: repository_root_document
+    sha256: 8db10fc750d23aa87ed94fda4f1b9ffd581aa6a074e192f871e8ee7456f88f58
+    snapshot: data/osssaysno/policies/analogj/scrutiny/root/REFERENCES.md
+    status: downloaded
+    text_sha256: 8db10fc750d23aa87ed94fda4f1b9ffd581aa6a074e192f871e8ee7456f88f58
+    url: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/REFERENCES.md
+  source_archive:
+    member: texts/db10e7c876cd4539e0b6ce523c42fb3e49c8426661b887720f44cd366c91f0f3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8db10fc750d23aa87ed94fda4f1b9ffd581aa6a074e192f871e8ee7456f88f58
+  url: ''
+name: root/REFERENCES.md
+path: corpus/40ab35a0891b46a8a2104abfab9d2623/db10e7c876cd4539e0b6ce523c42fb3e49c8426661b887720f44cd366c91f0f3.md

@@ -1,0 +1,26 @@
+hash: 327a67ba2a1e40eb169587bb825f749e8bb07cddd5ad2f00b780c3e16988f801
+id: 8ec1682c-3b48-4b3c-aa2a-692ad0078017
+metadata:
+  import_document_id: osssaysno:py-pdf/pypdf:root/CONTRIBUTORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:19+00:00'
+    id: osssaysno:github.com/py-pdf/pypdf:root/CONTRIBUTORS.md
+    import_slot: root/CONTRIBUTORS.md
+    raw_snapshot: data/osssaysno/policies/py-pdf/pypdf/root/raw/CONTRIBUTORS.md
+    resolved_url: https://raw.githubusercontent.com/py-pdf/pypdf/main/CONTRIBUTORS.md
+    role: repository_root_document
+    sha256: 327a67ba2a1e40eb169587bb825f749e8bb07cddd5ad2f00b780c3e16988f801
+    snapshot: data/osssaysno/policies/py-pdf/pypdf/root/CONTRIBUTORS.md
+    status: downloaded
+    text_sha256: 327a67ba2a1e40eb169587bb825f749e8bb07cddd5ad2f00b780c3e16988f801
+    url: https://raw.githubusercontent.com/py-pdf/pypdf/main/CONTRIBUTORS.md
+  source_archive:
+    member: texts/c4f52f2dc839051654f2430822e0888a845b600a00902112ff802ff01beb33d6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 327a67ba2a1e40eb169587bb825f749e8bb07cddd5ad2f00b780c3e16988f801
+  url: ''
+name: root/CONTRIBUTORS.md
+path: corpus/114c2a22aca7414b971b3af9f58e8ada/c4f52f2dc839051654f2430822e0888a845b600a00902112ff802ff01beb33d6.md

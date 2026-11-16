@@ -1,0 +1,27 @@
+hash: 0a062da05118ddfc7a5621892e9d82d87b676c2ef9b32f14849f8f0008afecaa
+id: 817935f6-7dd4-4022-9189-30b4fbe18451
+metadata:
+  import_document_id: osssaysno:debpalash/voicestudio:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:22+00:00'
+    id: osssaysno:github.com/debpalash/voicestudio:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/debpalash/voicestudio/root/raw/CHANGELOG.md
+    recovered_at: '2026-11-15T23:25:45+00:00'
+    resolved_url: https://raw.githubusercontent.com/debpalash/VoiceStudio/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 0a062da05118ddfc7a5621892e9d82d87b676c2ef9b32f14849f8f0008afecaa
+    snapshot: data/osssaysno/policies/debpalash/voicestudio/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 0a062da05118ddfc7a5621892e9d82d87b676c2ef9b32f14849f8f0008afecaa
+    url: https://raw.githubusercontent.com/debpalash/VoiceStudio/main/CHANGELOG.md
+  source_archive:
+    member: texts/0a46e7c73cd6b0643f324ed0477ab2259a5d0d9f7ac5f305c0a61605a7363bc5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0a062da05118ddfc7a5621892e9d82d87b676c2ef9b32f14849f8f0008afecaa
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/b9dd6666b9354098a0cd907bd3aa1242/0a46e7c73cd6b0643f324ed0477ab2259a5d0d9f7ac5f305c0a61605a7363bc5.md

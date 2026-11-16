@@ -1,0 +1,26 @@
+hash: 816156d80903369e3fa8b00ed121251517b957eb5ba2c07a6abe343e277182fc
+id: ed305d12-9262-4b17-bd63-a106661cc161
+metadata:
+  import_document_id: osssaysno:azure/azure-sdk-for-python:root/SUPPORT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:06+00:00'
+    id: osssaysno:github.com/azure/azure-sdk-for-python:root/SUPPORT.md
+    import_slot: root/SUPPORT.md
+    raw_snapshot: data/osssaysno/policies/azure/azure-sdk-for-python/root/raw/SUPPORT.md
+    resolved_url: https://raw.githubusercontent.com/Azure/azure-sdk-for-python/main/SUPPORT.md
+    role: repository_root_document
+    sha256: 816156d80903369e3fa8b00ed121251517b957eb5ba2c07a6abe343e277182fc
+    snapshot: data/osssaysno/policies/azure/azure-sdk-for-python/root/SUPPORT.md
+    status: downloaded
+    text_sha256: 816156d80903369e3fa8b00ed121251517b957eb5ba2c07a6abe343e277182fc
+    url: https://raw.githubusercontent.com/Azure/azure-sdk-for-python/main/SUPPORT.md
+  source_archive:
+    member: texts/0ef9d8be5c51fc0add287e0671d71d53157c7bbb97d91255a69ed78ad82330b3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 816156d80903369e3fa8b00ed121251517b957eb5ba2c07a6abe343e277182fc
+  url: ''
+name: root/SUPPORT.md
+path: corpus/ff140444a8964eb2b0530d29b6b4b2f1/0ef9d8be5c51fc0add287e0671d71d53157c7bbb97d91255a69ed78ad82330b3.md

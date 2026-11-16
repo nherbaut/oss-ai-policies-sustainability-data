@@ -1,0 +1,26 @@
+hash: cef2cec1646de81f622e3916a6edb518d72aea1481ae59cb7f3ce4842ff3fa8c
+id: 95305fc6-d484-4d5c-b4c0-addba47d019a
+metadata:
+  import_document_id: osssaysno:nodejs/node:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:17+00:00'
+    id: osssaysno:github.com/nodejs/node:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/nodejs/node/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/nodejs/node/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: cef2cec1646de81f622e3916a6edb518d72aea1481ae59cb7f3ce4842ff3fa8c
+    snapshot: data/osssaysno/policies/nodejs/node/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: cef2cec1646de81f622e3916a6edb518d72aea1481ae59cb7f3ce4842ff3fa8c
+    url: https://raw.githubusercontent.com/nodejs/node/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/9c4ea527264144b198307c93b08adb60f365725878cae68a95f3989e630cf8a9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cef2cec1646de81f622e3916a6edb518d72aea1481ae59cb7f3ce4842ff3fa8c
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/77cedc800d4241619f12a7104b9779d7/9c4ea527264144b198307c93b08adb60f365725878cae68a95f3989e630cf8a9.md

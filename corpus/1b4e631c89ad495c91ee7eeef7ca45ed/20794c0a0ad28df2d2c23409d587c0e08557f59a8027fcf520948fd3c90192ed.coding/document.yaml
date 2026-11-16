@@ -1,0 +1,26 @@
+hash: 6bdfb06ae23ec34aadcc5a26726d64f11ac577d95801d171ee175d2537ac3aa3
+id: deb5c8ab-90cd-463c-afb3-aceb7485a913
+metadata:
+  import_document_id: osssaysno:nasa/fprime:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:03+00:00'
+    id: osssaysno:github.com/nasa/fprime:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/nasa/fprime/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/nasa/fprime/devel/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 6bdfb06ae23ec34aadcc5a26726d64f11ac577d95801d171ee175d2537ac3aa3
+    snapshot: data/osssaysno/policies/nasa/fprime/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 6bdfb06ae23ec34aadcc5a26726d64f11ac577d95801d171ee175d2537ac3aa3
+    url: https://raw.githubusercontent.com/nasa/fprime/devel/CONTRIBUTING.md
+  source_archive:
+    member: texts/20794c0a0ad28df2d2c23409d587c0e08557f59a8027fcf520948fd3c90192ed.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6bdfb06ae23ec34aadcc5a26726d64f11ac577d95801d171ee175d2537ac3aa3
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/1b4e631c89ad495c91ee7eeef7ca45ed/20794c0a0ad28df2d2c23409d587c0e08557f59a8027fcf520948fd3c90192ed.md

@@ -1,0 +1,37 @@
+hash: 6903f99e52f8d2ca46294eeee93fd26f6f094433d3dd755e716692c2b4ada973
+id: 228546a6-41e1-42a0-96b1-b91e04c2982c
+metadata:
+  import_document_id: osssaysno:apache/shardingsphere:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:43+00:00'
+    id: osssaysno:github.com/apache/shardingsphere:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/apache/shardingsphere/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/apache/shardingsphere/master/AGENTS.md
+    role: repository_root_document
+    sha256: 6903f99e52f8d2ca46294eeee93fd26f6f094433d3dd755e716692c2b4ada973
+    snapshot: data/osssaysno/policies/apache/shardingsphere/root/AGENTS.md
+    status: downloaded
+    text_sha256: 6903f99e52f8d2ca46294eeee93fd26f6f094433d3dd755e716692c2b4ada973
+    url: https://raw.githubusercontent.com/apache/shardingsphere/master/AGENTS.md
+  - accessed_at: '2026-11-15T23:28:43+00:00'
+    id: osssaysno:github.com/apache/shardingsphere:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/apache/shardingsphere/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/apache/shardingsphere/master/AGENTS.md
+    role: repository_root_document
+    sha256: 6903f99e52f8d2ca46294eeee93fd26f6f094433d3dd755e716692c2b4ada973
+    snapshot: data/osssaysno/policies/apache/shardingsphere/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 6903f99e52f8d2ca46294eeee93fd26f6f094433d3dd755e716692c2b4ada973
+    url: https://raw.githubusercontent.com/apache/shardingsphere/master/CLAUDE.md
+  source_archive:
+    member: texts/3dbed2533509d52fa93ccd0aa4839c78a8853b36e192ae503d02dc519677c907.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6903f99e52f8d2ca46294eeee93fd26f6f094433d3dd755e716692c2b4ada973
+  url: ''
+name: root/AGENTS.md
+path: corpus/77092c2471c14ef78d7293bcebb77978/3dbed2533509d52fa93ccd0aa4839c78a8853b36e192ae503d02dc519677c907.md

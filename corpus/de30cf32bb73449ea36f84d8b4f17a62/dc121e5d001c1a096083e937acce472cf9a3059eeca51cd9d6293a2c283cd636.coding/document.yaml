@@ -1,0 +1,26 @@
+hash: 488de06f67b4773a926fbb94e22a93ce4b5f499ba877f4d47add4179375cf1f8
+id: e19301a9-78cd-4526-8bf2-b63ce85210c8
+metadata:
+  import_document_id: osssaysno:agones-dev/agones:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:06+00:00'
+    id: osssaysno:github.com/agones-dev/agones:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/agones-dev/agones/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/agones-dev/agones/main/AGENTS.md
+    role: repository_root_document
+    sha256: 488de06f67b4773a926fbb94e22a93ce4b5f499ba877f4d47add4179375cf1f8
+    snapshot: data/osssaysno/policies/agones-dev/agones/root/AGENTS.md
+    status: downloaded
+    text_sha256: 488de06f67b4773a926fbb94e22a93ce4b5f499ba877f4d47add4179375cf1f8
+    url: https://raw.githubusercontent.com/agones-dev/agones/main/AGENTS.md
+  source_archive:
+    member: texts/dc121e5d001c1a096083e937acce472cf9a3059eeca51cd9d6293a2c283cd636.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 488de06f67b4773a926fbb94e22a93ce4b5f499ba877f4d47add4179375cf1f8
+  url: ''
+name: root/AGENTS.md
+path: corpus/de30cf32bb73449ea36f84d8b4f17a62/dc121e5d001c1a096083e937acce472cf9a3059eeca51cd9d6293a2c283cd636.md

@@ -1,0 +1,26 @@
+hash: 6835fd31085fa6f6ebc05a4fab7b587076f8e6579587fc24665e59c1421c6fba
+id: 060b3a31-6b06-4943-9c51-b4a004cd1dbc
+metadata:
+  import_document_id: osssaysno:pycaret/pycaret:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:29+00:00'
+    id: osssaysno:github.com/pycaret/pycaret:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/pycaret/pycaret/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/pycaret/pycaret/main/AGENTS.md
+    role: repository_root_document
+    sha256: 6835fd31085fa6f6ebc05a4fab7b587076f8e6579587fc24665e59c1421c6fba
+    snapshot: data/osssaysno/policies/pycaret/pycaret/root/AGENTS.md
+    status: downloaded
+    text_sha256: 6835fd31085fa6f6ebc05a4fab7b587076f8e6579587fc24665e59c1421c6fba
+    url: https://raw.githubusercontent.com/pycaret/pycaret/main/AGENTS.md
+  source_archive:
+    member: texts/6fad33ba0627b7996382094d78b4a915ca8a3d0c9fd8c85eb15da18fb76f101e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6835fd31085fa6f6ebc05a4fab7b587076f8e6579587fc24665e59c1421c6fba
+  url: ''
+name: root/AGENTS.md
+path: corpus/b1fe25fc11f840bda246c908721df056/6fad33ba0627b7996382094d78b4a915ca8a3d0c9fd8c85eb15da18fb76f101e.md

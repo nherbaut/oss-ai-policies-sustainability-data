@@ -1,0 +1,26 @@
+hash: 2a8e29af0f2654036947ee3377c8dc3e10cc10d6a5ec2cb253b58fe1e8402603
+id: e95e64bf-7db1-4b7d-b5af-dc6b7386497b
+metadata:
+  import_document_id: osssaysno:fluxcd/flux2:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:11+00:00'
+    id: osssaysno:github.com/fluxcd/flux2:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/fluxcd/flux2/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/fluxcd/flux2/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 2a8e29af0f2654036947ee3377c8dc3e10cc10d6a5ec2cb253b58fe1e8402603
+    snapshot: data/osssaysno/policies/fluxcd/flux2/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 2a8e29af0f2654036947ee3377c8dc3e10cc10d6a5ec2cb253b58fe1e8402603
+    url: https://raw.githubusercontent.com/fluxcd/flux2/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/b3e3065e05ccb11d18bf6f62629b3b59f1b1422e9bb63e11cb6468274c7e873d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2a8e29af0f2654036947ee3377c8dc3e10cc10d6a5ec2cb253b58fe1e8402603
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/2dc19e086c064c8f82e947f0921cd7f8/b3e3065e05ccb11d18bf6f62629b3b59f1b1422e9bb63e11cb6468274c7e873d.md

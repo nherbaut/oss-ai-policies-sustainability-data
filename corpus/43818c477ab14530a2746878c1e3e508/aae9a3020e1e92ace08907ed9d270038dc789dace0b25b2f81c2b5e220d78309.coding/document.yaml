@@ -1,0 +1,26 @@
+hash: 601f221c60b8045172d676eafc5113649a7f4abff3454a6db7b5492a3ad7e6f1
+id: 7e9a2de2-3452-4589-a70f-f2a1a0f35698
+metadata:
+  import_document_id: osssaysno:jashkenas/backbone:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:16+00:00'
+    id: osssaysno:github.com/jashkenas/backbone:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/jashkenas/backbone/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/jashkenas/backbone/master/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 601f221c60b8045172d676eafc5113649a7f4abff3454a6db7b5492a3ad7e6f1
+    snapshot: data/osssaysno/policies/jashkenas/backbone/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 601f221c60b8045172d676eafc5113649a7f4abff3454a6db7b5492a3ad7e6f1
+    url: https://raw.githubusercontent.com/jashkenas/backbone/master/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/aae9a3020e1e92ace08907ed9d270038dc789dace0b25b2f81c2b5e220d78309.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 601f221c60b8045172d676eafc5113649a7f4abff3454a6db7b5492a3ad7e6f1
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/43818c477ab14530a2746878c1e3e508/aae9a3020e1e92ace08907ed9d270038dc789dace0b25b2f81c2b5e220d78309.md

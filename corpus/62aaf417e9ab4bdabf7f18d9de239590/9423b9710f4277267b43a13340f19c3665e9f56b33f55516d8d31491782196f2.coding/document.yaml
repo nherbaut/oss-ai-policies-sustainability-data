@@ -1,0 +1,37 @@
+hash: fcf6455a4f07d42ed3a1eb57639355186743684770e21c428ee715a00c5b1894
+id: bb6177bc-66b5-4479-abc0-373e9225599c
+metadata:
+  import_document_id: osssaysno:stanfordnlp/stanza:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:42+00:00'
+    id: osssaysno:github.com/stanfordnlp/stanza:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/stanfordnlp/stanza/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/stanfordnlp/stanza/main/CONTRIBUTING.md
+    role: contributing
+    sha256: fcf6455a4f07d42ed3a1eb57639355186743684770e21c428ee715a00c5b1894
+    snapshot: data/osssaysno/policies/stanfordnlp/stanza/contributing.md
+    status: downloaded
+    text_sha256: fcf6455a4f07d42ed3a1eb57639355186743684770e21c428ee715a00c5b1894
+    url: https://github.com/stanfordnlp/stanza/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:34+00:00'
+    id: osssaysno:github.com/stanfordnlp/stanza:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/stanfordnlp/stanza/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/stanfordnlp/stanza/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: fcf6455a4f07d42ed3a1eb57639355186743684770e21c428ee715a00c5b1894
+    snapshot: data/osssaysno/policies/stanfordnlp/stanza/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: fcf6455a4f07d42ed3a1eb57639355186743684770e21c428ee715a00c5b1894
+    url: https://raw.githubusercontent.com/stanfordnlp/stanza/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/9423b9710f4277267b43a13340f19c3665e9f56b33f55516d8d31491782196f2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fcf6455a4f07d42ed3a1eb57639355186743684770e21c428ee715a00c5b1894
+  url: ''
+name: contributing.md
+path: corpus/62aaf417e9ab4bdabf7f18d9de239590/9423b9710f4277267b43a13340f19c3665e9f56b33f55516d8d31491782196f2.md

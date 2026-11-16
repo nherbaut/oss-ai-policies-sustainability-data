@@ -1,0 +1,26 @@
+hash: 303748c3ec1887db410eff01cdeb0ab3d7c943295d461b2bdbe2a428cad5365e
+id: 4af0c9e6-b520-4799-9186-8272ab06e628
+metadata:
+  import_document_id: osssaysno:dubzzz/fast-check:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:27+00:00'
+    id: osssaysno:github.com/dubzzz/fast-check:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/dubzzz/fast-check/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/dubzzz/fast-check/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 303748c3ec1887db410eff01cdeb0ab3d7c943295d461b2bdbe2a428cad5365e
+    snapshot: data/osssaysno/policies/dubzzz/fast-check/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 303748c3ec1887db410eff01cdeb0ab3d7c943295d461b2bdbe2a428cad5365e
+    url: https://raw.githubusercontent.com/dubzzz/fast-check/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/68b9f31266fac08ca347903525aa37f986a8e6871884ffee892344bf376eb1d5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 303748c3ec1887db410eff01cdeb0ab3d7c943295d461b2bdbe2a428cad5365e
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/b1f2f14866d74b6e9d059f3a2cebf288/68b9f31266fac08ca347903525aa37f986a8e6871884ffee892344bf376eb1d5.md

@@ -1,0 +1,26 @@
+hash: f8cc13c5f82e8b713c6ae58587677f08c7585714755ccd9c7eaa80d590d7796f
+id: 23e0cdad-493b-4422-b009-6c081f674216
+metadata:
+  import_document_id: osssaysno:wilsonfreitas/awesome-quant:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:12+00:00'
+    id: osssaysno:github.com/wilsonfreitas/awesome-quant:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/wilsonfreitas/awesome-quant/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/wilsonfreitas/awesome-quant/main/AGENTS.md
+    role: repository_root_document
+    sha256: f8cc13c5f82e8b713c6ae58587677f08c7585714755ccd9c7eaa80d590d7796f
+    snapshot: data/osssaysno/policies/wilsonfreitas/awesome-quant/root/AGENTS.md
+    status: downloaded
+    text_sha256: f8cc13c5f82e8b713c6ae58587677f08c7585714755ccd9c7eaa80d590d7796f
+    url: https://raw.githubusercontent.com/wilsonfreitas/awesome-quant/main/AGENTS.md
+  source_archive:
+    member: texts/dba01713be97517e4983bb37dd7d65f7179b4025a0a5fd7460f0f5d6e3706f75.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f8cc13c5f82e8b713c6ae58587677f08c7585714755ccd9c7eaa80d590d7796f
+  url: ''
+name: root/AGENTS.md
+path: corpus/9afccbe2f1e14bb7bc07916899770ed2/dba01713be97517e4983bb37dd7d65f7179b4025a0a5fd7460f0f5d6e3706f75.md

@@ -1,0 +1,26 @@
+hash: 66ba1d20ee60ee65b1bc5ab56f6a78adee1e943a4c31f13ad528e5d1443871dc
+id: de3c8731-5654-4e9b-94ce-82a2503d8faa
+metadata:
+  import_document_id: osssaysno:lightgbm-org/lightgbm:root/MAINTAINING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:55+00:00'
+    id: osssaysno:github.com/lightgbm-org/lightgbm:root/MAINTAINING.md
+    import_slot: root/MAINTAINING.md
+    raw_snapshot: data/osssaysno/policies/lightgbm-org/lightgbm/root/raw/MAINTAINING.md
+    resolved_url: https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/MAINTAINING.md
+    role: repository_root_document
+    sha256: 66ba1d20ee60ee65b1bc5ab56f6a78adee1e943a4c31f13ad528e5d1443871dc
+    snapshot: data/osssaysno/policies/lightgbm-org/lightgbm/root/MAINTAINING.md
+    status: downloaded
+    text_sha256: 66ba1d20ee60ee65b1bc5ab56f6a78adee1e943a4c31f13ad528e5d1443871dc
+    url: https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/MAINTAINING.md
+  source_archive:
+    member: texts/1272a14e28dcddc2e9143e237c3453ac067ffb8168745c553223b0a6e2ae7eb4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 66ba1d20ee60ee65b1bc5ab56f6a78adee1e943a4c31f13ad528e5d1443871dc
+  url: ''
+name: root/MAINTAINING.md
+path: corpus/0153c401adfa4f44829327a452f86e3b/1272a14e28dcddc2e9143e237c3453ac067ffb8168745c553223b0a6e2ae7eb4.md

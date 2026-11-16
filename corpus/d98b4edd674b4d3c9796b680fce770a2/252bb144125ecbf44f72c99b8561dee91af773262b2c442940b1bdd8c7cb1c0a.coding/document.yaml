@@ -1,0 +1,26 @@
+hash: 35a8bddaa68278302bafee43b4fb937c555a29ee3e093e392ceb4b80b9c3e350
+id: 9e7fe860-1362-45b8-96d6-a57efbabfcde
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:26+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/CLAUDE.md
+    role: repository_root_document
+    sha256: 35a8bddaa68278302bafee43b4fb937c555a29ee3e093e392ceb4b80b9c3e350
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 35a8bddaa68278302bafee43b4fb937c555a29ee3e093e392ceb4b80b9c3e350
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/CLAUDE.md
+  source_archive:
+    member: texts/252bb144125ecbf44f72c99b8561dee91af773262b2c442940b1bdd8c7cb1c0a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 35a8bddaa68278302bafee43b4fb937c555a29ee3e093e392ceb4b80b9c3e350
+  url: ''
+name: root/CLAUDE.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/252bb144125ecbf44f72c99b8561dee91af773262b2c442940b1bdd8c7cb1c0a.md

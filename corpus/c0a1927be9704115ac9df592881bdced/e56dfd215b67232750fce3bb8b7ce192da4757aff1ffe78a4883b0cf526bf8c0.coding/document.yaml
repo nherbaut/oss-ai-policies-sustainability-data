@@ -1,0 +1,26 @@
+hash: 751ad0262671b33c02e02d332ac0128be47cb170931070188dbf92cb2d1d8298
+id: e395c078-724b-4ac2-9737-0855027385ef
+metadata:
+  import_document_id: osssaysno:nvim-tree/nvim-tree.lua:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:08+00:00'
+    id: osssaysno:github.com/nvim-tree/nvim-tree.lua:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/nvim-tree/nvim-tree.lua/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/nvim-tree/nvim-tree.lua/master/README.md
+    role: repository_root_document
+    sha256: 751ad0262671b33c02e02d332ac0128be47cb170931070188dbf92cb2d1d8298
+    snapshot: data/osssaysno/policies/nvim-tree/nvim-tree.lua/root/README.md
+    status: downloaded
+    text_sha256: 751ad0262671b33c02e02d332ac0128be47cb170931070188dbf92cb2d1d8298
+    url: https://raw.githubusercontent.com/nvim-tree/nvim-tree.lua/master/README.md
+  source_archive:
+    member: texts/e56dfd215b67232750fce3bb8b7ce192da4757aff1ffe78a4883b0cf526bf8c0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 751ad0262671b33c02e02d332ac0128be47cb170931070188dbf92cb2d1d8298
+  url: ''
+name: root/README.md
+path: corpus/c0a1927be9704115ac9df592881bdced/e56dfd215b67232750fce3bb8b7ce192da4757aff1ffe78a4883b0cf526bf8c0.md

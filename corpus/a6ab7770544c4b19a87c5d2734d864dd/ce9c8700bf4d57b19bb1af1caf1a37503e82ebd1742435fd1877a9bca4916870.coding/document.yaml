@@ -1,0 +1,26 @@
+hash: 9c1a9121ac9c5a6dd54ad1d9997fe5a75dc7812082fca9732ff73d3ae1efba3b
+id: 34e429b0-4077-47b9-a22d-4d019e4a699d
+metadata:
+  import_document_id: osssaysno:tj/commander.js:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:15+00:00'
+    id: osssaysno:github.com/tj/commander.js:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/tj/commander.js/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/tj/commander.js/master/SECURITY.md
+    role: repository_root_document
+    sha256: 9c1a9121ac9c5a6dd54ad1d9997fe5a75dc7812082fca9732ff73d3ae1efba3b
+    snapshot: data/osssaysno/policies/tj/commander.js/root/SECURITY.md
+    status: downloaded
+    text_sha256: 9c1a9121ac9c5a6dd54ad1d9997fe5a75dc7812082fca9732ff73d3ae1efba3b
+    url: https://raw.githubusercontent.com/tj/commander.js/master/SECURITY.md
+  source_archive:
+    member: texts/ce9c8700bf4d57b19bb1af1caf1a37503e82ebd1742435fd1877a9bca4916870.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9c1a9121ac9c5a6dd54ad1d9997fe5a75dc7812082fca9732ff73d3ae1efba3b
+  url: ''
+name: root/SECURITY.md
+path: corpus/a6ab7770544c4b19a87c5d2734d864dd/ce9c8700bf4d57b19bb1af1caf1a37503e82ebd1742435fd1877a9bca4916870.md

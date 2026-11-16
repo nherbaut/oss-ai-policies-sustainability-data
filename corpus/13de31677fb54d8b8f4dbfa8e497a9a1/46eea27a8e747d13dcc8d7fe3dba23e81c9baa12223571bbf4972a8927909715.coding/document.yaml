@@ -1,0 +1,26 @@
+hash: cc592c3f617582a05d5be2dcf4d151fedc4cff746f5db735f0547c6662a146e2
+id: 1800cf72-e368-4c98-b8c5-6f2af1ead1bb
+metadata:
+  import_document_id: osssaysno:monogame/monogame:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:19+00:00'
+    id: osssaysno:github.com/monogame/monogame:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/monogame/monogame/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/README.md
+    role: repository_root_document
+    sha256: cc592c3f617582a05d5be2dcf4d151fedc4cff746f5db735f0547c6662a146e2
+    snapshot: data/osssaysno/policies/monogame/monogame/root/README.md
+    status: downloaded
+    text_sha256: cc592c3f617582a05d5be2dcf4d151fedc4cff746f5db735f0547c6662a146e2
+    url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/README.md
+  source_archive:
+    member: texts/46eea27a8e747d13dcc8d7fe3dba23e81c9baa12223571bbf4972a8927909715.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cc592c3f617582a05d5be2dcf4d151fedc4cff746f5db735f0547c6662a146e2
+  url: ''
+name: root/README.md
+path: corpus/13de31677fb54d8b8f4dbfa8e497a9a1/46eea27a8e747d13dcc8d7fe3dba23e81c9baa12223571bbf4972a8927909715.md

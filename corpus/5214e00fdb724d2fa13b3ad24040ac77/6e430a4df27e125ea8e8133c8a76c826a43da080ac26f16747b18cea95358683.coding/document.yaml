@@ -1,0 +1,26 @@
+hash: c367638e009ed92ce564549a82b254452974e41c834aa23a8332d4c015feaf66
+id: 4dbf5f2c-0b2a-486d-ba87-373df46f011e
+metadata:
+  import_document_id: osssaysno:heroui-inc/heroui:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:11+00:00'
+    id: osssaysno:github.com/heroui-inc/heroui:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/heroui-inc/heroui/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/packages/react/README.md
+    role: repository_root_document
+    sha256: c367638e009ed92ce564549a82b254452974e41c834aa23a8332d4c015feaf66
+    snapshot: data/osssaysno/policies/heroui-inc/heroui/root/README.md
+    status: downloaded
+    text_sha256: c367638e009ed92ce564549a82b254452974e41c834aa23a8332d4c015feaf66
+    url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/README.md
+  source_archive:
+    member: texts/6e430a4df27e125ea8e8133c8a76c826a43da080ac26f16747b18cea95358683.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c367638e009ed92ce564549a82b254452974e41c834aa23a8332d4c015feaf66
+  url: ''
+name: root/README.md
+path: corpus/5214e00fdb724d2fa13b3ad24040ac77/6e430a4df27e125ea8e8133c8a76c826a43da080ac26f16747b18cea95358683.md

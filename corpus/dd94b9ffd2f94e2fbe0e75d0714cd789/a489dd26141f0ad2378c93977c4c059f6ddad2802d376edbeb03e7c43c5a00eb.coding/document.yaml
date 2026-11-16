@@ -1,0 +1,26 @@
+hash: 56433af4ac3225e51155810630cf41c34c2454443a0ba288039d56e1f7499cdd
+id: 6aa6d2ed-abb6-448b-a70f-0deacf641275
+metadata:
+  import_document_id: osssaysno:nibzard/awesome-agentic-patterns:root/DEPLOYMENT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:46+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:root/DEPLOYMENT.md
+    import_slot: root/DEPLOYMENT.md
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/raw/DEPLOYMENT.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/DEPLOYMENT.md
+    role: repository_root_document
+    sha256: 56433af4ac3225e51155810630cf41c34c2454443a0ba288039d56e1f7499cdd
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/DEPLOYMENT.md
+    status: downloaded
+    text_sha256: 56433af4ac3225e51155810630cf41c34c2454443a0ba288039d56e1f7499cdd
+    url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/DEPLOYMENT.md
+  source_archive:
+    member: texts/a489dd26141f0ad2378c93977c4c059f6ddad2802d376edbeb03e7c43c5a00eb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 56433af4ac3225e51155810630cf41c34c2454443a0ba288039d56e1f7499cdd
+  url: ''
+name: root/DEPLOYMENT.md
+path: corpus/dd94b9ffd2f94e2fbe0e75d0714cd789/a489dd26141f0ad2378c93977c4c059f6ddad2802d376edbeb03e7c43c5a00eb.md

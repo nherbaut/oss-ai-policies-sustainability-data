@@ -1,0 +1,26 @@
+hash: 7457547029c628c6734ff8996bf4b70e18125e5c534743b289b55a2422fa8992
+id: f7233e74-e23b-47b9-a63b-769a7442af48
+metadata:
+  import_document_id: osssaysno:aws/serverless-application-model:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:44+00:00'
+    id: osssaysno:github.com/aws/serverless-application-model:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/aws/serverless-application-model/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/README.md
+    role: repository_root_document
+    sha256: 7457547029c628c6734ff8996bf4b70e18125e5c534743b289b55a2422fa8992
+    snapshot: data/osssaysno/policies/aws/serverless-application-model/root/README.md
+    status: downloaded
+    text_sha256: 7457547029c628c6734ff8996bf4b70e18125e5c534743b289b55a2422fa8992
+    url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/README.md
+  source_archive:
+    member: texts/437651630d8e49a8fbb7fa0dc0719a50742d3f40dc174c0e45bf3c0064910e16.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7457547029c628c6734ff8996bf4b70e18125e5c534743b289b55a2422fa8992
+  url: ''
+name: root/README.md
+path: corpus/732ef170ddad448291659e7e5044a5f9/437651630d8e49a8fbb7fa0dc0719a50742d3f40dc174c0e45bf3c0064910e16.md

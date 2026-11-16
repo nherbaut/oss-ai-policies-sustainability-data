@@ -1,0 +1,37 @@
+hash: f4893f847aacb1d0eb42fa0401c43c71a85f5ed217e76ec2239fd887f3470619
+id: c514e524-7f0b-4499-a120-7e08d4a3125a
+metadata:
+  import_document_id: osssaysno:f3d-app/f3d:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:48+00:00'
+    id: osssaysno:github.com/f3d-app/f3d:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/f3d-app/f3d/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/f3d-app/f3d/master/AI_POLICY.md
+    role: ai_policy
+    sha256: f4893f847aacb1d0eb42fa0401c43c71a85f5ed217e76ec2239fd887f3470619
+    snapshot: data/osssaysno/policies/f3d-app/f3d/ai_policy.md
+    status: downloaded
+    text_sha256: f4893f847aacb1d0eb42fa0401c43c71a85f5ed217e76ec2239fd887f3470619
+    url: https://github.com/f3d-app/f3d/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:04:49+00:00'
+    id: osssaysno:github.com/f3d-app/f3d:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/f3d-app/f3d/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/f3d-app/f3d/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: f4893f847aacb1d0eb42fa0401c43c71a85f5ed217e76ec2239fd887f3470619
+    snapshot: data/osssaysno/policies/f3d-app/f3d/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: f4893f847aacb1d0eb42fa0401c43c71a85f5ed217e76ec2239fd887f3470619
+    url: https://raw.githubusercontent.com/f3d-app/f3d/master/AI_POLICY.md
+  source_archive:
+    member: texts/813a64c2f6f1f9948f1a838ad2717ec20c03ca22e9d01d004ced56a411679a2d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f4893f847aacb1d0eb42fa0401c43c71a85f5ed217e76ec2239fd887f3470619
+  url: ''
+name: ai_policy.md
+path: corpus/9085e779d17747f293366cb695d0ba8c/813a64c2f6f1f9948f1a838ad2717ec20c03ca22e9d01d004ced56a411679a2d.md

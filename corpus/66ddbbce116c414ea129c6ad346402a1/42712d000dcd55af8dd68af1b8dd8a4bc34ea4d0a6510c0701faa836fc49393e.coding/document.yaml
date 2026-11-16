@@ -1,0 +1,26 @@
+hash: 5887811bcf8720e315cebfcc7ebe62637cc284bf005077dc1a0340a8b97e3b36
+id: 4535d0f3-e7eb-47a5-bc04-1f31d5446d90
+metadata:
+  import_document_id: osssaysno:librosa/librosa:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:06+00:00'
+    id: osssaysno:github.com/librosa/librosa:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/librosa/librosa/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/librosa/librosa/main/README.md
+    role: repository_root_document
+    sha256: 5887811bcf8720e315cebfcc7ebe62637cc284bf005077dc1a0340a8b97e3b36
+    snapshot: data/osssaysno/policies/librosa/librosa/root/README.md
+    status: downloaded
+    text_sha256: 5887811bcf8720e315cebfcc7ebe62637cc284bf005077dc1a0340a8b97e3b36
+    url: https://raw.githubusercontent.com/librosa/librosa/main/README.md
+  source_archive:
+    member: texts/42712d000dcd55af8dd68af1b8dd8a4bc34ea4d0a6510c0701faa836fc49393e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5887811bcf8720e315cebfcc7ebe62637cc284bf005077dc1a0340a8b97e3b36
+  url: ''
+name: root/README.md
+path: corpus/66ddbbce116c414ea129c6ad346402a1/42712d000dcd55af8dd68af1b8dd8a4bc34ea4d0a6510c0701faa836fc49393e.md

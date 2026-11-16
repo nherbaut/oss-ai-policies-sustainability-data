@@ -1,0 +1,26 @@
+hash: b85dc9ea7e286e489707486fc7ef7963e0734ef3077f03c8c9846711df9794b6
+id: 98504b43-39d8-441f-a08e-c2fee61a8c1e
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/ROADMAP.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:35+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/ROADMAP.md
+    import_slot: root/ROADMAP.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/ROADMAP.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/ROADMAP.md
+    role: repository_root_document
+    sha256: b85dc9ea7e286e489707486fc7ef7963e0734ef3077f03c8c9846711df9794b6
+    snapshot: data/osssaysno/policies/grafana/grafana/root/ROADMAP.md
+    status: downloaded
+    text_sha256: b85dc9ea7e286e489707486fc7ef7963e0734ef3077f03c8c9846711df9794b6
+    url: https://raw.githubusercontent.com/grafana/grafana/main/ROADMAP.md
+  source_archive:
+    member: texts/f940732a485cd333cb19f8d1e7715e7e632ac62fb66d771a4bd4b031d8a34337.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b85dc9ea7e286e489707486fc7ef7963e0734ef3077f03c8c9846711df9794b6
+  url: ''
+name: root/ROADMAP.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/f940732a485cd333cb19f8d1e7715e7e632ac62fb66d771a4bd4b031d8a34337.md

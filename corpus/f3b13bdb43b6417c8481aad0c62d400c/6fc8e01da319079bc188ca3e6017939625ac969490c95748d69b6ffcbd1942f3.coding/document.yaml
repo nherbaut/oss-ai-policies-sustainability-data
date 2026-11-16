@@ -1,0 +1,26 @@
+hash: 46855e319b8871d6bcdf0e62485a4297df6572812dc9dcc59ecae097d672e5ef
+id: 39e2cec9-41e0-485c-bcf9-9f1c47f0c16c
+metadata:
+  import_document_id: osssaysno:asciinema/asciinema:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:00+00:00'
+    id: osssaysno:github.com/asciinema/asciinema:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/asciinema/asciinema/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/asciinema/asciinema/develop/CHANGELOG.md
+    role: repository_root_document
+    sha256: 46855e319b8871d6bcdf0e62485a4297df6572812dc9dcc59ecae097d672e5ef
+    snapshot: data/osssaysno/policies/asciinema/asciinema/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 46855e319b8871d6bcdf0e62485a4297df6572812dc9dcc59ecae097d672e5ef
+    url: https://raw.githubusercontent.com/asciinema/asciinema/develop/CHANGELOG.md
+  source_archive:
+    member: texts/6fc8e01da319079bc188ca3e6017939625ac969490c95748d69b6ffcbd1942f3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 46855e319b8871d6bcdf0e62485a4297df6572812dc9dcc59ecae097d672e5ef
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/f3b13bdb43b6417c8481aad0c62d400c/6fc8e01da319079bc188ca3e6017939625ac969490c95748d69b6ffcbd1942f3.md

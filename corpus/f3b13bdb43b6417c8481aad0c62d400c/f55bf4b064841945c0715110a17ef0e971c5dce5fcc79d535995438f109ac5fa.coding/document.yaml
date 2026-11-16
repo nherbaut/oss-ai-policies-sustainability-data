@@ -1,0 +1,26 @@
+hash: 74c5284d8a66d8c478b3509fc8d66150c31260bd6d369688601a428db9ef45b9
+id: 3b877f82-647c-42f7-82da-ae69baf92b20
+metadata:
+  import_document_id: osssaysno:asciinema/asciinema:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:00+00:00'
+    id: osssaysno:github.com/asciinema/asciinema:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/asciinema/asciinema/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/asciinema/asciinema/develop/README.md
+    role: repository_root_document
+    sha256: 74c5284d8a66d8c478b3509fc8d66150c31260bd6d369688601a428db9ef45b9
+    snapshot: data/osssaysno/policies/asciinema/asciinema/root/README.md
+    status: downloaded
+    text_sha256: 74c5284d8a66d8c478b3509fc8d66150c31260bd6d369688601a428db9ef45b9
+    url: https://raw.githubusercontent.com/asciinema/asciinema/develop/README.md
+  source_archive:
+    member: texts/f55bf4b064841945c0715110a17ef0e971c5dce5fcc79d535995438f109ac5fa.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 74c5284d8a66d8c478b3509fc8d66150c31260bd6d369688601a428db9ef45b9
+  url: ''
+name: root/README.md
+path: corpus/f3b13bdb43b6417c8481aad0c62d400c/f55bf4b064841945c0715110a17ef0e971c5dce5fcc79d535995438f109ac5fa.md

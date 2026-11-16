@@ -1,0 +1,26 @@
+hash: 8104ac2d6baffb22b428e9684b90d806d453d63fb2882a8e1c8dafc1dbb2ebc2
+id: 42e731b8-cf79-42cc-b902-0e6d0120343a
+metadata:
+  import_document_id: osssaysno:redot-engine/redot-engine:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:42+00:00'
+    id: osssaysno:github.com/redot-engine/redot-engine:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 8104ac2d6baffb22b428e9684b90d806d453d63fb2882a8e1c8dafc1dbb2ebc2
+    snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 8104ac2d6baffb22b428e9684b90d806d453d63fb2882a8e1c8dafc1dbb2ebc2
+    url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/0283a5e0f488bb9d33c2079f3a849970d22f0f623ee02d8ddc40e1262ba4358f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8104ac2d6baffb22b428e9684b90d806d453d63fb2882a8e1c8dafc1dbb2ebc2
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/0e44d375f5e543048cc4e9ebe43f46d7/0283a5e0f488bb9d33c2079f3a849970d22f0f623ee02d8ddc40e1262ba4358f.md

@@ -1,0 +1,26 @@
+hash: b4cc3cc6031330eb2c7b062bcdfa36ba753cac0eaa9a3c180af7cb16031fa109
+id: 76c6a209-bcd6-4841-874d-09885bdd755a
+metadata:
+  import_document_id: osssaysno:aws/serverless-application-model:root/HOWTO.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:44+00:00'
+    id: osssaysno:github.com/aws/serverless-application-model:root/HOWTO.md
+    import_slot: root/HOWTO.md
+    raw_snapshot: data/osssaysno/policies/aws/serverless-application-model/root/raw/HOWTO.md
+    resolved_url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/HOWTO.md
+    role: repository_root_document
+    sha256: b4cc3cc6031330eb2c7b062bcdfa36ba753cac0eaa9a3c180af7cb16031fa109
+    snapshot: data/osssaysno/policies/aws/serverless-application-model/root/HOWTO.md
+    status: downloaded
+    text_sha256: b4cc3cc6031330eb2c7b062bcdfa36ba753cac0eaa9a3c180af7cb16031fa109
+    url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/HOWTO.md
+  source_archive:
+    member: texts/122b44935fdc07632a2b3a7d2c091eb910c32390d77df7e499285959ed36eb4a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b4cc3cc6031330eb2c7b062bcdfa36ba753cac0eaa9a3c180af7cb16031fa109
+  url: ''
+name: root/HOWTO.md
+path: corpus/732ef170ddad448291659e7e5044a5f9/122b44935fdc07632a2b3a7d2c091eb910c32390d77df7e499285959ed36eb4a.md

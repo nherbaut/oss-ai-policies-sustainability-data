@@ -1,0 +1,81 @@
+hash: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+id: edbb298e-abca-48ec-87e7-a58ebd88b10f
+metadata:
+  import_document_id: osssaysno:valhalla/valhalla:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:30+00:00'
+    id: osssaysno:github.com/valhalla/valhalla:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/valhalla/valhalla/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/valhalla/valhalla/master/CLAUDE.md
+    role: repository_root_document
+    sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    snapshot: data/osssaysno/policies/valhalla/valhalla/root/AGENTS.md
+    status: downloaded
+    text_sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    url: https://raw.githubusercontent.com/valhalla/valhalla/master/AGENTS.md
+  - accessed_at: '2026-11-15T23:37:31+00:00'
+    id: osssaysno:github.com/valhalla/valhalla:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/valhalla/valhalla/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/valhalla/valhalla/master/CLAUDE.md
+    role: repository_root_document
+    sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    snapshot: data/osssaysno/policies/valhalla/valhalla/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    url: https://raw.githubusercontent.com/valhalla/valhalla/master/CLAUDE.md
+  - accessed_at: '2026-11-15T23:37:31+00:00'
+    id: osssaysno:github.com/valhalla/valhalla:root/CODEX.md
+    import_slot: root/CODEX.md
+    raw_snapshot: data/osssaysno/policies/valhalla/valhalla/root/raw/CODEX.md
+    resolved_url: https://raw.githubusercontent.com/valhalla/valhalla/master/CLAUDE.md
+    role: repository_root_document
+    sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    snapshot: data/osssaysno/policies/valhalla/valhalla/root/CODEX.md
+    status: downloaded
+    text_sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    url: https://raw.githubusercontent.com/valhalla/valhalla/master/CODEX.md
+  - accessed_at: '2026-11-15T23:37:32+00:00'
+    id: osssaysno:github.com/valhalla/valhalla:root/COPILOT.md
+    import_slot: root/COPILOT.md
+    raw_snapshot: data/osssaysno/policies/valhalla/valhalla/root/raw/COPILOT.md
+    resolved_url: https://raw.githubusercontent.com/valhalla/valhalla/master/CLAUDE.md
+    role: repository_root_document
+    sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    snapshot: data/osssaysno/policies/valhalla/valhalla/root/COPILOT.md
+    status: downloaded
+    text_sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    url: https://raw.githubusercontent.com/valhalla/valhalla/master/COPILOT.md
+  - accessed_at: '2026-11-15T23:37:32+00:00'
+    id: osssaysno:github.com/valhalla/valhalla:root/CURSOR.md
+    import_slot: root/CURSOR.md
+    raw_snapshot: data/osssaysno/policies/valhalla/valhalla/root/raw/CURSOR.md
+    resolved_url: https://raw.githubusercontent.com/valhalla/valhalla/master/CLAUDE.md
+    role: repository_root_document
+    sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    snapshot: data/osssaysno/policies/valhalla/valhalla/root/CURSOR.md
+    status: downloaded
+    text_sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    url: https://raw.githubusercontent.com/valhalla/valhalla/master/CURSOR.md
+  - accessed_at: '2026-11-15T23:37:33+00:00'
+    id: osssaysno:github.com/valhalla/valhalla:root/GEMINI.md
+    import_slot: root/GEMINI.md
+    raw_snapshot: data/osssaysno/policies/valhalla/valhalla/root/raw/GEMINI.md
+    resolved_url: https://raw.githubusercontent.com/valhalla/valhalla/master/CLAUDE.md
+    role: repository_root_document
+    sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    snapshot: data/osssaysno/policies/valhalla/valhalla/root/GEMINI.md
+    status: downloaded
+    text_sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+    url: https://raw.githubusercontent.com/valhalla/valhalla/master/GEMINI.md
+  source_archive:
+    member: texts/0ee3d6c85712aa9e11ceed260a67ac3eaeb0e594f46b0b1fde7fa5e4272d381a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4ab7e90416a0f1cb20a9a13f0a1947f8c53e97e906a689a56aee2c5516a49161
+  url: ''
+name: root/AGENTS.md
+path: corpus/630810638ca649c29ad30e0baf904285/0ee3d6c85712aa9e11ceed260a67ac3eaeb0e594f46b0b1fde7fa5e4272d381a.md

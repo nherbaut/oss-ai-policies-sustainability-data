@@ -1,0 +1,26 @@
+hash: 9e3d683216e0800f01f95645ef125399548243bd2c1c5b9c869baecad1998158
+id: c986fbe2-2bab-483b-bf8e-37f051987fe0
+metadata:
+  import_document_id: osssaysno:gentleman-programming/gentle-ai:root/TRADEMARKS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:30+00:00'
+    id: osssaysno:github.com/gentleman-programming/gentle-ai:root/TRADEMARKS.md
+    import_slot: root/TRADEMARKS.md
+    raw_snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/root/raw/TRADEMARKS.md
+    resolved_url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/TRADEMARKS.md
+    role: repository_root_document
+    sha256: 9e3d683216e0800f01f95645ef125399548243bd2c1c5b9c869baecad1998158
+    snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/root/TRADEMARKS.md
+    status: downloaded
+    text_sha256: 9e3d683216e0800f01f95645ef125399548243bd2c1c5b9c869baecad1998158
+    url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/TRADEMARKS.md
+  source_archive:
+    member: texts/98cbd3af3ce79b6863eb890f677b2d5d4f65521bc325038b128f8b841685f101.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9e3d683216e0800f01f95645ef125399548243bd2c1c5b9c869baecad1998158
+  url: ''
+name: root/TRADEMARKS.md
+path: corpus/14c0cce1717348668267065887536ca0/98cbd3af3ce79b6863eb890f677b2d5d4f65521bc325038b128f8b841685f101.md

@@ -1,0 +1,26 @@
+hash: bcdaf2014a9b3ee84ceccb43ef8797a3b672353928895565e482911395a019aa
+id: 811c7990-66ab-4338-8061-3006ec19f97c
+metadata:
+  import_document_id: osssaysno:Fedora Project:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:53+00:00'
+    id: osssaysno:https://fedoraproject.org:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/Fedora_Project/raw/ai_policy.html
+    resolved_url: https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/
+    role: ai_policy
+    sha256: cecf701e0ec4c785006dfdfed25f6601743e942e407cbd86d909a03bb6fa87d1
+    snapshot: data/osssaysno/policies/Fedora_Project/ai_policy.md
+    status: downloaded
+    text_sha256: bcdaf2014a9b3ee84ceccb43ef8797a3b672353928895565e482911395a019aa
+    url: https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/
+  source_archive:
+    member: texts/7b93f34bc6dd3bf432ab8e51cfebacffdd2b864695d9f86c5fb8c71e3ff4629b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bcdaf2014a9b3ee84ceccb43ef8797a3b672353928895565e482911395a019aa
+  url: ''
+name: ai_policy.md
+path: corpus/76103573dd834402a566adf89b2b7885/7b93f34bc6dd3bf432ab8e51cfebacffdd2b864695d9f86c5fb8c71e3ff4629b.md

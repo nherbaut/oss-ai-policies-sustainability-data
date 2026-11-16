@@ -1,0 +1,26 @@
+hash: 95e04d2895010163a353674529d47b8c16cf4bab99a95fc45e322197350fd422
+id: 2244ab46-52f5-4bd7-b170-3bab3ab82a56
+metadata:
+  import_document_id: osssaysno:hydro-dev/hydro:root/CLA.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:00+00:00'
+    id: osssaysno:github.com/hydro-dev/hydro:root/CLA.md
+    import_slot: root/CLA.md
+    raw_snapshot: data/osssaysno/policies/hydro-dev/hydro/root/raw/CLA.md
+    resolved_url: https://raw.githubusercontent.com/hydro-dev/Hydro/master/CLA.md
+    role: repository_root_document
+    sha256: 95e04d2895010163a353674529d47b8c16cf4bab99a95fc45e322197350fd422
+    snapshot: data/osssaysno/policies/hydro-dev/hydro/root/CLA.md
+    status: downloaded
+    text_sha256: 95e04d2895010163a353674529d47b8c16cf4bab99a95fc45e322197350fd422
+    url: https://raw.githubusercontent.com/hydro-dev/Hydro/master/CLA.md
+  source_archive:
+    member: texts/df2ad0c33f184f0c4791554a411f4341b96df5e03f936a06cc33d6297b9ddbbc.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 95e04d2895010163a353674529d47b8c16cf4bab99a95fc45e322197350fd422
+  url: ''
+name: root/CLA.md
+path: corpus/ceef7f691fbe4f958ab319cfd8036b64/df2ad0c33f184f0c4791554a411f4341b96df5e03f936a06cc33d6297b9ddbbc.md

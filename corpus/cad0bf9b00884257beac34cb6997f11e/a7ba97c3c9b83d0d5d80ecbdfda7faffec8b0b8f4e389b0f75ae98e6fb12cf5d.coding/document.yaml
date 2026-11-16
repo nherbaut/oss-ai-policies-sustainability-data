@@ -1,0 +1,37 @@
+hash: f63b1590f1f83c2a9838f4db4517d7ff8f1f5571838eccd76cc60daa5de722dc
+id: 632b3721-fe9a-40ea-9f5e-1b7899deb093
+metadata:
+  import_document_id: osssaysno:greptimeteam/greptimedb:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:12+00:00'
+    id: osssaysno:github.com/greptimeteam/greptimedb:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/greptimeteam/greptimedb/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/GreptimeTeam/greptimedb/main/AGENTS.md
+    role: repository_root_document
+    sha256: f63b1590f1f83c2a9838f4db4517d7ff8f1f5571838eccd76cc60daa5de722dc
+    snapshot: data/osssaysno/policies/greptimeteam/greptimedb/root/AGENTS.md
+    status: downloaded
+    text_sha256: f63b1590f1f83c2a9838f4db4517d7ff8f1f5571838eccd76cc60daa5de722dc
+    url: https://raw.githubusercontent.com/GreptimeTeam/greptimedb/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:37:13+00:00'
+    id: osssaysno:github.com/greptimeteam/greptimedb:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/greptimeteam/greptimedb/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/GreptimeTeam/greptimedb/main/AGENTS.md
+    role: repository_root_document
+    sha256: f63b1590f1f83c2a9838f4db4517d7ff8f1f5571838eccd76cc60daa5de722dc
+    snapshot: data/osssaysno/policies/greptimeteam/greptimedb/root/CLAUDE.md
+    status: downloaded
+    text_sha256: f63b1590f1f83c2a9838f4db4517d7ff8f1f5571838eccd76cc60daa5de722dc
+    url: https://raw.githubusercontent.com/GreptimeTeam/greptimedb/main/CLAUDE.md
+  source_archive:
+    member: texts/a7ba97c3c9b83d0d5d80ecbdfda7faffec8b0b8f4e389b0f75ae98e6fb12cf5d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f63b1590f1f83c2a9838f4db4517d7ff8f1f5571838eccd76cc60daa5de722dc
+  url: ''
+name: root/AGENTS.md
+path: corpus/cad0bf9b00884257beac34cb6997f11e/a7ba97c3c9b83d0d5d80ecbdfda7faffec8b0b8f4e389b0f75ae98e6fb12cf5d.md

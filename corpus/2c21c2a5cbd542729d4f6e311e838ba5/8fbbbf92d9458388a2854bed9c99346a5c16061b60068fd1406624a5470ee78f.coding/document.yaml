@@ -1,0 +1,26 @@
+hash: c608482a9457a6a2d9671c455fd818522c7e541317f20b6204eaac87ce1b124c
+id: d7ad92bc-bc01-4c22-a784-b8ca13714451
+metadata:
+  import_document_id: osssaysno:thanos-io/thanos:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:26+00:00'
+    id: osssaysno:github.com/thanos-io/thanos:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/thanos-io/thanos/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/thanos-io/thanos/main/MAINTAINERS.md
+    role: repository_root_document
+    sha256: c608482a9457a6a2d9671c455fd818522c7e541317f20b6204eaac87ce1b124c
+    snapshot: data/osssaysno/policies/thanos-io/thanos/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: c608482a9457a6a2d9671c455fd818522c7e541317f20b6204eaac87ce1b124c
+    url: https://raw.githubusercontent.com/thanos-io/thanos/main/MAINTAINERS.md
+  source_archive:
+    member: texts/8fbbbf92d9458388a2854bed9c99346a5c16061b60068fd1406624a5470ee78f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c608482a9457a6a2d9671c455fd818522c7e541317f20b6204eaac87ce1b124c
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/2c21c2a5cbd542729d4f6e311e838ba5/8fbbbf92d9458388a2854bed9c99346a5c16061b60068fd1406624a5470ee78f.md

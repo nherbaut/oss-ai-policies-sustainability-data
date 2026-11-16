@@ -1,0 +1,26 @@
+hash: 7041cf1e66b54dfc61a1a89bcdf85d0efbb7900efffdc9831860d8f577d5ffea
+id: dcf4a2fc-e711-4b4a-92c9-67820ad5ae1a
+metadata:
+  import_document_id: osssaysno:archlinux/archinstall:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:09+00:00'
+    id: osssaysno:github.com/archlinux/archinstall:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/archlinux/archinstall/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/archlinux/archinstall/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 7041cf1e66b54dfc61a1a89bcdf85d0efbb7900efffdc9831860d8f577d5ffea
+    snapshot: data/osssaysno/policies/archlinux/archinstall/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 7041cf1e66b54dfc61a1a89bcdf85d0efbb7900efffdc9831860d8f577d5ffea
+    url: https://raw.githubusercontent.com/archlinux/archinstall/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/f9e4b73eccca17b7699853a82ecb4a1a38aa9fc7036d709865c4282de1b14717.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7041cf1e66b54dfc61a1a89bcdf85d0efbb7900efffdc9831860d8f577d5ffea
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/7d8e61ed7df546309e7de197bd377f87/f9e4b73eccca17b7699853a82ecb4a1a38aa9fc7036d709865c4282de1b14717.md

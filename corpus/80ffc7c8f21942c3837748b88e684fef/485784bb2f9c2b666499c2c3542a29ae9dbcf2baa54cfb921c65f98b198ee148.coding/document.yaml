@@ -1,0 +1,48 @@
+hash: 51dae99450d69240dbe1a65a40f5d773f2a9d83dbd82da2d31ce36a8d46bbaea
+id: 72f5ec93-7257-4493-bed8-3768c2743270
+metadata:
+  import_document_id: osssaysno:code-yeongyu/oh-my-openagent:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:36+00:00'
+    id: osssaysno:github.com/code-yeongyu/oh-my-openagent:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/raw/agent.md
+    resolved_url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/AGENTS.md
+    role: agent
+    sha256: 51dae99450d69240dbe1a65a40f5d773f2a9d83dbd82da2d31ce36a8d46bbaea
+    snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/agent.md
+    status: downloaded
+    text_sha256: 51dae99450d69240dbe1a65a40f5d773f2a9d83dbd82da2d31ce36a8d46bbaea
+    url: https://github.com/code-yeongyu/oh-my-openagent/blob/dev/AGENTS.md
+  - accessed_at: '2026-11-15T23:03:37+00:00'
+    id: osssaysno:github.com/code-yeongyu/oh-my-openagent:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/AGENTS.md
+    role: repository_root_document
+    sha256: 51dae99450d69240dbe1a65a40f5d773f2a9d83dbd82da2d31ce36a8d46bbaea
+    snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/AGENTS.md
+    status: downloaded
+    text_sha256: 51dae99450d69240dbe1a65a40f5d773f2a9d83dbd82da2d31ce36a8d46bbaea
+    url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/AGENTS.md
+  - accessed_at: '2026-11-15T23:03:38+00:00'
+    id: osssaysno:github.com/code-yeongyu/oh-my-openagent:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/AGENTS.md
+    role: repository_root_document
+    sha256: 51dae99450d69240dbe1a65a40f5d773f2a9d83dbd82da2d31ce36a8d46bbaea
+    snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 51dae99450d69240dbe1a65a40f5d773f2a9d83dbd82da2d31ce36a8d46bbaea
+    url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/CLAUDE.md
+  source_archive:
+    member: texts/485784bb2f9c2b666499c2c3542a29ae9dbcf2baa54cfb921c65f98b198ee148.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 51dae99450d69240dbe1a65a40f5d773f2a9d83dbd82da2d31ce36a8d46bbaea
+  url: ''
+name: agent.md
+path: corpus/80ffc7c8f21942c3837748b88e684fef/485784bb2f9c2b666499c2c3542a29ae9dbcf2baa54cfb921c65f98b198ee148.md

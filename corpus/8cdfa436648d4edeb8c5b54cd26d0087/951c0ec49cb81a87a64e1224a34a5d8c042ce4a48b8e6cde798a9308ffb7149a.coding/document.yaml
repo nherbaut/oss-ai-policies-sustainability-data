@@ -1,0 +1,26 @@
+hash: 00d85307aee52bab9fc57be637f0e2da157e945eba5c79839c440b56c86ac5f1
+id: fd30cfde-f8bf-408d-be8a-a93be5dd302b
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:root/RELEASE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:52+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/RELEASE.md
+    import_slot: root/RELEASE.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/RELEASE.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/RELEASE.md
+    role: repository_root_document
+    sha256: 00d85307aee52bab9fc57be637f0e2da157e945eba5c79839c440b56c86ac5f1
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/RELEASE.md
+    status: downloaded
+    text_sha256: 00d85307aee52bab9fc57be637f0e2da157e945eba5c79839c440b56c86ac5f1
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/RELEASE.md
+  source_archive:
+    member: texts/951c0ec49cb81a87a64e1224a34a5d8c042ce4a48b8e6cde798a9308ffb7149a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 00d85307aee52bab9fc57be637f0e2da157e945eba5c79839c440b56c86ac5f1
+  url: ''
+name: root/RELEASE.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/951c0ec49cb81a87a64e1224a34a5d8c042ce4a48b8e6cde798a9308ffb7149a.md

@@ -1,0 +1,26 @@
+hash: ad0f701b17fb2a7e026fb357397242da58c488f1d60ec7e12c4a9893ec3fe200
+id: c2ce1089-444e-4a7c-a054-c8aa0c21a591
+metadata:
+  import_document_id: osssaysno:monogame/monogame:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:18+00:00'
+    id: osssaysno:github.com/monogame/monogame:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/monogame/monogame/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: ad0f701b17fb2a7e026fb357397242da58c488f1d60ec7e12c4a9893ec3fe200
+    snapshot: data/osssaysno/policies/monogame/monogame/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: ad0f701b17fb2a7e026fb357397242da58c488f1d60ec7e12c4a9893ec3fe200
+    url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/04da2f7011743694ccb6cb6220a4babbbaf18b0cdc8ccec22e35868ceb537c0e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ad0f701b17fb2a7e026fb357397242da58c488f1d60ec7e12c4a9893ec3fe200
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/13de31677fb54d8b8f4dbfa8e497a9a1/04da2f7011743694ccb6cb6220a4babbbaf18b0cdc8ccec22e35868ceb537c0e.md

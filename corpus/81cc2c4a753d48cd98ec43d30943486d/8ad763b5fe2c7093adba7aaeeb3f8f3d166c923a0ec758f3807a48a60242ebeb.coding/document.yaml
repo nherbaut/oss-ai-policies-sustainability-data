@@ -1,0 +1,26 @@
+hash: 6db91cecdff7a360db352e77ad63619911e57a41086ec67c854318ff2dcd05c1
+id: 36587c2e-d2f1-4940-89bd-686c5b29927e
+metadata:
+  import_document_id: osssaysno:nvidia/openshell:root/STYLEGUIDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:50+00:00'
+    id: osssaysno:github.com/nvidia/openshell:root/STYLEGUIDE.md
+    import_slot: root/STYLEGUIDE.md
+    raw_snapshot: data/osssaysno/policies/nvidia/openshell/root/raw/STYLEGUIDE.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/STYLEGUIDE.md
+    role: repository_root_document
+    sha256: 6db91cecdff7a360db352e77ad63619911e57a41086ec67c854318ff2dcd05c1
+    snapshot: data/osssaysno/policies/nvidia/openshell/root/STYLEGUIDE.md
+    status: downloaded
+    text_sha256: 6db91cecdff7a360db352e77ad63619911e57a41086ec67c854318ff2dcd05c1
+    url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/STYLEGUIDE.md
+  source_archive:
+    member: texts/8ad763b5fe2c7093adba7aaeeb3f8f3d166c923a0ec758f3807a48a60242ebeb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6db91cecdff7a360db352e77ad63619911e57a41086ec67c854318ff2dcd05c1
+  url: ''
+name: root/STYLEGUIDE.md
+path: corpus/81cc2c4a753d48cd98ec43d30943486d/8ad763b5fe2c7093adba7aaeeb3f8f3d166c923a0ec758f3807a48a60242ebeb.md

@@ -1,0 +1,26 @@
+hash: 4ee22098e27b178405da17472e880cb5fa2354c8a2c5e54da53c76d149dfcd62
+id: 3130dac1-c9b2-4fe0-8ff8-727b15db48a1
+metadata:
+  import_document_id: osssaysno:babel/babel:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:58+00:00'
+    id: osssaysno:github.com/babel/babel:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/babel/babel/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/babel/babel/main/README.md
+    role: repository_root_document
+    sha256: 4ee22098e27b178405da17472e880cb5fa2354c8a2c5e54da53c76d149dfcd62
+    snapshot: data/osssaysno/policies/babel/babel/root/README.md
+    status: downloaded
+    text_sha256: 4ee22098e27b178405da17472e880cb5fa2354c8a2c5e54da53c76d149dfcd62
+    url: https://raw.githubusercontent.com/babel/babel/main/README.md
+  source_archive:
+    member: texts/7d67fa89f0529cce3af80eefe00eaf05e0b3f6820d74c7bf83a2791bfa91cc6d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4ee22098e27b178405da17472e880cb5fa2354c8a2c5e54da53c76d149dfcd62
+  url: ''
+name: root/README.md
+path: corpus/bab031bddab04550b0bce1a0e995ddd3/7d67fa89f0529cce3af80eefe00eaf05e0b3f6820d74c7bf83a2791bfa91cc6d.md

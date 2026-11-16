@@ -1,0 +1,37 @@
+hash: cdc9a503d2711bb0da95b9ffdc18c82899664f826e1b6d69c4be9bdebba27421
+id: 2d67d216-57f3-48d6-9ffa-f2e4c0813bf6
+metadata:
+  import_document_id: osssaysno:ocaml/ocaml:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:51+00:00'
+    id: osssaysno:github.com/ocaml/ocaml:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/ocaml/ocaml/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/ocaml/ocaml/trunk/CONTRIBUTING.md
+    role: contributing
+    sha256: cdc9a503d2711bb0da95b9ffdc18c82899664f826e1b6d69c4be9bdebba27421
+    snapshot: data/osssaysno/policies/ocaml/ocaml/contributing.md
+    status: downloaded
+    text_sha256: cdc9a503d2711bb0da95b9ffdc18c82899664f826e1b6d69c4be9bdebba27421
+    url: https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:37:21+00:00'
+    id: osssaysno:github.com/ocaml/ocaml:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/ocaml/ocaml/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/ocaml/ocaml/trunk/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: cdc9a503d2711bb0da95b9ffdc18c82899664f826e1b6d69c4be9bdebba27421
+    snapshot: data/osssaysno/policies/ocaml/ocaml/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: cdc9a503d2711bb0da95b9ffdc18c82899664f826e1b6d69c4be9bdebba27421
+    url: https://raw.githubusercontent.com/ocaml/ocaml/trunk/CONTRIBUTING.md
+  source_archive:
+    member: texts/1b63fc2ec25d357d5bb42a3276b6b5a8d621e4075e10385368d549e8f27043c3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cdc9a503d2711bb0da95b9ffdc18c82899664f826e1b6d69c4be9bdebba27421
+  url: ''
+name: contributing.md
+path: corpus/7ad93882b30a4273bbaf94984be71fc8/1b63fc2ec25d357d5bb42a3276b6b5a8d621e4075e10385368d549e8f27043c3.md

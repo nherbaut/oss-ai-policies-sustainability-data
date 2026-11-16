@@ -1,0 +1,26 @@
+hash: 45cd7b5db9716c6b07be8a40cf37098fb9efe9d84756992812bb9c580f1cf5f7
+id: cb8e72dd-dcf2-4cee-abc4-9df84442deaa
+metadata:
+  import_document_id: osssaysno:langchain-ai/langchainjs:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:59+00:00'
+    id: osssaysno:github.com/langchain-ai/langchainjs:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/langchain-ai/langchainjs/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/langchain-ai/langchainjs/main/README.md
+    role: repository_root_document
+    sha256: 45cd7b5db9716c6b07be8a40cf37098fb9efe9d84756992812bb9c580f1cf5f7
+    snapshot: data/osssaysno/policies/langchain-ai/langchainjs/root/README.md
+    status: downloaded
+    text_sha256: 45cd7b5db9716c6b07be8a40cf37098fb9efe9d84756992812bb9c580f1cf5f7
+    url: https://raw.githubusercontent.com/langchain-ai/langchainjs/main/README.md
+  source_archive:
+    member: texts/8ec9ebbc29dd3828f6d5cf01f8d70f5404faa54b6bc8ace720e0e102116b4ae0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 45cd7b5db9716c6b07be8a40cf37098fb9efe9d84756992812bb9c580f1cf5f7
+  url: ''
+name: root/README.md
+path: corpus/d0348a16749e4fb684bf9c0785a95ae0/8ec9ebbc29dd3828f6d5cf01f8d70f5404faa54b6bc8ace720e0e102116b4ae0.md

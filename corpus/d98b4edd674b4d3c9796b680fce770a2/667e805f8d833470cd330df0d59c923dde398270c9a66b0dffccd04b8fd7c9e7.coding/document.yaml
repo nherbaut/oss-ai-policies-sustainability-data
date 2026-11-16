@@ -1,0 +1,37 @@
+hash: b27a2b23201ee9a61a0a0220f9fa9d8f271ddeb1daefb9632a83e30d56010827
+id: deb36356-fda5-4f10-9b1c-10f9af025850
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:27+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/README.md
+    role: repository_root_document
+    sha256: b27a2b23201ee9a61a0a0220f9fa9d8f271ddeb1daefb9632a83e30d56010827
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/README.md
+    status: downloaded
+    text_sha256: b27a2b23201ee9a61a0a0220f9fa9d8f271ddeb1daefb9632a83e30d56010827
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/README.md
+  - accessed_at: '2026-11-15T23:03:27+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/README_EN.md
+    import_slot: root/README_EN.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/README_EN.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/README_EN.md
+    role: repository_root_document
+    sha256: b27a2b23201ee9a61a0a0220f9fa9d8f271ddeb1daefb9632a83e30d56010827
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/README_EN.md
+    status: downloaded
+    text_sha256: b27a2b23201ee9a61a0a0220f9fa9d8f271ddeb1daefb9632a83e30d56010827
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/README_EN.md
+  source_archive:
+    member: texts/667e805f8d833470cd330df0d59c923dde398270c9a66b0dffccd04b8fd7c9e7.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b27a2b23201ee9a61a0a0220f9fa9d8f271ddeb1daefb9632a83e30d56010827
+  url: ''
+name: root/README.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/667e805f8d833470cd330df0d59c923dde398270c9a66b0dffccd04b8fd7c9e7.md

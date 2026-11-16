@@ -1,0 +1,26 @@
+hash: 620b95dae8c777e8e3f9f78089e0abb02dca1df4dd690e558654c9831cc18a2f
+id: 08b6a4a5-6e66-4696-a621-e9ba085c356d
+metadata:
+  import_document_id: osssaysno:qiskit/qiskit:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:31+00:00'
+    id: osssaysno:github.com/qiskit/qiskit:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/qiskit/qiskit/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/Qiskit/qiskit/main/README.md
+    role: repository_root_document
+    sha256: 620b95dae8c777e8e3f9f78089e0abb02dca1df4dd690e558654c9831cc18a2f
+    snapshot: data/osssaysno/policies/qiskit/qiskit/root/README.md
+    status: downloaded
+    text_sha256: 620b95dae8c777e8e3f9f78089e0abb02dca1df4dd690e558654c9831cc18a2f
+    url: https://raw.githubusercontent.com/Qiskit/qiskit/main/README.md
+  source_archive:
+    member: texts/c54280085838c0cbf12444e3a08a00a0072da7b202875c421609fef5a471a1d1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 620b95dae8c777e8e3f9f78089e0abb02dca1df4dd690e558654c9831cc18a2f
+  url: ''
+name: root/README.md
+path: corpus/57b0a44a8def4c888dcf9b61648b1633/c54280085838c0cbf12444e3a08a00a0072da7b202875c421609fef5a471a1d1.md

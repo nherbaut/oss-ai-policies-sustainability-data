@@ -1,0 +1,26 @@
+hash: c7a8301e06fc798f27790a10a436c65c9cfc1a4ddce0f62a0df7729268360796
+id: aa532f5a-2f14-47bc-8ee4-8fbebf778a15
+metadata:
+  import_document_id: osssaysno:vespa-engine/vespa:root/TODO.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:05+00:00'
+    id: osssaysno:github.com/vespa-engine/vespa:root/TODO.md
+    import_slot: root/TODO.md
+    raw_snapshot: data/osssaysno/policies/vespa-engine/vespa/root/raw/TODO.md
+    resolved_url: https://raw.githubusercontent.com/vespa-engine/vespa/master/TODO.md
+    role: repository_root_document
+    sha256: c7a8301e06fc798f27790a10a436c65c9cfc1a4ddce0f62a0df7729268360796
+    snapshot: data/osssaysno/policies/vespa-engine/vespa/root/TODO.md
+    status: downloaded
+    text_sha256: c7a8301e06fc798f27790a10a436c65c9cfc1a4ddce0f62a0df7729268360796
+    url: https://raw.githubusercontent.com/vespa-engine/vespa/master/TODO.md
+  source_archive:
+    member: texts/dbe78f21d89745d192829c75cde3a14f2691c330efb49fe3adde6231d4c3f497.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c7a8301e06fc798f27790a10a436c65c9cfc1a4ddce0f62a0df7729268360796
+  url: ''
+name: root/TODO.md
+path: corpus/c7b2859b90a34ebda520e0c29dcd7e86/dbe78f21d89745d192829c75cde3a14f2691c330efb49fe3adde6231d4c3f497.md

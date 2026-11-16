@@ -1,0 +1,26 @@
+hash: 20704e394ca67c2bd4cf3569fc9ede0eb31588d58790d5b006029d1fdeeb9f72
+id: 42320e11-5f35-47a2-a1bd-7270727b7627
+metadata:
+  import_document_id: osssaysno:cordx56/rustowl:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:26+00:00'
+    id: osssaysno:github.com/cordx56/rustowl:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/cordx56/rustowl/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/cordx56/rustowl/main/README.md
+    role: repository_root_document
+    sha256: 20704e394ca67c2bd4cf3569fc9ede0eb31588d58790d5b006029d1fdeeb9f72
+    snapshot: data/osssaysno/policies/cordx56/rustowl/root/README.md
+    status: downloaded
+    text_sha256: 20704e394ca67c2bd4cf3569fc9ede0eb31588d58790d5b006029d1fdeeb9f72
+    url: https://raw.githubusercontent.com/cordx56/rustowl/main/README.md
+  source_archive:
+    member: texts/42c437102c5fcbca9ad863f9f4627063a25de5ff310ee97eeba220a9d9ffb300.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 20704e394ca67c2bd4cf3569fc9ede0eb31588d58790d5b006029d1fdeeb9f72
+  url: ''
+name: root/README.md
+path: corpus/0fe731860c1340d89a71816d17e272ad/42c437102c5fcbca9ad863f9f4627063a25de5ff310ee97eeba220a9d9ffb300.md

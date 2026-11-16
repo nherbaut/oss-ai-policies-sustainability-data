@@ -1,0 +1,26 @@
+hash: 31796a7603f91f7cc28f7a175cfe75e51cb1cd405bafbdb7dae2bb0e87d0cb23
+id: b5c60251-0987-4278-9e92-c82fe2d84bdf
+metadata:
+  import_document_id: osssaysno:jaegertracing/jaeger:root/ADOPTERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:27+00:00'
+    id: osssaysno:github.com/jaegertracing/jaeger:root/ADOPTERS.md
+    import_slot: root/ADOPTERS.md
+    raw_snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/raw/ADOPTERS.md
+    resolved_url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/ADOPTERS.md
+    role: repository_root_document
+    sha256: 31796a7603f91f7cc28f7a175cfe75e51cb1cd405bafbdb7dae2bb0e87d0cb23
+    snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/ADOPTERS.md
+    status: downloaded
+    text_sha256: 31796a7603f91f7cc28f7a175cfe75e51cb1cd405bafbdb7dae2bb0e87d0cb23
+    url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/ADOPTERS.md
+  source_archive:
+    member: texts/639b6f1aa2e9466838245d16778e7247e6647c1b31fe6dde65dd1ecb57bd22c3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 31796a7603f91f7cc28f7a175cfe75e51cb1cd405bafbdb7dae2bb0e87d0cb23
+  url: ''
+name: root/ADOPTERS.md
+path: corpus/d4874f79daba4aeb9c2061c4f44e4aa4/639b6f1aa2e9466838245d16778e7247e6647c1b31fe6dde65dd1ecb57bd22c3.md

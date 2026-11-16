@@ -1,0 +1,26 @@
+hash: d4d8ca16036907a29a0c10999e512d8a14692dd46c84bbb3c88b2a521f87834f
+id: 7fdcec99-ab2c-40b8-b484-004938951281
+metadata:
+  import_document_id: osssaysno:mongodb/node-mongodb-native:root/CONTRIBUTORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:21+00:00'
+    id: osssaysno:github.com/mongodb/node-mongodb-native:root/CONTRIBUTORS.md
+    import_slot: root/CONTRIBUTORS.md
+    raw_snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/raw/CONTRIBUTORS.md
+    resolved_url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/CONTRIBUTORS.md
+    role: repository_root_document
+    sha256: d4d8ca16036907a29a0c10999e512d8a14692dd46c84bbb3c88b2a521f87834f
+    snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/CONTRIBUTORS.md
+    status: downloaded
+    text_sha256: d4d8ca16036907a29a0c10999e512d8a14692dd46c84bbb3c88b2a521f87834f
+    url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/CONTRIBUTORS.md
+  source_archive:
+    member: texts/9932120734927b38a67ced7bc8198af99346ca9b3c42527a6dcc8732d32ad149.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d4d8ca16036907a29a0c10999e512d8a14692dd46c84bbb3c88b2a521f87834f
+  url: ''
+name: root/CONTRIBUTORS.md
+path: corpus/aafe5c7bd4f242d4b7243756b141018e/9932120734927b38a67ced7bc8198af99346ca9b3c42527a6dcc8732d32ad149.md

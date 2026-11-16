@@ -1,0 +1,26 @@
+hash: 64b150d00d274e856eb16af5f1ba84323c53dac66e626a651dce355fd9a00cd9
+id: a063e174-c8fb-49be-a9f2-d2930ded814c
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:32+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 64b150d00d274e856eb16af5f1ba84323c53dac66e626a651dce355fd9a00cd9
+    snapshot: data/osssaysno/policies/grafana/grafana/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 64b150d00d274e856eb16af5f1ba84323c53dac66e626a651dce355fd9a00cd9
+    url: https://raw.githubusercontent.com/grafana/grafana/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/47ef430651d781f593cd1a52e4c0958cb90a87b2cc15acb9cfcbc5c0425d9cff.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 64b150d00d274e856eb16af5f1ba84323c53dac66e626a651dce355fd9a00cd9
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/47ef430651d781f593cd1a52e4c0958cb90a87b2cc15acb9cfcbc5c0425d9cff.md

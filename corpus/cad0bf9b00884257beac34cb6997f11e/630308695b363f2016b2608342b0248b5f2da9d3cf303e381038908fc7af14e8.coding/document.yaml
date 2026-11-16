@@ -1,0 +1,26 @@
+hash: 34f8a9e8d39c41e37e603008940cf011e1d47ff7365b14acb7249a4a1ebab5a1
+id: f7328172-5c0c-4f5c-8810-8ff2f9d537d8
+metadata:
+  import_document_id: osssaysno:greptimeteam/greptimedb:root/AUTHOR.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:13+00:00'
+    id: osssaysno:github.com/greptimeteam/greptimedb:root/AUTHOR.md
+    import_slot: root/AUTHOR.md
+    raw_snapshot: data/osssaysno/policies/greptimeteam/greptimedb/root/raw/AUTHOR.md
+    resolved_url: https://raw.githubusercontent.com/GreptimeTeam/greptimedb/main/AUTHOR.md
+    role: repository_root_document
+    sha256: 34f8a9e8d39c41e37e603008940cf011e1d47ff7365b14acb7249a4a1ebab5a1
+    snapshot: data/osssaysno/policies/greptimeteam/greptimedb/root/AUTHOR.md
+    status: downloaded
+    text_sha256: 34f8a9e8d39c41e37e603008940cf011e1d47ff7365b14acb7249a4a1ebab5a1
+    url: https://raw.githubusercontent.com/GreptimeTeam/greptimedb/main/AUTHOR.md
+  source_archive:
+    member: texts/630308695b363f2016b2608342b0248b5f2da9d3cf303e381038908fc7af14e8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 34f8a9e8d39c41e37e603008940cf011e1d47ff7365b14acb7249a4a1ebab5a1
+  url: ''
+name: root/AUTHOR.md
+path: corpus/cad0bf9b00884257beac34cb6997f11e/630308695b363f2016b2608342b0248b5f2da9d3cf303e381038908fc7af14e8.md

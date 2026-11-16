@@ -1,0 +1,37 @@
+hash: a05b74c9235eb7d3e8801a2a731b10f4238346046fcded8b51fddda669864ad1
+id: 3405a0f7-556a-4c88-abfa-658dad99a595
+metadata:
+  import_document_id: osssaysno:miguelgrinberg/flask-socketio:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:01+00:00'
+    id: osssaysno:github.com/miguelgrinberg/flask-socketio:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/miguelgrinberg/flask-socketio/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/miguelgrinberg/Flask-SocketIO/main/CONTRIBUTING.md
+    role: contributing
+    sha256: a05b74c9235eb7d3e8801a2a731b10f4238346046fcded8b51fddda669864ad1
+    snapshot: data/osssaysno/policies/miguelgrinberg/flask-socketio/contributing.md
+    status: downloaded
+    text_sha256: a05b74c9235eb7d3e8801a2a731b10f4238346046fcded8b51fddda669864ad1
+    url: https://github.com/miguelgrinberg/Flask-SocketIO/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:38:11+00:00'
+    id: osssaysno:github.com/miguelgrinberg/flask-socketio:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/miguelgrinberg/flask-socketio/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/miguelgrinberg/Flask-SocketIO/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: a05b74c9235eb7d3e8801a2a731b10f4238346046fcded8b51fddda669864ad1
+    snapshot: data/osssaysno/policies/miguelgrinberg/flask-socketio/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: a05b74c9235eb7d3e8801a2a731b10f4238346046fcded8b51fddda669864ad1
+    url: https://raw.githubusercontent.com/miguelgrinberg/Flask-SocketIO/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/8ad11d7a881861d5feb3ece57e32fb408b0e69f276b4f6be9168599306704f31.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a05b74c9235eb7d3e8801a2a731b10f4238346046fcded8b51fddda669864ad1
+  url: ''
+name: contributing.md
+path: corpus/87f56973ba7d402192389deaaf0c0fd0/8ad11d7a881861d5feb3ece57e32fb408b0e69f276b4f6be9168599306704f31.md

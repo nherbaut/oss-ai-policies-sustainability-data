@@ -1,0 +1,26 @@
+hash: e539cbcf87b6cc12034ec0a80d714b64dedf9f8de084f54cde92c1abf9686be1
+id: 118ecaff-92f0-4371-92ba-fdd5bf8ac910
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:13+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/SECURITY.md
+    role: repository_root_document
+    sha256: e539cbcf87b6cc12034ec0a80d714b64dedf9f8de084f54cde92c1abf9686be1
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/SECURITY.md
+    status: downloaded
+    text_sha256: e539cbcf87b6cc12034ec0a80d714b64dedf9f8de084f54cde92c1abf9686be1
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/SECURITY.md
+  source_archive:
+    member: texts/b4ad83270bf8d828af8983127b389e4acf249bccd9ed1d4eceab3fb9efea70ff.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e539cbcf87b6cc12034ec0a80d714b64dedf9f8de084f54cde92c1abf9686be1
+  url: ''
+name: root/SECURITY.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/b4ad83270bf8d828af8983127b389e4acf249bccd9ed1d4eceab3fb9efea70ff.md

@@ -1,0 +1,37 @@
+hash: a21305a8312abca7fa4d5b16b44708394dcbae6c2ebe5709ef8c4d72f5666afe
+id: ae3e341d-2a12-4d01-9f77-def19f2934bf
+metadata:
+  import_document_id: osssaysno:docker/compose:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:03+00:00'
+    id: osssaysno:github.com/docker/compose:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/docker/compose/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/docker/compose/main/AI_POLICY.md
+    role: ai_policy
+    sha256: a21305a8312abca7fa4d5b16b44708394dcbae6c2ebe5709ef8c4d72f5666afe
+    snapshot: data/osssaysno/policies/docker/compose/ai_policy.md
+    status: downloaded
+    text_sha256: a21305a8312abca7fa4d5b16b44708394dcbae6c2ebe5709ef8c4d72f5666afe
+    url: https://github.com/docker/compose/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:04:03+00:00'
+    id: osssaysno:github.com/docker/compose:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/docker/compose/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/docker/compose/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: a21305a8312abca7fa4d5b16b44708394dcbae6c2ebe5709ef8c4d72f5666afe
+    snapshot: data/osssaysno/policies/docker/compose/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: a21305a8312abca7fa4d5b16b44708394dcbae6c2ebe5709ef8c4d72f5666afe
+    url: https://raw.githubusercontent.com/docker/compose/main/AI_POLICY.md
+  source_archive:
+    member: texts/1ebcf7d20db088814e4b81b5e85e0630996d268b08cd86676e93be4747dc0911.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a21305a8312abca7fa4d5b16b44708394dcbae6c2ebe5709ef8c4d72f5666afe
+  url: ''
+name: ai_policy.md
+path: corpus/4d323b7645fb4077a9b860ba031bfdc7/1ebcf7d20db088814e4b81b5e85e0630996d268b08cd86676e93be4747dc0911.md

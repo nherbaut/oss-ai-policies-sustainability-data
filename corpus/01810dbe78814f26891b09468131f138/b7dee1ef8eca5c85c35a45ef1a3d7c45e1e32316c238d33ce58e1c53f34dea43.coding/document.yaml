@@ -1,0 +1,48 @@
+hash: f67d1ee78653cb96672793b1e32208b4e300788293109a52c7f4526df5a4b4ab
+id: ebb1520c-3b0d-42a3-8b90-1eaadefe98a3
+metadata:
+  import_document_id: osssaysno:osaurus-ai/osaurus:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:39+00:00'
+    id: osssaysno:github.com/osaurus-ai/osaurus:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/osaurus-ai/osaurus/raw/agent.md
+    resolved_url: https://raw.githubusercontent.com/osaurus-ai/osaurus/main/AGENTS.md
+    role: agent
+    sha256: f67d1ee78653cb96672793b1e32208b4e300788293109a52c7f4526df5a4b4ab
+    snapshot: data/osssaysno/policies/osaurus-ai/osaurus/agent.md
+    status: downloaded
+    text_sha256: f67d1ee78653cb96672793b1e32208b4e300788293109a52c7f4526df5a4b4ab
+    url: https://github.com/osaurus-ai/osaurus/blob/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:36:21+00:00'
+    id: osssaysno:github.com/osaurus-ai/osaurus:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/osaurus-ai/osaurus/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/osaurus-ai/osaurus/main/AGENTS.md
+    role: repository_root_document
+    sha256: f67d1ee78653cb96672793b1e32208b4e300788293109a52c7f4526df5a4b4ab
+    snapshot: data/osssaysno/policies/osaurus-ai/osaurus/root/AGENTS.md
+    status: downloaded
+    text_sha256: f67d1ee78653cb96672793b1e32208b4e300788293109a52c7f4526df5a4b4ab
+    url: https://raw.githubusercontent.com/osaurus-ai/osaurus/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:36:22+00:00'
+    id: osssaysno:github.com/osaurus-ai/osaurus:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/osaurus-ai/osaurus/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/osaurus-ai/osaurus/main/AGENTS.md
+    role: repository_root_document
+    sha256: f67d1ee78653cb96672793b1e32208b4e300788293109a52c7f4526df5a4b4ab
+    snapshot: data/osssaysno/policies/osaurus-ai/osaurus/root/CLAUDE.md
+    status: downloaded
+    text_sha256: f67d1ee78653cb96672793b1e32208b4e300788293109a52c7f4526df5a4b4ab
+    url: https://raw.githubusercontent.com/osaurus-ai/osaurus/main/CLAUDE.md
+  source_archive:
+    member: texts/b7dee1ef8eca5c85c35a45ef1a3d7c45e1e32316c238d33ce58e1c53f34dea43.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f67d1ee78653cb96672793b1e32208b4e300788293109a52c7f4526df5a4b4ab
+  url: ''
+name: agent.md
+path: corpus/01810dbe78814f26891b09468131f138/b7dee1ef8eca5c85c35a45ef1a3d7c45e1e32316c238d33ce58e1c53f34dea43.md

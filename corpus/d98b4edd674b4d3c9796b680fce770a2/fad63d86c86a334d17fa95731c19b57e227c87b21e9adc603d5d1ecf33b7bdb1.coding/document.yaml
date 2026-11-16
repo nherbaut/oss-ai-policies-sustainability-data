@@ -1,0 +1,26 @@
+hash: 144079a69691b045214355c9c83165c874a4dd298b8607bded86c701a759390e
+id: ee7904e1-d51d-47dd-ba38-46b117987eb2
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:root/README_KO.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:28+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/README_KO.md
+    import_slot: root/README_KO.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/README_KO.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/README_KO.md
+    role: repository_root_document
+    sha256: 144079a69691b045214355c9c83165c874a4dd298b8607bded86c701a759390e
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/README_KO.md
+    status: downloaded
+    text_sha256: 144079a69691b045214355c9c83165c874a4dd298b8607bded86c701a759390e
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/README_KO.md
+  source_archive:
+    member: texts/fad63d86c86a334d17fa95731c19b57e227c87b21e9adc603d5d1ecf33b7bdb1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 144079a69691b045214355c9c83165c874a4dd298b8607bded86c701a759390e
+  url: ''
+name: root/README_KO.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/fad63d86c86a334d17fa95731c19b57e227c87b21e9adc603d5d1ecf33b7bdb1.md

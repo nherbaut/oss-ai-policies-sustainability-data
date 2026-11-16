@@ -1,0 +1,26 @@
+hash: bf4a33bfb6dda93c1dc0a07fb9edd124379e58d758ce54043b29bb6c60dfe6c6
+id: e5c69a59-3a07-4692-be2c-690ffddb3ffc
+metadata:
+  import_document_id: osssaysno:jaegertracing/jaeger:root/CONTRIBUTING_GUIDELINES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:30+00:00'
+    id: osssaysno:github.com/jaegertracing/jaeger:root/CONTRIBUTING_GUIDELINES.md
+    import_slot: root/CONTRIBUTING_GUIDELINES.md
+    raw_snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/raw/CONTRIBUTING_GUIDELINES.md
+    resolved_url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/CONTRIBUTING_GUIDELINES.md
+    role: repository_root_document
+    sha256: bf4a33bfb6dda93c1dc0a07fb9edd124379e58d758ce54043b29bb6c60dfe6c6
+    snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/CONTRIBUTING_GUIDELINES.md
+    status: downloaded
+    text_sha256: bf4a33bfb6dda93c1dc0a07fb9edd124379e58d758ce54043b29bb6c60dfe6c6
+    url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/CONTRIBUTING_GUIDELINES.md
+  source_archive:
+    member: texts/1613ef1b54bb6fe0ed80597c6f738a5fc5308449c6af3f6e0f4cdffa6f0b1912.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bf4a33bfb6dda93c1dc0a07fb9edd124379e58d758ce54043b29bb6c60dfe6c6
+  url: ''
+name: root/CONTRIBUTING_GUIDELINES.md
+path: corpus/d4874f79daba4aeb9c2061c4f44e4aa4/1613ef1b54bb6fe0ed80597c6f738a5fc5308449c6af3f6e0f4cdffa6f0b1912.md

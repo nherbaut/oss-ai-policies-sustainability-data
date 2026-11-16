@@ -1,0 +1,26 @@
+hash: aa722d38dc5335506a4bbd1e342c99d3f88ca95d31b469aed1b0c8cdf4ad1e87
+id: 813afc6a-065f-48ad-b9d0-a82ddf55ae0f
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:root/ADOPTERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:49+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/ADOPTERS.md
+    import_slot: root/ADOPTERS.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/ADOPTERS.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/ADOPTERS.md
+    role: repository_root_document
+    sha256: aa722d38dc5335506a4bbd1e342c99d3f88ca95d31b469aed1b0c8cdf4ad1e87
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/ADOPTERS.md
+    status: downloaded
+    text_sha256: aa722d38dc5335506a4bbd1e342c99d3f88ca95d31b469aed1b0c8cdf4ad1e87
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/ADOPTERS.md
+  source_archive:
+    member: texts/45c4658669dce4fffb7298d9e0a1eaba295340615b4e16ad264bdc3b75917820.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: aa722d38dc5335506a4bbd1e342c99d3f88ca95d31b469aed1b0c8cdf4ad1e87
+  url: ''
+name: root/ADOPTERS.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/45c4658669dce4fffb7298d9e0a1eaba295340615b4e16ad264bdc3b75917820.md

@@ -1,0 +1,26 @@
+hash: 1a8cff082f8b17b50352b3998850457ee48db8c87e4cdacef8baee5bcb6c65ee
+id: 58ab9d77-9267-4325-9dde-4f17ba57face
+metadata:
+  import_document_id: osssaysno:ktorio/ktor:root/THIRDPARTY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:23+00:00'
+    id: osssaysno:github.com/ktorio/ktor:root/THIRDPARTY.md
+    import_slot: root/THIRDPARTY.md
+    raw_snapshot: data/osssaysno/policies/ktorio/ktor/root/raw/THIRDPARTY.md
+    resolved_url: https://raw.githubusercontent.com/ktorio/ktor/main/THIRDPARTY.md
+    role: repository_root_document
+    sha256: 1a8cff082f8b17b50352b3998850457ee48db8c87e4cdacef8baee5bcb6c65ee
+    snapshot: data/osssaysno/policies/ktorio/ktor/root/THIRDPARTY.md
+    status: downloaded
+    text_sha256: 1a8cff082f8b17b50352b3998850457ee48db8c87e4cdacef8baee5bcb6c65ee
+    url: https://raw.githubusercontent.com/ktorio/ktor/main/THIRDPARTY.md
+  source_archive:
+    member: texts/1f2699a2309dd6a41b4841b62ba5e7594e90a81eb123799984c9eeb3b24ed5f6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1a8cff082f8b17b50352b3998850457ee48db8c87e4cdacef8baee5bcb6c65ee
+  url: ''
+name: root/THIRDPARTY.md
+path: corpus/cb044368463c4e1fa45e70294841997b/1f2699a2309dd6a41b4841b62ba5e7594e90a81eb123799984c9eeb3b24ed5f6.md

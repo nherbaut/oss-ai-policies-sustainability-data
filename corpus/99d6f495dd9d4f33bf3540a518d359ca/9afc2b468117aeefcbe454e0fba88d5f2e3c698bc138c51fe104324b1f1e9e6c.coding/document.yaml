@@ -1,0 +1,37 @@
+hash: f3eae402535d8de8b5bddd41f73dba8b891c901ad982bdd980725ed75ed19311
+id: 4f54e61d-604d-4cc7-b32b-15fc8b9201a3
+metadata:
+  import_document_id: osssaysno:veloren/veloren:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:44+00:00'
+    id: osssaysno:github.com/veloren/veloren:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/veloren/veloren/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/veloren/veloren/master/CONTRIBUTING.md
+    role: contributing
+    sha256: f3eae402535d8de8b5bddd41f73dba8b891c901ad982bdd980725ed75ed19311
+    snapshot: data/osssaysno/policies/veloren/veloren/contributing.md
+    status: downloaded
+    text_sha256: f3eae402535d8de8b5bddd41f73dba8b891c901ad982bdd980725ed75ed19311
+    url: https://github.com/veloren/veloren/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:43+00:00'
+    id: osssaysno:github.com/veloren/veloren:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/veloren/veloren/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/veloren/veloren/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: f3eae402535d8de8b5bddd41f73dba8b891c901ad982bdd980725ed75ed19311
+    snapshot: data/osssaysno/policies/veloren/veloren/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: f3eae402535d8de8b5bddd41f73dba8b891c901ad982bdd980725ed75ed19311
+    url: https://raw.githubusercontent.com/veloren/veloren/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/9afc2b468117aeefcbe454e0fba88d5f2e3c698bc138c51fe104324b1f1e9e6c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f3eae402535d8de8b5bddd41f73dba8b891c901ad982bdd980725ed75ed19311
+  url: ''
+name: contributing.md
+path: corpus/99d6f495dd9d4f33bf3540a518d359ca/9afc2b468117aeefcbe454e0fba88d5f2e3c698bc138c51fe104324b1f1e9e6c.md

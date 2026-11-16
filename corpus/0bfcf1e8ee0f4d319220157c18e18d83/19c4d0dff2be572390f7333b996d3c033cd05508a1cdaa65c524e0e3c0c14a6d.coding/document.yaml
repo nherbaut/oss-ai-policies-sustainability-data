@@ -1,0 +1,26 @@
+hash: f4aa897a28c8527ee9862401eedf6fb4c431447b1338c8fe5cd86056c6b42433
+id: b7ae719d-a44e-4e0b-b266-dd7ea389e831
+metadata:
+  import_document_id: osssaysno:pyinfra-dev/pyinfra:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:44+00:00'
+    id: osssaysno:github.com/pyinfra-dev/pyinfra:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/AGENTS.md
+    role: repository_root_document
+    sha256: f4aa897a28c8527ee9862401eedf6fb4c431447b1338c8fe5cd86056c6b42433
+    snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/AGENTS.md
+    status: downloaded
+    text_sha256: f4aa897a28c8527ee9862401eedf6fb4c431447b1338c8fe5cd86056c6b42433
+    url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/AGENTS.md
+  source_archive:
+    member: texts/19c4d0dff2be572390f7333b996d3c033cd05508a1cdaa65c524e0e3c0c14a6d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f4aa897a28c8527ee9862401eedf6fb4c431447b1338c8fe5cd86056c6b42433
+  url: ''
+name: root/AGENTS.md
+path: corpus/0bfcf1e8ee0f4d319220157c18e18d83/19c4d0dff2be572390f7333b996d3c033cd05508a1cdaa65c524e0e3c0c14a6d.md

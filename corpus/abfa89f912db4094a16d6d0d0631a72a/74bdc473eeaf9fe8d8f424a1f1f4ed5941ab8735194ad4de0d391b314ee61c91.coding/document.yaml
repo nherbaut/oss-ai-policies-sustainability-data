@@ -1,0 +1,37 @@
+hash: 77b57acf63432203ab2cfe2d09ae0ddf28f1896bdafd39b7a41f4c8e887e5d1a
+id: b751bda3-243e-436c-b176-f188c8b3da77
+metadata:
+  import_document_id: osssaysno:zeek/zeek:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:39+00:00'
+    id: osssaysno:github.com/zeek/zeek:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/zeek/zeek/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/zeek/zeek/master/AI_POLICY.md
+    role: ai_policy
+    sha256: 77b57acf63432203ab2cfe2d09ae0ddf28f1896bdafd39b7a41f4c8e887e5d1a
+    snapshot: data/osssaysno/policies/zeek/zeek/ai_policy.md
+    status: downloaded
+    text_sha256: 77b57acf63432203ab2cfe2d09ae0ddf28f1896bdafd39b7a41f4c8e887e5d1a
+    url: https://github.com/zeek/zeek/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:36:24+00:00'
+    id: osssaysno:github.com/zeek/zeek:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/zeek/zeek/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/zeek/zeek/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: 77b57acf63432203ab2cfe2d09ae0ddf28f1896bdafd39b7a41f4c8e887e5d1a
+    snapshot: data/osssaysno/policies/zeek/zeek/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 77b57acf63432203ab2cfe2d09ae0ddf28f1896bdafd39b7a41f4c8e887e5d1a
+    url: https://raw.githubusercontent.com/zeek/zeek/master/AI_POLICY.md
+  source_archive:
+    member: texts/74bdc473eeaf9fe8d8f424a1f1f4ed5941ab8735194ad4de0d391b314ee61c91.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 77b57acf63432203ab2cfe2d09ae0ddf28f1896bdafd39b7a41f4c8e887e5d1a
+  url: ''
+name: ai_policy.md
+path: corpus/abfa89f912db4094a16d6d0d0631a72a/74bdc473eeaf9fe8d8f424a1f1f4ed5941ab8735194ad4de0d391b314ee61c91.md

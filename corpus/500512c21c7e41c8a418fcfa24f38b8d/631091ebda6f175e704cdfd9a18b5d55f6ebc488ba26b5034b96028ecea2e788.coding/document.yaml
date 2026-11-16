@@ -1,0 +1,26 @@
+hash: 9faefc1a73791b8f350791fd0a9460d1c7f104811b01b13350c2e9b01c7e73e0
+id: d9ab9d7e-c5c3-43cb-af50-131dd5cb01ef
+metadata:
+  import_document_id: osssaysno:pest-parser/pest:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:18+00:00'
+    id: osssaysno:github.com/pest-parser/pest:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/pest-parser/pest/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/pest-parser/pest/master/README.md
+    role: repository_root_document
+    sha256: 9faefc1a73791b8f350791fd0a9460d1c7f104811b01b13350c2e9b01c7e73e0
+    snapshot: data/osssaysno/policies/pest-parser/pest/root/README.md
+    status: downloaded
+    text_sha256: 9faefc1a73791b8f350791fd0a9460d1c7f104811b01b13350c2e9b01c7e73e0
+    url: https://raw.githubusercontent.com/pest-parser/pest/master/README.md
+  source_archive:
+    member: texts/631091ebda6f175e704cdfd9a18b5d55f6ebc488ba26b5034b96028ecea2e788.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9faefc1a73791b8f350791fd0a9460d1c7f104811b01b13350c2e9b01c7e73e0
+  url: ''
+name: root/README.md
+path: corpus/500512c21c7e41c8a418fcfa24f38b8d/631091ebda6f175e704cdfd9a18b5d55f6ebc488ba26b5034b96028ecea2e788.md

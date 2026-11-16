@@ -1,0 +1,26 @@
+hash: c4cb9589565a823f3af4b071da85e216cdbffc74ff54292068d2c993e135fec8
+id: 1688a439-de08-4a34-9a4d-f948078d069e
+metadata:
+  import_document_id: osssaysno:nvidia/openshell:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:47+00:00'
+    id: osssaysno:github.com/nvidia/openshell:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/nvidia/openshell/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: c4cb9589565a823f3af4b071da85e216cdbffc74ff54292068d2c993e135fec8
+    snapshot: data/osssaysno/policies/nvidia/openshell/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: c4cb9589565a823f3af4b071da85e216cdbffc74ff54292068d2c993e135fec8
+    url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/65d013ab2e37fbe8d7712dbf8d653124c655966d58f9f7aa8a4755f874e3468e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c4cb9589565a823f3af4b071da85e216cdbffc74ff54292068d2c993e135fec8
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/81cc2c4a753d48cd98ec43d30943486d/65d013ab2e37fbe8d7712dbf8d653124c655966d58f9f7aa8a4755f874e3468e.md

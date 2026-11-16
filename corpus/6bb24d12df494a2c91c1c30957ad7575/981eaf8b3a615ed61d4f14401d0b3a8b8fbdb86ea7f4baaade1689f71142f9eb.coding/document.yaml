@@ -1,0 +1,26 @@
+hash: 8f2535d7fa13bb7f9d9ef084dfbce074c63ef324b878a6940e13a284205d948d
+id: a00d76ad-f17e-4ff3-8322-17aad9d1016c
+metadata:
+  import_document_id: osssaysno:getarcaneapp/arcane:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:16+00:00'
+    id: osssaysno:github.com/getarcaneapp/arcane:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/getarcaneapp/arcane/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/getarcaneapp/arcane/main/AGENTS.md
+    role: repository_root_document
+    sha256: 8f2535d7fa13bb7f9d9ef084dfbce074c63ef324b878a6940e13a284205d948d
+    snapshot: data/osssaysno/policies/getarcaneapp/arcane/root/AGENTS.md
+    status: downloaded
+    text_sha256: 8f2535d7fa13bb7f9d9ef084dfbce074c63ef324b878a6940e13a284205d948d
+    url: https://raw.githubusercontent.com/getarcaneapp/arcane/main/AGENTS.md
+  source_archive:
+    member: texts/981eaf8b3a615ed61d4f14401d0b3a8b8fbdb86ea7f4baaade1689f71142f9eb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8f2535d7fa13bb7f9d9ef084dfbce074c63ef324b878a6940e13a284205d948d
+  url: ''
+name: root/AGENTS.md
+path: corpus/6bb24d12df494a2c91c1c30957ad7575/981eaf8b3a615ed61d4f14401d0b3a8b8fbdb86ea7f4baaade1689f71142f9eb.md

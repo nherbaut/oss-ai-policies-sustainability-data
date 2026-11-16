@@ -1,0 +1,26 @@
+hash: 893a71b5abd078445b7d7d73ce8b2b4dc1dfc220ecc0e706a432a44ff65908fa
+id: 2d7ec74b-604a-407b-a299-94b638d3eab1
+metadata:
+  import_document_id: osssaysno:pdfcpu/pdfcpu:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:59+00:00'
+    id: osssaysno:github.com/pdfcpu/pdfcpu:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/pdfcpu/pdfcpu/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/pdfcpu/pdfcpu/master/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 893a71b5abd078445b7d7d73ce8b2b4dc1dfc220ecc0e706a432a44ff65908fa
+    snapshot: data/osssaysno/policies/pdfcpu/pdfcpu/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 893a71b5abd078445b7d7d73ce8b2b4dc1dfc220ecc0e706a432a44ff65908fa
+    url: https://raw.githubusercontent.com/pdfcpu/pdfcpu/master/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/c703251f7098fa417936d5129598ecf9fb9489266369e4a4e42ea330f328252d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 893a71b5abd078445b7d7d73ce8b2b4dc1dfc220ecc0e706a432a44ff65908fa
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/d0d34d2a38ef4a43a93db16e11245f4a/c703251f7098fa417936d5129598ecf9fb9489266369e4a4e42ea330f328252d.md

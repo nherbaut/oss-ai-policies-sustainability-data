@@ -1,0 +1,26 @@
+hash: 38262f605780de9814b20c8895b7c2e46b4ef44cad426dbc47f38e7ebc287a6d
+id: 54a2e998-b09a-47af-9a89-421c42f3139e
+metadata:
+  import_document_id: osssaysno:nibzard/awesome-agentic-patterns:root/TEMPLATE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:47+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:root/TEMPLATE.md
+    import_slot: root/TEMPLATE.md
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/raw/TEMPLATE.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/TEMPLATE.md
+    role: repository_root_document
+    sha256: 38262f605780de9814b20c8895b7c2e46b4ef44cad426dbc47f38e7ebc287a6d
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/TEMPLATE.md
+    status: downloaded
+    text_sha256: 38262f605780de9814b20c8895b7c2e46b4ef44cad426dbc47f38e7ebc287a6d
+    url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/TEMPLATE.md
+  source_archive:
+    member: texts/74f30529133615a1f9c1e878b068009d8f150d33b2b74c77bf51729f42fb5fb8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 38262f605780de9814b20c8895b7c2e46b4ef44cad426dbc47f38e7ebc287a6d
+  url: ''
+name: root/TEMPLATE.md
+path: corpus/dd94b9ffd2f94e2fbe0e75d0714cd789/74f30529133615a1f9c1e878b068009d8f150d33b2b74c77bf51729f42fb5fb8.md

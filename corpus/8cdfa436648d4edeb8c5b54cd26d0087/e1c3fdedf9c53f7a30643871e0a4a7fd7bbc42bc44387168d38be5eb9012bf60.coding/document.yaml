@@ -1,0 +1,48 @@
+hash: 821ce248302066876a64a1c25520fb199b79ef3fa99927eb2ad50ad279a88598
+id: e38d1156-b1c7-4f8a-ab5c-e78b9481b247
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:59+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/raw/agent.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/AGENTS.md
+    role: agent
+    sha256: 821ce248302066876a64a1c25520fb199b79ef3fa99927eb2ad50ad279a88598
+    snapshot: data/osssaysno/policies/cortexproject/cortex/agent.md
+    status: downloaded
+    text_sha256: 821ce248302066876a64a1c25520fb199b79ef3fa99927eb2ad50ad279a88598
+    url: https://github.com/cortexproject/cortex/blob/master/AGENTS.md
+  - accessed_at: '2026-11-15T23:37:49+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/AGENTS.md
+    role: repository_root_document
+    sha256: 821ce248302066876a64a1c25520fb199b79ef3fa99927eb2ad50ad279a88598
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/AGENTS.md
+    status: downloaded
+    text_sha256: 821ce248302066876a64a1c25520fb199b79ef3fa99927eb2ad50ad279a88598
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/AGENTS.md
+  - accessed_at: '2026-11-15T23:37:50+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/AGENTS.md
+    role: repository_root_document
+    sha256: 821ce248302066876a64a1c25520fb199b79ef3fa99927eb2ad50ad279a88598
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 821ce248302066876a64a1c25520fb199b79ef3fa99927eb2ad50ad279a88598
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/CLAUDE.md
+  source_archive:
+    member: texts/e1c3fdedf9c53f7a30643871e0a4a7fd7bbc42bc44387168d38be5eb9012bf60.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 821ce248302066876a64a1c25520fb199b79ef3fa99927eb2ad50ad279a88598
+  url: ''
+name: agent.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/e1c3fdedf9c53f7a30643871e0a4a7fd7bbc42bc44387168d38be5eb9012bf60.md

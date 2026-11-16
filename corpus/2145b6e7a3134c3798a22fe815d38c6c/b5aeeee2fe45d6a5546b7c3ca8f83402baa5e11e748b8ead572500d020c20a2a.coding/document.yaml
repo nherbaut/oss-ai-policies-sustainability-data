@@ -1,0 +1,26 @@
+hash: 6f45739d728ba968ea0b6f9cc1dab48fd95fe72e04e825c3533fb9f3188c1480
+id: 2c106ddb-80f7-4ca6-950f-d8eb306b2ea5
+metadata:
+  import_document_id: osssaysno:usekaneo/kaneo:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:34+00:00'
+    id: osssaysno:github.com/usekaneo/kaneo:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/usekaneo/kaneo/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/usekaneo/kaneo/main/README.md
+    role: repository_root_document
+    sha256: 6f45739d728ba968ea0b6f9cc1dab48fd95fe72e04e825c3533fb9f3188c1480
+    snapshot: data/osssaysno/policies/usekaneo/kaneo/root/README.md
+    status: downloaded
+    text_sha256: 6f45739d728ba968ea0b6f9cc1dab48fd95fe72e04e825c3533fb9f3188c1480
+    url: https://raw.githubusercontent.com/usekaneo/kaneo/main/README.md
+  source_archive:
+    member: texts/b5aeeee2fe45d6a5546b7c3ca8f83402baa5e11e748b8ead572500d020c20a2a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6f45739d728ba968ea0b6f9cc1dab48fd95fe72e04e825c3533fb9f3188c1480
+  url: ''
+name: root/README.md
+path: corpus/2145b6e7a3134c3798a22fe815d38c6c/b5aeeee2fe45d6a5546b7c3ca8f83402baa5e11e748b8ead572500d020c20a2a.md

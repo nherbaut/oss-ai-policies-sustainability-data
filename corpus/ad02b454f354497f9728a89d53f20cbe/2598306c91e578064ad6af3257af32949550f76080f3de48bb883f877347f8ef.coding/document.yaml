@@ -1,0 +1,26 @@
+hash: f3fe8ba7f8ef5a1d119ce63c77f68a0b7dec2dd5a8511e5541522212d31ec7b8
+id: 63374e8f-559d-43c4-ab91-b8c21b19389d
+metadata:
+  import_document_id: osssaysno:fyroxengine/fyrox:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:41+00:00'
+    id: osssaysno:github.com/fyroxengine/fyrox:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/fyroxengine/fyrox/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/FyroxEngine/Fyrox/master/LICENSE.md
+    role: repository_root_document
+    sha256: f3fe8ba7f8ef5a1d119ce63c77f68a0b7dec2dd5a8511e5541522212d31ec7b8
+    snapshot: data/osssaysno/policies/fyroxengine/fyrox/root/LICENSE.md
+    status: downloaded
+    text_sha256: f3fe8ba7f8ef5a1d119ce63c77f68a0b7dec2dd5a8511e5541522212d31ec7b8
+    url: https://raw.githubusercontent.com/FyroxEngine/Fyrox/master/LICENSE.md
+  source_archive:
+    member: texts/2598306c91e578064ad6af3257af32949550f76080f3de48bb883f877347f8ef.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f3fe8ba7f8ef5a1d119ce63c77f68a0b7dec2dd5a8511e5541522212d31ec7b8
+  url: ''
+name: root/LICENSE.md
+path: corpus/ad02b454f354497f9728a89d53f20cbe/2598306c91e578064ad6af3257af32949550f76080f3de48bb883f877347f8ef.md

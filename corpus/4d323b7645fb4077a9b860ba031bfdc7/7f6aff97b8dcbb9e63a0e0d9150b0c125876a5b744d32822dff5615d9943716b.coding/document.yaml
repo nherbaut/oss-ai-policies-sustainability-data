@@ -1,0 +1,37 @@
+hash: 2c3364f66a30ea054f3ec3610fa4be37a98e5fc3dbd9654b44f26805c75a236e
+id: 774fdf01-a8a7-4f14-9d1c-d4f5453caa90
+metadata:
+  import_document_id: osssaysno:docker/compose:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:03+00:00'
+    id: osssaysno:github.com/docker/compose:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/docker/compose/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/docker/compose/main/AGENTS.md
+    role: repository_root_document
+    sha256: 2c3364f66a30ea054f3ec3610fa4be37a98e5fc3dbd9654b44f26805c75a236e
+    snapshot: data/osssaysno/policies/docker/compose/root/AGENTS.md
+    status: downloaded
+    text_sha256: 2c3364f66a30ea054f3ec3610fa4be37a98e5fc3dbd9654b44f26805c75a236e
+    url: https://raw.githubusercontent.com/docker/compose/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:04:04+00:00'
+    id: osssaysno:github.com/docker/compose:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/docker/compose/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/docker/compose/main/AGENTS.md
+    role: repository_root_document
+    sha256: 2c3364f66a30ea054f3ec3610fa4be37a98e5fc3dbd9654b44f26805c75a236e
+    snapshot: data/osssaysno/policies/docker/compose/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 2c3364f66a30ea054f3ec3610fa4be37a98e5fc3dbd9654b44f26805c75a236e
+    url: https://raw.githubusercontent.com/docker/compose/main/CLAUDE.md
+  source_archive:
+    member: texts/7f6aff97b8dcbb9e63a0e0d9150b0c125876a5b744d32822dff5615d9943716b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2c3364f66a30ea054f3ec3610fa4be37a98e5fc3dbd9654b44f26805c75a236e
+  url: ''
+name: root/AGENTS.md
+path: corpus/4d323b7645fb4077a9b860ba031bfdc7/7f6aff97b8dcbb9e63a0e0d9150b0c125876a5b744d32822dff5615d9943716b.md

@@ -1,0 +1,26 @@
+hash: 98e9811f600554f7f487c5eeb41b6f3bdd4925c3fa55d742fa568e236a6d1a51
+id: 6a1b1104-b9dc-4bee-8539-abe371c9984b
+metadata:
+  import_document_id: osssaysno:pennyw0rth/netexec:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:47+00:00'
+    id: osssaysno:github.com/pennyw0rth/netexec:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/pennyw0rth/netexec/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/Pennyw0rth/NetExec/main/AGENTS.md
+    role: repository_root_document
+    sha256: 98e9811f600554f7f487c5eeb41b6f3bdd4925c3fa55d742fa568e236a6d1a51
+    snapshot: data/osssaysno/policies/pennyw0rth/netexec/root/AGENTS.md
+    status: downloaded
+    text_sha256: 98e9811f600554f7f487c5eeb41b6f3bdd4925c3fa55d742fa568e236a6d1a51
+    url: https://raw.githubusercontent.com/Pennyw0rth/NetExec/main/AGENTS.md
+  source_archive:
+    member: texts/6a06585d281eed84008680bdc299f8441bebd52ce83903664f4f5168e27d1c3a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 98e9811f600554f7f487c5eeb41b6f3bdd4925c3fa55d742fa568e236a6d1a51
+  url: ''
+name: root/AGENTS.md
+path: corpus/6a8ec42f793e4952af3c22ef2232fc7c/6a06585d281eed84008680bdc299f8441bebd52ce83903664f4f5168e27d1c3a.md

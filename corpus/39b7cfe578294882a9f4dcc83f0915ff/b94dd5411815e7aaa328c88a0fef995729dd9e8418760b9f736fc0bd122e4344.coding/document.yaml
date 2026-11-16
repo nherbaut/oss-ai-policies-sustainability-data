@@ -1,0 +1,26 @@
+hash: ef98dcca4151953b86ff4c7e046f843ef0b692d3e5e3acc082db57317e3dd1f0
+id: e6b59dfb-a45f-40bb-9b0d-c64ff0de8574
+metadata:
+  import_document_id: osssaysno:lmcache/lmcache:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:49+00:00'
+    id: osssaysno:github.com/lmcache/lmcache:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/lmcache/lmcache/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/LMCache/LMCache/dev/MAINTAINERS.md
+    role: repository_root_document
+    sha256: ef98dcca4151953b86ff4c7e046f843ef0b692d3e5e3acc082db57317e3dd1f0
+    snapshot: data/osssaysno/policies/lmcache/lmcache/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: ef98dcca4151953b86ff4c7e046f843ef0b692d3e5e3acc082db57317e3dd1f0
+    url: https://raw.githubusercontent.com/LMCache/LMCache/dev/MAINTAINERS.md
+  source_archive:
+    member: texts/b94dd5411815e7aaa328c88a0fef995729dd9e8418760b9f736fc0bd122e4344.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ef98dcca4151953b86ff4c7e046f843ef0b692d3e5e3acc082db57317e3dd1f0
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/39b7cfe578294882a9f4dcc83f0915ff/b94dd5411815e7aaa328c88a0fef995729dd9e8418760b9f736fc0bd122e4344.md

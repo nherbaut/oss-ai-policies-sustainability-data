@@ -1,0 +1,37 @@
+hash: cd0cc337bd84c53afd78317b0d508d8e6e48a3fc414ae9d883bd509cc3ce7dcb
+id: 7090e670-1b41-45bb-bdec-1a71bc7ada59
+metadata:
+  import_document_id: osssaysno:transact-rs/sqlx:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:00+00:00'
+    id: osssaysno:github.com/transact-rs/sqlx:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/transact-rs/sqlx/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/transact-rs/sqlx/main/AI_POLICY.md
+    role: ai_policy
+    sha256: cd0cc337bd84c53afd78317b0d508d8e6e48a3fc414ae9d883bd509cc3ce7dcb
+    snapshot: data/osssaysno/policies/transact-rs/sqlx/ai_policy.md
+    status: downloaded
+    text_sha256: cd0cc337bd84c53afd78317b0d508d8e6e48a3fc414ae9d883bd509cc3ce7dcb
+    url: https://github.com/transact-rs/sqlx/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:29:01+00:00'
+    id: osssaysno:github.com/transact-rs/sqlx:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/transact-rs/sqlx/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/transact-rs/sqlx/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: cd0cc337bd84c53afd78317b0d508d8e6e48a3fc414ae9d883bd509cc3ce7dcb
+    snapshot: data/osssaysno/policies/transact-rs/sqlx/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: cd0cc337bd84c53afd78317b0d508d8e6e48a3fc414ae9d883bd509cc3ce7dcb
+    url: https://raw.githubusercontent.com/transact-rs/sqlx/main/AI_POLICY.md
+  source_archive:
+    member: texts/fe9bea8ecfa5409ade3d36ec43d1f8e27365e2af82438c9cb6fed5059a0f74fd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cd0cc337bd84c53afd78317b0d508d8e6e48a3fc414ae9d883bd509cc3ce7dcb
+  url: ''
+name: ai_policy.md
+path: corpus/be22cf71824140cfaddb57be4c43cc7f/fe9bea8ecfa5409ade3d36ec43d1f8e27365e2af82438c9cb6fed5059a0f74fd.md

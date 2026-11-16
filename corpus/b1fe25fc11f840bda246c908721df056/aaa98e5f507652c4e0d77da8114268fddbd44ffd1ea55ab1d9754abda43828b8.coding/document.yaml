@@ -1,0 +1,26 @@
+hash: 02c573abca66f2c0c00f29555f23e0e9ce1de965a99216b93b616ee65bd1856c
+id: 85fd6ee4-73db-4451-a7d3-bdc9065c468c
+metadata:
+  import_document_id: osssaysno:pycaret/pycaret:root/TEST_PLAN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:31+00:00'
+    id: osssaysno:github.com/pycaret/pycaret:root/TEST_PLAN.md
+    import_slot: root/TEST_PLAN.md
+    raw_snapshot: data/osssaysno/policies/pycaret/pycaret/root/raw/TEST_PLAN.md
+    resolved_url: https://raw.githubusercontent.com/pycaret/pycaret/main/TEST_PLAN.md
+    role: repository_root_document
+    sha256: 02c573abca66f2c0c00f29555f23e0e9ce1de965a99216b93b616ee65bd1856c
+    snapshot: data/osssaysno/policies/pycaret/pycaret/root/TEST_PLAN.md
+    status: downloaded
+    text_sha256: 02c573abca66f2c0c00f29555f23e0e9ce1de965a99216b93b616ee65bd1856c
+    url: https://raw.githubusercontent.com/pycaret/pycaret/main/TEST_PLAN.md
+  source_archive:
+    member: texts/aaa98e5f507652c4e0d77da8114268fddbd44ffd1ea55ab1d9754abda43828b8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 02c573abca66f2c0c00f29555f23e0e9ce1de965a99216b93b616ee65bd1856c
+  url: ''
+name: root/TEST_PLAN.md
+path: corpus/b1fe25fc11f840bda246c908721df056/aaa98e5f507652c4e0d77da8114268fddbd44ffd1ea55ab1d9754abda43828b8.md

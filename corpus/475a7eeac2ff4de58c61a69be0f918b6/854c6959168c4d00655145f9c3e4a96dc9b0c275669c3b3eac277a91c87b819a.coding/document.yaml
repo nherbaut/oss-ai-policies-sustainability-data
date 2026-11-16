@@ -1,0 +1,26 @@
+hash: 3d28142d677415e1079ea711cec848a5a05b9f4015f02e38b6efd8702e1f388d
+id: 302ab8c1-deb9-4098-bb42-c7f9bcfa8c42
+metadata:
+  import_document_id: osssaysno:eigent-ai/eigent:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:10+00:00'
+    id: osssaysno:github.com/eigent-ai/eigent:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/eigent-ai/eigent/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/eigent-ai/eigent/main/AGENTS.md
+    role: repository_root_document
+    sha256: 3d28142d677415e1079ea711cec848a5a05b9f4015f02e38b6efd8702e1f388d
+    snapshot: data/osssaysno/policies/eigent-ai/eigent/root/AGENTS.md
+    status: downloaded
+    text_sha256: 3d28142d677415e1079ea711cec848a5a05b9f4015f02e38b6efd8702e1f388d
+    url: https://raw.githubusercontent.com/eigent-ai/eigent/main/AGENTS.md
+  source_archive:
+    member: texts/854c6959168c4d00655145f9c3e4a96dc9b0c275669c3b3eac277a91c87b819a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3d28142d677415e1079ea711cec848a5a05b9f4015f02e38b6efd8702e1f388d
+  url: ''
+name: root/AGENTS.md
+path: corpus/475a7eeac2ff4de58c61a69be0f918b6/854c6959168c4d00655145f9c3e4a96dc9b0c275669c3b3eac277a91c87b819a.md

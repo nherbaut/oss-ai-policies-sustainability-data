@@ -1,0 +1,26 @@
+hash: b127448ad56bc7bb36c191dbd3786438ebffe2f0a746b669d8e5e19958ff3026
+id: 1575f9ba-eb34-4f82-853f-f98528a492f7
+metadata:
+  import_document_id: osssaysno:agones-dev/agones:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:07+00:00'
+    id: osssaysno:github.com/agones-dev/agones:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/agones-dev/agones/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/agones-dev/agones/main/GOVERNANCE.md
+    role: repository_root_document
+    sha256: b127448ad56bc7bb36c191dbd3786438ebffe2f0a746b669d8e5e19958ff3026
+    snapshot: data/osssaysno/policies/agones-dev/agones/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: b127448ad56bc7bb36c191dbd3786438ebffe2f0a746b669d8e5e19958ff3026
+    url: https://raw.githubusercontent.com/agones-dev/agones/main/GOVERNANCE.md
+  source_archive:
+    member: texts/cd130c5cdf3c7f1d2bf5b413c5ba16c6a825bad4aff7394cc5fd5adca429b9c3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b127448ad56bc7bb36c191dbd3786438ebffe2f0a746b669d8e5e19958ff3026
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/de30cf32bb73449ea36f84d8b4f17a62/cd130c5cdf3c7f1d2bf5b413c5ba16c6a825bad4aff7394cc5fd5adca429b9c3.md

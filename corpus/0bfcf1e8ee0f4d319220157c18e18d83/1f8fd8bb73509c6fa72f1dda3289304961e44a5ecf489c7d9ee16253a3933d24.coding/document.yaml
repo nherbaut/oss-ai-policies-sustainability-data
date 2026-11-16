@@ -1,0 +1,26 @@
+hash: 0730a74582c9bf4c9bf8526e11dfd73abad048e1102b3215a34c874fcb5a3673
+id: 8d326470-ac24-4b26-bb14-960dff2a275b
+metadata:
+  import_document_id: osssaysno:pyinfra-dev/pyinfra:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:46+00:00'
+    id: osssaysno:github.com/pyinfra-dev/pyinfra:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/LICENSE.md
+    role: repository_root_document
+    sha256: 0730a74582c9bf4c9bf8526e11dfd73abad048e1102b3215a34c874fcb5a3673
+    snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/LICENSE.md
+    status: downloaded
+    text_sha256: 0730a74582c9bf4c9bf8526e11dfd73abad048e1102b3215a34c874fcb5a3673
+    url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/LICENSE.md
+  source_archive:
+    member: texts/1f8fd8bb73509c6fa72f1dda3289304961e44a5ecf489c7d9ee16253a3933d24.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0730a74582c9bf4c9bf8526e11dfd73abad048e1102b3215a34c874fcb5a3673
+  url: ''
+name: root/LICENSE.md
+path: corpus/0bfcf1e8ee0f4d319220157c18e18d83/1f8fd8bb73509c6fa72f1dda3289304961e44a5ecf489c7d9ee16253a3933d24.md

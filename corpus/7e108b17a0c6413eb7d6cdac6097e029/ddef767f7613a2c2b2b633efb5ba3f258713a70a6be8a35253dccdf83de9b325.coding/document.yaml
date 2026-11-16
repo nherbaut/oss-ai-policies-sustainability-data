@@ -1,0 +1,26 @@
+hash: b8c3ab24782c4b89937ac9e88513152134cdecfe8b06b537e4a09e293bd18604
+id: bc59198a-531b-433a-9758-aeab59da7e9d
+metadata:
+  import_document_id: osssaysno:prusa3d/prusaslicer:root/AUTHORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:51+00:00'
+    id: osssaysno:github.com/prusa3d/prusaslicer:root/AUTHORS.md
+    import_slot: root/AUTHORS.md
+    raw_snapshot: data/osssaysno/policies/prusa3d/prusaslicer/root/raw/AUTHORS.md
+    resolved_url: https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/AUTHORS.md
+    role: repository_root_document
+    sha256: b8c3ab24782c4b89937ac9e88513152134cdecfe8b06b537e4a09e293bd18604
+    snapshot: data/osssaysno/policies/prusa3d/prusaslicer/root/AUTHORS.md
+    status: downloaded
+    text_sha256: b8c3ab24782c4b89937ac9e88513152134cdecfe8b06b537e4a09e293bd18604
+    url: https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/AUTHORS.md
+  source_archive:
+    member: texts/ddef767f7613a2c2b2b633efb5ba3f258713a70a6be8a35253dccdf83de9b325.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b8c3ab24782c4b89937ac9e88513152134cdecfe8b06b537e4a09e293bd18604
+  url: ''
+name: root/AUTHORS.md
+path: corpus/7e108b17a0c6413eb7d6cdac6097e029/ddef767f7613a2c2b2b633efb5ba3f258713a70a6be8a35253dccdf83de9b325.md

@@ -1,0 +1,26 @@
+hash: 185aeec740dd34d42e51f52bee85583c17f32c50c914b8b509fdc0c4c8b57481
+id: 40628833-f944-40a2-af9b-868ed5749514
+metadata:
+  import_document_id: osssaysno:databendlabs/databend:root/LICENSING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:50+00:00'
+    id: osssaysno:github.com/databendlabs/databend:root/LICENSING.md
+    import_slot: root/LICENSING.md
+    raw_snapshot: data/osssaysno/policies/databendlabs/databend/root/raw/LICENSING.md
+    resolved_url: https://raw.githubusercontent.com/databendlabs/databend/main/LICENSING.md
+    role: repository_root_document
+    sha256: 185aeec740dd34d42e51f52bee85583c17f32c50c914b8b509fdc0c4c8b57481
+    snapshot: data/osssaysno/policies/databendlabs/databend/root/LICENSING.md
+    status: downloaded
+    text_sha256: 185aeec740dd34d42e51f52bee85583c17f32c50c914b8b509fdc0c4c8b57481
+    url: https://raw.githubusercontent.com/databendlabs/databend/main/LICENSING.md
+  source_archive:
+    member: texts/6b950fc409943de265b8c5053ff6d16533f4cbc6738ee04bfe191fbb72467113.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 185aeec740dd34d42e51f52bee85583c17f32c50c914b8b509fdc0c4c8b57481
+  url: ''
+name: root/LICENSING.md
+path: corpus/224893bc9d2d40888f87a10ef09edb19/6b950fc409943de265b8c5053ff6d16533f4cbc6738ee04bfe191fbb72467113.md

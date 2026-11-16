@@ -1,0 +1,37 @@
+hash: 08016100b19a8be4e7042680e0099d6a2b85021ec1a6539de0c13551cf929540
+id: 1323632c-de4d-43e0-8d7e-b1e90a144095
+metadata:
+  import_document_id: osssaysno:monogame/monogame:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:16+00:00'
+    id: osssaysno:github.com/monogame/monogame:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/monogame/monogame/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/CONTRIBUTING.md
+    role: contributing
+    sha256: 08016100b19a8be4e7042680e0099d6a2b85021ec1a6539de0c13551cf929540
+    snapshot: data/osssaysno/policies/monogame/monogame/contributing.md
+    status: downloaded
+    text_sha256: 08016100b19a8be4e7042680e0099d6a2b85021ec1a6539de0c13551cf929540
+    url: https://github.com/MonoGame/MonoGame/blob/develop/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:19+00:00'
+    id: osssaysno:github.com/monogame/monogame:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/monogame/monogame/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 08016100b19a8be4e7042680e0099d6a2b85021ec1a6539de0c13551cf929540
+    snapshot: data/osssaysno/policies/monogame/monogame/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 08016100b19a8be4e7042680e0099d6a2b85021ec1a6539de0c13551cf929540
+    url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/CONTRIBUTING.md
+  source_archive:
+    member: texts/6efdd81e65166a8d741be3929363a8a800126ed499028f5e1c167ea6bcd659b1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 08016100b19a8be4e7042680e0099d6a2b85021ec1a6539de0c13551cf929540
+  url: ''
+name: contributing.md
+path: corpus/13de31677fb54d8b8f4dbfa8e497a9a1/6efdd81e65166a8d741be3929363a8a800126ed499028f5e1c167ea6bcd659b1.md

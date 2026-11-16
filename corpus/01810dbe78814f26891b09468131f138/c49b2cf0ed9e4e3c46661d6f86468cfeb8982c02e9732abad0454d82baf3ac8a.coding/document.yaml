@@ -1,0 +1,26 @@
+hash: 0513450397840a0be02b0c1015d24a211e97f439df89ec7d36b2c2f1bfba6bb0
+id: b69d9a07-d48f-4181-8bd4-780336f7a733
+metadata:
+  import_document_id: osssaysno:osaurus-ai/osaurus:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:22+00:00'
+    id: osssaysno:github.com/osaurus-ai/osaurus:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/osaurus-ai/osaurus/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/osaurus-ai/osaurus/main/README.md
+    role: repository_root_document
+    sha256: 0513450397840a0be02b0c1015d24a211e97f439df89ec7d36b2c2f1bfba6bb0
+    snapshot: data/osssaysno/policies/osaurus-ai/osaurus/root/README.md
+    status: downloaded
+    text_sha256: 0513450397840a0be02b0c1015d24a211e97f439df89ec7d36b2c2f1bfba6bb0
+    url: https://raw.githubusercontent.com/osaurus-ai/osaurus/main/README.md
+  source_archive:
+    member: texts/c49b2cf0ed9e4e3c46661d6f86468cfeb8982c02e9732abad0454d82baf3ac8a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0513450397840a0be02b0c1015d24a211e97f439df89ec7d36b2c2f1bfba6bb0
+  url: ''
+name: root/README.md
+path: corpus/01810dbe78814f26891b09468131f138/c49b2cf0ed9e4e3c46661d6f86468cfeb8982c02e9732abad0454d82baf3ac8a.md

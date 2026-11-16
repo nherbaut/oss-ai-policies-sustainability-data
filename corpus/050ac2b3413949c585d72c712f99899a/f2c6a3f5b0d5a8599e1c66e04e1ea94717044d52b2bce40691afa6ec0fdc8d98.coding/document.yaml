@@ -1,0 +1,26 @@
+hash: 172d25346be200eb91313f582977bec20d44054183a8fe36dee7b832b7f6452e
+id: e7608f5c-70cf-45b6-8d6f-5eab166d905b
+metadata:
+  import_document_id: osssaysno:streetcomplete/streetcomplete:root/QUEST_GUIDELINES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:41+00:00'
+    id: osssaysno:github.com/streetcomplete/streetcomplete:root/QUEST_GUIDELINES.md
+    import_slot: root/QUEST_GUIDELINES.md
+    raw_snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/raw/QUEST_GUIDELINES.md
+    resolved_url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/QUEST_GUIDELINES.md
+    role: repository_root_document
+    sha256: 172d25346be200eb91313f582977bec20d44054183a8fe36dee7b832b7f6452e
+    snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/QUEST_GUIDELINES.md
+    status: downloaded
+    text_sha256: 172d25346be200eb91313f582977bec20d44054183a8fe36dee7b832b7f6452e
+    url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/QUEST_GUIDELINES.md
+  source_archive:
+    member: texts/f2c6a3f5b0d5a8599e1c66e04e1ea94717044d52b2bce40691afa6ec0fdc8d98.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 172d25346be200eb91313f582977bec20d44054183a8fe36dee7b832b7f6452e
+  url: ''
+name: root/QUEST_GUIDELINES.md
+path: corpus/050ac2b3413949c585d72c712f99899a/f2c6a3f5b0d5a8599e1c66e04e1ea94717044d52b2bce40691afa6ec0fdc8d98.md

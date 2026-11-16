@@ -1,0 +1,26 @@
+hash: 86752fd83267863e0c3d77f7f0565b2c4597102f2f8c28170b1c839f2cf5c4af
+id: 4ecc581f-ef47-46a4-9885-9321f05487cd
+metadata:
+  import_document_id: osssaysno:code-yeongyu/oh-my-openagent:root/ROADMAP.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:43+00:00'
+    id: osssaysno:github.com/code-yeongyu/oh-my-openagent:root/ROADMAP.md
+    import_slot: root/ROADMAP.md
+    raw_snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/raw/ROADMAP.md
+    resolved_url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/ROADMAP.md
+    role: repository_root_document
+    sha256: 86752fd83267863e0c3d77f7f0565b2c4597102f2f8c28170b1c839f2cf5c4af
+    snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/ROADMAP.md
+    status: downloaded
+    text_sha256: 86752fd83267863e0c3d77f7f0565b2c4597102f2f8c28170b1c839f2cf5c4af
+    url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/ROADMAP.md
+  source_archive:
+    member: texts/d86935c6f5cbbd9b727eb0cc9652e32248c0b5e6febcf7a26c15eb825d923d62.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 86752fd83267863e0c3d77f7f0565b2c4597102f2f8c28170b1c839f2cf5c4af
+  url: ''
+name: root/ROADMAP.md
+path: corpus/80ffc7c8f21942c3837748b88e684fef/d86935c6f5cbbd9b727eb0cc9652e32248c0b5e6febcf7a26c15eb825d923d62.md

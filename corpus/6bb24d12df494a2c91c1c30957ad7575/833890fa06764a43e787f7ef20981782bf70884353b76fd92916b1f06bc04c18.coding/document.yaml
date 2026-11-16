@@ -1,0 +1,26 @@
+hash: 8d30ddb7e2736b4ca50cce5b02472df4db3ede403d4cf3604bf871a924265387
+id: 9edf8b84-8aa9-450f-a0d7-c41201835db1
+metadata:
+  import_document_id: osssaysno:getarcaneapp/arcane:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:18+00:00'
+    id: osssaysno:github.com/getarcaneapp/arcane:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/getarcaneapp/arcane/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/getarcaneapp/arcane/main/README.md
+    role: repository_root_document
+    sha256: 8d30ddb7e2736b4ca50cce5b02472df4db3ede403d4cf3604bf871a924265387
+    snapshot: data/osssaysno/policies/getarcaneapp/arcane/root/README.md
+    status: downloaded
+    text_sha256: 8d30ddb7e2736b4ca50cce5b02472df4db3ede403d4cf3604bf871a924265387
+    url: https://raw.githubusercontent.com/getarcaneapp/arcane/main/README.md
+  source_archive:
+    member: texts/833890fa06764a43e787f7ef20981782bf70884353b76fd92916b1f06bc04c18.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8d30ddb7e2736b4ca50cce5b02472df4db3ede403d4cf3604bf871a924265387
+  url: ''
+name: root/README.md
+path: corpus/6bb24d12df494a2c91c1c30957ad7575/833890fa06764a43e787f7ef20981782bf70884353b76fd92916b1f06bc04c18.md

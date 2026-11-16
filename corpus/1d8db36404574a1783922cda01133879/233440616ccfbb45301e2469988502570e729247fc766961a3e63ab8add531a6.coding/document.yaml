@@ -1,0 +1,26 @@
+hash: 394e11ce266bd60cb6ef60eb4913b6c865f59c4f842ef9423690badc15ee7434
+id: cca0e353-1336-4bce-ab38-eb4950522bdd
+metadata:
+  import_document_id: osssaysno:riot-os/riot:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:55+00:00'
+    id: osssaysno:github.com/riot-os/riot:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/riot-os/riot/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 394e11ce266bd60cb6ef60eb4913b6c865f59c4f842ef9423690badc15ee7434
+    snapshot: data/osssaysno/policies/riot-os/riot/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 394e11ce266bd60cb6ef60eb4913b6c865f59c4f842ef9423690badc15ee7434
+    url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/233440616ccfbb45301e2469988502570e729247fc766961a3e63ab8add531a6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 394e11ce266bd60cb6ef60eb4913b6c865f59c4f842ef9423690badc15ee7434
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/1d8db36404574a1783922cda01133879/233440616ccfbb45301e2469988502570e729247fc766961a3e63ab8add531a6.md

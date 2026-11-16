@@ -1,0 +1,37 @@
+hash: dbc1a06010f1c773ecc1e67e08fde4ef0dd22ed8f04fd51a944d3316eedabed2
+id: de106da6-7036-4ba5-9626-c9546f619940
+metadata:
+  import_document_id: osssaysno:analysis-tools-dev/static-analysis:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:15+00:00'
+    id: osssaysno:github.com/analysis-tools-dev/static-analysis:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/analysis-tools-dev/static-analysis/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/analysis-tools-dev/static-analysis/master/CONTRIBUTING.md
+    role: contributing
+    sha256: dbc1a06010f1c773ecc1e67e08fde4ef0dd22ed8f04fd51a944d3316eedabed2
+    snapshot: data/osssaysno/policies/analysis-tools-dev/static-analysis/contributing.md
+    status: downloaded
+    text_sha256: dbc1a06010f1c773ecc1e67e08fde4ef0dd22ed8f04fd51a944d3316eedabed2
+    url: https://github.com/analysis-tools-dev/static-analysis/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:16+00:00'
+    id: osssaysno:github.com/analysis-tools-dev/static-analysis:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/analysis-tools-dev/static-analysis/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/analysis-tools-dev/static-analysis/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: dbc1a06010f1c773ecc1e67e08fde4ef0dd22ed8f04fd51a944d3316eedabed2
+    snapshot: data/osssaysno/policies/analysis-tools-dev/static-analysis/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: dbc1a06010f1c773ecc1e67e08fde4ef0dd22ed8f04fd51a944d3316eedabed2
+    url: https://raw.githubusercontent.com/analysis-tools-dev/static-analysis/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/a98b6b72c3becdb0bf820a67c25b7b6a460e0ced3b3e4af541a7be8ff544905d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: dbc1a06010f1c773ecc1e67e08fde4ef0dd22ed8f04fd51a944d3316eedabed2
+  url: ''
+name: contributing.md
+path: corpus/bc390a0dd11e496092c7d62aad8b6a9d/a98b6b72c3becdb0bf820a67c25b7b6a460e0ced3b3e4af541a7be8ff544905d.md

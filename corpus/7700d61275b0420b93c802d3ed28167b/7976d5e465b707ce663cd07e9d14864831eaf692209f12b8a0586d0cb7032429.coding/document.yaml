@@ -1,0 +1,26 @@
+hash: 2d5c9b7683d6258217145183799a1cb02d83e67da4e6a8fc5eba7ecd63cab46d
+id: 4efc555c-def3-4f45-b5ef-eb7ba3b52bd7
+metadata:
+  import_document_id: osssaysno:conda/conda:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:45+00:00'
+    id: osssaysno:github.com/conda/conda:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/conda/conda/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/conda/conda/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 2d5c9b7683d6258217145183799a1cb02d83e67da4e6a8fc5eba7ecd63cab46d
+    snapshot: data/osssaysno/policies/conda/conda/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 2d5c9b7683d6258217145183799a1cb02d83e67da4e6a8fc5eba7ecd63cab46d
+    url: https://raw.githubusercontent.com/conda/conda/main/CHANGELOG.md
+  source_archive:
+    member: texts/7976d5e465b707ce663cd07e9d14864831eaf692209f12b8a0586d0cb7032429.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2d5c9b7683d6258217145183799a1cb02d83e67da4e6a8fc5eba7ecd63cab46d
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/7700d61275b0420b93c802d3ed28167b/7976d5e465b707ce663cd07e9d14864831eaf692209f12b8a0586d0cb7032429.md

@@ -1,0 +1,26 @@
+hash: 65602f7abf1bc5aadb2473ec9780a55640f6675869f8031cba2fa7904bb30770
+id: 84acf636-7c62-4d7b-9d70-d4fb5508982d
+metadata:
+  import_document_id: osssaysno:nirdiamant/genai_agents:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:23+00:00'
+    id: osssaysno:github.com/nirdiamant/genai_agents:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/nirdiamant/genai_agents/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/NirDiamant/GenAI_Agents/main/README.md
+    role: repository_root_document
+    sha256: 65602f7abf1bc5aadb2473ec9780a55640f6675869f8031cba2fa7904bb30770
+    snapshot: data/osssaysno/policies/nirdiamant/genai_agents/root/README.md
+    status: downloaded
+    text_sha256: 65602f7abf1bc5aadb2473ec9780a55640f6675869f8031cba2fa7904bb30770
+    url: https://raw.githubusercontent.com/NirDiamant/GenAI_Agents/main/README.md
+  source_archive:
+    member: texts/377dee9443ad5a41955d4629fd6f133e5d2f526767d2f9a44186508774a26c14.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 65602f7abf1bc5aadb2473ec9780a55640f6675869f8031cba2fa7904bb30770
+  url: ''
+name: root/README.md
+path: corpus/294f34f2ce06422bb75d78341fe435d8/377dee9443ad5a41955d4629fd6f133e5d2f526767d2f9a44186508774a26c14.md

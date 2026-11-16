@@ -1,0 +1,26 @@
+hash: dba6b1400765d069f8b59724ff44c6914e55b9d2e34b4684d4f17c3c4df7440f
+id: 92396b93-7af2-4294-88ad-2d11f0c06d90
+metadata:
+  import_document_id: osssaysno:polarsource/polar:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:17+00:00'
+    id: osssaysno:github.com/polarsource/polar:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/polarsource/polar/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/polarsource/polar/main/SECURITY.md
+    role: repository_root_document
+    sha256: dba6b1400765d069f8b59724ff44c6914e55b9d2e34b4684d4f17c3c4df7440f
+    snapshot: data/osssaysno/policies/polarsource/polar/root/SECURITY.md
+    status: downloaded
+    text_sha256: dba6b1400765d069f8b59724ff44c6914e55b9d2e34b4684d4f17c3c4df7440f
+    url: https://raw.githubusercontent.com/polarsource/polar/main/SECURITY.md
+  source_archive:
+    member: texts/4f442fc96d02d65e24d97b19c00def6e9183fea21789636ab11d00e2816e7f31.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: dba6b1400765d069f8b59724ff44c6914e55b9d2e34b4684d4f17c3c4df7440f
+  url: ''
+name: root/SECURITY.md
+path: corpus/17bf0501e7ff4d758f16100d6c2ae3a5/4f442fc96d02d65e24d97b19c00def6e9183fea21789636ab11d00e2816e7f31.md

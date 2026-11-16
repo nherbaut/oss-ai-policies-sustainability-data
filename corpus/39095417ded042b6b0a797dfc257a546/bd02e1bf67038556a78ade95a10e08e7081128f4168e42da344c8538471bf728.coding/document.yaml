@@ -1,0 +1,37 @@
+hash: fc7faa654f247ec4685746cdc862428bb17d0ce4bf5fbacf5eb682fe49fef466
+id: 4c839f35-898a-4efd-ae19-fd3a8273e218
+metadata:
+  import_document_id: osssaysno:nvidia-nemo/guardrails:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:51+00:00'
+    id: osssaysno:github.com/nvidia-nemo/guardrails:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/AGENTS.md
+    role: repository_root_document
+    sha256: fc7faa654f247ec4685746cdc862428bb17d0ce4bf5fbacf5eb682fe49fef466
+    snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/AGENTS.md
+    status: downloaded
+    text_sha256: fc7faa654f247ec4685746cdc862428bb17d0ce4bf5fbacf5eb682fe49fef466
+    url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/AGENTS.md
+  - accessed_at: '2026-11-15T23:36:53+00:00'
+    id: osssaysno:github.com/nvidia-nemo/guardrails:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/AGENTS.md
+    role: repository_root_document
+    sha256: fc7faa654f247ec4685746cdc862428bb17d0ce4bf5fbacf5eb682fe49fef466
+    snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/CLAUDE.md
+    status: downloaded
+    text_sha256: fc7faa654f247ec4685746cdc862428bb17d0ce4bf5fbacf5eb682fe49fef466
+    url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/CLAUDE.md
+  source_archive:
+    member: texts/bd02e1bf67038556a78ade95a10e08e7081128f4168e42da344c8538471bf728.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fc7faa654f247ec4685746cdc862428bb17d0ce4bf5fbacf5eb682fe49fef466
+  url: ''
+name: root/AGENTS.md
+path: corpus/39095417ded042b6b0a797dfc257a546/bd02e1bf67038556a78ade95a10e08e7081128f4168e42da344c8538471bf728.md

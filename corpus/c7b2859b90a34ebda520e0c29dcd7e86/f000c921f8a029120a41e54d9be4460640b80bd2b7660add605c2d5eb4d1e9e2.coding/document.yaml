@@ -1,0 +1,26 @@
+hash: 99fc9908e34ac7503c90410d92e30f7d68859628a57a13a8611dbc39d8481675
+id: 326c00c4-b73b-4c0f-b160-d845de931d5c
+metadata:
+  import_document_id: osssaysno:vespa-engine/vespa:root/ERRATA.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:04+00:00'
+    id: osssaysno:github.com/vespa-engine/vespa:root/ERRATA.md
+    import_slot: root/ERRATA.md
+    raw_snapshot: data/osssaysno/policies/vespa-engine/vespa/root/raw/ERRATA.md
+    resolved_url: https://raw.githubusercontent.com/vespa-engine/vespa/master/ERRATA.md
+    role: repository_root_document
+    sha256: 99fc9908e34ac7503c90410d92e30f7d68859628a57a13a8611dbc39d8481675
+    snapshot: data/osssaysno/policies/vespa-engine/vespa/root/ERRATA.md
+    status: downloaded
+    text_sha256: 99fc9908e34ac7503c90410d92e30f7d68859628a57a13a8611dbc39d8481675
+    url: https://raw.githubusercontent.com/vespa-engine/vespa/master/ERRATA.md
+  source_archive:
+    member: texts/f000c921f8a029120a41e54d9be4460640b80bd2b7660add605c2d5eb4d1e9e2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 99fc9908e34ac7503c90410d92e30f7d68859628a57a13a8611dbc39d8481675
+  url: ''
+name: root/ERRATA.md
+path: corpus/c7b2859b90a34ebda520e0c29dcd7e86/f000c921f8a029120a41e54d9be4460640b80bd2b7660add605c2d5eb4d1e9e2.md

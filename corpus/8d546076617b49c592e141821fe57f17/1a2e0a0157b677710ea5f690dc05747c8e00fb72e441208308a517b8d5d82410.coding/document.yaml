@@ -1,0 +1,26 @@
+hash: c52ee66ac883be1dce2e793f568121bc2448ecb90cc3190fa356b23c8431d03a
+id: 5e3c9f4c-5024-4c6c-b158-52f62434edea
+metadata:
+  import_document_id: osssaysno:domaindrivendev/swashbuckle.aspnetcore:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:13+00:00'
+    id: osssaysno:github.com/domaindrivendev/swashbuckle.aspnetcore:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/domaindrivendev/swashbuckle.aspnetcore/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/domaindrivendev/Swashbuckle.AspNetCore/master/SECURITY.md
+    role: repository_root_document
+    sha256: c52ee66ac883be1dce2e793f568121bc2448ecb90cc3190fa356b23c8431d03a
+    snapshot: data/osssaysno/policies/domaindrivendev/swashbuckle.aspnetcore/root/SECURITY.md
+    status: downloaded
+    text_sha256: c52ee66ac883be1dce2e793f568121bc2448ecb90cc3190fa356b23c8431d03a
+    url: https://raw.githubusercontent.com/domaindrivendev/Swashbuckle.AspNetCore/master/SECURITY.md
+  source_archive:
+    member: texts/1a2e0a0157b677710ea5f690dc05747c8e00fb72e441208308a517b8d5d82410.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c52ee66ac883be1dce2e793f568121bc2448ecb90cc3190fa356b23c8431d03a
+  url: ''
+name: root/SECURITY.md
+path: corpus/8d546076617b49c592e141821fe57f17/1a2e0a0157b677710ea5f690dc05747c8e00fb72e441208308a517b8d5d82410.md

@@ -1,0 +1,26 @@
+hash: b39b423cde5fb57ebcb45ff8461c7408275f6f6efb9a3fb7bdb889f50bbee5fa
+id: 890cd03b-f297-43df-b7dd-582d852a2750
+metadata:
+  import_document_id: osssaysno:lima-vm/lima:root/ADOPTERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:37+00:00'
+    id: osssaysno:github.com/lima-vm/lima:root/ADOPTERS.md
+    import_slot: root/ADOPTERS.md
+    raw_snapshot: data/osssaysno/policies/lima-vm/lima/root/raw/ADOPTERS.md
+    resolved_url: https://raw.githubusercontent.com/lima-vm/lima/master/ADOPTERS.md
+    role: repository_root_document
+    sha256: b39b423cde5fb57ebcb45ff8461c7408275f6f6efb9a3fb7bdb889f50bbee5fa
+    snapshot: data/osssaysno/policies/lima-vm/lima/root/ADOPTERS.md
+    status: downloaded
+    text_sha256: b39b423cde5fb57ebcb45ff8461c7408275f6f6efb9a3fb7bdb889f50bbee5fa
+    url: https://raw.githubusercontent.com/lima-vm/lima/master/ADOPTERS.md
+  source_archive:
+    member: texts/817f43709c33ceb96422f0df34b1c2a19a85ee461dae85682358fd5cdf0a2226.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b39b423cde5fb57ebcb45ff8461c7408275f6f6efb9a3fb7bdb889f50bbee5fa
+  url: ''
+name: root/ADOPTERS.md
+path: corpus/aa2f75c06b4843f3aaa6b2137290d56b/817f43709c33ceb96422f0df34b1c2a19a85ee461dae85682358fd5cdf0a2226.md

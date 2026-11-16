@@ -1,0 +1,26 @@
+hash: 5b70b33c30ef8ff2a8da519f3001bc0da4ffd28f482c2fcad4aea57bb0d2b8ad
+id: 1a85de4e-943f-4cb0-b1de-a05fa3d38e85
+metadata:
+  import_document_id: osssaysno:quickwit-oss/quickwit:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:09+00:00'
+    id: osssaysno:github.com/quickwit-oss/quickwit:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/SECURITY.md
+    role: repository_root_document
+    sha256: 5b70b33c30ef8ff2a8da519f3001bc0da4ffd28f482c2fcad4aea57bb0d2b8ad
+    snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/SECURITY.md
+    status: downloaded
+    text_sha256: 5b70b33c30ef8ff2a8da519f3001bc0da4ffd28f482c2fcad4aea57bb0d2b8ad
+    url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/SECURITY.md
+  source_archive:
+    member: texts/e40a27b238b886201ca11c685969f0cac0a62642c6304069150faa9a29b44a62.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5b70b33c30ef8ff2a8da519f3001bc0da4ffd28f482c2fcad4aea57bb0d2b8ad
+  url: ''
+name: root/SECURITY.md
+path: corpus/fbdfe8f8cc3f4cf6b1c4e8097a3f7474/e40a27b238b886201ca11c685969f0cac0a62642c6304069150faa9a29b44a62.md

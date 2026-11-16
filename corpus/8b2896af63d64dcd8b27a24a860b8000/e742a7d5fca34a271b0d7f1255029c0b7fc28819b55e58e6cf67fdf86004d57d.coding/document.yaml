@@ -1,0 +1,37 @@
+hash: be63f5a166aafa47ebca7a87c2694819f7e4119b5cabdf20a2565aec483f327a
+id: 6ba065ad-b50d-4c67-921c-f872e27dda5e
+metadata:
+  import_document_id: osssaysno:rukamori/archivetune:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:42+00:00'
+    id: osssaysno:github.com/rukamori/archivetune:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/rukamori/archivetune/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/CONTRIBUTING.md
+    role: contributing
+    sha256: be63f5a166aafa47ebca7a87c2694819f7e4119b5cabdf20a2565aec483f327a
+    snapshot: data/osssaysno/policies/rukamori/archivetune/contributing.md
+    status: downloaded
+    text_sha256: be63f5a166aafa47ebca7a87c2694819f7e4119b5cabdf20a2565aec483f327a
+    url: https://github.com/rukamori/ArchiveTune/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:36+00:00'
+    id: osssaysno:github.com/rukamori/archivetune:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/rukamori/archivetune/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: be63f5a166aafa47ebca7a87c2694819f7e4119b5cabdf20a2565aec483f327a
+    snapshot: data/osssaysno/policies/rukamori/archivetune/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: be63f5a166aafa47ebca7a87c2694819f7e4119b5cabdf20a2565aec483f327a
+    url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/e742a7d5fca34a271b0d7f1255029c0b7fc28819b55e58e6cf67fdf86004d57d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: be63f5a166aafa47ebca7a87c2694819f7e4119b5cabdf20a2565aec483f327a
+  url: ''
+name: contributing.md
+path: corpus/8b2896af63d64dcd8b27a24a860b8000/e742a7d5fca34a271b0d7f1255029c0b7fc28819b55e58e6cf67fdf86004d57d.md

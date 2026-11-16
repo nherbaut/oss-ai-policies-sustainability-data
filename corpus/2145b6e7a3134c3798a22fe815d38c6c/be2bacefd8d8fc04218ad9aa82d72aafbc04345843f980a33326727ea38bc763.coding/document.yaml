@@ -1,0 +1,37 @@
+hash: 743ebdefafd065d1081c5a3bb148a3c7a8b72b44f330366325c486822f887c82
+id: 8b532923-29d8-4a14-aad9-006526eff7e2
+metadata:
+  import_document_id: osssaysno:usekaneo/kaneo:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:28+00:00'
+    id: osssaysno:github.com/usekaneo/kaneo:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/usekaneo/kaneo/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/usekaneo/kaneo/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 743ebdefafd065d1081c5a3bb148a3c7a8b72b44f330366325c486822f887c82
+    snapshot: data/osssaysno/policies/usekaneo/kaneo/ai_policy.md
+    status: downloaded
+    text_sha256: 743ebdefafd065d1081c5a3bb148a3c7a8b72b44f330366325c486822f887c82
+    url: https://github.com/usekaneo/kaneo/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:35:32+00:00'
+    id: osssaysno:github.com/usekaneo/kaneo:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/usekaneo/kaneo/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/usekaneo/kaneo/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 743ebdefafd065d1081c5a3bb148a3c7a8b72b44f330366325c486822f887c82
+    snapshot: data/osssaysno/policies/usekaneo/kaneo/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 743ebdefafd065d1081c5a3bb148a3c7a8b72b44f330366325c486822f887c82
+    url: https://raw.githubusercontent.com/usekaneo/kaneo/main/AI_POLICY.md
+  source_archive:
+    member: texts/be2bacefd8d8fc04218ad9aa82d72aafbc04345843f980a33326727ea38bc763.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 743ebdefafd065d1081c5a3bb148a3c7a8b72b44f330366325c486822f887c82
+  url: ''
+name: ai_policy.md
+path: corpus/2145b6e7a3134c3798a22fe815d38c6c/be2bacefd8d8fc04218ad9aa82d72aafbc04345843f980a33326727ea38bc763.md

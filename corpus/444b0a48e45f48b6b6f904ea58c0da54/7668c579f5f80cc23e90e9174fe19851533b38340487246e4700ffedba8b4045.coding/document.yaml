@@ -1,0 +1,26 @@
+hash: 7b8b7a10ebe0b611b2cf80cdaa43ca07f3906867aefa9d1750b1597f0657eb88
+id: c1ffdff8-1c68-42b6-933d-b901d93ea4e0
+metadata:
+  import_document_id: osssaysno:moment/moment:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:48+00:00'
+    id: osssaysno:github.com/moment/moment:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/moment/moment/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/moment/moment/develop/README.md
+    role: repository_root_document
+    sha256: 7b8b7a10ebe0b611b2cf80cdaa43ca07f3906867aefa9d1750b1597f0657eb88
+    snapshot: data/osssaysno/policies/moment/moment/root/README.md
+    status: downloaded
+    text_sha256: 7b8b7a10ebe0b611b2cf80cdaa43ca07f3906867aefa9d1750b1597f0657eb88
+    url: https://raw.githubusercontent.com/moment/moment/develop/README.md
+  source_archive:
+    member: texts/7668c579f5f80cc23e90e9174fe19851533b38340487246e4700ffedba8b4045.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7b8b7a10ebe0b611b2cf80cdaa43ca07f3906867aefa9d1750b1597f0657eb88
+  url: ''
+name: root/README.md
+path: corpus/444b0a48e45f48b6b6f904ea58c0da54/7668c579f5f80cc23e90e9174fe19851533b38340487246e4700ffedba8b4045.md

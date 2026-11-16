@@ -1,0 +1,26 @@
+hash: 8a0f954355958f127bd1114199c345c136f25986c23bf46c654fdea969f9d740
+id: fdfbeb5e-9462-41be-864b-52e6fc942031
+metadata:
+  import_document_id: osssaysno:nodejs/node:root/onboarding.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:19+00:00'
+    id: osssaysno:github.com/nodejs/node:root/onboarding.md
+    import_slot: root/onboarding.md
+    raw_snapshot: data/osssaysno/policies/nodejs/node/root/raw/onboarding.md
+    resolved_url: https://raw.githubusercontent.com/nodejs/node/main/onboarding.md
+    role: repository_root_document
+    sha256: 8a0f954355958f127bd1114199c345c136f25986c23bf46c654fdea969f9d740
+    snapshot: data/osssaysno/policies/nodejs/node/root/onboarding.md
+    status: downloaded
+    text_sha256: 8a0f954355958f127bd1114199c345c136f25986c23bf46c654fdea969f9d740
+    url: https://raw.githubusercontent.com/nodejs/node/main/onboarding.md
+  source_archive:
+    member: texts/117180b25f526a769a77c87fdd36f4e07ffa402032373cc7538ba21c25ab2f7d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8a0f954355958f127bd1114199c345c136f25986c23bf46c654fdea969f9d740
+  url: ''
+name: root/onboarding.md
+path: corpus/77cedc800d4241619f12a7104b9779d7/117180b25f526a769a77c87fdd36f4e07ffa402032373cc7538ba21c25ab2f7d.md

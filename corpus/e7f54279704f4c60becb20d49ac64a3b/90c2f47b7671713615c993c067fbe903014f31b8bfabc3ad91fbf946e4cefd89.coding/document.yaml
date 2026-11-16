@@ -1,0 +1,26 @@
+hash: 8aab27b5ccfc9c2b5e19142dce4a303208476a30c9a531d46486086fb43d83c0
+id: 91f24c55-ce56-4044-8db2-ed0591bff4cb
+metadata:
+  import_document_id: osssaysno:federico-busato/modern-cpp-programming:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:07+00:00'
+    id: osssaysno:github.com/federico-busato/modern-cpp-programming:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 8aab27b5ccfc9c2b5e19142dce4a303208476a30c9a531d46486086fb43d83c0
+    snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 8aab27b5ccfc9c2b5e19142dce4a303208476a30c9a531d46486086fb43d83c0
+    url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/90c2f47b7671713615c993c067fbe903014f31b8bfabc3ad91fbf946e4cefd89.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8aab27b5ccfc9c2b5e19142dce4a303208476a30c9a531d46486086fb43d83c0
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/e7f54279704f4c60becb20d49ac64a3b/90c2f47b7671713615c993c067fbe903014f31b8bfabc3ad91fbf946e4cefd89.md

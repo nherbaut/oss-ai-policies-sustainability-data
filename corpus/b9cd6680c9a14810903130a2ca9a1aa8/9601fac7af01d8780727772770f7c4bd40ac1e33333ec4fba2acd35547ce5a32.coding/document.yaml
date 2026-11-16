@@ -1,0 +1,37 @@
+hash: ee9843fc5ba385b92894f916144fa9fd8c2f5a293c3df687fa43e590586be818
+id: 9c3f062d-6ff5-45e3-8965-737bcb7edd1a
+metadata:
+  import_document_id: osssaysno:dlvhdr/gh-dash:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:42+00:00'
+    id: osssaysno:github.com/dlvhdr/gh-dash:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/dlvhdr/gh-dash/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/dlvhdr/gh-dash/main/AI_POLICY.md
+    role: ai_policy
+    sha256: ee9843fc5ba385b92894f916144fa9fd8c2f5a293c3df687fa43e590586be818
+    snapshot: data/osssaysno/policies/dlvhdr/gh-dash/ai_policy.md
+    status: downloaded
+    text_sha256: ee9843fc5ba385b92894f916144fa9fd8c2f5a293c3df687fa43e590586be818
+    url: https://github.com/dlvhdr/gh-dash/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:29:43+00:00'
+    id: osssaysno:github.com/dlvhdr/gh-dash:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/dlvhdr/gh-dash/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/dlvhdr/gh-dash/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: ee9843fc5ba385b92894f916144fa9fd8c2f5a293c3df687fa43e590586be818
+    snapshot: data/osssaysno/policies/dlvhdr/gh-dash/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: ee9843fc5ba385b92894f916144fa9fd8c2f5a293c3df687fa43e590586be818
+    url: https://raw.githubusercontent.com/dlvhdr/gh-dash/main/AI_POLICY.md
+  source_archive:
+    member: texts/9601fac7af01d8780727772770f7c4bd40ac1e33333ec4fba2acd35547ce5a32.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ee9843fc5ba385b92894f916144fa9fd8c2f5a293c3df687fa43e590586be818
+  url: ''
+name: ai_policy.md
+path: corpus/b9cd6680c9a14810903130a2ca9a1aa8/9601fac7af01d8780727772770f7c4bd40ac1e33333ec4fba2acd35547ce5a32.md

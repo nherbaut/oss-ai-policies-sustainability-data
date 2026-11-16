@@ -1,0 +1,26 @@
+hash: fbbd5b58613f2204464b6c796a2dd80c191202907bd3722b8c6d80bf2be2d488
+id: 0e192049-e653-470a-9047-a0f5b6218aca
+metadata:
+  import_document_id: osssaysno:nvidia/openshell:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:48+00:00'
+    id: osssaysno:github.com/nvidia/openshell:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/nvidia/openshell/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/MAINTAINERS.md
+    role: repository_root_document
+    sha256: fbbd5b58613f2204464b6c796a2dd80c191202907bd3722b8c6d80bf2be2d488
+    snapshot: data/osssaysno/policies/nvidia/openshell/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: fbbd5b58613f2204464b6c796a2dd80c191202907bd3722b8c6d80bf2be2d488
+    url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/MAINTAINERS.md
+  source_archive:
+    member: texts/fe04f03912424600676b25e7c396c5dbdf9901b52f2d11f95194a84c0c6d6a0e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fbbd5b58613f2204464b6c796a2dd80c191202907bd3722b8c6d80bf2be2d488
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/81cc2c4a753d48cd98ec43d30943486d/fe04f03912424600676b25e7c396c5dbdf9901b52f2d11f95194a84c0c6d6a0e.md

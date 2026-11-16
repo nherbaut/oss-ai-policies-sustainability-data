@@ -1,0 +1,26 @@
+hash: 3129503225c984a0fab0c6a660ac180d4509ba99c4d995ee0b7f4a8d36050267
+id: 059f2e0d-1740-4143-991e-c28c68afdaa2
+metadata:
+  import_document_id: osssaysno:n0-computer/iroh:root/code_of_conduct.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:42+00:00'
+    id: osssaysno:github.com/n0-computer/iroh:root/code_of_conduct.md
+    import_slot: root/code_of_conduct.md
+    raw_snapshot: data/osssaysno/policies/n0-computer/iroh/root/raw/code_of_conduct.md
+    resolved_url: https://raw.githubusercontent.com/n0-computer/iroh/main/code_of_conduct.md
+    role: repository_root_document
+    sha256: 3129503225c984a0fab0c6a660ac180d4509ba99c4d995ee0b7f4a8d36050267
+    snapshot: data/osssaysno/policies/n0-computer/iroh/root/code_of_conduct.md
+    status: downloaded
+    text_sha256: 3129503225c984a0fab0c6a660ac180d4509ba99c4d995ee0b7f4a8d36050267
+    url: https://raw.githubusercontent.com/n0-computer/iroh/main/code_of_conduct.md
+  source_archive:
+    member: texts/ddf8d9f0b47a15752f970cdd32b40e9e9e2ff60899f7b3f2799ddd43fd2eb0cd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3129503225c984a0fab0c6a660ac180d4509ba99c4d995ee0b7f4a8d36050267
+  url: ''
+name: root/code_of_conduct.md
+path: corpus/b6bff42c649544d0bc99a96e74c88af6/ddf8d9f0b47a15752f970cdd32b40e9e9e2ff60899f7b3f2799ddd43fd2eb0cd.md

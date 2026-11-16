@@ -1,0 +1,26 @@
+hash: f8efc324f37706b44aef7100e0f7ab68ca6c4d2d1b58f09da49beac4baab98c6
+id: b009c8f8-1da6-42eb-a32a-ef8df0c72f7a
+metadata:
+  import_document_id: osssaysno:jaegertracing/jaeger:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:30+00:00'
+    id: osssaysno:github.com/jaegertracing/jaeger:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/MAINTAINERS.md
+    role: repository_root_document
+    sha256: f8efc324f37706b44aef7100e0f7ab68ca6c4d2d1b58f09da49beac4baab98c6
+    snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: f8efc324f37706b44aef7100e0f7ab68ca6c4d2d1b58f09da49beac4baab98c6
+    url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/MAINTAINERS.md
+  source_archive:
+    member: texts/b70320b6e95143db767bf308920cf7c7f289e1228fa9bd8caf578b429cf9ff0b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f8efc324f37706b44aef7100e0f7ab68ca6c4d2d1b58f09da49beac4baab98c6
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/d4874f79daba4aeb9c2061c4f44e4aa4/b70320b6e95143db767bf308920cf7c7f289e1228fa9bd8caf578b429cf9ff0b.md

@@ -1,0 +1,37 @@
+hash: a580dff52be54d3e3af78e4bd1ed6da9604783dabbcea9050242e5cf2db2cacf
+id: 0e9e53be-0b54-4225-aabf-e72bc199f02e
+metadata:
+  import_document_id: osssaysno:polarsource/polar:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:24+00:00'
+    id: osssaysno:github.com/polarsource/polar:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/polarsource/polar/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/polarsource/polar/main/CONTRIBUTING.md
+    role: contributing
+    sha256: a580dff52be54d3e3af78e4bd1ed6da9604783dabbcea9050242e5cf2db2cacf
+    snapshot: data/osssaysno/policies/polarsource/polar/contributing.md
+    status: downloaded
+    text_sha256: a580dff52be54d3e3af78e4bd1ed6da9604783dabbcea9050242e5cf2db2cacf
+    url: https://github.com/polarsource/polar/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:35:16+00:00'
+    id: osssaysno:github.com/polarsource/polar:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/polarsource/polar/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/polarsource/polar/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: a580dff52be54d3e3af78e4bd1ed6da9604783dabbcea9050242e5cf2db2cacf
+    snapshot: data/osssaysno/policies/polarsource/polar/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: a580dff52be54d3e3af78e4bd1ed6da9604783dabbcea9050242e5cf2db2cacf
+    url: https://raw.githubusercontent.com/polarsource/polar/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/9acedd33924d94c45c2f2d09fde55d62453827352cbae13911e3cf8cc6ec7ebc.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a580dff52be54d3e3af78e4bd1ed6da9604783dabbcea9050242e5cf2db2cacf
+  url: ''
+name: contributing.md
+path: corpus/17bf0501e7ff4d758f16100d6c2ae3a5/9acedd33924d94c45c2f2d09fde55d62453827352cbae13911e3cf8cc6ec7ebc.md

@@ -1,0 +1,26 @@
+hash: 7bbe34f367edb434a683c942ecc88adbe0572ce9b77fd0664403d4b98ceafd60
+id: d150ebd7-7812-49e9-83b0-b2ad22c942f0
+metadata:
+  import_document_id: osssaysno:pyrefly-org/pyrefly:root/TENSOR_SHAPES_CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:00+00:00'
+    id: osssaysno:github.com/pyrefly-org/pyrefly:root/TENSOR_SHAPES_CONTRIBUTING.md
+    import_slot: root/TENSOR_SHAPES_CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/raw/TENSOR_SHAPES_CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/TENSOR_SHAPES_CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 7bbe34f367edb434a683c942ecc88adbe0572ce9b77fd0664403d4b98ceafd60
+    snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/TENSOR_SHAPES_CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 7bbe34f367edb434a683c942ecc88adbe0572ce9b77fd0664403d4b98ceafd60
+    url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/TENSOR_SHAPES_CONTRIBUTING.md
+  source_archive:
+    member: texts/8bc9ca6cf64f5c48173cefefc2ebfa7544eafbcbb3b57b5dcab61b59d48030ef.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7bbe34f367edb434a683c942ecc88adbe0572ce9b77fd0664403d4b98ceafd60
+  url: ''
+name: root/TENSOR_SHAPES_CONTRIBUTING.md
+path: corpus/971a84d6a3da4077865cb731d77e95ae/8bc9ca6cf64f5c48173cefefc2ebfa7544eafbcbb3b57b5dcab61b59d48030ef.md

@@ -1,0 +1,37 @@
+hash: 1e18fd9fb3dee09804e9a95a09e8311df187f5da78c0ee4d6043ccf34c44a88a
+id: 16c261b5-b672-42d5-93ff-0c9a0111086f
+metadata:
+  import_document_id: osssaysno:kludex/uvicorn:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:17+00:00'
+    id: osssaysno:github.com/kludex/uvicorn:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/kludex/uvicorn/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/Kludex/uvicorn/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 1e18fd9fb3dee09804e9a95a09e8311df187f5da78c0ee4d6043ccf34c44a88a
+    snapshot: data/osssaysno/policies/kludex/uvicorn/ai_policy.md
+    status: downloaded
+    text_sha256: 1e18fd9fb3dee09804e9a95a09e8311df187f5da78c0ee4d6043ccf34c44a88a
+    url: https://github.com/Kludex/uvicorn/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:30:17+00:00'
+    id: osssaysno:github.com/kludex/uvicorn:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/kludex/uvicorn/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/Kludex/uvicorn/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 1e18fd9fb3dee09804e9a95a09e8311df187f5da78c0ee4d6043ccf34c44a88a
+    snapshot: data/osssaysno/policies/kludex/uvicorn/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 1e18fd9fb3dee09804e9a95a09e8311df187f5da78c0ee4d6043ccf34c44a88a
+    url: https://raw.githubusercontent.com/Kludex/uvicorn/main/AI_POLICY.md
+  source_archive:
+    member: texts/39120032b80205d70eae06fcf5a2a0d7e4aeccb30422169278d36efdbe98db9e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1e18fd9fb3dee09804e9a95a09e8311df187f5da78c0ee4d6043ccf34c44a88a
+  url: ''
+name: ai_policy.md
+path: corpus/e4687bc7acdc47d89f1bd082d7b916e1/39120032b80205d70eae06fcf5a2a0d7e4aeccb30422169278d36efdbe98db9e.md

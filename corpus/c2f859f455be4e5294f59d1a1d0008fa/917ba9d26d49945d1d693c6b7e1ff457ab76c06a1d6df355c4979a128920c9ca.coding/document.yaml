@@ -1,0 +1,26 @@
+hash: ecfe6919e90d83a4fcfe2caf13e023d5c9260ba2c54c8b221ce0bcdabd710b77
+id: c567e102-8e00-4f98-bb2a-a5ac240016f9
+metadata:
+  import_document_id: osssaysno:grpc/grpc-rust:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:47+00:00'
+    id: osssaysno:github.com/grpc/grpc-rust:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-rust/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-rust/master/SECURITY.md
+    role: repository_root_document
+    sha256: ecfe6919e90d83a4fcfe2caf13e023d5c9260ba2c54c8b221ce0bcdabd710b77
+    snapshot: data/osssaysno/policies/grpc/grpc-rust/root/SECURITY.md
+    status: downloaded
+    text_sha256: ecfe6919e90d83a4fcfe2caf13e023d5c9260ba2c54c8b221ce0bcdabd710b77
+    url: https://raw.githubusercontent.com/grpc/grpc-rust/master/SECURITY.md
+  source_archive:
+    member: texts/917ba9d26d49945d1d693c6b7e1ff457ab76c06a1d6df355c4979a128920c9ca.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ecfe6919e90d83a4fcfe2caf13e023d5c9260ba2c54c8b221ce0bcdabd710b77
+  url: ''
+name: root/SECURITY.md
+path: corpus/c2f859f455be4e5294f59d1a1d0008fa/917ba9d26d49945d1d693c6b7e1ff457ab76c06a1d6df355c4979a128920c9ca.md

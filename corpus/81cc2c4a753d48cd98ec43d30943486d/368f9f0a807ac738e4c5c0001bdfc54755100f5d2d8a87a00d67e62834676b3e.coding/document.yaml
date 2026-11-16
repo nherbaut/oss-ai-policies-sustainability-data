@@ -1,0 +1,37 @@
+hash: 722989f23d430d5a049243fb83d3354a7ca1fc074ba5a19ba0451f10c3f9a777
+id: 8845d800-38c6-431c-bb15-0bf40a258437
+metadata:
+  import_document_id: osssaysno:nvidia/openshell:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:46+00:00'
+    id: osssaysno:github.com/nvidia/openshell:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/nvidia/openshell/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/AGENTS.md
+    role: repository_root_document
+    sha256: 722989f23d430d5a049243fb83d3354a7ca1fc074ba5a19ba0451f10c3f9a777
+    snapshot: data/osssaysno/policies/nvidia/openshell/root/AGENTS.md
+    status: downloaded
+    text_sha256: 722989f23d430d5a049243fb83d3354a7ca1fc074ba5a19ba0451f10c3f9a777
+    url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:28:47+00:00'
+    id: osssaysno:github.com/nvidia/openshell:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/nvidia/openshell/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/AGENTS.md
+    role: repository_root_document
+    sha256: 722989f23d430d5a049243fb83d3354a7ca1fc074ba5a19ba0451f10c3f9a777
+    snapshot: data/osssaysno/policies/nvidia/openshell/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 722989f23d430d5a049243fb83d3354a7ca1fc074ba5a19ba0451f10c3f9a777
+    url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/CLAUDE.md
+  source_archive:
+    member: texts/368f9f0a807ac738e4c5c0001bdfc54755100f5d2d8a87a00d67e62834676b3e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 722989f23d430d5a049243fb83d3354a7ca1fc074ba5a19ba0451f10c3f9a777
+  url: ''
+name: root/AGENTS.md
+path: corpus/81cc2c4a753d48cd98ec43d30943486d/368f9f0a807ac738e4c5c0001bdfc54755100f5d2d8a87a00d67e62834676b3e.md

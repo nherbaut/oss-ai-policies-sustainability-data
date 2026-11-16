@@ -1,0 +1,26 @@
+hash: 0f170abf566ed9b1e3be7e832753d191fef0b5e29a2775fe45ade55f59d503c4
+id: b86c33d4-0afe-4fef-a0eb-a08a282f3b42
+metadata:
+  import_document_id: osssaysno:endless-sky/endless-sky:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:43+00:00'
+    id: osssaysno:github.com/endless-sky/endless-sky:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/endless-sky/endless-sky/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/endless-sky/endless-sky/master/docs/CONTRIBUTING.md
+    role: contributing
+    sha256: 0f170abf566ed9b1e3be7e832753d191fef0b5e29a2775fe45ade55f59d503c4
+    snapshot: data/osssaysno/policies/endless-sky/endless-sky/contributing.md
+    status: downloaded
+    text_sha256: 0f170abf566ed9b1e3be7e832753d191fef0b5e29a2775fe45ade55f59d503c4
+    url: https://github.com/endless-sky/endless-sky/blob/master/docs/CONTRIBUTING.md
+  source_archive:
+    member: texts/b6ccdde0ab63a00d6cc922c20b250808d4ec29541e2301fb955ab0b64f85a372.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0f170abf566ed9b1e3be7e832753d191fef0b5e29a2775fe45ade55f59d503c4
+  url: ''
+name: contributing.md
+path: corpus/1b882f96fcc6415987e4679a3e5a25b1/b6ccdde0ab63a00d6cc922c20b250808d4ec29541e2301fb955ab0b64f85a372.md

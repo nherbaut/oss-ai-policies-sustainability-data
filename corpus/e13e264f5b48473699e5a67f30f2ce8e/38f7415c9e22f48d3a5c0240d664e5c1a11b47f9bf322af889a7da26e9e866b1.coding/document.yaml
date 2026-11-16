@@ -1,0 +1,26 @@
+hash: 556bd5fb646095bbaf9dfb0c91fbaefa52a9d0fd6739fe82b15b71708c56d8a9
+id: bafd2b30-a4e5-439f-9d2e-3951e1e78f0f
+metadata:
+  import_document_id: osssaysno:hatchet-dev/hatchet:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:20+00:00'
+    id: osssaysno:github.com/hatchet-dev/hatchet:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/hatchet-dev/hatchet/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/hatchet-dev/hatchet/main/README.md
+    role: repository_root_document
+    sha256: 556bd5fb646095bbaf9dfb0c91fbaefa52a9d0fd6739fe82b15b71708c56d8a9
+    snapshot: data/osssaysno/policies/hatchet-dev/hatchet/root/README.md
+    status: downloaded
+    text_sha256: 556bd5fb646095bbaf9dfb0c91fbaefa52a9d0fd6739fe82b15b71708c56d8a9
+    url: https://raw.githubusercontent.com/hatchet-dev/hatchet/main/README.md
+  source_archive:
+    member: texts/38f7415c9e22f48d3a5c0240d664e5c1a11b47f9bf322af889a7da26e9e866b1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 556bd5fb646095bbaf9dfb0c91fbaefa52a9d0fd6739fe82b15b71708c56d8a9
+  url: ''
+name: root/README.md
+path: corpus/e13e264f5b48473699e5a67f30f2ce8e/38f7415c9e22f48d3a5c0240d664e5c1a11b47f9bf322af889a7da26e9e866b1.md

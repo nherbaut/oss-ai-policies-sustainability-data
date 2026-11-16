@@ -1,0 +1,26 @@
+hash: 7a40ba5d05bf21bbf411630e577d258deec85881b2a58fb88c29c04885c5cb21
+id: 65d59aed-a44f-4572-aa69-d38bb90f0762
+metadata:
+  import_document_id: osssaysno:marker-inc-korea/autorag:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:20+00:00'
+    id: osssaysno:github.com/marker-inc-korea/autorag:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 7a40ba5d05bf21bbf411630e577d258deec85881b2a58fb88c29c04885c5cb21
+    snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 7a40ba5d05bf21bbf411630e577d258deec85881b2a58fb88c29c04885c5cb21
+    url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/b9ca489dcefcc798a1d66737ec4b90590dec57d36455dc0b1d42500fc983a991.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7a40ba5d05bf21bbf411630e577d258deec85881b2a58fb88c29c04885c5cb21
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/07f04e5858214a75a7a0ae0724922a33/b9ca489dcefcc798a1d66737ec4b90590dec57d36455dc0b1d42500fc983a991.md

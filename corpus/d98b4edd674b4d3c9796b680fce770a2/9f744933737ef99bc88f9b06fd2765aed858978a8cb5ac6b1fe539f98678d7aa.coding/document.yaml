@@ -1,0 +1,26 @@
+hash: b5e129197f391568f7abf287c74b24f4835f10e5388f600407c8788feaeb9015
+id: e4f7379e-f224-458a-8ca1-30ea634ffd84
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:root/THIRD_PARTY_NOTICES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:30+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/THIRD_PARTY_NOTICES.md
+    import_slot: root/THIRD_PARTY_NOTICES.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/THIRD_PARTY_NOTICES.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/THIRD_PARTY_NOTICES.md
+    role: repository_root_document
+    sha256: b5e129197f391568f7abf287c74b24f4835f10e5388f600407c8788feaeb9015
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/THIRD_PARTY_NOTICES.md
+    status: downloaded
+    text_sha256: b5e129197f391568f7abf287c74b24f4835f10e5388f600407c8788feaeb9015
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/THIRD_PARTY_NOTICES.md
+  source_archive:
+    member: texts/9f744933737ef99bc88f9b06fd2765aed858978a8cb5ac6b1fe539f98678d7aa.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b5e129197f391568f7abf287c74b24f4835f10e5388f600407c8788feaeb9015
+  url: ''
+name: root/THIRD_PARTY_NOTICES.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/9f744933737ef99bc88f9b06fd2765aed858978a8cb5ac6b1fe539f98678d7aa.md

@@ -1,0 +1,26 @@
+hash: 854362a3e6a84466418c93b093b8e4385d4917f77ef46874862317b648894bb0
+id: 5015587e-f214-4642-bd1a-1e35a74c52ad
+metadata:
+  import_document_id: osssaysno:kludex/uvicorn:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:18+00:00'
+    id: osssaysno:github.com/kludex/uvicorn:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/kludex/uvicorn/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/Kludex/uvicorn/main/README.md
+    role: repository_root_document
+    sha256: 854362a3e6a84466418c93b093b8e4385d4917f77ef46874862317b648894bb0
+    snapshot: data/osssaysno/policies/kludex/uvicorn/root/README.md
+    status: downloaded
+    text_sha256: 854362a3e6a84466418c93b093b8e4385d4917f77ef46874862317b648894bb0
+    url: https://raw.githubusercontent.com/Kludex/uvicorn/main/README.md
+  source_archive:
+    member: texts/1904146ee071a1cf3cf7289c33e9a25ea3b25fdfe1e2e088740c518068a9426f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 854362a3e6a84466418c93b093b8e4385d4917f77ef46874862317b648894bb0
+  url: ''
+name: root/README.md
+path: corpus/e4687bc7acdc47d89f1bd082d7b916e1/1904146ee071a1cf3cf7289c33e9a25ea3b25fdfe1e2e088740c518068a9426f.md

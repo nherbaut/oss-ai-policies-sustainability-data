@@ -1,0 +1,26 @@
+hash: ab1b71c59483dbfdfe12eaac4b4982efb1c415f06e4e2bd4d1704818858d897a
+id: 9104f677-634d-48d3-a353-0ac9ae1dd0be
+metadata:
+  import_document_id: osssaysno:crossplane/crossplane:root/RELEASE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:52+00:00'
+    id: osssaysno:github.com/crossplane/crossplane:root/RELEASE.md
+    import_slot: root/RELEASE.md
+    raw_snapshot: data/osssaysno/policies/crossplane/crossplane/root/raw/RELEASE.md
+    resolved_url: https://raw.githubusercontent.com/crossplane/crossplane/main/RELEASE.md
+    role: repository_root_document
+    sha256: ab1b71c59483dbfdfe12eaac4b4982efb1c415f06e4e2bd4d1704818858d897a
+    snapshot: data/osssaysno/policies/crossplane/crossplane/root/RELEASE.md
+    status: downloaded
+    text_sha256: ab1b71c59483dbfdfe12eaac4b4982efb1c415f06e4e2bd4d1704818858d897a
+    url: https://raw.githubusercontent.com/crossplane/crossplane/main/RELEASE.md
+  source_archive:
+    member: texts/2bfd5598a63e53803dd7f81e8a139bb39ca90ade9e60e3bad914e84b30067643.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ab1b71c59483dbfdfe12eaac4b4982efb1c415f06e4e2bd4d1704818858d897a
+  url: ''
+name: root/RELEASE.md
+path: corpus/24ef2d426e3e4cdeb4eea42ab4ab7f18/2bfd5598a63e53803dd7f81e8a139bb39ca90ade9e60e3bad914e84b30067643.md

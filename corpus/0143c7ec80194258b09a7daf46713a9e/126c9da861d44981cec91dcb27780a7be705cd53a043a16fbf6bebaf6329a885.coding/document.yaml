@@ -1,0 +1,26 @@
+hash: 70fb38dacd32911760059b744b44d1991a93b34e5923e61c2c47aa9b8c80ba9a
+id: 08e376df-b8a7-4e9d-aaaa-2cd9392346e8
+metadata:
+  import_document_id: osssaysno:novnc/novnc:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:29+00:00'
+    id: osssaysno:github.com/novnc/novnc:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/novnc/novnc/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/novnc/noVNC/master/README.md
+    role: repository_root_document
+    sha256: 70fb38dacd32911760059b744b44d1991a93b34e5923e61c2c47aa9b8c80ba9a
+    snapshot: data/osssaysno/policies/novnc/novnc/root/README.md
+    status: downloaded
+    text_sha256: 70fb38dacd32911760059b744b44d1991a93b34e5923e61c2c47aa9b8c80ba9a
+    url: https://raw.githubusercontent.com/novnc/noVNC/master/README.md
+  source_archive:
+    member: texts/126c9da861d44981cec91dcb27780a7be705cd53a043a16fbf6bebaf6329a885.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 70fb38dacd32911760059b744b44d1991a93b34e5923e61c2c47aa9b8c80ba9a
+  url: ''
+name: root/README.md
+path: corpus/0143c7ec80194258b09a7daf46713a9e/126c9da861d44981cec91dcb27780a7be705cd53a043a16fbf6bebaf6329a885.md

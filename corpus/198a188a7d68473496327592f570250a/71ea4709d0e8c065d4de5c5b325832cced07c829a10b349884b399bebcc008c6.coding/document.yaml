@@ -1,0 +1,37 @@
+hash: 8cb52a94e7b3fa6fa57cecf66122fc33c286b22d056b340c6628efd570982185
+id: b1462ab0-3ae6-4a7f-b8af-73d98c40ae21
+metadata:
+  import_document_id: osssaysno:mealie-recipes/mealie:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:29+00:00'
+    id: osssaysno:github.com/mealie-recipes/mealie:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/mealie-recipes/mealie/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/CONTRIBUTING.md
+    role: contributing
+    sha256: 8cb52a94e7b3fa6fa57cecf66122fc33c286b22d056b340c6628efd570982185
+    snapshot: data/osssaysno/policies/mealie-recipes/mealie/contributing.md
+    status: downloaded
+    text_sha256: 8cb52a94e7b3fa6fa57cecf66122fc33c286b22d056b340c6628efd570982185
+    url: https://github.com/mealie-recipes/mealie/blob/mealie-next/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:31+00:00'
+    id: osssaysno:github.com/mealie-recipes/mealie:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/mealie-recipes/mealie/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 8cb52a94e7b3fa6fa57cecf66122fc33c286b22d056b340c6628efd570982185
+    snapshot: data/osssaysno/policies/mealie-recipes/mealie/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 8cb52a94e7b3fa6fa57cecf66122fc33c286b22d056b340c6628efd570982185
+    url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/CONTRIBUTING.md
+  source_archive:
+    member: texts/71ea4709d0e8c065d4de5c5b325832cced07c829a10b349884b399bebcc008c6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8cb52a94e7b3fa6fa57cecf66122fc33c286b22d056b340c6628efd570982185
+  url: ''
+name: contributing.md
+path: corpus/198a188a7d68473496327592f570250a/71ea4709d0e8c065d4de5c5b325832cced07c829a10b349884b399bebcc008c6.md

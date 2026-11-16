@@ -1,0 +1,48 @@
+hash: bb4610c76e8c28b49d62f69039ef0074b9c9c4f4c1da11adf34bcf208c1311d9
+id: 6ba8699f-fa9f-4b65-b396-ba7d4f2ea914
+metadata:
+  import_document_id: osssaysno:home-assistant/home-assistant.io:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:23+00:00'
+    id: osssaysno:github.com/home-assistant/home-assistant.io:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/.github/copilot-instructions.md
+    role: repository_root_document
+    sha256: bb4610c76e8c28b49d62f69039ef0074b9c9c4f4c1da11adf34bcf208c1311d9
+    snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/AGENTS.md
+    status: downloaded
+    text_sha256: bb4610c76e8c28b49d62f69039ef0074b9c9c4f4c1da11adf34bcf208c1311d9
+    url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/AGENTS.md
+  - accessed_at: '2026-11-15T23:35:25+00:00'
+    id: osssaysno:github.com/home-assistant/home-assistant.io:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/.github/copilot-instructions.md
+    role: repository_root_document
+    sha256: bb4610c76e8c28b49d62f69039ef0074b9c9c4f4c1da11adf34bcf208c1311d9
+    snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/CLAUDE.md
+    status: downloaded
+    text_sha256: bb4610c76e8c28b49d62f69039ef0074b9c9c4f4c1da11adf34bcf208c1311d9
+    url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/CLAUDE.md
+  - accessed_at: '2026-11-15T23:35:26+00:00'
+    id: osssaysno:github.com/home-assistant/home-assistant.io:root/GEMINI.md
+    import_slot: root/GEMINI.md
+    raw_snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/raw/GEMINI.md
+    resolved_url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/.github/copilot-instructions.md
+    role: repository_root_document
+    sha256: bb4610c76e8c28b49d62f69039ef0074b9c9c4f4c1da11adf34bcf208c1311d9
+    snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/GEMINI.md
+    status: downloaded
+    text_sha256: bb4610c76e8c28b49d62f69039ef0074b9c9c4f4c1da11adf34bcf208c1311d9
+    url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/GEMINI.md
+  source_archive:
+    member: texts/a19bae73a2f8ee6e472d2bbec331532903317369104c2408eb5d30013e7bcac6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bb4610c76e8c28b49d62f69039ef0074b9c9c4f4c1da11adf34bcf208c1311d9
+  url: ''
+name: root/AGENTS.md
+path: corpus/4f2336a8bb2c4ee79537cfb807e5c139/a19bae73a2f8ee6e472d2bbec331532903317369104c2408eb5d30013e7bcac6.md

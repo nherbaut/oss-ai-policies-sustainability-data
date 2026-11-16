@@ -1,0 +1,26 @@
+hash: 4aac3c91ab0fb98c2e0812886a0b23073408ebe6c077be9f031157aba49320a2
+id: 47029b68-498b-48ca-9b8a-4ebb295aeb70
+metadata:
+  import_document_id: osssaysno:moment/moment:root/THREAT_MODEL.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:49+00:00'
+    id: osssaysno:github.com/moment/moment:root/THREAT_MODEL.md
+    import_slot: root/THREAT_MODEL.md
+    raw_snapshot: data/osssaysno/policies/moment/moment/root/raw/THREAT_MODEL.md
+    resolved_url: https://raw.githubusercontent.com/moment/moment/develop/THREAT_MODEL.md
+    role: repository_root_document
+    sha256: 4aac3c91ab0fb98c2e0812886a0b23073408ebe6c077be9f031157aba49320a2
+    snapshot: data/osssaysno/policies/moment/moment/root/THREAT_MODEL.md
+    status: downloaded
+    text_sha256: 4aac3c91ab0fb98c2e0812886a0b23073408ebe6c077be9f031157aba49320a2
+    url: https://raw.githubusercontent.com/moment/moment/develop/THREAT_MODEL.md
+  source_archive:
+    member: texts/b1c7e2939d9e7ce3712e97250e9746ce49bed58273d45d2057ab37a6c73c4827.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4aac3c91ab0fb98c2e0812886a0b23073408ebe6c077be9f031157aba49320a2
+  url: ''
+name: root/THREAT_MODEL.md
+path: corpus/444b0a48e45f48b6b6f904ea58c0da54/b1c7e2939d9e7ce3712e97250e9746ce49bed58273d45d2057ab37a6c73c4827.md

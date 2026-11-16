@@ -1,0 +1,26 @@
+hash: 0aa06711005a65ae62ffd001fcb335905220d0926a9758097d5254c736e6c561
+id: 0832d394-b4fe-4a8d-a8df-0c4d9ef97109
+metadata:
+  import_document_id: osssaysno:jashkenas/backbone:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:16+00:00'
+    id: osssaysno:github.com/jashkenas/backbone:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/jashkenas/backbone/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/jashkenas/backbone/master/README.md
+    role: repository_root_document
+    sha256: 0aa06711005a65ae62ffd001fcb335905220d0926a9758097d5254c736e6c561
+    snapshot: data/osssaysno/policies/jashkenas/backbone/root/README.md
+    status: downloaded
+    text_sha256: 0aa06711005a65ae62ffd001fcb335905220d0926a9758097d5254c736e6c561
+    url: https://raw.githubusercontent.com/jashkenas/backbone/master/README.md
+  source_archive:
+    member: texts/d609746b3df33eaa0caee01dbc6acb9564c5141d188c57db0f8a02c189dac1cd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0aa06711005a65ae62ffd001fcb335905220d0926a9758097d5254c736e6c561
+  url: ''
+name: root/README.md
+path: corpus/43818c477ab14530a2746878c1e3e508/d609746b3df33eaa0caee01dbc6acb9564c5141d188c57db0f8a02c189dac1cd.md

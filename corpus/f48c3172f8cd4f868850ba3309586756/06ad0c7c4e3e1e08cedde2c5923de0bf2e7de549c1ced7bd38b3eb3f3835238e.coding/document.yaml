@@ -1,0 +1,26 @@
+hash: a526416a315264085f3f63f4012892da348ad8091ec285d234fd199f05fcd2f0
+id: 7ce2721c-00af-4b6d-9271-f9ee1047523e
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/EXTENSIONS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:12+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/EXTENSIONS.md
+    import_slot: root/EXTENSIONS.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/EXTENSIONS.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/EXTENSIONS.md
+    role: repository_root_document
+    sha256: a526416a315264085f3f63f4012892da348ad8091ec285d234fd199f05fcd2f0
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/EXTENSIONS.md
+    status: downloaded
+    text_sha256: a526416a315264085f3f63f4012892da348ad8091ec285d234fd199f05fcd2f0
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/EXTENSIONS.md
+  source_archive:
+    member: texts/06ad0c7c4e3e1e08cedde2c5923de0bf2e7de549c1ced7bd38b3eb3f3835238e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a526416a315264085f3f63f4012892da348ad8091ec285d234fd199f05fcd2f0
+  url: ''
+name: root/EXTENSIONS.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/06ad0c7c4e3e1e08cedde2c5923de0bf2e7de549c1ced7bd38b3eb3f3835238e.md

@@ -1,0 +1,26 @@
+hash: 209bcf85974f0bd8f89761c1610c31aa94a4959d9ef14d9e5e457a2339a04026
+id: 2e70286e-1b53-4cf5-92c1-93b1afa49a07
+metadata:
+  import_document_id: osssaysno:streetcomplete/streetcomplete:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:40+00:00'
+    id: osssaysno:github.com/streetcomplete/streetcomplete:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 209bcf85974f0bd8f89761c1610c31aa94a4959d9ef14d9e5e457a2339a04026
+    snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 209bcf85974f0bd8f89761c1610c31aa94a4959d9ef14d9e5e457a2339a04026
+    url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/7efd61a85d9b02159a09f758eff31390ea4f1cb9962ccb465e05ff5ea348e54f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 209bcf85974f0bd8f89761c1610c31aa94a4959d9ef14d9e5e457a2339a04026
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/050ac2b3413949c585d72c712f99899a/7efd61a85d9b02159a09f758eff31390ea4f1cb9962ccb465e05ff5ea348e54f.md

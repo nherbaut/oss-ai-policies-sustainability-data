@@ -1,0 +1,37 @@
+hash: 77dfb56cf0c9de35ad6d4e41008f34c1ad07a7344300ee368e8566385ebcf059
+id: a2b21038-a8d0-469f-be5d-1ced6d9ed1fd
+metadata:
+  import_document_id: osssaysno:tinyauthapp/tinyauth:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:12+00:00'
+    id: osssaysno:github.com/tinyauthapp/tinyauth:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/AGENTS.md
+    role: repository_root_document
+    sha256: 77dfb56cf0c9de35ad6d4e41008f34c1ad07a7344300ee368e8566385ebcf059
+    snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/AGENTS.md
+    status: downloaded
+    text_sha256: 77dfb56cf0c9de35ad6d4e41008f34c1ad07a7344300ee368e8566385ebcf059
+    url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:36:13+00:00'
+    id: osssaysno:github.com/tinyauthapp/tinyauth:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/AGENTS.md
+    role: repository_root_document
+    sha256: 77dfb56cf0c9de35ad6d4e41008f34c1ad07a7344300ee368e8566385ebcf059
+    snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 77dfb56cf0c9de35ad6d4e41008f34c1ad07a7344300ee368e8566385ebcf059
+    url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/CLAUDE.md
+  source_archive:
+    member: texts/dc7b16760b0eb36e9443f8b16d137e4c2ba82ae428169ded307f819a6a510a1f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 77dfb56cf0c9de35ad6d4e41008f34c1ad07a7344300ee368e8566385ebcf059
+  url: ''
+name: root/AGENTS.md
+path: corpus/3a57808b6fe34d46b12f63556eb14006/dc7b16760b0eb36e9443f8b16d137e4c2ba82ae428169ded307f819a6a510a1f.md

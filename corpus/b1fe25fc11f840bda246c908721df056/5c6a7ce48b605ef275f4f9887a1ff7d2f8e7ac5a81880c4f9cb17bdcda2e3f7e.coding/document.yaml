@@ -1,0 +1,26 @@
+hash: e6d11cf0c8cfaf8d81b285814d41cf89aa50c21d522b8ed5e9184ecf584020e7
+id: ec031522-3ec7-4ce2-8620-5cdc9c5e7478
+metadata:
+  import_document_id: osssaysno:pycaret/pycaret:root/INSTALL.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:30+00:00'
+    id: osssaysno:github.com/pycaret/pycaret:root/INSTALL.md
+    import_slot: root/INSTALL.md
+    raw_snapshot: data/osssaysno/policies/pycaret/pycaret/root/raw/INSTALL.md
+    resolved_url: https://raw.githubusercontent.com/pycaret/pycaret/main/INSTALL.md
+    role: repository_root_document
+    sha256: e6d11cf0c8cfaf8d81b285814d41cf89aa50c21d522b8ed5e9184ecf584020e7
+    snapshot: data/osssaysno/policies/pycaret/pycaret/root/INSTALL.md
+    status: downloaded
+    text_sha256: e6d11cf0c8cfaf8d81b285814d41cf89aa50c21d522b8ed5e9184ecf584020e7
+    url: https://raw.githubusercontent.com/pycaret/pycaret/main/INSTALL.md
+  source_archive:
+    member: texts/5c6a7ce48b605ef275f4f9887a1ff7d2f8e7ac5a81880c4f9cb17bdcda2e3f7e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e6d11cf0c8cfaf8d81b285814d41cf89aa50c21d522b8ed5e9184ecf584020e7
+  url: ''
+name: root/INSTALL.md
+path: corpus/b1fe25fc11f840bda246c908721df056/5c6a7ce48b605ef275f4f9887a1ff7d2f8e7ac5a81880c4f9cb17bdcda2e3f7e.md

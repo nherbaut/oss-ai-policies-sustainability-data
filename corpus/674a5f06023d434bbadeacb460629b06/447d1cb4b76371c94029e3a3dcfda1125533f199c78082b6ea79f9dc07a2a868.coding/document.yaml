@@ -1,0 +1,26 @@
+hash: b5d52b906b1e3be477d564ba0fcf737faf5ff6237b428c568a8872970d65c524
+id: 14b02b10-2285-41c2-8c46-fcc1965e8e02
+metadata:
+  import_document_id: osssaysno:pomerium/pomerium:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:43+00:00'
+    id: osssaysno:github.com/pomerium/pomerium:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/pomerium/pomerium/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/pomerium/pomerium/main/README.md
+    role: repository_root_document
+    sha256: b5d52b906b1e3be477d564ba0fcf737faf5ff6237b428c568a8872970d65c524
+    snapshot: data/osssaysno/policies/pomerium/pomerium/root/README.md
+    status: downloaded
+    text_sha256: b5d52b906b1e3be477d564ba0fcf737faf5ff6237b428c568a8872970d65c524
+    url: https://raw.githubusercontent.com/pomerium/pomerium/main/README.md
+  source_archive:
+    member: texts/447d1cb4b76371c94029e3a3dcfda1125533f199c78082b6ea79f9dc07a2a868.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b5d52b906b1e3be477d564ba0fcf737faf5ff6237b428c568a8872970d65c524
+  url: ''
+name: root/README.md
+path: corpus/674a5f06023d434bbadeacb460629b06/447d1cb4b76371c94029e3a3dcfda1125533f199c78082b6ea79f9dc07a2a868.md

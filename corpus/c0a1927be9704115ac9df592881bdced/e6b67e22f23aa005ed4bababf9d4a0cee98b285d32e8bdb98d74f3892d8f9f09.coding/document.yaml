@@ -1,0 +1,26 @@
+hash: 11a8fbf6cb4eda0c12fba502338bafee56e1f4c86d3ba03e5254c9671376c8e1
+id: 68205815-dd5d-47f2-bf77-33c236622046
+metadata:
+  import_document_id: osssaysno:nvim-tree/nvim-tree.lua:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:07+00:00'
+    id: osssaysno:github.com/nvim-tree/nvim-tree.lua:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/nvim-tree/nvim-tree.lua/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/nvim-tree/nvim-tree.lua/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: 11a8fbf6cb4eda0c12fba502338bafee56e1f4c86d3ba03e5254c9671376c8e1
+    snapshot: data/osssaysno/policies/nvim-tree/nvim-tree.lua/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 11a8fbf6cb4eda0c12fba502338bafee56e1f4c86d3ba03e5254c9671376c8e1
+    url: https://raw.githubusercontent.com/nvim-tree/nvim-tree.lua/master/CHANGELOG.md
+  source_archive:
+    member: texts/e6b67e22f23aa005ed4bababf9d4a0cee98b285d32e8bdb98d74f3892d8f9f09.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 11a8fbf6cb4eda0c12fba502338bafee56e1f4c86d3ba03e5254c9671376c8e1
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/c0a1927be9704115ac9df592881bdced/e6b67e22f23aa005ed4bababf9d4a0cee98b285d32e8bdb98d74f3892d8f9f09.md

@@ -1,0 +1,37 @@
+hash: 006d10e44d8bd9dcf1773964bef73850feb071719582a4c245740c53465dbf3a
+id: 7c3f205f-5d0a-41a8-8c65-40c7ef6ea937
+metadata:
+  import_document_id: osssaysno:nvidia-nemo/guardrails:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:46+00:00'
+    id: osssaysno:github.com/nvidia-nemo/guardrails:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/AI_POLICY.md
+    role: ai_policy
+    sha256: 006d10e44d8bd9dcf1773964bef73850feb071719582a4c245740c53465dbf3a
+    snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/ai_policy.md
+    status: downloaded
+    text_sha256: 006d10e44d8bd9dcf1773964bef73850feb071719582a4c245740c53465dbf3a
+    url: https://github.com/NVIDIA-NeMo/Guardrails/blob/develop/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:36:52+00:00'
+    id: osssaysno:github.com/nvidia-nemo/guardrails:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/AI_POLICY.md
+    role: repository_root_document
+    sha256: 006d10e44d8bd9dcf1773964bef73850feb071719582a4c245740c53465dbf3a
+    snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 006d10e44d8bd9dcf1773964bef73850feb071719582a4c245740c53465dbf3a
+    url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/AI_POLICY.md
+  source_archive:
+    member: texts/48cc90264b556eaf030ec2dd52655cfff5f649f1891045b15cfb0109c0b70f3d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 006d10e44d8bd9dcf1773964bef73850feb071719582a4c245740c53465dbf3a
+  url: ''
+name: ai_policy.md
+path: corpus/39095417ded042b6b0a797dfc257a546/48cc90264b556eaf030ec2dd52655cfff5f649f1891045b15cfb0109c0b70f3d.md

@@ -1,0 +1,26 @@
+hash: 1c075477842034d939ad22a027bf0c4c4734ea4624a3e2a1ee3c1e9b516ba921
+id: 2fb0d224-372d-45ab-be8f-3efe9b2da081
+metadata:
+  import_document_id: osssaysno:stanfordnlp/stanza:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:35+00:00'
+    id: osssaysno:github.com/stanfordnlp/stanza:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/stanfordnlp/stanza/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/stanfordnlp/stanza/main/SECURITY.md
+    role: repository_root_document
+    sha256: 1c075477842034d939ad22a027bf0c4c4734ea4624a3e2a1ee3c1e9b516ba921
+    snapshot: data/osssaysno/policies/stanfordnlp/stanza/root/SECURITY.md
+    status: downloaded
+    text_sha256: 1c075477842034d939ad22a027bf0c4c4734ea4624a3e2a1ee3c1e9b516ba921
+    url: https://raw.githubusercontent.com/stanfordnlp/stanza/main/SECURITY.md
+  source_archive:
+    member: texts/63516dffa0337c7a3e475614813098a5e307c60eb745cd93573d851ce0d2bba4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1c075477842034d939ad22a027bf0c4c4734ea4624a3e2a1ee3c1e9b516ba921
+  url: ''
+name: root/SECURITY.md
+path: corpus/62aaf417e9ab4bdabf7f18d9de239590/63516dffa0337c7a3e475614813098a5e307c60eb745cd93573d851ce0d2bba4.md

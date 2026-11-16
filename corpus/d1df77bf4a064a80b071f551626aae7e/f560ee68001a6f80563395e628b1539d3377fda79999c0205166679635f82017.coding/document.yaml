@@ -1,0 +1,26 @@
+hash: 57ad2f79d573ed59f0d7a51b933d32c737d109bd738d8236e1383859d148aa27
+id: 151e11a3-9c3c-4247-883e-4ae77da23fbc
+metadata:
+  import_document_id: osssaysno:xonsh/xonsh:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:36+00:00'
+    id: osssaysno:github.com/xonsh/xonsh:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/xonsh/xonsh/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/xonsh/xonsh/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 57ad2f79d573ed59f0d7a51b933d32c737d109bd738d8236e1383859d148aa27
+    snapshot: data/osssaysno/policies/xonsh/xonsh/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 57ad2f79d573ed59f0d7a51b933d32c737d109bd738d8236e1383859d148aa27
+    url: https://raw.githubusercontent.com/xonsh/xonsh/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/f560ee68001a6f80563395e628b1539d3377fda79999c0205166679635f82017.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 57ad2f79d573ed59f0d7a51b933d32c737d109bd738d8236e1383859d148aa27
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/d1df77bf4a064a80b071f551626aae7e/f560ee68001a6f80563395e628b1539d3377fda79999c0205166679635f82017.md

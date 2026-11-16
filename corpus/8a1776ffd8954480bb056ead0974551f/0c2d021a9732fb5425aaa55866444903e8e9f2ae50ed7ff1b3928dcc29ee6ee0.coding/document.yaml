@@ -1,0 +1,26 @@
+hash: 66f6bb1ddcc21c064287e97ed4279a05386e52af4b32b885cb75603d9d3cb82f
+id: f51963fc-9daf-4dff-bbdc-88dd04b5a8e5
+metadata:
+  import_document_id: osssaysno:audacity/audacity:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:57+00:00'
+    id: osssaysno:github.com/audacity/audacity:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/audacity/audacity/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/audacity/audacity/master/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 66f6bb1ddcc21c064287e97ed4279a05386e52af4b32b885cb75603d9d3cb82f
+    snapshot: data/osssaysno/policies/audacity/audacity/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 66f6bb1ddcc21c064287e97ed4279a05386e52af4b32b885cb75603d9d3cb82f
+    url: https://raw.githubusercontent.com/audacity/audacity/master/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/0c2d021a9732fb5425aaa55866444903e8e9f2ae50ed7ff1b3928dcc29ee6ee0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 66f6bb1ddcc21c064287e97ed4279a05386e52af4b32b885cb75603d9d3cb82f
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/8a1776ffd8954480bb056ead0974551f/0c2d021a9732fb5425aaa55866444903e8e9f2ae50ed7ff1b3928dcc29ee6ee0.md

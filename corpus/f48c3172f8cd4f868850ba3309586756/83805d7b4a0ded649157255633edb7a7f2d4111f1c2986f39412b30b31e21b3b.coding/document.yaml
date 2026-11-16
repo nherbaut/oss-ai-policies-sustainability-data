@@ -1,0 +1,26 @@
+hash: 2ffc8cfa8196eea59e3d8d9ef958e3b2f4847cfeb609b2909b0df5ba00142209
+id: d3d6e589-adff-405c-a918-cec52b03b3d6
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/AMBASSADORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:11+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/AMBASSADORS.md
+    import_slot: root/AMBASSADORS.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/AMBASSADORS.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/AMBASSADORS.md
+    role: repository_root_document
+    sha256: 2ffc8cfa8196eea59e3d8d9ef958e3b2f4847cfeb609b2909b0df5ba00142209
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/AMBASSADORS.md
+    status: downloaded
+    text_sha256: 2ffc8cfa8196eea59e3d8d9ef958e3b2f4847cfeb609b2909b0df5ba00142209
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/AMBASSADORS.md
+  source_archive:
+    member: texts/83805d7b4a0ded649157255633edb7a7f2d4111f1c2986f39412b30b31e21b3b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2ffc8cfa8196eea59e3d8d9ef958e3b2f4847cfeb609b2909b0df5ba00142209
+  url: ''
+name: root/AMBASSADORS.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/83805d7b4a0ded649157255633edb7a7f2d4111f1c2986f39412b30b31e21b3b.md

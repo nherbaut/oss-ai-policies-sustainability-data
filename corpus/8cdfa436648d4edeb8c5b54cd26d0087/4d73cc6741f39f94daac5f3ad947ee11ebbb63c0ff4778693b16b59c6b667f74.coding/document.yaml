@@ -1,0 +1,26 @@
+hash: 45ed029812c1e1d070fe26b662ca5b60e508e500427855051ea56fc897247637
+id: 81ebd7f2-b07f-42d6-8a82-027f3f93cbc9
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:53+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/SECURITY.md
+    role: repository_root_document
+    sha256: 45ed029812c1e1d070fe26b662ca5b60e508e500427855051ea56fc897247637
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/SECURITY.md
+    status: downloaded
+    text_sha256: 45ed029812c1e1d070fe26b662ca5b60e508e500427855051ea56fc897247637
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/SECURITY.md
+  source_archive:
+    member: texts/4d73cc6741f39f94daac5f3ad947ee11ebbb63c0ff4778693b16b59c6b667f74.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 45ed029812c1e1d070fe26b662ca5b60e508e500427855051ea56fc897247637
+  url: ''
+name: root/SECURITY.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/4d73cc6741f39f94daac5f3ad947ee11ebbb63c0ff4778693b16b59c6b667f74.md

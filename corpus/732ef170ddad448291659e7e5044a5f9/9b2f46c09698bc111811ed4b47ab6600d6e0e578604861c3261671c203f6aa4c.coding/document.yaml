@@ -1,0 +1,26 @@
+hash: cfd32e8024f971d8e611250d36d06e5cfbbf5e2be08b55283e164095e3ab5347
+id: 0c480a22-11d8-4583-b08e-73f6160430d7
+metadata:
+  import_document_id: osssaysno:aws/serverless-application-model:root/INTEGRATION_TESTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:44+00:00'
+    id: osssaysno:github.com/aws/serverless-application-model:root/INTEGRATION_TESTS.md
+    import_slot: root/INTEGRATION_TESTS.md
+    raw_snapshot: data/osssaysno/policies/aws/serverless-application-model/root/raw/INTEGRATION_TESTS.md
+    resolved_url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/INTEGRATION_TESTS.md
+    role: repository_root_document
+    sha256: cfd32e8024f971d8e611250d36d06e5cfbbf5e2be08b55283e164095e3ab5347
+    snapshot: data/osssaysno/policies/aws/serverless-application-model/root/INTEGRATION_TESTS.md
+    status: downloaded
+    text_sha256: cfd32e8024f971d8e611250d36d06e5cfbbf5e2be08b55283e164095e3ab5347
+    url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/INTEGRATION_TESTS.md
+  source_archive:
+    member: texts/9b2f46c09698bc111811ed4b47ab6600d6e0e578604861c3261671c203f6aa4c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cfd32e8024f971d8e611250d36d06e5cfbbf5e2be08b55283e164095e3ab5347
+  url: ''
+name: root/INTEGRATION_TESTS.md
+path: corpus/732ef170ddad448291659e7e5044a5f9/9b2f46c09698bc111811ed4b47ab6600d6e0e578604861c3261671c203f6aa4c.md

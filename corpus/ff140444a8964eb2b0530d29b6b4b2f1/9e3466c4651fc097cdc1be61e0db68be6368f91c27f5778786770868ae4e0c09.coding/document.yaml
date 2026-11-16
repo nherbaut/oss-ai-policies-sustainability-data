@@ -1,0 +1,26 @@
+hash: 8dba513d0960d85f2a2f1ab67f7084fcc37a3e21a8275278930df37163bf5a3b
+id: 819fc42b-3874-4a44-8c29-afcd0dae570f
+metadata:
+  import_document_id: osssaysno:azure/azure-sdk-for-python:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:06+00:00'
+    id: osssaysno:github.com/azure/azure-sdk-for-python:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/azure/azure-sdk-for-python/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/Azure/azure-sdk-for-python/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 8dba513d0960d85f2a2f1ab67f7084fcc37a3e21a8275278930df37163bf5a3b
+    snapshot: data/osssaysno/policies/azure/azure-sdk-for-python/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 8dba513d0960d85f2a2f1ab67f7084fcc37a3e21a8275278930df37163bf5a3b
+    url: https://raw.githubusercontent.com/Azure/azure-sdk-for-python/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/9e3466c4651fc097cdc1be61e0db68be6368f91c27f5778786770868ae4e0c09.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8dba513d0960d85f2a2f1ab67f7084fcc37a3e21a8275278930df37163bf5a3b
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/ff140444a8964eb2b0530d29b6b4b2f1/9e3466c4651fc097cdc1be61e0db68be6368f91c27f5778786770868ae4e0c09.md

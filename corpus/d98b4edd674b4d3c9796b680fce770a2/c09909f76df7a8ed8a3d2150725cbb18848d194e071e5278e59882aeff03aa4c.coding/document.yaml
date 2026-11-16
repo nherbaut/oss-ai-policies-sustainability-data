@@ -1,0 +1,26 @@
+hash: 293c447f387f1acec0a295fb684ba09f9c395c5a7abf03cec72998568c91af1d
+id: 3e56b961-99be-42c2-87c3-081f8b6ea652
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:root/README_ZH.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:28+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/README_ZH.md
+    import_slot: root/README_ZH.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/README_ZH.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/README_ZH.md
+    role: repository_root_document
+    sha256: 293c447f387f1acec0a295fb684ba09f9c395c5a7abf03cec72998568c91af1d
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/README_ZH.md
+    status: downloaded
+    text_sha256: 293c447f387f1acec0a295fb684ba09f9c395c5a7abf03cec72998568c91af1d
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/README_ZH.md
+  source_archive:
+    member: texts/c09909f76df7a8ed8a3d2150725cbb18848d194e071e5278e59882aeff03aa4c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 293c447f387f1acec0a295fb684ba09f9c395c5a7abf03cec72998568c91af1d
+  url: ''
+name: root/README_ZH.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/c09909f76df7a8ed8a3d2150725cbb18848d194e071e5278e59882aeff03aa4c.md

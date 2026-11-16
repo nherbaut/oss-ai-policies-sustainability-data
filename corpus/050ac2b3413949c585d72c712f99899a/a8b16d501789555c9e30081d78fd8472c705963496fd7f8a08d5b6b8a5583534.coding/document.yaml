@@ -1,0 +1,26 @@
+hash: d8b033047bb0d4741b04ebed0cff43323a50fdf10e1350a6a569c8195d2d6acb
+id: 9bd39db3-a281-4a6f-997e-161b650e70a4
+metadata:
+  import_document_id: osssaysno:streetcomplete/streetcomplete:root/AUTHORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:38+00:00'
+    id: osssaysno:github.com/streetcomplete/streetcomplete:root/AUTHORS.md
+    import_slot: root/AUTHORS.md
+    raw_snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/raw/AUTHORS.md
+    resolved_url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/AUTHORS.md
+    role: repository_root_document
+    sha256: d8b033047bb0d4741b04ebed0cff43323a50fdf10e1350a6a569c8195d2d6acb
+    snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/AUTHORS.md
+    status: downloaded
+    text_sha256: d8b033047bb0d4741b04ebed0cff43323a50fdf10e1350a6a569c8195d2d6acb
+    url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/AUTHORS.md
+  source_archive:
+    member: texts/a8b16d501789555c9e30081d78fd8472c705963496fd7f8a08d5b6b8a5583534.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d8b033047bb0d4741b04ebed0cff43323a50fdf10e1350a6a569c8195d2d6acb
+  url: ''
+name: root/AUTHORS.md
+path: corpus/050ac2b3413949c585d72c712f99899a/a8b16d501789555c9e30081d78fd8472c705963496fd7f8a08d5b6b8a5583534.md

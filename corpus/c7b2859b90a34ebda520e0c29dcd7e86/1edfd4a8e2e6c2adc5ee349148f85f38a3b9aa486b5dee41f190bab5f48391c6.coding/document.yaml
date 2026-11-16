@@ -1,0 +1,26 @@
+hash: 6cbb65167ae490f10d30c61b27aebc05dddb4ce6648767ec2f4a4046226c4107
+id: 9a3582fe-1bcf-4f2f-b48f-5030de7eecef
+metadata:
+  import_document_id: osssaysno:vespa-engine/vespa:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:04+00:00'
+    id: osssaysno:github.com/vespa-engine/vespa:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/vespa-engine/vespa/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/vespa-engine/vespa/master/GOVERNANCE.md
+    role: repository_root_document
+    sha256: 6cbb65167ae490f10d30c61b27aebc05dddb4ce6648767ec2f4a4046226c4107
+    snapshot: data/osssaysno/policies/vespa-engine/vespa/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: 6cbb65167ae490f10d30c61b27aebc05dddb4ce6648767ec2f4a4046226c4107
+    url: https://raw.githubusercontent.com/vespa-engine/vespa/master/GOVERNANCE.md
+  source_archive:
+    member: texts/1edfd4a8e2e6c2adc5ee349148f85f38a3b9aa486b5dee41f190bab5f48391c6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6cbb65167ae490f10d30c61b27aebc05dddb4ce6648767ec2f4a4046226c4107
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/c7b2859b90a34ebda520e0c29dcd7e86/1edfd4a8e2e6c2adc5ee349148f85f38a3b9aa486b5dee41f190bab5f48391c6.md

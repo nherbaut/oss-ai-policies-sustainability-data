@@ -1,0 +1,26 @@
+hash: c9a760c28a91a8841dc7d7edc008acfd6c069782ae64bfbddce1ee66f5253668
+id: 774b2908-155e-452f-adc1-ce615e3e1317
+metadata:
+  import_document_id: osssaysno:grpc/grpc-java:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:59+00:00'
+    id: osssaysno:github.com/grpc/grpc-java:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-java/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-java/master/SECURITY.md
+    role: repository_root_document
+    sha256: c9a760c28a91a8841dc7d7edc008acfd6c069782ae64bfbddce1ee66f5253668
+    snapshot: data/osssaysno/policies/grpc/grpc-java/root/SECURITY.md
+    status: downloaded
+    text_sha256: c9a760c28a91a8841dc7d7edc008acfd6c069782ae64bfbddce1ee66f5253668
+    url: https://raw.githubusercontent.com/grpc/grpc-java/master/SECURITY.md
+  source_archive:
+    member: texts/8ba8207df51c6b636108cda7cf07545d84edeedcf82e89edfb237f46c4c69611.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c9a760c28a91a8841dc7d7edc008acfd6c069782ae64bfbddce1ee66f5253668
+  url: ''
+name: root/SECURITY.md
+path: corpus/3e38e7dc201e40588ce69f5f92efec39/8ba8207df51c6b636108cda7cf07545d84edeedcf82e89edfb237f46c4c69611.md

@@ -1,0 +1,26 @@
+hash: a960f6d362936a763c6cfacf80ad795f00670f14f509a05ebf297e07f5f10eff
+id: 678c11c7-7471-4d7c-8daa-c360af1b2eb4
+metadata:
+  import_document_id: osssaysno:streetcomplete/streetcomplete:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:42+00:00'
+    id: osssaysno:github.com/streetcomplete/streetcomplete:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/README.md
+    role: repository_root_document
+    sha256: a960f6d362936a763c6cfacf80ad795f00670f14f509a05ebf297e07f5f10eff
+    snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/README.md
+    status: downloaded
+    text_sha256: a960f6d362936a763c6cfacf80ad795f00670f14f509a05ebf297e07f5f10eff
+    url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/README.md
+  source_archive:
+    member: texts/43f26a0138d5c7539f75b9ed7bf70ae15067e53d9bca1bad1935ef394705f023.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a960f6d362936a763c6cfacf80ad795f00670f14f509a05ebf297e07f5f10eff
+  url: ''
+name: root/README.md
+path: corpus/050ac2b3413949c585d72c712f99899a/43f26a0138d5c7539f75b9ed7bf70ae15067e53d9bca1bad1935ef394705f023.md

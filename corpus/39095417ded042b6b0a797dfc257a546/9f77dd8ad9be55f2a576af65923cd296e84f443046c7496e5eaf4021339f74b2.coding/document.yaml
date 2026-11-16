@@ -1,0 +1,26 @@
+hash: 07d812da81029293ed7f784b0d51154db5c4fdfc7d98af97538f2d56c56cc0bf
+id: a9745a2d-2696-4d0e-88dc-aafbcc73791a
+metadata:
+  import_document_id: osssaysno:nvidia-nemo/guardrails:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:55+00:00'
+    id: osssaysno:github.com/nvidia-nemo/guardrails:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/SECURITY.md
+    role: repository_root_document
+    sha256: 07d812da81029293ed7f784b0d51154db5c4fdfc7d98af97538f2d56c56cc0bf
+    snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/SECURITY.md
+    status: downloaded
+    text_sha256: 07d812da81029293ed7f784b0d51154db5c4fdfc7d98af97538f2d56c56cc0bf
+    url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/SECURITY.md
+  source_archive:
+    member: texts/9f77dd8ad9be55f2a576af65923cd296e84f443046c7496e5eaf4021339f74b2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 07d812da81029293ed7f784b0d51154db5c4fdfc7d98af97538f2d56c56cc0bf
+  url: ''
+name: root/SECURITY.md
+path: corpus/39095417ded042b6b0a797dfc257a546/9f77dd8ad9be55f2a576af65923cd296e84f443046c7496e5eaf4021339f74b2.md

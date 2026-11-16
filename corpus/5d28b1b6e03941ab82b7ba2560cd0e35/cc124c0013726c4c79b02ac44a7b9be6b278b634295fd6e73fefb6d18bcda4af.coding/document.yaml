@@ -1,0 +1,37 @@
+hash: 10ebc409e2b19ae97f53ba80a7e93d75a74c5b465e3c390274170a06e2b17d32
+id: de54adfc-e601-4700-814d-dbeee34fb278
+metadata:
+  import_document_id: osssaysno:jashkenas/underscore:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:17+00:00'
+    id: osssaysno:github.com/jashkenas/underscore:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/jashkenas/underscore/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/jashkenas/underscore/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 10ebc409e2b19ae97f53ba80a7e93d75a74c5b465e3c390274170a06e2b17d32
+    snapshot: data/osssaysno/policies/jashkenas/underscore/contributing.md
+    status: downloaded
+    text_sha256: 10ebc409e2b19ae97f53ba80a7e93d75a74c5b465e3c390274170a06e2b17d32
+    url: https://github.com/jashkenas/underscore/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:28:18+00:00'
+    id: osssaysno:github.com/jashkenas/underscore:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/jashkenas/underscore/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/jashkenas/underscore/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 10ebc409e2b19ae97f53ba80a7e93d75a74c5b465e3c390274170a06e2b17d32
+    snapshot: data/osssaysno/policies/jashkenas/underscore/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 10ebc409e2b19ae97f53ba80a7e93d75a74c5b465e3c390274170a06e2b17d32
+    url: https://raw.githubusercontent.com/jashkenas/underscore/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/cc124c0013726c4c79b02ac44a7b9be6b278b634295fd6e73fefb6d18bcda4af.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 10ebc409e2b19ae97f53ba80a7e93d75a74c5b465e3c390274170a06e2b17d32
+  url: ''
+name: contributing.md
+path: corpus/5d28b1b6e03941ab82b7ba2560cd0e35/cc124c0013726c4c79b02ac44a7b9be6b278b634295fd6e73fefb6d18bcda4af.md

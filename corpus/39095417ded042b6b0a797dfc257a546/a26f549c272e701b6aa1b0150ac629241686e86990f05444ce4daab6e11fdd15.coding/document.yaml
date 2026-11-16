@@ -1,0 +1,26 @@
+hash: 7c137905972e6199e4120716851edf334e211008c0ef3693eb269578b8a2ac2a
+id: 66db0fb8-65fd-46b5-a446-1adf5a133e72
+metadata:
+  import_document_id: osssaysno:nvidia-nemo/guardrails:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:54+00:00'
+    id: osssaysno:github.com/nvidia-nemo/guardrails:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/LICENSE.md
+    role: repository_root_document
+    sha256: 7c137905972e6199e4120716851edf334e211008c0ef3693eb269578b8a2ac2a
+    snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/LICENSE.md
+    status: downloaded
+    text_sha256: 7c137905972e6199e4120716851edf334e211008c0ef3693eb269578b8a2ac2a
+    url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/LICENSE.md
+  source_archive:
+    member: texts/a26f549c272e701b6aa1b0150ac629241686e86990f05444ce4daab6e11fdd15.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7c137905972e6199e4120716851edf334e211008c0ef3693eb269578b8a2ac2a
+  url: ''
+name: root/LICENSE.md
+path: corpus/39095417ded042b6b0a797dfc257a546/a26f549c272e701b6aa1b0150ac629241686e86990f05444ce4daab6e11fdd15.md

@@ -1,0 +1,26 @@
+hash: 670afa581a4e8dba2c3fc297b26e8232ef549a4d7b6bd2ff1187c44ff1be5acd
+id: 5719eb75-7e33-48bc-a810-091788e32f8f
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:root/docker-rootless.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:21+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/docker-rootless.md
+    import_slot: root/docker-rootless.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/docker-rootless.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/docker-rootless.md
+    role: repository_root_document
+    sha256: 670afa581a4e8dba2c3fc297b26e8232ef549a4d7b6bd2ff1187c44ff1be5acd
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/docker-rootless.md
+    status: downloaded
+    text_sha256: 670afa581a4e8dba2c3fc297b26e8232ef549a4d7b6bd2ff1187c44ff1be5acd
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/docker-rootless.md
+  source_archive:
+    member: texts/f53394b3ff9834b12827b6c56f37bfb888dcdc08b55a6dc9a7e677e3b15ebc22.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 670afa581a4e8dba2c3fc297b26e8232ef549a4d7b6bd2ff1187c44ff1be5acd
+  url: ''
+name: root/docker-rootless.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/f53394b3ff9834b12827b6c56f37bfb888dcdc08b55a6dc9a7e677e3b15ebc22.md

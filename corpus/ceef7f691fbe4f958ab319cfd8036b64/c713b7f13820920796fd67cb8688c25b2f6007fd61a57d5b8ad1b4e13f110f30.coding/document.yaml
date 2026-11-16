@@ -1,0 +1,37 @@
+hash: 715496926e66f088750b4fbb0cb20e81c0a26d756efb157f2abf61314f8e9679
+id: 8e23e180-a6d2-4540-a7a9-1d42f781cf1a
+metadata:
+  import_document_id: osssaysno:hydro-dev/hydro:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:47+00:00'
+    id: osssaysno:github.com/hydro-dev/hydro:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/hydro-dev/hydro/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/hydro-dev/Hydro/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 715496926e66f088750b4fbb0cb20e81c0a26d756efb157f2abf61314f8e9679
+    snapshot: data/osssaysno/policies/hydro-dev/hydro/contributing.md
+    status: downloaded
+    text_sha256: 715496926e66f088750b4fbb0cb20e81c0a26d756efb157f2abf61314f8e9679
+    url: https://github.com/hydro-dev/Hydro/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:37:01+00:00'
+    id: osssaysno:github.com/hydro-dev/hydro:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/hydro-dev/hydro/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/hydro-dev/Hydro/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 715496926e66f088750b4fbb0cb20e81c0a26d756efb157f2abf61314f8e9679
+    snapshot: data/osssaysno/policies/hydro-dev/hydro/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 715496926e66f088750b4fbb0cb20e81c0a26d756efb157f2abf61314f8e9679
+    url: https://raw.githubusercontent.com/hydro-dev/Hydro/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/c713b7f13820920796fd67cb8688c25b2f6007fd61a57d5b8ad1b4e13f110f30.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 715496926e66f088750b4fbb0cb20e81c0a26d756efb157f2abf61314f8e9679
+  url: ''
+name: contributing.md
+path: corpus/ceef7f691fbe4f958ab319cfd8036b64/c713b7f13820920796fd67cb8688c25b2f6007fd61a57d5b8ad1b4e13f110f30.md

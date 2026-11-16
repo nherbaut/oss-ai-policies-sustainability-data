@@ -1,0 +1,26 @@
+hash: 948edeb9a84aa760441040c4b92ebda519abff7ce7c9cfe1c0d5900f7737949a
+id: 4784773a-0fbe-429e-8458-0f5ea48899e0
+metadata:
+  import_document_id: osssaysno:redot-engine/redot-engine:root/DONORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:43+00:00'
+    id: osssaysno:github.com/redot-engine/redot-engine:root/DONORS.md
+    import_slot: root/DONORS.md
+    raw_snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/raw/DONORS.md
+    resolved_url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/DONORS.md
+    role: repository_root_document
+    sha256: 948edeb9a84aa760441040c4b92ebda519abff7ce7c9cfe1c0d5900f7737949a
+    snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/DONORS.md
+    status: downloaded
+    text_sha256: 948edeb9a84aa760441040c4b92ebda519abff7ce7c9cfe1c0d5900f7737949a
+    url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/DONORS.md
+  source_archive:
+    member: texts/e988be3d1bfb3a4c84dffe438f41b50bc3319c2a18d9ab6f500420e98d261211.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 948edeb9a84aa760441040c4b92ebda519abff7ce7c9cfe1c0d5900f7737949a
+  url: ''
+name: root/DONORS.md
+path: corpus/0e44d375f5e543048cc4e9ebe43f46d7/e988be3d1bfb3a4c84dffe438f41b50bc3319c2a18d9ab6f500420e98d261211.md

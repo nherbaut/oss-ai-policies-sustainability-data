@@ -1,0 +1,26 @@
+hash: 5ee37fd991b36531c803147fdb1a941f27cfe4e02ba080d18afb95381f7a604f
+id: 3ec135fe-9901-4a62-b967-e15fa9b92fa3
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:root/PRODUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:27+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/PRODUCT.md
+    import_slot: root/PRODUCT.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/PRODUCT.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/PRODUCT.md
+    role: repository_root_document
+    sha256: 5ee37fd991b36531c803147fdb1a941f27cfe4e02ba080d18afb95381f7a604f
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/PRODUCT.md
+    status: downloaded
+    text_sha256: 5ee37fd991b36531c803147fdb1a941f27cfe4e02ba080d18afb95381f7a604f
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/PRODUCT.md
+  source_archive:
+    member: texts/44412ca0da9414be42f1679a9948187911c1bc1e6d919ae3a1adbbfac283fa24.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5ee37fd991b36531c803147fdb1a941f27cfe4e02ba080d18afb95381f7a604f
+  url: ''
+name: root/PRODUCT.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/44412ca0da9414be42f1679a9948187911c1bc1e6d919ae3a1adbbfac283fa24.md

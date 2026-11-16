@@ -1,0 +1,26 @@
+hash: d3e377ae048b7dc41d6afc7265f0cba04ba3f2b64f934aa8927787cba7c1c3d0
+id: f3a5186d-336e-41e2-9e0f-b062c0304bd0
+metadata:
+  import_document_id: osssaysno:gocolly/colly:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:22+00:00'
+    id: osssaysno:github.com/gocolly/colly:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/gocolly/colly/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/gocolly/colly/master/README.md
+    role: repository_root_document
+    sha256: d3e377ae048b7dc41d6afc7265f0cba04ba3f2b64f934aa8927787cba7c1c3d0
+    snapshot: data/osssaysno/policies/gocolly/colly/root/README.md
+    status: downloaded
+    text_sha256: d3e377ae048b7dc41d6afc7265f0cba04ba3f2b64f934aa8927787cba7c1c3d0
+    url: https://raw.githubusercontent.com/gocolly/colly/master/README.md
+  source_archive:
+    member: texts/828dca5bebc987ae8f9c3c6e207d20893eecddcd8d879650f531151530f18d82.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d3e377ae048b7dc41d6afc7265f0cba04ba3f2b64f934aa8927787cba7c1c3d0
+  url: ''
+name: root/README.md
+path: corpus/fd2ecf8f06fa495b87d71419c3ff05e8/828dca5bebc987ae8f9c3c6e207d20893eecddcd8d879650f531151530f18d82.md

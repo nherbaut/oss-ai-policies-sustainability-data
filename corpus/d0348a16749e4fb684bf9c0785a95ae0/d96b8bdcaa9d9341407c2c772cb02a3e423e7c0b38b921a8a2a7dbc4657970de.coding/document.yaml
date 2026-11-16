@@ -1,0 +1,26 @@
+hash: fca4feadfee55f8dda29df95cdef28979ea5a81ffaa30a35105e266527774609
+id: b06a6a33-0677-491d-a9ff-eaceba7017f0
+metadata:
+  import_document_id: osssaysno:langchain-ai/langchainjs:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:58+00:00'
+    id: osssaysno:github.com/langchain-ai/langchainjs:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/langchain-ai/langchainjs/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/langchain-ai/langchainjs/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: fca4feadfee55f8dda29df95cdef28979ea5a81ffaa30a35105e266527774609
+    snapshot: data/osssaysno/policies/langchain-ai/langchainjs/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: fca4feadfee55f8dda29df95cdef28979ea5a81ffaa30a35105e266527774609
+    url: https://raw.githubusercontent.com/langchain-ai/langchainjs/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/d96b8bdcaa9d9341407c2c772cb02a3e423e7c0b38b921a8a2a7dbc4657970de.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fca4feadfee55f8dda29df95cdef28979ea5a81ffaa30a35105e266527774609
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/d0348a16749e4fb684bf9c0785a95ae0/d96b8bdcaa9d9341407c2c772cb02a3e423e7c0b38b921a8a2a7dbc4657970de.md

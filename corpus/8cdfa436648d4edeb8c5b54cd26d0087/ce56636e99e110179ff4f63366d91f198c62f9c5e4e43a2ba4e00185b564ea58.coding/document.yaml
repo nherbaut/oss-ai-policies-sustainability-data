@@ -1,0 +1,26 @@
+hash: 05f081e81cd75d5f240c5dfb5016722fe113be4795230dda07c114f64898de4e
+id: 2d5cd92d-3f2f-453a-9c03-1c38eb0fdb37
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:50+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: 05f081e81cd75d5f240c5dfb5016722fe113be4795230dda07c114f64898de4e
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 05f081e81cd75d5f240c5dfb5016722fe113be4795230dda07c114f64898de4e
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/CHANGELOG.md
+  source_archive:
+    member: texts/ce56636e99e110179ff4f63366d91f198c62f9c5e4e43a2ba4e00185b564ea58.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 05f081e81cd75d5f240c5dfb5016722fe113be4795230dda07c114f64898de4e
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/ce56636e99e110179ff4f63366d91f198c62f9c5e4e43a2ba4e00185b564ea58.md

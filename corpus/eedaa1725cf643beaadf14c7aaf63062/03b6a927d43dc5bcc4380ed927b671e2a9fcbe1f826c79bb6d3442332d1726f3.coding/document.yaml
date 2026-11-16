@@ -1,0 +1,26 @@
+hash: 2fa766f96ed569f2a0633dd5684aecd311707f80e8ac6cc68b79271678c48e36
+id: 99eee404-65eb-41b7-a5f9-932b603dc25a
+metadata:
+  import_document_id: osssaysno:bookorbit/bookorbit:root/ADDITIONAL_TERMS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:59+00:00'
+    id: osssaysno:github.com/bookorbit/bookorbit:root/ADDITIONAL_TERMS.md
+    import_slot: root/ADDITIONAL_TERMS.md
+    raw_snapshot: data/osssaysno/policies/bookorbit/bookorbit/root/raw/ADDITIONAL_TERMS.md
+    resolved_url: https://raw.githubusercontent.com/bookorbit/bookorbit/main/ADDITIONAL_TERMS.md
+    role: repository_root_document
+    sha256: 2fa766f96ed569f2a0633dd5684aecd311707f80e8ac6cc68b79271678c48e36
+    snapshot: data/osssaysno/policies/bookorbit/bookorbit/root/ADDITIONAL_TERMS.md
+    status: downloaded
+    text_sha256: 2fa766f96ed569f2a0633dd5684aecd311707f80e8ac6cc68b79271678c48e36
+    url: https://raw.githubusercontent.com/bookorbit/bookorbit/main/ADDITIONAL_TERMS.md
+  source_archive:
+    member: texts/03b6a927d43dc5bcc4380ed927b671e2a9fcbe1f826c79bb6d3442332d1726f3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2fa766f96ed569f2a0633dd5684aecd311707f80e8ac6cc68b79271678c48e36
+  url: ''
+name: root/ADDITIONAL_TERMS.md
+path: corpus/eedaa1725cf643beaadf14c7aaf63062/03b6a927d43dc5bcc4380ed927b671e2a9fcbe1f826c79bb6d3442332d1726f3.md

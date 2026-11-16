@@ -1,0 +1,26 @@
+hash: 02642ccf4dbb6845fdf7959a13d0492d4db48a318e1ac2df04d13dcfac64bedc
+id: 57b7d96c-cfb3-4fa9-9e82-79e01ec863fe
+metadata:
+  import_document_id: osssaysno:pycaret/pycaret:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:29+00:00'
+    id: osssaysno:github.com/pycaret/pycaret:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/pycaret/pycaret/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/pycaret/pycaret/main/CLAUDE.md
+    role: repository_root_document
+    sha256: 02642ccf4dbb6845fdf7959a13d0492d4db48a318e1ac2df04d13dcfac64bedc
+    snapshot: data/osssaysno/policies/pycaret/pycaret/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 02642ccf4dbb6845fdf7959a13d0492d4db48a318e1ac2df04d13dcfac64bedc
+    url: https://raw.githubusercontent.com/pycaret/pycaret/main/CLAUDE.md
+  source_archive:
+    member: texts/3834a41416917ae82e968894c1cbd8897e29050c6d0eab79b52a18d20a060b4b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 02642ccf4dbb6845fdf7959a13d0492d4db48a318e1ac2df04d13dcfac64bedc
+  url: ''
+name: root/CLAUDE.md
+path: corpus/b1fe25fc11f840bda246c908721df056/3834a41416917ae82e968894c1cbd8897e29050c6d0eab79b52a18d20a060b4b.md

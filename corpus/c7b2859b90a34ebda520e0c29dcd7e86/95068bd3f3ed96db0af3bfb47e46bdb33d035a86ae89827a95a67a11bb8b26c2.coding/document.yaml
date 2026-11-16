@@ -1,0 +1,26 @@
+hash: 83b6b19c44ef24da35f193d280083ed5750acdc0236d4e479348dc56e5c331ca
+id: 356852df-4fac-4a60-96b9-9c7590f3550a
+metadata:
+  import_document_id: osssaysno:vespa-engine/vespa:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:03+00:00'
+    id: osssaysno:github.com/vespa-engine/vespa:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/vespa-engine/vespa/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/vespa-engine/vespa/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 83b6b19c44ef24da35f193d280083ed5750acdc0236d4e479348dc56e5c331ca
+    snapshot: data/osssaysno/policies/vespa-engine/vespa/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 83b6b19c44ef24da35f193d280083ed5750acdc0236d4e479348dc56e5c331ca
+    url: https://raw.githubusercontent.com/vespa-engine/vespa/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/95068bd3f3ed96db0af3bfb47e46bdb33d035a86ae89827a95a67a11bb8b26c2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 83b6b19c44ef24da35f193d280083ed5750acdc0236d4e479348dc56e5c331ca
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/c7b2859b90a34ebda520e0c29dcd7e86/95068bd3f3ed96db0af3bfb47e46bdb33d035a86ae89827a95a67a11bb8b26c2.md

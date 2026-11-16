@@ -1,0 +1,26 @@
+hash: 0e0b79b9b0887bd8f56a418051be15c24c7ab3036648c4c06703485f3849dffc
+id: 808ba329-241c-416b-8360-e335231d3003
+metadata:
+  import_document_id: osssaysno:pest-parser/pest:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:18+00:00'
+    id: osssaysno:github.com/pest-parser/pest:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/pest-parser/pest/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/pest-parser/pest/master/SECURITY.md
+    role: repository_root_document
+    sha256: 0e0b79b9b0887bd8f56a418051be15c24c7ab3036648c4c06703485f3849dffc
+    snapshot: data/osssaysno/policies/pest-parser/pest/root/SECURITY.md
+    status: downloaded
+    text_sha256: 0e0b79b9b0887bd8f56a418051be15c24c7ab3036648c4c06703485f3849dffc
+    url: https://raw.githubusercontent.com/pest-parser/pest/master/SECURITY.md
+  source_archive:
+    member: texts/c07fc7d37c545b6398a97459ef073ee0903bc1cef31760086732798dcdcef2e5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0e0b79b9b0887bd8f56a418051be15c24c7ab3036648c4c06703485f3849dffc
+  url: ''
+name: root/SECURITY.md
+path: corpus/500512c21c7e41c8a418fcfa24f38b8d/c07fc7d37c545b6398a97459ef073ee0903bc1cef31760086732798dcdcef2e5.md

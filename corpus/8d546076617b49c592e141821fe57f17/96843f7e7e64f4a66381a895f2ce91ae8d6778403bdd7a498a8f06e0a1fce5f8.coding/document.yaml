@@ -1,0 +1,26 @@
+hash: 88b67868108364fd8e90c16caefebc2af4122b28554689708d0e2f787c689bff
+id: d4c0e435-b486-489b-ac32-c6561f7cc69e
+metadata:
+  import_document_id: osssaysno:domaindrivendev/swashbuckle.aspnetcore:root/package-readme.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:13+00:00'
+    id: osssaysno:github.com/domaindrivendev/swashbuckle.aspnetcore:root/package-readme.md
+    import_slot: root/package-readme.md
+    raw_snapshot: data/osssaysno/policies/domaindrivendev/swashbuckle.aspnetcore/root/raw/package-readme.md
+    resolved_url: https://raw.githubusercontent.com/domaindrivendev/Swashbuckle.AspNetCore/master/package-readme.md
+    role: repository_root_document
+    sha256: 88b67868108364fd8e90c16caefebc2af4122b28554689708d0e2f787c689bff
+    snapshot: data/osssaysno/policies/domaindrivendev/swashbuckle.aspnetcore/root/package-readme.md
+    status: downloaded
+    text_sha256: 88b67868108364fd8e90c16caefebc2af4122b28554689708d0e2f787c689bff
+    url: https://raw.githubusercontent.com/domaindrivendev/Swashbuckle.AspNetCore/master/package-readme.md
+  source_archive:
+    member: texts/96843f7e7e64f4a66381a895f2ce91ae8d6778403bdd7a498a8f06e0a1fce5f8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 88b67868108364fd8e90c16caefebc2af4122b28554689708d0e2f787c689bff
+  url: ''
+name: root/package-readme.md
+path: corpus/8d546076617b49c592e141821fe57f17/96843f7e7e64f4a66381a895f2ce91ae8d6778403bdd7a498a8f06e0a1fce5f8.md

@@ -1,0 +1,26 @@
+hash: bafa95fa98946f511b6ad3ab30eba36a073901dfbe990473eb82489ac2799fe8
+id: 2b3479bb-515f-4d0f-b28f-fa8ea79f6336
+metadata:
+  import_document_id: osssaysno:aws/aws-sam-cli:root/DEVELOPMENT_GUIDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:16+00:00'
+    id: osssaysno:github.com/aws/aws-sam-cli:root/DEVELOPMENT_GUIDE.md
+    import_slot: root/DEVELOPMENT_GUIDE.md
+    raw_snapshot: data/osssaysno/policies/aws/aws-sam-cli/root/raw/DEVELOPMENT_GUIDE.md
+    resolved_url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/DEVELOPMENT_GUIDE.md
+    role: repository_root_document
+    sha256: bafa95fa98946f511b6ad3ab30eba36a073901dfbe990473eb82489ac2799fe8
+    snapshot: data/osssaysno/policies/aws/aws-sam-cli/root/DEVELOPMENT_GUIDE.md
+    status: downloaded
+    text_sha256: bafa95fa98946f511b6ad3ab30eba36a073901dfbe990473eb82489ac2799fe8
+    url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/DEVELOPMENT_GUIDE.md
+  source_archive:
+    member: texts/7d8d2dfe983f581f8fb2cc0c6e3c0c82a732320c47bba8e1d737112e92010312.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bafa95fa98946f511b6ad3ab30eba36a073901dfbe990473eb82489ac2799fe8
+  url: ''
+name: root/DEVELOPMENT_GUIDE.md
+path: corpus/5b1a32658ea14e7eb3725870becf202e/7d8d2dfe983f581f8fb2cc0c6e3c0c82a732320c47bba8e1d737112e92010312.md

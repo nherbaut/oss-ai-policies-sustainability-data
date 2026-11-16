@@ -1,0 +1,26 @@
+hash: 86628dce9997e354a7545cd91bd7d5fa9018ffe65ba3ca7c5c7014ee4686b72e
+id: 901aad3b-2818-40ec-8f85-92251f713b78
+metadata:
+  import_document_id: osssaysno:usekaneo/kaneo:root/ENVIRONMENT_SETUP.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:33+00:00'
+    id: osssaysno:github.com/usekaneo/kaneo:root/ENVIRONMENT_SETUP.md
+    import_slot: root/ENVIRONMENT_SETUP.md
+    raw_snapshot: data/osssaysno/policies/usekaneo/kaneo/root/raw/ENVIRONMENT_SETUP.md
+    resolved_url: https://raw.githubusercontent.com/usekaneo/kaneo/main/ENVIRONMENT_SETUP.md
+    role: repository_root_document
+    sha256: 86628dce9997e354a7545cd91bd7d5fa9018ffe65ba3ca7c5c7014ee4686b72e
+    snapshot: data/osssaysno/policies/usekaneo/kaneo/root/ENVIRONMENT_SETUP.md
+    status: downloaded
+    text_sha256: 86628dce9997e354a7545cd91bd7d5fa9018ffe65ba3ca7c5c7014ee4686b72e
+    url: https://raw.githubusercontent.com/usekaneo/kaneo/main/ENVIRONMENT_SETUP.md
+  source_archive:
+    member: texts/d2f2a04df2d3e9b5327d429f0eb3fea821759fa6e64a795cb87549d9c00ea7f3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 86628dce9997e354a7545cd91bd7d5fa9018ffe65ba3ca7c5c7014ee4686b72e
+  url: ''
+name: root/ENVIRONMENT_SETUP.md
+path: corpus/2145b6e7a3134c3798a22fe815d38c6c/d2f2a04df2d3e9b5327d429f0eb3fea821759fa6e64a795cb87549d9c00ea7f3.md

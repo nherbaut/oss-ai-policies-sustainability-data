@@ -1,0 +1,37 @@
+hash: a9a16370bb4e26d0a3273699e1392c36e5ef98306642a6e2cd036cd1899e2ff5
+id: f28c371d-be67-45e3-96fe-070a1ede67ff
+metadata:
+  import_document_id: osssaysno:librosa/librosa:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:35+00:00'
+    id: osssaysno:github.com/librosa/librosa:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/librosa/librosa/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/librosa/librosa/main/CONTRIBUTING.md
+    role: contributing
+    sha256: a9a16370bb4e26d0a3273699e1392c36e5ef98306642a6e2cd036cd1899e2ff5
+    snapshot: data/osssaysno/policies/librosa/librosa/contributing.md
+    status: downloaded
+    text_sha256: a9a16370bb4e26d0a3273699e1392c36e5ef98306642a6e2cd036cd1899e2ff5
+    url: https://github.com/librosa/librosa/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:05+00:00'
+    id: osssaysno:github.com/librosa/librosa:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/librosa/librosa/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/librosa/librosa/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: a9a16370bb4e26d0a3273699e1392c36e5ef98306642a6e2cd036cd1899e2ff5
+    snapshot: data/osssaysno/policies/librosa/librosa/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: a9a16370bb4e26d0a3273699e1392c36e5ef98306642a6e2cd036cd1899e2ff5
+    url: https://raw.githubusercontent.com/librosa/librosa/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/7ccef6a21bc5dc27789f2cb7f33a5f3997e1a25311d5fc4eed78d367662bacc4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a9a16370bb4e26d0a3273699e1392c36e5ef98306642a6e2cd036cd1899e2ff5
+  url: ''
+name: contributing.md
+path: corpus/66ddbbce116c414ea129c6ad346402a1/7ccef6a21bc5dc27789f2cb7f33a5f3997e1a25311d5fc4eed78d367662bacc4.md

@@ -1,0 +1,26 @@
+hash: 176480114afa36831a570643c6da239896709be319138f42da9b8de4067b9466
+id: be9df05b-7d36-4382-bc8f-7f1ead1e6bca
+metadata:
+  import_document_id: osssaysno:crossplane/crossplane:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:51+00:00'
+    id: osssaysno:github.com/crossplane/crossplane:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/crossplane/crossplane/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/crossplane/crossplane/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 176480114afa36831a570643c6da239896709be319138f42da9b8de4067b9466
+    snapshot: data/osssaysno/policies/crossplane/crossplane/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 176480114afa36831a570643c6da239896709be319138f42da9b8de4067b9466
+    url: https://raw.githubusercontent.com/crossplane/crossplane/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/750889d762c5d54ace00df0f010ba27a2c44a6ec9187bbf691909ed5c229c051.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 176480114afa36831a570643c6da239896709be319138f42da9b8de4067b9466
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/24ef2d426e3e4cdeb4eea42ab4ab7f18/750889d762c5d54ace00df0f010ba27a2c44a6ec9187bbf691909ed5c229c051.md

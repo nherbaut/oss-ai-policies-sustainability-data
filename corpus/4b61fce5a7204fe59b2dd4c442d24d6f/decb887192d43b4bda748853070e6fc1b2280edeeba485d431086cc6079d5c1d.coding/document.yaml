@@ -1,0 +1,26 @@
+hash: 9daeae709a0bd71bcfd1c96dc5822ecec5210327eff929da64b0ae7f8faf1444
+id: 7a78bbff-030b-4984-8abf-469d869270c2
+metadata:
+  import_document_id: osssaysno:microsoft/generative-ai-for-beginners:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:20+00:00'
+    id: osssaysno:github.com/microsoft/generative-ai-for-beginners:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 9daeae709a0bd71bcfd1c96dc5822ecec5210327eff929da64b0ae7f8faf1444
+    snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 9daeae709a0bd71bcfd1c96dc5822ecec5210327eff929da64b0ae7f8faf1444
+    url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/decb887192d43b4bda748853070e6fc1b2280edeeba485d431086cc6079d5c1d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9daeae709a0bd71bcfd1c96dc5822ecec5210327eff929da64b0ae7f8faf1444
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/4b61fce5a7204fe59b2dd4c442d24d6f/decb887192d43b4bda748853070e6fc1b2280edeeba485d431086cc6079d5c1d.md

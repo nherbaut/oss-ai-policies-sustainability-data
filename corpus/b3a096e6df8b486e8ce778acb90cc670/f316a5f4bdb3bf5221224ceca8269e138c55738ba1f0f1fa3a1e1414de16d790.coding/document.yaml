@@ -1,0 +1,26 @@
+hash: 3596d055b725db7d03aed55621a9c2e9a17017fc869d4071b6232a9d113d92d7
+id: 986bc1fe-1764-4b5e-973e-0bffd44aeb74
+metadata:
+  import_document_id: osssaysno:luanti-org/luanti:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:31+00:00'
+    id: osssaysno:github.com/luanti-org/luanti:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/luanti-org/luanti/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/luanti-org/luanti/master/.github/CONTRIBUTING.md
+    role: contributing
+    sha256: 3596d055b725db7d03aed55621a9c2e9a17017fc869d4071b6232a9d113d92d7
+    snapshot: data/osssaysno/policies/luanti-org/luanti/contributing.md
+    status: downloaded
+    text_sha256: 3596d055b725db7d03aed55621a9c2e9a17017fc869d4071b6232a9d113d92d7
+    url: https://github.com/luanti-org/luanti/blob/master/.github/CONTRIBUTING.md
+  source_archive:
+    member: texts/f316a5f4bdb3bf5221224ceca8269e138c55738ba1f0f1fa3a1e1414de16d790.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3596d055b725db7d03aed55621a9c2e9a17017fc869d4071b6232a9d113d92d7
+  url: ''
+name: contributing.md
+path: corpus/b3a096e6df8b486e8ce778acb90cc670/f316a5f4bdb3bf5221224ceca8269e138c55738ba1f0f1fa3a1e1414de16d790.md

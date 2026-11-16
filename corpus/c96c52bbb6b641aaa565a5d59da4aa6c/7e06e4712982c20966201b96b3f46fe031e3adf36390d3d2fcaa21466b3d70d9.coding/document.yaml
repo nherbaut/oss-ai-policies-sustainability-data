@@ -1,0 +1,26 @@
+hash: 5f635f49f8e9ac0e1f5fdbe3d5eae16775501e006a0195e70c30af3f30ed63f1
+id: 807630bb-5073-4cfe-83f7-9309f1150bcd
+metadata:
+  import_document_id: osssaysno:sebastianbergmann/recursion-context:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:27+00:00'
+    id: osssaysno:github.com/sebastianbergmann/recursion-context:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/sebastianbergmann/recursion-context/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/sebastianbergmann/recursion-context/main/README.md
+    role: repository_root_document
+    sha256: 5f635f49f8e9ac0e1f5fdbe3d5eae16775501e006a0195e70c30af3f30ed63f1
+    snapshot: data/osssaysno/policies/sebastianbergmann/recursion-context/root/README.md
+    status: downloaded
+    text_sha256: 5f635f49f8e9ac0e1f5fdbe3d5eae16775501e006a0195e70c30af3f30ed63f1
+    url: https://raw.githubusercontent.com/sebastianbergmann/recursion-context/main/README.md
+  source_archive:
+    member: texts/7e06e4712982c20966201b96b3f46fe031e3adf36390d3d2fcaa21466b3d70d9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5f635f49f8e9ac0e1f5fdbe3d5eae16775501e006a0195e70c30af3f30ed63f1
+  url: ''
+name: root/README.md
+path: corpus/c96c52bbb6b641aaa565a5d59da4aa6c/7e06e4712982c20966201b96b3f46fe031e3adf36390d3d2fcaa21466b3d70d9.md

@@ -1,0 +1,26 @@
+hash: 856b0490809db8f3192fd6af0234caae3682786c52ea9e1ec6d6093ef4315bde
+id: 93dc6393-b98b-4c8e-ba91-7993ad5427cd
+metadata:
+  import_document_id: osssaysno:google/elephant-goldfish-model:root/TESTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:26+00:00'
+    id: osssaysno:github.com/google/elephant-goldfish-model:root/TESTING.md
+    import_slot: root/TESTING.md
+    raw_snapshot: data/osssaysno/policies/google/elephant-goldfish-model/root/raw/TESTING.md
+    resolved_url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/TESTING.md
+    role: repository_root_document
+    sha256: 856b0490809db8f3192fd6af0234caae3682786c52ea9e1ec6d6093ef4315bde
+    snapshot: data/osssaysno/policies/google/elephant-goldfish-model/root/TESTING.md
+    status: downloaded
+    text_sha256: 856b0490809db8f3192fd6af0234caae3682786c52ea9e1ec6d6093ef4315bde
+    url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/TESTING.md
+  source_archive:
+    member: texts/e272f55c85bdd40db0dda4e6a3efcea08313566ba279795ee1ccda12daf0e249.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 856b0490809db8f3192fd6af0234caae3682786c52ea9e1ec6d6093ef4315bde
+  url: ''
+name: root/TESTING.md
+path: corpus/76d4b344a9f444fd880e6ffcdfc6209e/e272f55c85bdd40db0dda4e6a3efcea08313566ba279795ee1ccda12daf0e249.md

@@ -1,0 +1,26 @@
+hash: d46fb12826c0060b79262d095edfcf22dcd4fc2db8478aa3477c626cd4950a20
+id: 0d697598-2f43-4b37-9102-16e598ed2cdd
+metadata:
+  import_document_id: osssaysno:stashapp/stash:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:33+00:00'
+    id: osssaysno:github.com/stashapp/stash:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/stashapp/stash/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/stashapp/stash/develop/docs/AI_POLICY.md
+    role: ai_policy
+    sha256: d46fb12826c0060b79262d095edfcf22dcd4fc2db8478aa3477c626cd4950a20
+    snapshot: data/osssaysno/policies/stashapp/stash/ai_policy.md
+    status: downloaded
+    text_sha256: d46fb12826c0060b79262d095edfcf22dcd4fc2db8478aa3477c626cd4950a20
+    url: https://github.com/stashapp/stash/blob/develop/docs/AI_POLICY.md
+  source_archive:
+    member: texts/2c7352707b2952958d73e7fb6daff106ed3c72bc2f1fbbb78d279755b15a29ef.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d46fb12826c0060b79262d095edfcf22dcd4fc2db8478aa3477c626cd4950a20
+  url: ''
+name: ai_policy.md
+path: corpus/a9b51a218357444abdeb3e0c4057de9e/2c7352707b2952958d73e7fb6daff106ed3c72bc2f1fbbb78d279755b15a29ef.md

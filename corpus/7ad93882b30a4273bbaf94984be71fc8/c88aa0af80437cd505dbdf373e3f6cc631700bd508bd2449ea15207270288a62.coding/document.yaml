@@ -1,0 +1,26 @@
+hash: fb00673432c288fcbcaad97d97e83f7723aa62e58d1a3d713a83b3e92665046b
+id: 33e858e8-fa4b-4062-b3c8-e473a5de4a41
+metadata:
+  import_document_id: osssaysno:ocaml/ocaml:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:22+00:00'
+    id: osssaysno:github.com/ocaml/ocaml:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/ocaml/ocaml/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/ocaml/ocaml/trunk/SECURITY.md
+    role: repository_root_document
+    sha256: fb00673432c288fcbcaad97d97e83f7723aa62e58d1a3d713a83b3e92665046b
+    snapshot: data/osssaysno/policies/ocaml/ocaml/root/SECURITY.md
+    status: downloaded
+    text_sha256: fb00673432c288fcbcaad97d97e83f7723aa62e58d1a3d713a83b3e92665046b
+    url: https://raw.githubusercontent.com/ocaml/ocaml/trunk/SECURITY.md
+  source_archive:
+    member: texts/c88aa0af80437cd505dbdf373e3f6cc631700bd508bd2449ea15207270288a62.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fb00673432c288fcbcaad97d97e83f7723aa62e58d1a3d713a83b3e92665046b
+  url: ''
+name: root/SECURITY.md
+path: corpus/7ad93882b30a4273bbaf94984be71fc8/c88aa0af80437cd505dbdf373e3f6cc631700bd508bd2449ea15207270288a62.md

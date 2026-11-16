@@ -1,0 +1,37 @@
+hash: 0b803bc360645716fc3329c3de1ad7788e8c6a689e76f7acb85a94454221db01
+id: 7e19de2e-acd4-446f-b203-eed8aec71bd4
+metadata:
+  import_document_id: osssaysno:pest-parser/pest:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:03+00:00'
+    id: osssaysno:github.com/pest-parser/pest:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/pest-parser/pest/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/pest-parser/pest/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 0b803bc360645716fc3329c3de1ad7788e8c6a689e76f7acb85a94454221db01
+    snapshot: data/osssaysno/policies/pest-parser/pest/contributing.md
+    status: downloaded
+    text_sha256: 0b803bc360645716fc3329c3de1ad7788e8c6a689e76f7acb85a94454221db01
+    url: https://github.com/pest-parser/pest/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:38:16+00:00'
+    id: osssaysno:github.com/pest-parser/pest:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/pest-parser/pest/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/pest-parser/pest/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 0b803bc360645716fc3329c3de1ad7788e8c6a689e76f7acb85a94454221db01
+    snapshot: data/osssaysno/policies/pest-parser/pest/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 0b803bc360645716fc3329c3de1ad7788e8c6a689e76f7acb85a94454221db01
+    url: https://raw.githubusercontent.com/pest-parser/pest/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/af914892dabe036fafb242e807c88dad685df60ab9524c871dd4a5381a672ce4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0b803bc360645716fc3329c3de1ad7788e8c6a689e76f7acb85a94454221db01
+  url: ''
+name: contributing.md
+path: corpus/500512c21c7e41c8a418fcfa24f38b8d/af914892dabe036fafb242e807c88dad685df60ab9524c871dd4a5381a672ce4.md

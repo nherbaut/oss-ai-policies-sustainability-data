@@ -1,0 +1,37 @@
+hash: a731f56cf2115a9fbec7d2ea1e7539ea9c09992d42a62597a0b2849ddf7b891e
+id: c86acd33-074e-4cee-bb49-f2d9582cb460
+metadata:
+  import_document_id: osssaysno:conda/conda:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:45+00:00'
+    id: osssaysno:github.com/conda/conda:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/conda/conda/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/conda/conda/main/CONTRIBUTING.md
+    role: contributing
+    sha256: a731f56cf2115a9fbec7d2ea1e7539ea9c09992d42a62597a0b2849ddf7b891e
+    snapshot: data/osssaysno/policies/conda/conda/contributing.md
+    status: downloaded
+    text_sha256: a731f56cf2115a9fbec7d2ea1e7539ea9c09992d42a62597a0b2849ddf7b891e
+    url: https://github.com/conda/conda/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:47+00:00'
+    id: osssaysno:github.com/conda/conda:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/conda/conda/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/conda/conda/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: a731f56cf2115a9fbec7d2ea1e7539ea9c09992d42a62597a0b2849ddf7b891e
+    snapshot: data/osssaysno/policies/conda/conda/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: a731f56cf2115a9fbec7d2ea1e7539ea9c09992d42a62597a0b2849ddf7b891e
+    url: https://raw.githubusercontent.com/conda/conda/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/4b3520aadd84f474f8167a825db713071de7e2d32602235224b6f654e9d4daff.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a731f56cf2115a9fbec7d2ea1e7539ea9c09992d42a62597a0b2849ddf7b891e
+  url: ''
+name: contributing.md
+path: corpus/7700d61275b0420b93c802d3ed28167b/4b3520aadd84f474f8167a825db713071de7e2d32602235224b6f654e9d4daff.md

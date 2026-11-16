@@ -1,0 +1,37 @@
+hash: 2d319f6b23cfc3e0a656448c88cc6f498a15ca0b6fd3e3f194555bdddc2dc141
+id: 09355720-2f08-4747-9a04-3fab66de451e
+metadata:
+  import_document_id: osssaysno:bookorbit/bookorbit:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:59+00:00'
+    id: osssaysno:github.com/bookorbit/bookorbit:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/bookorbit/bookorbit/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/bookorbit/bookorbit/main/AGENTS.md
+    role: repository_root_document
+    sha256: 2d319f6b23cfc3e0a656448c88cc6f498a15ca0b6fd3e3f194555bdddc2dc141
+    snapshot: data/osssaysno/policies/bookorbit/bookorbit/root/AGENTS.md
+    status: downloaded
+    text_sha256: 2d319f6b23cfc3e0a656448c88cc6f498a15ca0b6fd3e3f194555bdddc2dc141
+    url: https://raw.githubusercontent.com/bookorbit/bookorbit/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:38:00+00:00'
+    id: osssaysno:github.com/bookorbit/bookorbit:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/bookorbit/bookorbit/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/bookorbit/bookorbit/main/CLAUDE.md
+    role: repository_root_document
+    sha256: 2d319f6b23cfc3e0a656448c88cc6f498a15ca0b6fd3e3f194555bdddc2dc141
+    snapshot: data/osssaysno/policies/bookorbit/bookorbit/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 2d319f6b23cfc3e0a656448c88cc6f498a15ca0b6fd3e3f194555bdddc2dc141
+    url: https://raw.githubusercontent.com/bookorbit/bookorbit/main/CLAUDE.md
+  source_archive:
+    member: texts/188b81fe6efcfee0577f4e8539256dbe228495158dea6eb5a567b38ccf09f23c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2d319f6b23cfc3e0a656448c88cc6f498a15ca0b6fd3e3f194555bdddc2dc141
+  url: ''
+name: root/AGENTS.md
+path: corpus/eedaa1725cf643beaadf14c7aaf63062/188b81fe6efcfee0577f4e8539256dbe228495158dea6eb5a567b38ccf09f23c.md

@@ -1,0 +1,37 @@
+hash: ea6bc6e51aafcaebe27d3dd212a6228aad1489643ae36ebf15dbde7061a47d38
+id: e91949df-5d0e-4b2e-a032-63fcaaba28dd
+metadata:
+  import_document_id: osssaysno:mealie-recipes/mealie:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:30+00:00'
+    id: osssaysno:github.com/mealie-recipes/mealie:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/mealie-recipes/mealie/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/AGENTS.md
+    role: repository_root_document
+    sha256: ea6bc6e51aafcaebe27d3dd212a6228aad1489643ae36ebf15dbde7061a47d38
+    snapshot: data/osssaysno/policies/mealie-recipes/mealie/root/AGENTS.md
+    status: downloaded
+    text_sha256: ea6bc6e51aafcaebe27d3dd212a6228aad1489643ae36ebf15dbde7061a47d38
+    url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/AGENTS.md
+  - accessed_at: '2026-11-15T23:29:30+00:00'
+    id: osssaysno:github.com/mealie-recipes/mealie:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/mealie-recipes/mealie/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/AGENTS.md
+    role: repository_root_document
+    sha256: ea6bc6e51aafcaebe27d3dd212a6228aad1489643ae36ebf15dbde7061a47d38
+    snapshot: data/osssaysno/policies/mealie-recipes/mealie/root/CLAUDE.md
+    status: downloaded
+    text_sha256: ea6bc6e51aafcaebe27d3dd212a6228aad1489643ae36ebf15dbde7061a47d38
+    url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/CLAUDE.md
+  source_archive:
+    member: texts/3264b4592f66e3c7c51ce358decf5ce38d41de9ab8fa68450fb466ea9ec90046.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ea6bc6e51aafcaebe27d3dd212a6228aad1489643ae36ebf15dbde7061a47d38
+  url: ''
+name: root/AGENTS.md
+path: corpus/198a188a7d68473496327592f570250a/3264b4592f66e3c7c51ce358decf5ce38d41de9ab8fa68450fb466ea9ec90046.md

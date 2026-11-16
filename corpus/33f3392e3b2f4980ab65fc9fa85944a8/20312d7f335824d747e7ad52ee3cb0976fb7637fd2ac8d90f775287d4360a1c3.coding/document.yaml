@@ -1,0 +1,26 @@
+hash: bd58a2f30d0db949001ead57146d564e9d6633783b6531811e33dfc925fb8732
+id: 9a99df2c-ca47-445e-835c-b0be13013207
+metadata:
+  import_document_id: osssaysno:zealdocs/zeal:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:38+00:00'
+    id: osssaysno:github.com/zealdocs/zeal:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/zealdocs/zeal/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/zealdocs/zeal/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: bd58a2f30d0db949001ead57146d564e9d6633783b6531811e33dfc925fb8732
+    snapshot: data/osssaysno/policies/zealdocs/zeal/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: bd58a2f30d0db949001ead57146d564e9d6633783b6531811e33dfc925fb8732
+    url: https://raw.githubusercontent.com/zealdocs/zeal/main/CHANGELOG.md
+  source_archive:
+    member: texts/20312d7f335824d747e7ad52ee3cb0976fb7637fd2ac8d90f775287d4360a1c3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bd58a2f30d0db949001ead57146d564e9d6633783b6531811e33dfc925fb8732
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/33f3392e3b2f4980ab65fc9fa85944a8/20312d7f335824d747e7ad52ee3cb0976fb7637fd2ac8d90f775287d4360a1c3.md

@@ -1,0 +1,37 @@
+hash: 709b181a931f80f2a79c2234ffeee29c5dc493ac26d1bf79aeb00b8098e35c29
+id: 1fe7a232-e985-4cd4-a013-8f7b43d9ea78
+metadata:
+  import_document_id: osssaysno:kludex/starlette:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:44+00:00'
+    id: osssaysno:github.com/kludex/starlette:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/kludex/starlette/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/Kludex/starlette/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 709b181a931f80f2a79c2234ffeee29c5dc493ac26d1bf79aeb00b8098e35c29
+    snapshot: data/osssaysno/policies/kludex/starlette/ai_policy.md
+    status: downloaded
+    text_sha256: 709b181a931f80f2a79c2234ffeee29c5dc493ac26d1bf79aeb00b8098e35c29
+    url: https://github.com/Kludex/starlette/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:29:45+00:00'
+    id: osssaysno:github.com/kludex/starlette:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/kludex/starlette/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/Kludex/starlette/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 709b181a931f80f2a79c2234ffeee29c5dc493ac26d1bf79aeb00b8098e35c29
+    snapshot: data/osssaysno/policies/kludex/starlette/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 709b181a931f80f2a79c2234ffeee29c5dc493ac26d1bf79aeb00b8098e35c29
+    url: https://raw.githubusercontent.com/Kludex/starlette/main/AI_POLICY.md
+  source_archive:
+    member: texts/28d802c45ea90b0a4310eed9b8796330493b616e6b422ccb4dd4778ff847ba1b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 709b181a931f80f2a79c2234ffeee29c5dc493ac26d1bf79aeb00b8098e35c29
+  url: ''
+name: ai_policy.md
+path: corpus/12bb1d38befc4ac0a34982d30a664ed2/28d802c45ea90b0a4310eed9b8796330493b616e6b422ccb4dd4778ff847ba1b.md

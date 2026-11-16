@@ -1,0 +1,37 @@
+hash: 4b253975af6c9586e89bbdc1c4532d52d52dd7cb287416065bedae8d7fb2b3eb
+id: 8997e1e3-aff3-43fd-b1e1-aad65b934ec0
+metadata:
+  import_document_id: osssaysno:redot-engine/redot-engine:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:57+00:00'
+    id: osssaysno:github.com/redot-engine/redot-engine:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/redot-engine/redot-engine/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/AI_POLICY.md
+    role: ai_policy
+    sha256: 4b253975af6c9586e89bbdc1c4532d52d52dd7cb287416065bedae8d7fb2b3eb
+    snapshot: data/osssaysno/policies/redot-engine/redot-engine/ai_policy.md
+    status: downloaded
+    text_sha256: 4b253975af6c9586e89bbdc1c4532d52d52dd7cb287416065bedae8d7fb2b3eb
+    url: https://github.com/Redot-Engine/redot-engine/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:37:41+00:00'
+    id: osssaysno:github.com/redot-engine/redot-engine:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: 4b253975af6c9586e89bbdc1c4532d52d52dd7cb287416065bedae8d7fb2b3eb
+    snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 4b253975af6c9586e89bbdc1c4532d52d52dd7cb287416065bedae8d7fb2b3eb
+    url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/AI_POLICY.md
+  source_archive:
+    member: texts/ad8f8450c7c7389df6669c16dc10156ccf51ecc2ffbc8a98d5f81e9516118f59.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4b253975af6c9586e89bbdc1c4532d52d52dd7cb287416065bedae8d7fb2b3eb
+  url: ''
+name: ai_policy.md
+path: corpus/0e44d375f5e543048cc4e9ebe43f46d7/ad8f8450c7c7389df6669c16dc10156ccf51ecc2ffbc8a98d5f81e9516118f59.md

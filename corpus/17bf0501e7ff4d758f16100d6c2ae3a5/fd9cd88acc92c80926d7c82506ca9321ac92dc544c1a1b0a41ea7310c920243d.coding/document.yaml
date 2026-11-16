@@ -1,0 +1,26 @@
+hash: 6dc5ef93d007b6e6c8888f917efa4ad4f7535f389bc0aff0b0ed69716dc11c02
+id: 2615da7d-2d38-4d0c-a33e-7f1f9d56e5f7
+metadata:
+  import_document_id: osssaysno:polarsource/polar:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:16+00:00'
+    id: osssaysno:github.com/polarsource/polar:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/polarsource/polar/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/polarsource/polar/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 6dc5ef93d007b6e6c8888f917efa4ad4f7535f389bc0aff0b0ed69716dc11c02
+    snapshot: data/osssaysno/policies/polarsource/polar/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 6dc5ef93d007b6e6c8888f917efa4ad4f7535f389bc0aff0b0ed69716dc11c02
+    url: https://raw.githubusercontent.com/polarsource/polar/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/fd9cd88acc92c80926d7c82506ca9321ac92dc544c1a1b0a41ea7310c920243d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6dc5ef93d007b6e6c8888f917efa4ad4f7535f389bc0aff0b0ed69716dc11c02
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/17bf0501e7ff4d758f16100d6c2ae3a5/fd9cd88acc92c80926d7c82506ca9321ac92dc544c1a1b0a41ea7310c920243d.md

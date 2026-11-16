@@ -1,0 +1,26 @@
+hash: 2e8a2580b74523f6f4a7626bd84376eb9014faa5b01c805f55aecfab1d30db7f
+id: 48fb385b-822d-4d26-a473-bf39cdb2167b
+metadata:
+  import_document_id: osssaysno:grpc/grpc-java:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:59+00:00'
+    id: osssaysno:github.com/grpc/grpc-java:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-java/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-java/master/README.md
+    role: repository_root_document
+    sha256: 2e8a2580b74523f6f4a7626bd84376eb9014faa5b01c805f55aecfab1d30db7f
+    snapshot: data/osssaysno/policies/grpc/grpc-java/root/README.md
+    status: downloaded
+    text_sha256: 2e8a2580b74523f6f4a7626bd84376eb9014faa5b01c805f55aecfab1d30db7f
+    url: https://raw.githubusercontent.com/grpc/grpc-java/master/README.md
+  source_archive:
+    member: texts/a9b425eee012655694402c2b78f53cfe96899e3cd6fedf70c6b9be805ff2aaf3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2e8a2580b74523f6f4a7626bd84376eb9014faa5b01c805f55aecfab1d30db7f
+  url: ''
+name: root/README.md
+path: corpus/3e38e7dc201e40588ce69f5f92efec39/a9b425eee012655694402c2b78f53cfe96899e3cd6fedf70c6b9be805ff2aaf3.md

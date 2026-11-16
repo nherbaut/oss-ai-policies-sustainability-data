@@ -1,0 +1,37 @@
+hash: 95a97c9a547674509a000984f38524e342a28aa9bee3298cbc8c15ff6887a99b
+id: 7c178e9e-ac45-4481-8f00-b08f63084f89
+metadata:
+  import_document_id: osssaysno:federico-busato/modern-cpp-programming:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:06+00:00'
+    id: osssaysno:github.com/federico-busato/modern-cpp-programming:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 95a97c9a547674509a000984f38524e342a28aa9bee3298cbc8c15ff6887a99b
+    snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/contributing.md
+    status: downloaded
+    text_sha256: 95a97c9a547674509a000984f38524e342a28aa9bee3298cbc8c15ff6887a99b
+    url: https://github.com/federico-busato/Modern-CPP-Programming/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:07+00:00'
+    id: osssaysno:github.com/federico-busato/modern-cpp-programming:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 95a97c9a547674509a000984f38524e342a28aa9bee3298cbc8c15ff6887a99b
+    snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 95a97c9a547674509a000984f38524e342a28aa9bee3298cbc8c15ff6887a99b
+    url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/3fb126a6c37c0a2fa6c32d5b05ef63f05b94ed33320c8a7c2ccfb22b9907ad13.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 95a97c9a547674509a000984f38524e342a28aa9bee3298cbc8c15ff6887a99b
+  url: ''
+name: contributing.md
+path: corpus/e7f54279704f4c60becb20d49ac64a3b/3fb126a6c37c0a2fa6c32d5b05ef63f05b94ed33320c8a7c2ccfb22b9907ad13.md

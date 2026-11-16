@@ -1,0 +1,26 @@
+hash: 7d8e69da7c1753acfbe81ff36fbb33b829870509db1da58e77e050aae2322964
+id: 31e83482-8e2b-4b7d-bf1a-3675dae3f15b
+metadata:
+  import_document_id: osssaysno:nteract/papermill:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:28+00:00'
+    id: osssaysno:github.com/nteract/papermill:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/nteract/papermill/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/nteract/papermill/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 7d8e69da7c1753acfbe81ff36fbb33b829870509db1da58e77e050aae2322964
+    snapshot: data/osssaysno/policies/nteract/papermill/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 7d8e69da7c1753acfbe81ff36fbb33b829870509db1da58e77e050aae2322964
+    url: https://raw.githubusercontent.com/nteract/papermill/main/CHANGELOG.md
+  source_archive:
+    member: texts/600d56ca250297287d44b207863a1736d095d4912f98d0d2f222107d15a4f4c3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7d8e69da7c1753acfbe81ff36fbb33b829870509db1da58e77e050aae2322964
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/8c0f6131b7f04a69a24737184848e55e/600d56ca250297287d44b207863a1736d095d4912f98d0d2f222107d15a4f4c3.md

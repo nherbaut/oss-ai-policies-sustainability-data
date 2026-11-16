@@ -1,0 +1,26 @@
+hash: 5a1f34b7fb2b61c371220e7b4170291121b4bce91a28bb5c246d440f4cc80c48
+id: 6561c282-0a66-434d-8b51-6c34c59012a6
+metadata:
+  import_document_id: osssaysno:elastic/kibana:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:40+00:00'
+    id: osssaysno:github.com/elastic/kibana:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/elastic/kibana/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/elastic/kibana/main/AGENTS.md
+    role: repository_root_document
+    sha256: 5a1f34b7fb2b61c371220e7b4170291121b4bce91a28bb5c246d440f4cc80c48
+    snapshot: data/osssaysno/policies/elastic/kibana/root/AGENTS.md
+    status: downloaded
+    text_sha256: 5a1f34b7fb2b61c371220e7b4170291121b4bce91a28bb5c246d440f4cc80c48
+    url: https://raw.githubusercontent.com/elastic/kibana/main/AGENTS.md
+  source_archive:
+    member: texts/4a7f3451a9f2f41831cf273c3b241258dc05543096d38e7155ef14a0f698f53d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5a1f34b7fb2b61c371220e7b4170291121b4bce91a28bb5c246d440f4cc80c48
+  url: ''
+name: root/AGENTS.md
+path: corpus/082703ff56ea437b90604d07ebdd2932/4a7f3451a9f2f41831cf273c3b241258dc05543096d38e7155ef14a0f698f53d.md

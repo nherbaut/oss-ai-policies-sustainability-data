@@ -1,0 +1,26 @@
+hash: c5168b5d52db65f54523ad19ad3caa33e0bb01ad43eae332afa90c32a15ba83a
+id: d50e3c36-edf5-4d53-872e-9ef3a3720c81
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:root/DESIGN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:27+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/DESIGN.md
+    import_slot: root/DESIGN.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/DESIGN.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/DESIGN.md
+    role: repository_root_document
+    sha256: c5168b5d52db65f54523ad19ad3caa33e0bb01ad43eae332afa90c32a15ba83a
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/DESIGN.md
+    status: downloaded
+    text_sha256: c5168b5d52db65f54523ad19ad3caa33e0bb01ad43eae332afa90c32a15ba83a
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/DESIGN.md
+  source_archive:
+    member: texts/007af5dcca72daf536e611881286492080dea84624290f425c5bf8331103c90e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c5168b5d52db65f54523ad19ad3caa33e0bb01ad43eae332afa90c32a15ba83a
+  url: ''
+name: root/DESIGN.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/007af5dcca72daf536e611881286492080dea84624290f425c5bf8331103c90e.md

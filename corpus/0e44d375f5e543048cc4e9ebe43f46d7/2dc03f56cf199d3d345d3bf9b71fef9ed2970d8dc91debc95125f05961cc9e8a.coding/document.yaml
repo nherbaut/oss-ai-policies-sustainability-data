@@ -1,0 +1,26 @@
+hash: dbddf7a35d26f1d93743a7c419de5923d08e049ff8e59e2592c6770c449ae7e3
+id: cefbe452-c5c2-495c-b434-af365bf9b556
+metadata:
+  import_document_id: osssaysno:redot-engine/redot-engine:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:42+00:00'
+    id: osssaysno:github.com/redot-engine/redot-engine:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: dbddf7a35d26f1d93743a7c419de5923d08e049ff8e59e2592c6770c449ae7e3
+    snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: dbddf7a35d26f1d93743a7c419de5923d08e049ff8e59e2592c6770c449ae7e3
+    url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/CHANGELOG.md
+  source_archive:
+    member: texts/2dc03f56cf199d3d345d3bf9b71fef9ed2970d8dc91debc95125f05961cc9e8a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: dbddf7a35d26f1d93743a7c419de5923d08e049ff8e59e2592c6770c449ae7e3
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/0e44d375f5e543048cc4e9ebe43f46d7/2dc03f56cf199d3d345d3bf9b71fef9ed2970d8dc91debc95125f05961cc9e8a.md

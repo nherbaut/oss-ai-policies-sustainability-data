@@ -1,0 +1,26 @@
+hash: fa88e8058bbdb083a21799ae7bafff99b75aa94c755827e4aab0fba2843cdfff
+id: b2fee779-204d-46f1-9924-7e82a3655818
+metadata:
+  import_document_id: osssaysno:getarcaneapp/arcane:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:18+00:00'
+    id: osssaysno:github.com/getarcaneapp/arcane:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/getarcaneapp/arcane/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/getarcaneapp/arcane/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: fa88e8058bbdb083a21799ae7bafff99b75aa94c755827e4aab0fba2843cdfff
+    snapshot: data/osssaysno/policies/getarcaneapp/arcane/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: fa88e8058bbdb083a21799ae7bafff99b75aa94c755827e4aab0fba2843cdfff
+    url: https://raw.githubusercontent.com/getarcaneapp/arcane/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/282c5ca0704f7d1efead7aa373954c48ca09836cd832e82f482fa6901a22606d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fa88e8058bbdb083a21799ae7bafff99b75aa94c755827e4aab0fba2843cdfff
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/6bb24d12df494a2c91c1c30957ad7575/282c5ca0704f7d1efead7aa373954c48ca09836cd832e82f482fa6901a22606d.md

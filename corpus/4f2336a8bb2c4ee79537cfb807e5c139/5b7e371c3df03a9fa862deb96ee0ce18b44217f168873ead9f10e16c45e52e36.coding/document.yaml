@@ -1,0 +1,26 @@
+hash: 96268674d8f1e4ba714c21cb1f6634d6bd56c056d0536747d153038daed55879
+id: 34d598c9-69ac-4a07-9b7c-2e323c96ae07
+metadata:
+  import_document_id: osssaysno:home-assistant/home-assistant.io:root/CLA.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:24+00:00'
+    id: osssaysno:github.com/home-assistant/home-assistant.io:root/CLA.md
+    import_slot: root/CLA.md
+    raw_snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/raw/CLA.md
+    resolved_url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/CLA.md
+    role: repository_root_document
+    sha256: 96268674d8f1e4ba714c21cb1f6634d6bd56c056d0536747d153038daed55879
+    snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/CLA.md
+    status: downloaded
+    text_sha256: 96268674d8f1e4ba714c21cb1f6634d6bd56c056d0536747d153038daed55879
+    url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/CLA.md
+  source_archive:
+    member: texts/5b7e371c3df03a9fa862deb96ee0ce18b44217f168873ead9f10e16c45e52e36.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 96268674d8f1e4ba714c21cb1f6634d6bd56c056d0536747d153038daed55879
+  url: ''
+name: root/CLA.md
+path: corpus/4f2336a8bb2c4ee79537cfb807e5c139/5b7e371c3df03a9fa862deb96ee0ce18b44217f168873ead9f10e16c45e52e36.md

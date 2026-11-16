@@ -1,0 +1,26 @@
+hash: 6630b91eda43d9cb0693437bd83b34931b741805c48c9eb07934ca5dbc3f718b
+id: 1f05e24e-5f4a-43d8-b0d4-0101c1affd0c
+metadata:
+  import_document_id: osssaysno:tinyauthapp/tinyauth:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:14+00:00'
+    id: osssaysno:github.com/tinyauthapp/tinyauth:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/SECURITY.md
+    role: repository_root_document
+    sha256: 6630b91eda43d9cb0693437bd83b34931b741805c48c9eb07934ca5dbc3f718b
+    snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/SECURITY.md
+    status: downloaded
+    text_sha256: 6630b91eda43d9cb0693437bd83b34931b741805c48c9eb07934ca5dbc3f718b
+    url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/SECURITY.md
+  source_archive:
+    member: texts/b9dee8eb141f1755455f543c037f2c98a3354168cc5f9042a2d2b9f87d3877bf.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6630b91eda43d9cb0693437bd83b34931b741805c48c9eb07934ca5dbc3f718b
+  url: ''
+name: root/SECURITY.md
+path: corpus/3a57808b6fe34d46b12f63556eb14006/b9dee8eb141f1755455f543c037f2c98a3354168cc5f9042a2d2b9f87d3877bf.md

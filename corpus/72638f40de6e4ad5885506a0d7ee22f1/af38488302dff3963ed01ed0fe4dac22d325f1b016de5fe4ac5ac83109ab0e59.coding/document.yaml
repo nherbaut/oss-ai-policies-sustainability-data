@@ -1,0 +1,26 @@
+hash: ff0bcbec8e44af8cf3ca7ac95104a4633dfcc5139b54fa070f920926ab2fd60d
+id: b1be638a-f6b0-40c9-b488-6c3b43393bae
+metadata:
+  import_document_id: osssaysno:react-navigation/react-navigation:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:26+00:00'
+    id: osssaysno:github.com/react-navigation/react-navigation:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/react-navigation/react-navigation/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/react-navigation/react-navigation/main/README.md
+    role: repository_root_document
+    sha256: ff0bcbec8e44af8cf3ca7ac95104a4633dfcc5139b54fa070f920926ab2fd60d
+    snapshot: data/osssaysno/policies/react-navigation/react-navigation/root/README.md
+    status: downloaded
+    text_sha256: ff0bcbec8e44af8cf3ca7ac95104a4633dfcc5139b54fa070f920926ab2fd60d
+    url: https://raw.githubusercontent.com/react-navigation/react-navigation/main/README.md
+  source_archive:
+    member: texts/af38488302dff3963ed01ed0fe4dac22d325f1b016de5fe4ac5ac83109ab0e59.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ff0bcbec8e44af8cf3ca7ac95104a4633dfcc5139b54fa070f920926ab2fd60d
+  url: ''
+name: root/README.md
+path: corpus/72638f40de6e4ad5885506a0d7ee22f1/af38488302dff3963ed01ed0fe4dac22d325f1b016de5fe4ac5ac83109ab0e59.md

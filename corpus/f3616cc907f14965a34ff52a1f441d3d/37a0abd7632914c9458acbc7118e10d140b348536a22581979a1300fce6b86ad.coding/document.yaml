@@ -1,0 +1,37 @@
+hash: e077ebfcbdbdd8cd58ec838e93c581842c038cf7fa8b1431438db6eeb24f92e5
+id: ac8fa017-a450-48be-99aa-2eb3a7d610a0
+metadata:
+  import_document_id: osssaysno:tigervnc/tigervnc:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:44+00:00'
+    id: osssaysno:github.com/tigervnc/tigervnc:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/tigervnc/tigervnc/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/TigerVNC/tigervnc/master/AI_POLICY.md
+    role: ai_policy
+    sha256: e077ebfcbdbdd8cd58ec838e93c581842c038cf7fa8b1431438db6eeb24f92e5
+    snapshot: data/osssaysno/policies/tigervnc/tigervnc/ai_policy.md
+    status: downloaded
+    text_sha256: e077ebfcbdbdd8cd58ec838e93c581842c038cf7fa8b1431438db6eeb24f92e5
+    url: https://github.com/TigerVNC/tigervnc/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:36:44+00:00'
+    id: osssaysno:github.com/tigervnc/tigervnc:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/tigervnc/tigervnc/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/TigerVNC/tigervnc/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: e077ebfcbdbdd8cd58ec838e93c581842c038cf7fa8b1431438db6eeb24f92e5
+    snapshot: data/osssaysno/policies/tigervnc/tigervnc/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: e077ebfcbdbdd8cd58ec838e93c581842c038cf7fa8b1431438db6eeb24f92e5
+    url: https://raw.githubusercontent.com/TigerVNC/tigervnc/master/AI_POLICY.md
+  source_archive:
+    member: texts/37a0abd7632914c9458acbc7118e10d140b348536a22581979a1300fce6b86ad.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e077ebfcbdbdd8cd58ec838e93c581842c038cf7fa8b1431438db6eeb24f92e5
+  url: ''
+name: ai_policy.md
+path: corpus/f3616cc907f14965a34ff52a1f441d3d/37a0abd7632914c9458acbc7118e10d140b348536a22581979a1300fce6b86ad.md

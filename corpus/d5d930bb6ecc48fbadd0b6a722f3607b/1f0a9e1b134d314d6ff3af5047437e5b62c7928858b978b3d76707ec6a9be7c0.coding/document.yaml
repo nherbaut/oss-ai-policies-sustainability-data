@@ -1,0 +1,26 @@
+hash: 0c5362a7f01a7a86796afbee67dcceb86d674aaf60db4b40e7cbbc00fdd68040
+id: bd0da221-f501-438f-9f5d-9cdf46c685cd
+metadata:
+  import_document_id: osssaysno:redpanda-data/connect:root/README-FIPS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:03+00:00'
+    id: osssaysno:github.com/redpanda-data/connect:root/README-FIPS.md
+    import_slot: root/README-FIPS.md
+    raw_snapshot: data/osssaysno/policies/redpanda-data/connect/root/raw/README-FIPS.md
+    resolved_url: https://raw.githubusercontent.com/redpanda-data/connect/main/README-FIPS.md
+    role: repository_root_document
+    sha256: 0c5362a7f01a7a86796afbee67dcceb86d674aaf60db4b40e7cbbc00fdd68040
+    snapshot: data/osssaysno/policies/redpanda-data/connect/root/README-FIPS.md
+    status: downloaded
+    text_sha256: 0c5362a7f01a7a86796afbee67dcceb86d674aaf60db4b40e7cbbc00fdd68040
+    url: https://raw.githubusercontent.com/redpanda-data/connect/main/README-FIPS.md
+  source_archive:
+    member: texts/1f0a9e1b134d314d6ff3af5047437e5b62c7928858b978b3d76707ec6a9be7c0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0c5362a7f01a7a86796afbee67dcceb86d674aaf60db4b40e7cbbc00fdd68040
+  url: ''
+name: root/README-FIPS.md
+path: corpus/d5d930bb6ecc48fbadd0b6a722f3607b/1f0a9e1b134d314d6ff3af5047437e5b62c7928858b978b3d76707ec6a9be7c0.md

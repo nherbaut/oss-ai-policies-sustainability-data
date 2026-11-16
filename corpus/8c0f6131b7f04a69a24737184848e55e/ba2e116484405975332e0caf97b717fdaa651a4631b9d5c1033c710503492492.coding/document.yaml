@@ -1,0 +1,37 @@
+hash: b2b97d7c6bef5577dde34518255733a9b7961232e2cf3fddcc8c26ea175663df
+id: b2789593-1863-4eaf-971a-eb18cfc8d009
+metadata:
+  import_document_id: osssaysno:nteract/papermill:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:54+00:00'
+    id: osssaysno:github.com/nteract/papermill:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/nteract/papermill/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/nteract/papermill/main/CONTRIBUTING.md
+    role: contributing
+    sha256: b2b97d7c6bef5577dde34518255733a9b7961232e2cf3fddcc8c26ea175663df
+    snapshot: data/osssaysno/policies/nteract/papermill/contributing.md
+    status: downloaded
+    text_sha256: b2b97d7c6bef5577dde34518255733a9b7961232e2cf3fddcc8c26ea175663df
+    url: https://github.com/nteract/papermill/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:37:29+00:00'
+    id: osssaysno:github.com/nteract/papermill:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/nteract/papermill/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/nteract/papermill/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: b2b97d7c6bef5577dde34518255733a9b7961232e2cf3fddcc8c26ea175663df
+    snapshot: data/osssaysno/policies/nteract/papermill/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: b2b97d7c6bef5577dde34518255733a9b7961232e2cf3fddcc8c26ea175663df
+    url: https://raw.githubusercontent.com/nteract/papermill/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/ba2e116484405975332e0caf97b717fdaa651a4631b9d5c1033c710503492492.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b2b97d7c6bef5577dde34518255733a9b7961232e2cf3fddcc8c26ea175663df
+  url: ''
+name: contributing.md
+path: corpus/8c0f6131b7f04a69a24737184848e55e/ba2e116484405975332e0caf97b717fdaa651a4631b9d5c1033c710503492492.md

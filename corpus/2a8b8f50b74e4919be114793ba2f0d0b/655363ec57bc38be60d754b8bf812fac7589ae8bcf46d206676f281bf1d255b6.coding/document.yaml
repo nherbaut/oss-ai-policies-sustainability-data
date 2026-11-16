@@ -1,0 +1,26 @@
+hash: 4856ed529d7d054ad316a1bf592798a111d3e145a17b40d7381c0036bd22d66f
+id: 6db9d59d-ccb1-441e-83b9-302ec5b3d8ed
+metadata:
+  import_document_id: osssaysno:jj-vcs/jj:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:05+00:00'
+    id: osssaysno:github.com/jj-vcs/jj:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/jj-vcs/jj/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/jj-vcs/jj/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 4856ed529d7d054ad316a1bf592798a111d3e145a17b40d7381c0036bd22d66f
+    snapshot: data/osssaysno/policies/jj-vcs/jj/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 4856ed529d7d054ad316a1bf592798a111d3e145a17b40d7381c0036bd22d66f
+    url: https://raw.githubusercontent.com/jj-vcs/jj/main/CHANGELOG.md
+  source_archive:
+    member: texts/655363ec57bc38be60d754b8bf812fac7589ae8bcf46d206676f281bf1d255b6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4856ed529d7d054ad316a1bf592798a111d3e145a17b40d7381c0036bd22d66f
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/2a8b8f50b74e4919be114793ba2f0d0b/655363ec57bc38be60d754b8bf812fac7589ae8bcf46d206676f281bf1d255b6.md

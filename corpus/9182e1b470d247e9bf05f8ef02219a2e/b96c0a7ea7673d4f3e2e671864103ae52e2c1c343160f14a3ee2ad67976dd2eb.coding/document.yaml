@@ -1,0 +1,26 @@
+hash: a6144479dad9ef50ace32255c853780fc14399ec11650910a7d61ec1e73efdb6
+id: 15c0d219-0ecf-4405-982c-c7b81493a23b
+metadata:
+  import_document_id: osssaysno:projectcalico/calico:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:50+00:00'
+    id: osssaysno:github.com/projectcalico/calico:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/projectcalico/calico/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/projectcalico/calico/master/LICENSE.md
+    role: repository_root_document
+    sha256: a6144479dad9ef50ace32255c853780fc14399ec11650910a7d61ec1e73efdb6
+    snapshot: data/osssaysno/policies/projectcalico/calico/root/LICENSE.md
+    status: downloaded
+    text_sha256: a6144479dad9ef50ace32255c853780fc14399ec11650910a7d61ec1e73efdb6
+    url: https://raw.githubusercontent.com/projectcalico/calico/master/LICENSE.md
+  source_archive:
+    member: texts/b96c0a7ea7673d4f3e2e671864103ae52e2c1c343160f14a3ee2ad67976dd2eb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a6144479dad9ef50ace32255c853780fc14399ec11650910a7d61ec1e73efdb6
+  url: ''
+name: root/LICENSE.md
+path: corpus/9182e1b470d247e9bf05f8ef02219a2e/b96c0a7ea7673d4f3e2e671864103ae52e2c1c343160f14a3ee2ad67976dd2eb.md

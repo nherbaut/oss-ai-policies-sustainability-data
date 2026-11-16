@@ -1,0 +1,26 @@
+hash: 0ee51373180cf7310fd6a0b1c3c047bcb6e85032c578d3560a84f82752be9375
+id: 1d7b8756-9484-4138-8615-e2192619e463
+metadata:
+  import_document_id: osssaysno:code-yeongyu/oh-my-openagent:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:38+00:00'
+    id: osssaysno:github.com/code-yeongyu/oh-my-openagent:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 0ee51373180cf7310fd6a0b1c3c047bcb6e85032c578d3560a84f82752be9375
+    snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 0ee51373180cf7310fd6a0b1c3c047bcb6e85032c578d3560a84f82752be9375
+    url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/CONTRIBUTING.md
+  source_archive:
+    member: texts/9b926a64beece64991925e5f0ad73396adb36b61f43e3814d6b0f6987a0edd8d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0ee51373180cf7310fd6a0b1c3c047bcb6e85032c578d3560a84f82752be9375
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/80ffc7c8f21942c3837748b88e684fef/9b926a64beece64991925e5f0ad73396adb36b61f43e3814d6b0f6987a0edd8d.md

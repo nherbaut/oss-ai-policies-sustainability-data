@@ -1,0 +1,26 @@
+hash: 59416d80c3119f7fe92047148084c789edebc24f2f0da7326640e453310f09b7
+id: 21cab1a2-eb2e-49ec-b86e-e6e50af541b8
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/BUILD.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:11+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/BUILD.md
+    import_slot: root/BUILD.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/BUILD.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/BUILD.md
+    role: repository_root_document
+    sha256: 59416d80c3119f7fe92047148084c789edebc24f2f0da7326640e453310f09b7
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/BUILD.md
+    status: downloaded
+    text_sha256: 59416d80c3119f7fe92047148084c789edebc24f2f0da7326640e453310f09b7
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/BUILD.md
+  source_archive:
+    member: texts/9e4ab230f3ed147b0143ff5795f3dd30ad126f84e6e6f718f7a502e808b7bec2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 59416d80c3119f7fe92047148084c789edebc24f2f0da7326640e453310f09b7
+  url: ''
+name: root/BUILD.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/9e4ab230f3ed147b0143ff5795f3dd30ad126f84e6e6f718f7a502e808b7bec2.md

@@ -1,0 +1,37 @@
+hash: 9e14e052f30829ee33ada73bc39044962e7ae3daf3949b5f072c229d79a52090
+id: a8992fc8-0b73-45cf-b66e-13f2ee168315
+metadata:
+  import_document_id: osssaysno:asciimoo/hister:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:57+00:00'
+    id: osssaysno:github.com/asciimoo/hister:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/asciimoo/hister/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/asciimoo/hister/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 9e14e052f30829ee33ada73bc39044962e7ae3daf3949b5f072c229d79a52090
+    snapshot: data/osssaysno/policies/asciimoo/hister/contributing.md
+    status: downloaded
+    text_sha256: 9e14e052f30829ee33ada73bc39044962e7ae3daf3949b5f072c229d79a52090
+    url: https://github.com/asciimoo/hister/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:37:40+00:00'
+    id: osssaysno:github.com/asciimoo/hister:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/asciimoo/hister/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/asciimoo/hister/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 9e14e052f30829ee33ada73bc39044962e7ae3daf3949b5f072c229d79a52090
+    snapshot: data/osssaysno/policies/asciimoo/hister/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 9e14e052f30829ee33ada73bc39044962e7ae3daf3949b5f072c229d79a52090
+    url: https://raw.githubusercontent.com/asciimoo/hister/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/8087261178f9ed3a911f5f44f2ef13aa3f685a9308e40fbee48b4961a2d38766.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9e14e052f30829ee33ada73bc39044962e7ae3daf3949b5f072c229d79a52090
+  url: ''
+name: contributing.md
+path: corpus/86fb7caca2c1417e9bd4c9e14b84a6e0/8087261178f9ed3a911f5f44f2ef13aa3f685a9308e40fbee48b4961a2d38766.md

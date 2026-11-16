@@ -1,0 +1,37 @@
+hash: 7803269890c78681eea1888836c480634c2dbc5c417aabb3045b48e641f6fbe5
+id: 64c1afe8-99fc-4ae6-87da-5200deee24b5
+metadata:
+  import_document_id: osssaysno:zealdocs/zeal:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:37+00:00'
+    id: osssaysno:github.com/zealdocs/zeal:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/zealdocs/zeal/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/zealdocs/zeal/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 7803269890c78681eea1888836c480634c2dbc5c417aabb3045b48e641f6fbe5
+    snapshot: data/osssaysno/policies/zealdocs/zeal/contributing.md
+    status: downloaded
+    text_sha256: 7803269890c78681eea1888836c480634c2dbc5c417aabb3045b48e641f6fbe5
+    url: https://github.com/zealdocs/zeal/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:38+00:00'
+    id: osssaysno:github.com/zealdocs/zeal:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/zealdocs/zeal/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/zealdocs/zeal/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 7803269890c78681eea1888836c480634c2dbc5c417aabb3045b48e641f6fbe5
+    snapshot: data/osssaysno/policies/zealdocs/zeal/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 7803269890c78681eea1888836c480634c2dbc5c417aabb3045b48e641f6fbe5
+    url: https://raw.githubusercontent.com/zealdocs/zeal/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/eed5489f0538add381767333a813981cecf62533cfc159d43d3e11e3ad906d45.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7803269890c78681eea1888836c480634c2dbc5c417aabb3045b48e641f6fbe5
+  url: ''
+name: contributing.md
+path: corpus/33f3392e3b2f4980ab65fc9fa85944a8/eed5489f0538add381767333a813981cecf62533cfc159d43d3e11e3ad906d45.md

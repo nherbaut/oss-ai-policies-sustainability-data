@@ -1,0 +1,26 @@
+hash: 09cdc1b307867540a1d571214fe1a04a49363bea63b7666c116425935c8995fb
+id: 2a9c0d34-7aac-4eb7-98c2-3916e4e5887a
+metadata:
+  import_document_id: osssaysno:polarsource/polar:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:16+00:00'
+    id: osssaysno:github.com/polarsource/polar:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/polarsource/polar/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/polarsource/polar/main/README.md
+    role: repository_root_document
+    sha256: 09cdc1b307867540a1d571214fe1a04a49363bea63b7666c116425935c8995fb
+    snapshot: data/osssaysno/policies/polarsource/polar/root/README.md
+    status: downloaded
+    text_sha256: 09cdc1b307867540a1d571214fe1a04a49363bea63b7666c116425935c8995fb
+    url: https://raw.githubusercontent.com/polarsource/polar/main/README.md
+  source_archive:
+    member: texts/d0d0eb3b73c1985ec0a92e7fe5772580bd127afe7e4b4fee0386c4e9baf01298.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 09cdc1b307867540a1d571214fe1a04a49363bea63b7666c116425935c8995fb
+  url: ''
+name: root/README.md
+path: corpus/17bf0501e7ff4d758f16100d6c2ae3a5/d0d0eb3b73c1985ec0a92e7fe5772580bd127afe7e4b4fee0386c4e9baf01298.md

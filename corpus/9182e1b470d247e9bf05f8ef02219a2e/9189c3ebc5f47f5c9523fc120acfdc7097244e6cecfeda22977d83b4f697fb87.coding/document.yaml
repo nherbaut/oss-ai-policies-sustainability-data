@@ -1,0 +1,26 @@
+hash: 98470ac09e7c6cc4e88b479a3f692072ab48b22c70f88a19713b32491d5f2dfa
+id: 9ece3da5-8936-4940-b14a-5409cac9ae46
+metadata:
+  import_document_id: osssaysno:projectcalico/calico:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:51+00:00'
+    id: osssaysno:github.com/projectcalico/calico:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/projectcalico/calico/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/projectcalico/calico/master/SECURITY.md
+    role: repository_root_document
+    sha256: 98470ac09e7c6cc4e88b479a3f692072ab48b22c70f88a19713b32491d5f2dfa
+    snapshot: data/osssaysno/policies/projectcalico/calico/root/SECURITY.md
+    status: downloaded
+    text_sha256: 98470ac09e7c6cc4e88b479a3f692072ab48b22c70f88a19713b32491d5f2dfa
+    url: https://raw.githubusercontent.com/projectcalico/calico/master/SECURITY.md
+  source_archive:
+    member: texts/9189c3ebc5f47f5c9523fc120acfdc7097244e6cecfeda22977d83b4f697fb87.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 98470ac09e7c6cc4e88b479a3f692072ab48b22c70f88a19713b32491d5f2dfa
+  url: ''
+name: root/SECURITY.md
+path: corpus/9182e1b470d247e9bf05f8ef02219a2e/9189c3ebc5f47f5c9523fc120acfdc7097244e6cecfeda22977d83b4f697fb87.md

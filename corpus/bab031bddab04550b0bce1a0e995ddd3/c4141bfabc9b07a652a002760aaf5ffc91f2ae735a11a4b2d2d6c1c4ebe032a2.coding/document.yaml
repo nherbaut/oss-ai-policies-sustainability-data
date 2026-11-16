@@ -1,0 +1,26 @@
+hash: f101690c2d8163939fd07416fdd3ad206ddf733a8526efabd5316c998ae59c54
+id: d0757bef-5508-455f-ba91-1ef20401034f
+metadata:
+  import_document_id: osssaysno:babel/babel:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:57+00:00'
+    id: osssaysno:github.com/babel/babel:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/babel/babel/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/babel/babel/main/AGENTS.md
+    role: repository_root_document
+    sha256: f101690c2d8163939fd07416fdd3ad206ddf733a8526efabd5316c998ae59c54
+    snapshot: data/osssaysno/policies/babel/babel/root/AGENTS.md
+    status: downloaded
+    text_sha256: f101690c2d8163939fd07416fdd3ad206ddf733a8526efabd5316c998ae59c54
+    url: https://raw.githubusercontent.com/babel/babel/main/AGENTS.md
+  source_archive:
+    member: texts/c4141bfabc9b07a652a002760aaf5ffc91f2ae735a11a4b2d2d6c1c4ebe032a2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f101690c2d8163939fd07416fdd3ad206ddf733a8526efabd5316c998ae59c54
+  url: ''
+name: root/AGENTS.md
+path: corpus/bab031bddab04550b0bce1a0e995ddd3/c4141bfabc9b07a652a002760aaf5ffc91f2ae735a11a4b2d2d6c1c4ebe032a2.md

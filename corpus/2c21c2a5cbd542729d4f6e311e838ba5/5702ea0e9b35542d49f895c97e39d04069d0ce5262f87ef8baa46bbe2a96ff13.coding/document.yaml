@@ -1,0 +1,26 @@
+hash: 0195006e460ecd1365c9d2ccad8155bc6b9de6446c89faff0a52780c93133375
+id: 380f032c-b3c1-4351-a73f-d941d117899f
+metadata:
+  import_document_id: osssaysno:thanos-io/thanos:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:25+00:00'
+    id: osssaysno:github.com/thanos-io/thanos:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/thanos-io/thanos/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/thanos-io/thanos/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 0195006e460ecd1365c9d2ccad8155bc6b9de6446c89faff0a52780c93133375
+    snapshot: data/osssaysno/policies/thanos-io/thanos/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 0195006e460ecd1365c9d2ccad8155bc6b9de6446c89faff0a52780c93133375
+    url: https://raw.githubusercontent.com/thanos-io/thanos/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/5702ea0e9b35542d49f895c97e39d04069d0ce5262f87ef8baa46bbe2a96ff13.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0195006e460ecd1365c9d2ccad8155bc6b9de6446c89faff0a52780c93133375
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/2c21c2a5cbd542729d4f6e311e838ba5/5702ea0e9b35542d49f895c97e39d04069d0ce5262f87ef8baa46bbe2a96ff13.md

@@ -1,0 +1,37 @@
+hash: 7545477b1026374fa92e0323bf80c1633ffd57db7c6e1ff3b39453471efd5a3f
+id: 472c9edb-3aba-4d59-b573-f14e2202b11d
+metadata:
+  import_document_id: osssaysno:triliumnext/trilium:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:01+00:00'
+    id: osssaysno:github.com/triliumnext/trilium:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/triliumnext/trilium/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/TriliumNext/Trilium/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 7545477b1026374fa92e0323bf80c1633ffd57db7c6e1ff3b39453471efd5a3f
+    snapshot: data/osssaysno/policies/triliumnext/trilium/contributing.md
+    status: downloaded
+    text_sha256: 7545477b1026374fa92e0323bf80c1633ffd57db7c6e1ff3b39453471efd5a3f
+    url: https://github.com/TriliumNext/Trilium/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:04:02+00:00'
+    id: osssaysno:github.com/triliumnext/trilium:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/triliumnext/trilium/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/TriliumNext/Trilium/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 7545477b1026374fa92e0323bf80c1633ffd57db7c6e1ff3b39453471efd5a3f
+    snapshot: data/osssaysno/policies/triliumnext/trilium/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 7545477b1026374fa92e0323bf80c1633ffd57db7c6e1ff3b39453471efd5a3f
+    url: https://raw.githubusercontent.com/TriliumNext/Trilium/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/39623104bf6935da3bc05954b97690f5dd7edb2f0eadd0abab4f088ae8d675d1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7545477b1026374fa92e0323bf80c1633ffd57db7c6e1ff3b39453471efd5a3f
+  url: ''
+name: contributing.md
+path: corpus/9ef1ce9d9c64436f9984c3023136946d/39623104bf6935da3bc05954b97690f5dd7edb2f0eadd0abab4f088ae8d675d1.md

@@ -1,0 +1,26 @@
+hash: 8525cb16aa39f940208d2dbdb18006c4401e44d8a30f129124bc818fbaa7a6be
+id: 4fee06d8-5fb5-4b54-b542-2f6f18096a0d
+metadata:
+  import_document_id: osssaysno:valhalla/valhalla:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:33+00:00'
+    id: osssaysno:github.com/valhalla/valhalla:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/valhalla/valhalla/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/valhalla/valhalla/master/README.md
+    role: repository_root_document
+    sha256: 8525cb16aa39f940208d2dbdb18006c4401e44d8a30f129124bc818fbaa7a6be
+    snapshot: data/osssaysno/policies/valhalla/valhalla/root/README.md
+    status: downloaded
+    text_sha256: 8525cb16aa39f940208d2dbdb18006c4401e44d8a30f129124bc818fbaa7a6be
+    url: https://raw.githubusercontent.com/valhalla/valhalla/master/README.md
+  source_archive:
+    member: texts/7ecf909539939a5ace05adb2b834dd06b5ae96ada80be25ec6923f481dda8a03.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8525cb16aa39f940208d2dbdb18006c4401e44d8a30f129124bc818fbaa7a6be
+  url: ''
+name: root/README.md
+path: corpus/630810638ca649c29ad30e0baf904285/7ecf909539939a5ace05adb2b834dd06b5ae96ada80be25ec6923f481dda8a03.md

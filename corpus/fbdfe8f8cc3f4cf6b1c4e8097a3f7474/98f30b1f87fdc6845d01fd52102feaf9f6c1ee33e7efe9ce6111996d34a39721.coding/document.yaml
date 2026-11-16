@@ -1,0 +1,26 @@
+hash: cf09fa12cc60064d2ff6b936589a82f95317abe2fc9501216bdb520423e95a88
+id: f9bf7681-e476-410d-bec1-f17843fea146
+metadata:
+  import_document_id: osssaysno:quickwit-oss/quickwit:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:09+00:00'
+    id: osssaysno:github.com/quickwit-oss/quickwit:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: cf09fa12cc60064d2ff6b936589a82f95317abe2fc9501216bdb520423e95a88
+    snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: cf09fa12cc60064d2ff6b936589a82f95317abe2fc9501216bdb520423e95a88
+    url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/98f30b1f87fdc6845d01fd52102feaf9f6c1ee33e7efe9ce6111996d34a39721.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cf09fa12cc60064d2ff6b936589a82f95317abe2fc9501216bdb520423e95a88
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/fbdfe8f8cc3f4cf6b1c4e8097a3f7474/98f30b1f87fdc6845d01fd52102feaf9f6c1ee33e7efe9ce6111996d34a39721.md

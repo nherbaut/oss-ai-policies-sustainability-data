@@ -1,0 +1,26 @@
+hash: ec364adaceb326634fc6d5e3f3eb3fa230fa063e3f042d300ac755fbe72b73c3
+id: 44251ff7-d970-4796-a038-9ff46a701407
+metadata:
+  import_document_id: osssaysno:fluxcd/flux2:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:10+00:00'
+    id: osssaysno:github.com/fluxcd/flux2:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/fluxcd/flux2/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/fluxcd/flux2/main/AGENTS.md
+    role: repository_root_document
+    sha256: ec364adaceb326634fc6d5e3f3eb3fa230fa063e3f042d300ac755fbe72b73c3
+    snapshot: data/osssaysno/policies/fluxcd/flux2/root/AGENTS.md
+    status: downloaded
+    text_sha256: ec364adaceb326634fc6d5e3f3eb3fa230fa063e3f042d300ac755fbe72b73c3
+    url: https://raw.githubusercontent.com/fluxcd/flux2/main/AGENTS.md
+  source_archive:
+    member: texts/9e207236e4de333a825838f40882938f181b6d6ac4fab7af17896ba5e94eebd2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ec364adaceb326634fc6d5e3f3eb3fa230fa063e3f042d300ac755fbe72b73c3
+  url: ''
+name: root/AGENTS.md
+path: corpus/2dc19e086c064c8f82e947f0921cd7f8/9e207236e4de333a825838f40882938f181b6d6ac4fab7af17896ba5e94eebd2.md

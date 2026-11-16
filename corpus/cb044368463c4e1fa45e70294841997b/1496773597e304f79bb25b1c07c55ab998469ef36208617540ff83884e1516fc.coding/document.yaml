@@ -1,0 +1,37 @@
+hash: 2f62560943c5cf5792ba5ce1f8b8b2f0f5984c4f95893019dfbe4d99c4052313
+id: c61cb138-a990-466e-83f9-bfc0768108f1
+metadata:
+  import_document_id: osssaysno:ktorio/ktor:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:21+00:00'
+    id: osssaysno:github.com/ktorio/ktor:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/ktorio/ktor/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/ktorio/ktor/main/AGENTS.md
+    role: repository_root_document
+    sha256: 2f62560943c5cf5792ba5ce1f8b8b2f0f5984c4f95893019dfbe4d99c4052313
+    snapshot: data/osssaysno/policies/ktorio/ktor/root/AGENTS.md
+    status: downloaded
+    text_sha256: 2f62560943c5cf5792ba5ce1f8b8b2f0f5984c4f95893019dfbe4d99c4052313
+    url: https://raw.githubusercontent.com/ktorio/ktor/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:29:22+00:00'
+    id: osssaysno:github.com/ktorio/ktor:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/ktorio/ktor/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/ktorio/ktor/main/AGENTS.md
+    role: repository_root_document
+    sha256: 2f62560943c5cf5792ba5ce1f8b8b2f0f5984c4f95893019dfbe4d99c4052313
+    snapshot: data/osssaysno/policies/ktorio/ktor/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 2f62560943c5cf5792ba5ce1f8b8b2f0f5984c4f95893019dfbe4d99c4052313
+    url: https://raw.githubusercontent.com/ktorio/ktor/main/CLAUDE.md
+  source_archive:
+    member: texts/1496773597e304f79bb25b1c07c55ab998469ef36208617540ff83884e1516fc.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2f62560943c5cf5792ba5ce1f8b8b2f0f5984c4f95893019dfbe4d99c4052313
+  url: ''
+name: root/AGENTS.md
+path: corpus/cb044368463c4e1fa45e70294841997b/1496773597e304f79bb25b1c07c55ab998469ef36208617540ff83884e1516fc.md

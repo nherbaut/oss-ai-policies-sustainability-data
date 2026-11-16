@@ -1,0 +1,26 @@
+hash: 1e1183c8b8e4e952146654a88a0ee987909dd42b60546993c5169d546ca137a1
+id: 418d7d9f-80f6-4900-b90a-095a86875078
+metadata:
+  import_document_id: osssaysno:octoprint/octoprint:root/THIRDPARTYLICENSES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:58+00:00'
+    id: osssaysno:github.com/octoprint/octoprint:root/THIRDPARTYLICENSES.md
+    import_slot: root/THIRDPARTYLICENSES.md
+    raw_snapshot: data/osssaysno/policies/octoprint/octoprint/root/raw/THIRDPARTYLICENSES.md
+    resolved_url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/THIRDPARTYLICENSES.md
+    role: repository_root_document
+    sha256: 1e1183c8b8e4e952146654a88a0ee987909dd42b60546993c5169d546ca137a1
+    snapshot: data/osssaysno/policies/octoprint/octoprint/root/THIRDPARTYLICENSES.md
+    status: downloaded
+    text_sha256: 1e1183c8b8e4e952146654a88a0ee987909dd42b60546993c5169d546ca137a1
+    url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/THIRDPARTYLICENSES.md
+  source_archive:
+    member: texts/6eff0b089cbcce3956871976d8b0d612737408f9c9320a147c3ca6810365af2d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1e1183c8b8e4e952146654a88a0ee987909dd42b60546993c5169d546ca137a1
+  url: ''
+name: root/THIRDPARTYLICENSES.md
+path: corpus/c341d0a7f38e4942ad8c9b3df11f8b88/6eff0b089cbcce3956871976d8b0d612737408f9c9320a147c3ca6810365af2d.md

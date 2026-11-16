@@ -1,0 +1,26 @@
+hash: d6eb9341ed48191c6625a7e057e9c7e39d36e6f655994df8ca2e1ff1da2243c9
+id: 99cdb41a-ef53-414c-b73d-511536f1b661
+metadata:
+  import_document_id: osssaysno:modelcontextprotocol/modelcontextprotocol:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:37+00:00'
+    id: osssaysno:github.com/modelcontextprotocol/modelcontextprotocol:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: d6eb9341ed48191c6625a7e057e9c7e39d36e6f655994df8ca2e1ff1da2243c9
+    snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: d6eb9341ed48191c6625a7e057e9c7e39d36e6f655994df8ca2e1ff1da2243c9
+    url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/c2d5e11e460bcb6a1c2d4b9e7fffc30ede1d7ac76e58e0b3235a7f92935465dd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d6eb9341ed48191c6625a7e057e9c7e39d36e6f655994df8ca2e1ff1da2243c9
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/b5d4598700cc49f09b9d1009e0ab6ac5/c2d5e11e460bcb6a1c2d4b9e7fffc30ede1d7ac76e58e0b3235a7f92935465dd.md

@@ -1,0 +1,26 @@
+hash: 84551e5f6ac9681b97987442c33c51358e8050665ca4374cbc0666c14014ebf4
+id: 108da5c5-071c-4742-a08c-70ba71eb0184
+metadata:
+  import_document_id: osssaysno:bookorbit/bookorbit:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:00+00:00'
+    id: osssaysno:github.com/bookorbit/bookorbit:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/bookorbit/bookorbit/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/bookorbit/bookorbit/main/README.md
+    role: repository_root_document
+    sha256: 84551e5f6ac9681b97987442c33c51358e8050665ca4374cbc0666c14014ebf4
+    snapshot: data/osssaysno/policies/bookorbit/bookorbit/root/README.md
+    status: downloaded
+    text_sha256: 84551e5f6ac9681b97987442c33c51358e8050665ca4374cbc0666c14014ebf4
+    url: https://raw.githubusercontent.com/bookorbit/bookorbit/main/README.md
+  source_archive:
+    member: texts/07320b17efdb2b03e85fcdc71c22b5b4b27091d32eda6c5c63a989fb3f6b7df9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 84551e5f6ac9681b97987442c33c51358e8050665ca4374cbc0666c14014ebf4
+  url: ''
+name: root/README.md
+path: corpus/eedaa1725cf643beaadf14c7aaf63062/07320b17efdb2b03e85fcdc71c22b5b4b27091d32eda6c5c63a989fb3f6b7df9.md

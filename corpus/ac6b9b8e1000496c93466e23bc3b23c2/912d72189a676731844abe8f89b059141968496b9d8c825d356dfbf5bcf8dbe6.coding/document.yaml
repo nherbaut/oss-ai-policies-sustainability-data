@@ -1,0 +1,26 @@
+hash: aa07b8a5a265d3580f6c4f7ebf829e8ac25748fa851cc447c08a3144b866dc88
+id: b3cba9bc-a1e9-411f-afcf-311180c61725
+metadata:
+  import_document_id: osssaysno:portapack-mayhem/mayhem-firmware:root/AGENT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:07+00:00'
+    id: osssaysno:github.com/portapack-mayhem/mayhem-firmware:root/AGENT.md
+    import_slot: root/AGENT.md
+    raw_snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/root/raw/AGENT.md
+    resolved_url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/AGENT.md
+    role: repository_root_document
+    sha256: aa07b8a5a265d3580f6c4f7ebf829e8ac25748fa851cc447c08a3144b866dc88
+    snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/root/AGENT.md
+    status: downloaded
+    text_sha256: aa07b8a5a265d3580f6c4f7ebf829e8ac25748fa851cc447c08a3144b866dc88
+    url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/AGENT.md
+  source_archive:
+    member: texts/912d72189a676731844abe8f89b059141968496b9d8c825d356dfbf5bcf8dbe6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: aa07b8a5a265d3580f6c4f7ebf829e8ac25748fa851cc447c08a3144b866dc88
+  url: ''
+name: root/AGENT.md
+path: corpus/ac6b9b8e1000496c93466e23bc3b23c2/912d72189a676731844abe8f89b059141968496b9d8c825d356dfbf5bcf8dbe6.md

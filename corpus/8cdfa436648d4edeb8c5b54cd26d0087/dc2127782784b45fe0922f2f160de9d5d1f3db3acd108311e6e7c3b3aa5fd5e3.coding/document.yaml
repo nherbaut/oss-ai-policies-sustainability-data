@@ -1,0 +1,26 @@
+hash: 4372cc35c2d785a0ecbb8f16402eb242180ccddcf0788da65ef4ddb6d040167c
+id: 6c16a945-7a9c-4e91-b9dc-14fff8863ff3
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:root/VENDORED_CODE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:53+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/VENDORED_CODE.md
+    import_slot: root/VENDORED_CODE.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/VENDORED_CODE.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/VENDORED_CODE.md
+    role: repository_root_document
+    sha256: 4372cc35c2d785a0ecbb8f16402eb242180ccddcf0788da65ef4ddb6d040167c
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/VENDORED_CODE.md
+    status: downloaded
+    text_sha256: 4372cc35c2d785a0ecbb8f16402eb242180ccddcf0788da65ef4ddb6d040167c
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/VENDORED_CODE.md
+  source_archive:
+    member: texts/dc2127782784b45fe0922f2f160de9d5d1f3db3acd108311e6e7c3b3aa5fd5e3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4372cc35c2d785a0ecbb8f16402eb242180ccddcf0788da65ef4ddb6d040167c
+  url: ''
+name: root/VENDORED_CODE.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/dc2127782784b45fe0922f2f160de9d5d1f3db3acd108311e6e7c3b3aa5fd5e3.md

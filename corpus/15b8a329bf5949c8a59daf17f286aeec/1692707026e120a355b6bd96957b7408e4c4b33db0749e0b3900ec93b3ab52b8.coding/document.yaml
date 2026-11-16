@@ -1,0 +1,26 @@
+hash: 5f4670d27fdcf4adca4f8057d79dbc8036f32050e3087d9012fec9df9e32ec04
+id: 78975d98-abb6-4bb4-ae85-a8dfe391198c
+metadata:
+  import_document_id: osssaysno:biolab/orange3:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:03+00:00'
+    id: osssaysno:github.com/biolab/orange3:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/biolab/orange3/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/biolab/orange3/master/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 5f4670d27fdcf4adca4f8057d79dbc8036f32050e3087d9012fec9df9e32ec04
+    snapshot: data/osssaysno/policies/biolab/orange3/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 5f4670d27fdcf4adca4f8057d79dbc8036f32050e3087d9012fec9df9e32ec04
+    url: https://raw.githubusercontent.com/biolab/orange3/master/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/1692707026e120a355b6bd96957b7408e4c4b33db0749e0b3900ec93b3ab52b8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5f4670d27fdcf4adca4f8057d79dbc8036f32050e3087d9012fec9df9e32ec04
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/15b8a329bf5949c8a59daf17f286aeec/1692707026e120a355b6bd96957b7408e4c4b33db0749e0b3900ec93b3ab52b8.md

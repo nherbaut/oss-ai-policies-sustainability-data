@@ -1,0 +1,26 @@
+hash: c98e5ea0683dc9b7d9b020afe9bc0076b2c07bb80ba57054001e28f98a9e5dc9
+id: 028f571e-52a2-4a4b-8346-d7e3d14ccecd
+metadata:
+  import_document_id: osssaysno:quickwit-oss/quickwit:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:08+00:00'
+    id: osssaysno:github.com/quickwit-oss/quickwit:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: c98e5ea0683dc9b7d9b020afe9bc0076b2c07bb80ba57054001e28f98a9e5dc9
+    snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: c98e5ea0683dc9b7d9b020afe9bc0076b2c07bb80ba57054001e28f98a9e5dc9
+    url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/ba5a56416230549dc079c03c130862f3b239029b34fb07491ebd237370c5069b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c98e5ea0683dc9b7d9b020afe9bc0076b2c07bb80ba57054001e28f98a9e5dc9
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/fbdfe8f8cc3f4cf6b1c4e8097a3f7474/ba5a56416230549dc079c03c130862f3b239029b34fb07491ebd237370c5069b.md

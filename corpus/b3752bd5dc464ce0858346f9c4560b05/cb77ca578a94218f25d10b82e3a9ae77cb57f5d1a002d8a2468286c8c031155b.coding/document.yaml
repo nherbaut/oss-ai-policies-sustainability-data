@@ -1,0 +1,26 @@
+hash: 9a547b7ecd9240c77405b70ab66d941368f4179e223d95df63cb4523e826b41f
+id: 709bc755-fb6e-476d-aafd-9e204f08b527
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:root/AI_POLICY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:20+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 9a547b7ecd9240c77405b70ab66d941368f4179e223d95df63cb4523e826b41f
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 9a547b7ecd9240c77405b70ab66d941368f4179e223d95df63cb4523e826b41f
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/AI_POLICY.md
+  source_archive:
+    member: texts/cb77ca578a94218f25d10b82e3a9ae77cb57f5d1a002d8a2468286c8c031155b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9a547b7ecd9240c77405b70ab66d941368f4179e223d95df63cb4523e826b41f
+  url: ''
+name: root/AI_POLICY.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/cb77ca578a94218f25d10b82e3a9ae77cb57f5d1a002d8a2468286c8c031155b.md

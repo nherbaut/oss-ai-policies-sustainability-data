@@ -1,0 +1,37 @@
+hash: db5fcaf317a3db06cc805701c0c1df7d19ce6c6803681a2ac85b7d16e2af7a28
+id: e030462e-9c55-4a80-8bf4-61cade439ad4
+metadata:
+  import_document_id: osssaysno:travisvn/awesome-claude-skills:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:08+00:00'
+    id: osssaysno:github.com/travisvn/awesome-claude-skills:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/travisvn/awesome-claude-skills/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/travisvn/awesome-claude-skills/main/CONTRIBUTING.md
+    role: contributing
+    sha256: db5fcaf317a3db06cc805701c0c1df7d19ce6c6803681a2ac85b7d16e2af7a28
+    snapshot: data/osssaysno/policies/travisvn/awesome-claude-skills/contributing.md
+    status: downloaded
+    text_sha256: db5fcaf317a3db06cc805701c0c1df7d19ce6c6803681a2ac85b7d16e2af7a28
+    url: https://github.com/travisvn/awesome-claude-skills/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:09+00:00'
+    id: osssaysno:github.com/travisvn/awesome-claude-skills:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/travisvn/awesome-claude-skills/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/travisvn/awesome-claude-skills/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: db5fcaf317a3db06cc805701c0c1df7d19ce6c6803681a2ac85b7d16e2af7a28
+    snapshot: data/osssaysno/policies/travisvn/awesome-claude-skills/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: db5fcaf317a3db06cc805701c0c1df7d19ce6c6803681a2ac85b7d16e2af7a28
+    url: https://raw.githubusercontent.com/travisvn/awesome-claude-skills/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/38b79970079c694d13681e211f18520beddc05d1d33eca119b936f885e69f3b1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: db5fcaf317a3db06cc805701c0c1df7d19ce6c6803681a2ac85b7d16e2af7a28
+  url: ''
+name: contributing.md
+path: corpus/e00dc59531e1487eb07a3722068ca4ff/38b79970079c694d13681e211f18520beddc05d1d33eca119b936f885e69f3b1.md

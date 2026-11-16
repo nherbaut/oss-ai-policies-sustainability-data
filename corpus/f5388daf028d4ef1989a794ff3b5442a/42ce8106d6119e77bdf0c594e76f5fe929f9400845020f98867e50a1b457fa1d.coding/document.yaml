@@ -1,0 +1,26 @@
+hash: 847fc0e8d8e5473d0c2f22ff427c86488c574d92ad1b1786cbe62d0eba7528ed
+id: a2532667-d231-4efb-8f53-62f8e1190c71
+metadata:
+  import_document_id: osssaysno:clap-rs/clap:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:06+00:00'
+    id: osssaysno:github.com/clap-rs/clap:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/clap-rs/clap/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/clap-rs/clap/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 847fc0e8d8e5473d0c2f22ff427c86488c574d92ad1b1786cbe62d0eba7528ed
+    snapshot: data/osssaysno/policies/clap-rs/clap/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 847fc0e8d8e5473d0c2f22ff427c86488c574d92ad1b1786cbe62d0eba7528ed
+    url: https://raw.githubusercontent.com/clap-rs/clap/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/42ce8106d6119e77bdf0c594e76f5fe929f9400845020f98867e50a1b457fa1d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 847fc0e8d8e5473d0c2f22ff427c86488c574d92ad1b1786cbe62d0eba7528ed
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/f5388daf028d4ef1989a794ff3b5442a/42ce8106d6119e77bdf0c594e76f5fe929f9400845020f98867e50a1b457fa1d.md

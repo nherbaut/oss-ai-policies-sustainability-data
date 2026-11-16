@@ -1,0 +1,26 @@
+hash: c83b6212559972a78d844556790c387453e371d080428fd4c86c82a84412b306
+id: 4e0e6111-dfcc-43d1-b8e0-b982bb7036ed
+metadata:
+  import_document_id: osssaysno:usekaneo/kaneo:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:32+00:00'
+    id: osssaysno:github.com/usekaneo/kaneo:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/usekaneo/kaneo/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/usekaneo/kaneo/main/CLAUDE.md
+    role: repository_root_document
+    sha256: c83b6212559972a78d844556790c387453e371d080428fd4c86c82a84412b306
+    snapshot: data/osssaysno/policies/usekaneo/kaneo/root/CLAUDE.md
+    status: downloaded
+    text_sha256: c83b6212559972a78d844556790c387453e371d080428fd4c86c82a84412b306
+    url: https://raw.githubusercontent.com/usekaneo/kaneo/main/CLAUDE.md
+  source_archive:
+    member: texts/7e8c179dd69f6d94c9ac0d9a371cd870c2702e5c95d690ca5de4a1e285da3033.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c83b6212559972a78d844556790c387453e371d080428fd4c86c82a84412b306
+  url: ''
+name: root/CLAUDE.md
+path: corpus/2145b6e7a3134c3798a22fe815d38c6c/7e8c179dd69f6d94c9ac0d9a371cd870c2702e5c95d690ca5de4a1e285da3033.md

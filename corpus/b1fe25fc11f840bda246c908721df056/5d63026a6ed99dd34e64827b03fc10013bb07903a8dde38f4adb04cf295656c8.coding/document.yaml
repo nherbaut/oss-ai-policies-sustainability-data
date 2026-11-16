@@ -1,0 +1,26 @@
+hash: 48a876e0f2271dc09835817021209af424b77bdfb899f9cddc241922d1bdab77
+id: 0ec267bf-02a7-4336-bdac-9cd4ca674367
+metadata:
+  import_document_id: osssaysno:pycaret/pycaret:root/OPERATIONS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:30+00:00'
+    id: osssaysno:github.com/pycaret/pycaret:root/OPERATIONS.md
+    import_slot: root/OPERATIONS.md
+    raw_snapshot: data/osssaysno/policies/pycaret/pycaret/root/raw/OPERATIONS.md
+    resolved_url: https://raw.githubusercontent.com/pycaret/pycaret/main/OPERATIONS.md
+    role: repository_root_document
+    sha256: 48a876e0f2271dc09835817021209af424b77bdfb899f9cddc241922d1bdab77
+    snapshot: data/osssaysno/policies/pycaret/pycaret/root/OPERATIONS.md
+    status: downloaded
+    text_sha256: 48a876e0f2271dc09835817021209af424b77bdfb899f9cddc241922d1bdab77
+    url: https://raw.githubusercontent.com/pycaret/pycaret/main/OPERATIONS.md
+  source_archive:
+    member: texts/5d63026a6ed99dd34e64827b03fc10013bb07903a8dde38f4adb04cf295656c8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 48a876e0f2271dc09835817021209af424b77bdfb899f9cddc241922d1bdab77
+  url: ''
+name: root/OPERATIONS.md
+path: corpus/b1fe25fc11f840bda246c908721df056/5d63026a6ed99dd34e64827b03fc10013bb07903a8dde38f4adb04cf295656c8.md

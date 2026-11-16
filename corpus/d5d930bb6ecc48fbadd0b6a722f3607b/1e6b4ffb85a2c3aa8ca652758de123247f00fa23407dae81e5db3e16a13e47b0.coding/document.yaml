@@ -1,0 +1,26 @@
+hash: 59f286b3115b0d37df780216214ee89a44dfcf4fcedc742c919e5a59c5484633
+id: 288121c5-aa4c-4a4a-b69e-93b94f1422fd
+metadata:
+  import_document_id: osssaysno:redpanda-data/connect:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:03+00:00'
+    id: osssaysno:github.com/redpanda-data/connect:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/redpanda-data/connect/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/redpanda-data/connect/main/CLAUDE.md
+    role: repository_root_document
+    sha256: 59f286b3115b0d37df780216214ee89a44dfcf4fcedc742c919e5a59c5484633
+    snapshot: data/osssaysno/policies/redpanda-data/connect/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 59f286b3115b0d37df780216214ee89a44dfcf4fcedc742c919e5a59c5484633
+    url: https://raw.githubusercontent.com/redpanda-data/connect/main/CLAUDE.md
+  source_archive:
+    member: texts/1e6b4ffb85a2c3aa8ca652758de123247f00fa23407dae81e5db3e16a13e47b0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 59f286b3115b0d37df780216214ee89a44dfcf4fcedc742c919e5a59c5484633
+  url: ''
+name: root/CLAUDE.md
+path: corpus/d5d930bb6ecc48fbadd0b6a722f3607b/1e6b4ffb85a2c3aa8ca652758de123247f00fa23407dae81e5db3e16a13e47b0.md

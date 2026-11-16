@@ -1,0 +1,26 @@
+hash: cca5d380f27ce0f800d3d20ba46acb5167859dfda595078427ceeee09d08cf78
+id: 62e7aaba-ce3d-4049-a854-4440f99de457
+metadata:
+  import_document_id: osssaysno:kunagent/kun:root/DESIGN.zh-CN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:36+00:00'
+    id: osssaysno:github.com/kunagent/kun:root/DESIGN.zh-CN.md
+    import_slot: root/DESIGN.zh-CN.md
+    raw_snapshot: data/osssaysno/policies/kunagent/kun/root/raw/DESIGN.zh-CN.md
+    resolved_url: https://raw.githubusercontent.com/KunAgent/Kun/master/DESIGN.zh-CN.md
+    role: repository_root_document
+    sha256: cca5d380f27ce0f800d3d20ba46acb5167859dfda595078427ceeee09d08cf78
+    snapshot: data/osssaysno/policies/kunagent/kun/root/DESIGN.zh-CN.md
+    status: downloaded
+    text_sha256: cca5d380f27ce0f800d3d20ba46acb5167859dfda595078427ceeee09d08cf78
+    url: https://raw.githubusercontent.com/KunAgent/Kun/master/DESIGN.zh-CN.md
+  source_archive:
+    member: texts/0e753eb11cd6ff1df1da53709c4005db3d6f31a245a59fae156fbb0147964392.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cca5d380f27ce0f800d3d20ba46acb5167859dfda595078427ceeee09d08cf78
+  url: ''
+name: root/DESIGN.zh-CN.md
+path: corpus/64a7dfee45914169954b7d45c207c06c/0e753eb11cd6ff1df1da53709c4005db3d6f31a245a59fae156fbb0147964392.md

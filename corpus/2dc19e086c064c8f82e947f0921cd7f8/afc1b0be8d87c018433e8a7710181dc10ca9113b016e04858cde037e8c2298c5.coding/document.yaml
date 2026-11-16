@@ -1,0 +1,26 @@
+hash: 613675c8b4104d1db662fdf4645b50ae37fd30affa95a7b8f4d337f4abbb53e8
+id: 45277fbd-7cfa-496c-a135-1c9c69ca6f99
+metadata:
+  import_document_id: osssaysno:fluxcd/flux2:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:11+00:00'
+    id: osssaysno:github.com/fluxcd/flux2:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/fluxcd/flux2/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/fluxcd/flux2/main/README.md
+    role: repository_root_document
+    sha256: 613675c8b4104d1db662fdf4645b50ae37fd30affa95a7b8f4d337f4abbb53e8
+    snapshot: data/osssaysno/policies/fluxcd/flux2/root/README.md
+    status: downloaded
+    text_sha256: 613675c8b4104d1db662fdf4645b50ae37fd30affa95a7b8f4d337f4abbb53e8
+    url: https://raw.githubusercontent.com/fluxcd/flux2/main/README.md
+  source_archive:
+    member: texts/afc1b0be8d87c018433e8a7710181dc10ca9113b016e04858cde037e8c2298c5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 613675c8b4104d1db662fdf4645b50ae37fd30affa95a7b8f4d337f4abbb53e8
+  url: ''
+name: root/README.md
+path: corpus/2dc19e086c064c8f82e947f0921cd7f8/afc1b0be8d87c018433e8a7710181dc10ca9113b016e04858cde037e8c2298c5.md

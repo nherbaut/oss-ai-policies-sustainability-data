@@ -1,0 +1,26 @@
+hash: 88645a94436563551f1da35d82fb8e56cf31271359db95ffdb9301c60bf82a62
+id: bb539b4c-6c8d-4c73-b46f-c81f93462715
+metadata:
+  import_document_id: osssaysno:moment/moment:root/RELEASING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:48+00:00'
+    id: osssaysno:github.com/moment/moment:root/RELEASING.md
+    import_slot: root/RELEASING.md
+    raw_snapshot: data/osssaysno/policies/moment/moment/root/raw/RELEASING.md
+    resolved_url: https://raw.githubusercontent.com/moment/moment/develop/RELEASING.md
+    role: repository_root_document
+    sha256: 88645a94436563551f1da35d82fb8e56cf31271359db95ffdb9301c60bf82a62
+    snapshot: data/osssaysno/policies/moment/moment/root/RELEASING.md
+    status: downloaded
+    text_sha256: 88645a94436563551f1da35d82fb8e56cf31271359db95ffdb9301c60bf82a62
+    url: https://raw.githubusercontent.com/moment/moment/develop/RELEASING.md
+  source_archive:
+    member: texts/1bb577bb0fa5afa7577db34fa85966f6b51ac0c3155ff74b7127bdc932412933.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 88645a94436563551f1da35d82fb8e56cf31271359db95ffdb9301c60bf82a62
+  url: ''
+name: root/RELEASING.md
+path: corpus/444b0a48e45f48b6b6f904ea58c0da54/1bb577bb0fa5afa7577db34fa85966f6b51ac0c3155ff74b7127bdc932412933.md

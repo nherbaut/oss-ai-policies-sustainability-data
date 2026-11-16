@@ -1,0 +1,26 @@
+hash: 7ab3ae9515587e9ef0196daf1d549baadff5f67eaedc4a0c16cfcecc9e88bb5a
+id: 62985f33-6611-4d92-982a-1a02f1cbe03e
+metadata:
+  import_document_id: osssaysno:fyroxengine/fyrox:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:42+00:00'
+    id: osssaysno:github.com/fyroxengine/fyrox:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/fyroxengine/fyrox/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/FyroxEngine/Fyrox/master/README.md
+    role: repository_root_document
+    sha256: 7ab3ae9515587e9ef0196daf1d549baadff5f67eaedc4a0c16cfcecc9e88bb5a
+    snapshot: data/osssaysno/policies/fyroxengine/fyrox/root/README.md
+    status: downloaded
+    text_sha256: 7ab3ae9515587e9ef0196daf1d549baadff5f67eaedc4a0c16cfcecc9e88bb5a
+    url: https://raw.githubusercontent.com/FyroxEngine/Fyrox/master/README.md
+  source_archive:
+    member: texts/8ce5e3b7dbda8201345b189eeeda874ff65a0a5f93ffa45381eb65d00f8c2020.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7ab3ae9515587e9ef0196daf1d549baadff5f67eaedc4a0c16cfcecc9e88bb5a
+  url: ''
+name: root/README.md
+path: corpus/ad02b454f354497f9728a89d53f20cbe/8ce5e3b7dbda8201345b189eeeda874ff65a0a5f93ffa45381eb65d00f8c2020.md

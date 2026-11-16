@@ -1,0 +1,26 @@
+hash: 6bc248b890c2c89fa63c906a767f4b62390f50385ac5efc8697228d6b9f47750
+id: a11b1fe7-b501-47ad-9d15-038c371d51a5
+metadata:
+  import_document_id: osssaysno:NetBSD:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:55+00:00'
+    id: osssaysno:https://www.netbsd.org:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/NetBSD/raw/ai_policy.html
+    resolved_url: https://www.netbsd.org/developers/commit-guidelines.html
+    role: ai_policy
+    sha256: 63da0fdeb21ff84aecbee77d7ef99db48782b31d9eaa41a418366461503b45eb
+    snapshot: data/osssaysno/policies/NetBSD/ai_policy.md
+    status: downloaded
+    text_sha256: 6bc248b890c2c89fa63c906a767f4b62390f50385ac5efc8697228d6b9f47750
+    url: https://www.netbsd.org/developers/commit-guidelines.html
+  source_archive:
+    member: texts/29223812422bffef25c3fdd28450677ad9f5dd33e85800e3159e6c64d95303ba.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6bc248b890c2c89fa63c906a767f4b62390f50385ac5efc8697228d6b9f47750
+  url: ''
+name: ai_policy.md
+path: corpus/f6f172a17eda4b8cba76e288a132dd7c/29223812422bffef25c3fdd28450677ad9f5dd33e85800e3159e6c64d95303ba.md

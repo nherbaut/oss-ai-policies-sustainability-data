@@ -1,0 +1,26 @@
+hash: 89dae59383e63ae50ef769ab7ab68c01222a23812743efb52e0c3b1c108550ae
+id: c9382aba-e448-4cbb-9c5c-881bf9302f7f
+metadata:
+  import_document_id: osssaysno:libvips/libvips:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:05+00:00'
+    id: osssaysno:github.com/libvips/libvips:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/libvips/libvips/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/libvips/libvips/master/README.md
+    role: repository_root_document
+    sha256: 89dae59383e63ae50ef769ab7ab68c01222a23812743efb52e0c3b1c108550ae
+    snapshot: data/osssaysno/policies/libvips/libvips/root/README.md
+    status: downloaded
+    text_sha256: 89dae59383e63ae50ef769ab7ab68c01222a23812743efb52e0c3b1c108550ae
+    url: https://raw.githubusercontent.com/libvips/libvips/master/README.md
+  source_archive:
+    member: texts/1b53db0a723492949515a7e40628299032d207a54d5e70eceae68c54f69981b1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 89dae59383e63ae50ef769ab7ab68c01222a23812743efb52e0c3b1c108550ae
+  url: ''
+name: root/README.md
+path: corpus/079201f97e314fd684d04a54752cacb9/1b53db0a723492949515a7e40628299032d207a54d5e70eceae68c54f69981b1.md

@@ -1,0 +1,26 @@
+hash: b61ac928f152d13517328263e6bee9175b928f9ab696a2d2ca2b6cfd961ddc32
+id: 7cc32718-d972-4639-b0fa-046ad7dcd3d8
+metadata:
+  import_document_id: osssaysno:code-yeongyu/oh-my-openagent:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:39+00:00'
+    id: osssaysno:github.com/code-yeongyu/oh-my-openagent:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/LICENSE.md
+    role: repository_root_document
+    sha256: b61ac928f152d13517328263e6bee9175b928f9ab696a2d2ca2b6cfd961ddc32
+    snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/LICENSE.md
+    status: downloaded
+    text_sha256: b61ac928f152d13517328263e6bee9175b928f9ab696a2d2ca2b6cfd961ddc32
+    url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/LICENSE.md
+  source_archive:
+    member: texts/9b8ba200234cdbc437a584e665afcb69b5e011530faa2e370cefc6b769166766.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b61ac928f152d13517328263e6bee9175b928f9ab696a2d2ca2b6cfd961ddc32
+  url: ''
+name: root/LICENSE.md
+path: corpus/80ffc7c8f21942c3837748b88e684fef/9b8ba200234cdbc437a584e665afcb69b5e011530faa2e370cefc6b769166766.md

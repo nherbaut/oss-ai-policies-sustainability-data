@@ -1,0 +1,26 @@
+hash: b98ca7d52592befd1089b3618282b3d0dcc0bc572fb65f23efeceb03179373c5
+id: 3bada851-7ba7-4836-b7c1-556732ae1e1a
+metadata:
+  import_document_id: osssaysno:home-assistant/home-assistant.io:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:25+00:00'
+    id: osssaysno:github.com/home-assistant/home-assistant.io:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: b98ca7d52592befd1089b3618282b3d0dcc0bc572fb65f23efeceb03179373c5
+    snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: b98ca7d52592befd1089b3618282b3d0dcc0bc572fb65f23efeceb03179373c5
+    url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/3c0108b98eb4808c69a9ee4abf6301df8499b313925010e5855cf6ecbfcc7f6b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b98ca7d52592befd1089b3618282b3d0dcc0bc572fb65f23efeceb03179373c5
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/4f2336a8bb2c4ee79537cfb807e5c139/3c0108b98eb4808c69a9ee4abf6301df8499b313925010e5855cf6ecbfcc7f6b.md

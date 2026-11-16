@@ -1,0 +1,37 @@
+hash: c286b6e44ac8e64e2131dc5cdf50db6efb12a4384cc15a7b5398d62b2d44fc0c
+id: 32f28129-5544-414f-985c-e5c2d06939aa
+metadata:
+  import_document_id: osssaysno:apache/shardingsphere:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:43+00:00'
+    id: osssaysno:github.com/apache/shardingsphere:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/apache/shardingsphere/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/apache/shardingsphere/master/AI_POLICY.md
+    role: ai_policy
+    sha256: c286b6e44ac8e64e2131dc5cdf50db6efb12a4384cc15a7b5398d62b2d44fc0c
+    snapshot: data/osssaysno/policies/apache/shardingsphere/ai_policy.md
+    status: downloaded
+    text_sha256: c286b6e44ac8e64e2131dc5cdf50db6efb12a4384cc15a7b5398d62b2d44fc0c
+    url: https://github.com/apache/shardingsphere/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:28:43+00:00'
+    id: osssaysno:github.com/apache/shardingsphere:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/apache/shardingsphere/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/apache/shardingsphere/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: c286b6e44ac8e64e2131dc5cdf50db6efb12a4384cc15a7b5398d62b2d44fc0c
+    snapshot: data/osssaysno/policies/apache/shardingsphere/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: c286b6e44ac8e64e2131dc5cdf50db6efb12a4384cc15a7b5398d62b2d44fc0c
+    url: https://raw.githubusercontent.com/apache/shardingsphere/master/AI_POLICY.md
+  source_archive:
+    member: texts/1ef9d7e4da2d550681e6ad13ab6da86000873e77ba3d92637acdb75b2835329f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c286b6e44ac8e64e2131dc5cdf50db6efb12a4384cc15a7b5398d62b2d44fc0c
+  url: ''
+name: ai_policy.md
+path: corpus/77092c2471c14ef78d7293bcebb77978/1ef9d7e4da2d550681e6ad13ab6da86000873e77ba3d92637acdb75b2835329f.md

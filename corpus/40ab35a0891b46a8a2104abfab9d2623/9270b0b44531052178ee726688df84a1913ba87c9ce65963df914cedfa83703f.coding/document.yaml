@@ -1,0 +1,37 @@
+hash: 64babcbdb4c45eae4c5e373372413b67bcc2ad3bd1945d63ec90cc523e36db25
+id: e70c3abc-6d90-456e-ac68-8af19e9e4ef2
+metadata:
+  import_document_id: osssaysno:analogj/scrutiny:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:37+00:00'
+    id: osssaysno:github.com/analogj/scrutiny:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/analogj/scrutiny/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/AI_POLICY.md
+    role: ai_policy
+    sha256: 64babcbdb4c45eae4c5e373372413b67bcc2ad3bd1945d63ec90cc523e36db25
+    snapshot: data/osssaysno/policies/analogj/scrutiny/ai_policy.md
+    status: downloaded
+    text_sha256: 64babcbdb4c45eae4c5e373372413b67bcc2ad3bd1945d63ec90cc523e36db25
+    url: https://github.com/AnalogJ/scrutiny/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:36:15+00:00'
+    id: osssaysno:github.com/analogj/scrutiny:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/analogj/scrutiny/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: 64babcbdb4c45eae4c5e373372413b67bcc2ad3bd1945d63ec90cc523e36db25
+    snapshot: data/osssaysno/policies/analogj/scrutiny/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 64babcbdb4c45eae4c5e373372413b67bcc2ad3bd1945d63ec90cc523e36db25
+    url: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/AI_POLICY.md
+  source_archive:
+    member: texts/9270b0b44531052178ee726688df84a1913ba87c9ce65963df914cedfa83703f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 64babcbdb4c45eae4c5e373372413b67bcc2ad3bd1945d63ec90cc523e36db25
+  url: ''
+name: ai_policy.md
+path: corpus/40ab35a0891b46a8a2104abfab9d2623/9270b0b44531052178ee726688df84a1913ba87c9ce65963df914cedfa83703f.md

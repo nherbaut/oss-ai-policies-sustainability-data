@@ -1,0 +1,26 @@
+hash: 7eb7b9f593322d14be4beaf59f7f2e8132f9b425ba607b15307038614bdc0972
+id: aa83ffec-7844-4ffc-8401-3b76552165a4
+metadata:
+  import_document_id: osssaysno:portapack-mayhem/mayhem-firmware:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:09+00:00'
+    id: osssaysno:github.com/portapack-mayhem/mayhem-firmware:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/SECURITY.md
+    role: repository_root_document
+    sha256: 7eb7b9f593322d14be4beaf59f7f2e8132f9b425ba607b15307038614bdc0972
+    snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/root/SECURITY.md
+    status: downloaded
+    text_sha256: 7eb7b9f593322d14be4beaf59f7f2e8132f9b425ba607b15307038614bdc0972
+    url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/SECURITY.md
+  source_archive:
+    member: texts/893e52aaafc0e2634a211747c72deb7bf4ff7f2b520ac5d887d7026a6d28a728.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7eb7b9f593322d14be4beaf59f7f2e8132f9b425ba607b15307038614bdc0972
+  url: ''
+name: root/SECURITY.md
+path: corpus/ac6b9b8e1000496c93466e23bc3b23c2/893e52aaafc0e2634a211747c72deb7bf4ff7f2b520ac5d887d7026a6d28a728.md

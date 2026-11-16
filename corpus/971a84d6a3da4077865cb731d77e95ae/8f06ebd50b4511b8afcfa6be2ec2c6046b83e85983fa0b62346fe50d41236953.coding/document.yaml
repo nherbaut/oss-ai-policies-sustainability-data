@@ -1,0 +1,37 @@
+hash: ecf52ab9573160bd66408bda1b2860d09d6559cc547a44d9cbbe2d28bdf7f863
+id: 3978e7cc-0712-4c3e-a47f-90066be79f02
+metadata:
+  import_document_id: osssaysno:pyrefly-org/pyrefly:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:47+00:00'
+    id: osssaysno:github.com/pyrefly-org/pyrefly:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/meta/pyrefly/main/AI_POLICY.md
+    role: ai_policy
+    sha256: ecf52ab9573160bd66408bda1b2860d09d6559cc547a44d9cbbe2d28bdf7f863
+    snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/ai_policy.md
+    status: downloaded
+    text_sha256: ecf52ab9573160bd66408bda1b2860d09d6559cc547a44d9cbbe2d28bdf7f863
+    url: https://github.com/meta/pyrefly/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:36:58+00:00'
+    id: osssaysno:github.com/pyrefly-org/pyrefly:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: ecf52ab9573160bd66408bda1b2860d09d6559cc547a44d9cbbe2d28bdf7f863
+    snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: ecf52ab9573160bd66408bda1b2860d09d6559cc547a44d9cbbe2d28bdf7f863
+    url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/AI_POLICY.md
+  source_archive:
+    member: texts/8f06ebd50b4511b8afcfa6be2ec2c6046b83e85983fa0b62346fe50d41236953.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ecf52ab9573160bd66408bda1b2860d09d6559cc547a44d9cbbe2d28bdf7f863
+  url: ''
+name: ai_policy.md
+path: corpus/971a84d6a3da4077865cb731d77e95ae/8f06ebd50b4511b8afcfa6be2ec2c6046b83e85983fa0b62346fe50d41236953.md

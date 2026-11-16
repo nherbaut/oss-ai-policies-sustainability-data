@@ -1,0 +1,37 @@
+hash: a5f58fa739dd71af51dcd28a2e43a845b3635cec4c01aaf2f99f20cd77fe7397
+id: 04e19f7d-a83a-4a0b-9fbf-efa1a4fa4299
+metadata:
+  import_document_id: osssaysno:audacity/audacity:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:56+00:00'
+    id: osssaysno:github.com/audacity/audacity:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/audacity/audacity/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/audacity/audacity/master/AI_POLICY.md
+    role: ai_policy
+    sha256: a5f58fa739dd71af51dcd28a2e43a845b3635cec4c01aaf2f99f20cd77fe7397
+    snapshot: data/osssaysno/policies/audacity/audacity/ai_policy.md
+    status: downloaded
+    text_sha256: a5f58fa739dd71af51dcd28a2e43a845b3635cec4c01aaf2f99f20cd77fe7397
+    url: https://github.com/audacity/audacity/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:28:56+00:00'
+    id: osssaysno:github.com/audacity/audacity:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/audacity/audacity/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/audacity/audacity/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: a5f58fa739dd71af51dcd28a2e43a845b3635cec4c01aaf2f99f20cd77fe7397
+    snapshot: data/osssaysno/policies/audacity/audacity/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: a5f58fa739dd71af51dcd28a2e43a845b3635cec4c01aaf2f99f20cd77fe7397
+    url: https://raw.githubusercontent.com/audacity/audacity/master/AI_POLICY.md
+  source_archive:
+    member: texts/204d15e436d6d9d81e5b2b15c940daa8e7739b10a79da59fc1eaf0dcf0897ef1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a5f58fa739dd71af51dcd28a2e43a845b3635cec4c01aaf2f99f20cd77fe7397
+  url: ''
+name: ai_policy.md
+path: corpus/8a1776ffd8954480bb056ead0974551f/204d15e436d6d9d81e5b2b15c940daa8e7739b10a79da59fc1eaf0dcf0897ef1.md

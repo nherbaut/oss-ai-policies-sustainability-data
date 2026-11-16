@@ -1,0 +1,26 @@
+hash: d112e2d89f29053f452e43e9cb52a918afd3af72c92bbefecdd21c766c367eee
+id: f3e7c09d-9d10-416a-a106-0184e260a7b8
+metadata:
+  import_document_id: osssaysno:nibzard/awesome-agentic-patterns:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:45+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: d112e2d89f29053f452e43e9cb52a918afd3af72c92bbefecdd21c766c367eee
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: d112e2d89f29053f452e43e9cb52a918afd3af72c92bbefecdd21c766c367eee
+    url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/3bed8c6ba8dc5d35af97ec90f020f10accfb165979f463ebe875c1e314472b7b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d112e2d89f29053f452e43e9cb52a918afd3af72c92bbefecdd21c766c367eee
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/dd94b9ffd2f94e2fbe0e75d0714cd789/3bed8c6ba8dc5d35af97ec90f020f10accfb165979f463ebe875c1e314472b7b.md

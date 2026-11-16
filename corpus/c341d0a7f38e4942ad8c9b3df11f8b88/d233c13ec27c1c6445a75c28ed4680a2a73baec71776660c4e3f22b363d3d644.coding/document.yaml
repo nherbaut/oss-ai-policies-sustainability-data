@@ -1,0 +1,26 @@
+hash: cedc33088ddefc9d98e4842a92f972c9329cbca660da67394c5adafdf8e168c9
+id: f7ebb9b0-13f1-47f3-b8db-bcb8543614e0
+metadata:
+  import_document_id: osssaysno:octoprint/octoprint:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:56+00:00'
+    id: osssaysno:github.com/octoprint/octoprint:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/octoprint/octoprint/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/CHANGELOG.md
+    role: repository_root_document
+    sha256: cedc33088ddefc9d98e4842a92f972c9329cbca660da67394c5adafdf8e168c9
+    snapshot: data/osssaysno/policies/octoprint/octoprint/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: cedc33088ddefc9d98e4842a92f972c9329cbca660da67394c5adafdf8e168c9
+    url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/CHANGELOG.md
+  source_archive:
+    member: texts/d233c13ec27c1c6445a75c28ed4680a2a73baec71776660c4e3f22b363d3d644.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cedc33088ddefc9d98e4842a92f972c9329cbca660da67394c5adafdf8e168c9
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/c341d0a7f38e4942ad8c9b3df11f8b88/d233c13ec27c1c6445a75c28ed4680a2a73baec71776660c4e3f22b363d3d644.md

@@ -1,0 +1,26 @@
+hash: c1e414898c9f8aece5614ea84175f9ac47f44681f5165140e76d4103ff740cc9
+id: 4ee25516-4403-4b35-8b14-508a0947c871
+metadata:
+  import_document_id: osssaysno:ktorio/ktor:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:22+00:00'
+    id: osssaysno:github.com/ktorio/ktor:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/ktorio/ktor/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/ktorio/ktor/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: c1e414898c9f8aece5614ea84175f9ac47f44681f5165140e76d4103ff740cc9
+    snapshot: data/osssaysno/policies/ktorio/ktor/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: c1e414898c9f8aece5614ea84175f9ac47f44681f5165140e76d4103ff740cc9
+    url: https://raw.githubusercontent.com/ktorio/ktor/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/b6044852f427ab3c8d01b99b8483873f0a34c99c2d2ac8ba9c9c00958c053c23.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c1e414898c9f8aece5614ea84175f9ac47f44681f5165140e76d4103ff740cc9
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/cb044368463c4e1fa45e70294841997b/b6044852f427ab3c8d01b99b8483873f0a34c99c2d2ac8ba9c9c00958c053c23.md

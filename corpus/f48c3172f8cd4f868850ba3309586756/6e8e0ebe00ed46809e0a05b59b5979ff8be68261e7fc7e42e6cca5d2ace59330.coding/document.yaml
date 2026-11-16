@@ -1,0 +1,37 @@
+hash: 3b2c1dd10637c18e6afd8bad92e17a6e3131cfcece85b59e03d50966f37af5aa
+id: 40854dac-3bc1-40bd-88ab-94caa7fe49d6
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:10+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 3b2c1dd10637c18e6afd8bad92e17a6e3131cfcece85b59e03d50966f37af5aa
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/contributing.md
+    status: downloaded
+    text_sha256: 3b2c1dd10637c18e6afd8bad92e17a6e3131cfcece85b59e03d50966f37af5aa
+    url: https://github.com/linkerd/linkerd2/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:30:12+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 3b2c1dd10637c18e6afd8bad92e17a6e3131cfcece85b59e03d50966f37af5aa
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 3b2c1dd10637c18e6afd8bad92e17a6e3131cfcece85b59e03d50966f37af5aa
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/6e8e0ebe00ed46809e0a05b59b5979ff8be68261e7fc7e42e6cca5d2ace59330.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3b2c1dd10637c18e6afd8bad92e17a6e3131cfcece85b59e03d50966f37af5aa
+  url: ''
+name: contributing.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/6e8e0ebe00ed46809e0a05b59b5979ff8be68261e7fc7e42e6cca5d2ace59330.md

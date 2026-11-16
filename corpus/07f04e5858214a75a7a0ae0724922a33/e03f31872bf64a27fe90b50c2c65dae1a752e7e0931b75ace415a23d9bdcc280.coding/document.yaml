@@ -1,0 +1,26 @@
+hash: b6862e7c2922b5723b95d427ccaeff10aa5fc4b96509bed124f4f9cf1dfd7046
+id: 8158dc92-ff9b-433c-a0da-2d57d1d4d3bb
+metadata:
+  import_document_id: osssaysno:marker-inc-korea/autorag:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:21+00:00'
+    id: osssaysno:github.com/marker-inc-korea/autorag:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/SECURITY.md
+    role: repository_root_document
+    sha256: b6862e7c2922b5723b95d427ccaeff10aa5fc4b96509bed124f4f9cf1dfd7046
+    snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/SECURITY.md
+    status: downloaded
+    text_sha256: b6862e7c2922b5723b95d427ccaeff10aa5fc4b96509bed124f4f9cf1dfd7046
+    url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/SECURITY.md
+  source_archive:
+    member: texts/e03f31872bf64a27fe90b50c2c65dae1a752e7e0931b75ace415a23d9bdcc280.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b6862e7c2922b5723b95d427ccaeff10aa5fc4b96509bed124f4f9cf1dfd7046
+  url: ''
+name: root/SECURITY.md
+path: corpus/07f04e5858214a75a7a0ae0724922a33/e03f31872bf64a27fe90b50c2c65dae1a752e7e0931b75ace415a23d9bdcc280.md

@@ -1,0 +1,26 @@
+hash: 81273422285c9a1e31f19951ccfd71d8cd79fbd3b6b19c49c83338135c4ac321
+id: c0f9809d-88da-4ce1-8c4f-0dffe851cef7
+metadata:
+  import_document_id: osssaysno:tinyauthapp/tinyauth:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:13+00:00'
+    id: osssaysno:github.com/tinyauthapp/tinyauth:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 81273422285c9a1e31f19951ccfd71d8cd79fbd3b6b19c49c83338135c4ac321
+    snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 81273422285c9a1e31f19951ccfd71d8cd79fbd3b6b19c49c83338135c4ac321
+    url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/4299725893506577b2d760b610e65ee2392e1e773710f4553c271866d7ffda8b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 81273422285c9a1e31f19951ccfd71d8cd79fbd3b6b19c49c83338135c4ac321
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/3a57808b6fe34d46b12f63556eb14006/4299725893506577b2d760b610e65ee2392e1e773710f4553c271866d7ffda8b.md

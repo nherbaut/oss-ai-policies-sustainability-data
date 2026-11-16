@@ -1,0 +1,26 @@
+hash: e9d33e9c62322f53110d5177171afee8cf2d81063fbc2d79eded13a8f3f704b8
+id: 4e099f0b-497a-4b73-9b4b-79a6a816f165
+metadata:
+  import_document_id: osssaysno:marker-inc-korea/autorag:root/AI_POLICY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:19+00:00'
+    id: osssaysno:github.com/marker-inc-korea/autorag:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: e9d33e9c62322f53110d5177171afee8cf2d81063fbc2d79eded13a8f3f704b8
+    snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: e9d33e9c62322f53110d5177171afee8cf2d81063fbc2d79eded13a8f3f704b8
+    url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/AI_POLICY.md
+  source_archive:
+    member: texts/2ee7f06a85f44017ece436a567518babd656bfef3590725d166ba6c752f9bf1f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e9d33e9c62322f53110d5177171afee8cf2d81063fbc2d79eded13a8f3f704b8
+  url: ''
+name: root/AI_POLICY.md
+path: corpus/07f04e5858214a75a7a0ae0724922a33/2ee7f06a85f44017ece436a567518babd656bfef3590725d166ba6c752f9bf1f.md

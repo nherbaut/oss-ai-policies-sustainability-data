@@ -1,0 +1,26 @@
+hash: e64fe869d37302b63eb83f3e10779648ba7e688ebc64fbbbfae0456f61be292e
+id: 6e2c6486-8fdd-480d-9866-6bb9d4351132
+metadata:
+  import_document_id: osssaysno:curl/curl:root/GIT-INFO.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:00+00:00'
+    id: osssaysno:github.com/curl/curl:root/GIT-INFO.md
+    import_slot: root/GIT-INFO.md
+    raw_snapshot: data/osssaysno/policies/curl/curl/root/raw/GIT-INFO.md
+    resolved_url: https://raw.githubusercontent.com/curl/curl/master/GIT-INFO.md
+    role: repository_root_document
+    sha256: e64fe869d37302b63eb83f3e10779648ba7e688ebc64fbbbfae0456f61be292e
+    snapshot: data/osssaysno/policies/curl/curl/root/GIT-INFO.md
+    status: downloaded
+    text_sha256: e64fe869d37302b63eb83f3e10779648ba7e688ebc64fbbbfae0456f61be292e
+    url: https://raw.githubusercontent.com/curl/curl/master/GIT-INFO.md
+  source_archive:
+    member: texts/9389518ac30fab18bc6dfedbb0158366d7fe8eadcd0474529ba1f8211c455568.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e64fe869d37302b63eb83f3e10779648ba7e688ebc64fbbbfae0456f61be292e
+  url: ''
+name: root/GIT-INFO.md
+path: corpus/e18557ed82b0429691310db61b83cf3a/9389518ac30fab18bc6dfedbb0158366d7fe8eadcd0474529ba1f8211c455568.md

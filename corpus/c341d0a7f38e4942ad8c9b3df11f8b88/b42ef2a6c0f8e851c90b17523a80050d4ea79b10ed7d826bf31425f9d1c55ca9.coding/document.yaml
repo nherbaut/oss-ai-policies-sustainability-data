@@ -1,0 +1,26 @@
+hash: c3d2ad231fe1bdcb5cdb62bd6615cb3343ebc79457b4d78fc9a6c6dacd8f3e54
+id: 939294e1-a829-43af-8d68-d0f1e0e2211b
+metadata:
+  import_document_id: osssaysno:octoprint/octoprint:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:57+00:00'
+    id: osssaysno:github.com/octoprint/octoprint:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/octoprint/octoprint/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/SECURITY.md
+    role: repository_root_document
+    sha256: c3d2ad231fe1bdcb5cdb62bd6615cb3343ebc79457b4d78fc9a6c6dacd8f3e54
+    snapshot: data/osssaysno/policies/octoprint/octoprint/root/SECURITY.md
+    status: downloaded
+    text_sha256: c3d2ad231fe1bdcb5cdb62bd6615cb3343ebc79457b4d78fc9a6c6dacd8f3e54
+    url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/SECURITY.md
+  source_archive:
+    member: texts/b42ef2a6c0f8e851c90b17523a80050d4ea79b10ed7d826bf31425f9d1c55ca9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c3d2ad231fe1bdcb5cdb62bd6615cb3343ebc79457b4d78fc9a6c6dacd8f3e54
+  url: ''
+name: root/SECURITY.md
+path: corpus/c341d0a7f38e4942ad8c9b3df11f8b88/b42ef2a6c0f8e851c90b17523a80050d4ea79b10ed7d826bf31425f9d1c55ca9.md

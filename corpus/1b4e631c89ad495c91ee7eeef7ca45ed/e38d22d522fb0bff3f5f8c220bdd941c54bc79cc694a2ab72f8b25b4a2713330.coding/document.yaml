@@ -1,0 +1,26 @@
+hash: 10d65e6e36f31d62852fc1285d4e409dc812cb36410c925d497b6699871ef3b2
+id: e2af5fb0-3464-42a8-a6c5-23eff4b770db
+metadata:
+  import_document_id: osssaysno:nasa/fprime:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:04+00:00'
+    id: osssaysno:github.com/nasa/fprime:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/nasa/fprime/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/nasa/fprime/devel/SECURITY.md
+    role: repository_root_document
+    sha256: 10d65e6e36f31d62852fc1285d4e409dc812cb36410c925d497b6699871ef3b2
+    snapshot: data/osssaysno/policies/nasa/fprime/root/SECURITY.md
+    status: downloaded
+    text_sha256: 10d65e6e36f31d62852fc1285d4e409dc812cb36410c925d497b6699871ef3b2
+    url: https://raw.githubusercontent.com/nasa/fprime/devel/SECURITY.md
+  source_archive:
+    member: texts/e38d22d522fb0bff3f5f8c220bdd941c54bc79cc694a2ab72f8b25b4a2713330.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 10d65e6e36f31d62852fc1285d4e409dc812cb36410c925d497b6699871ef3b2
+  url: ''
+name: root/SECURITY.md
+path: corpus/1b4e631c89ad495c91ee7eeef7ca45ed/e38d22d522fb0bff3f5f8c220bdd941c54bc79cc694a2ab72f8b25b4a2713330.md

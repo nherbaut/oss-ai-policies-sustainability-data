@@ -1,0 +1,26 @@
+hash: 686c11b2be96a8f94f36865de5c523d3752ba6d7110fec2e335d977cb5520b1f
+id: 5f03b578-3364-4221-8790-22cb94cb5a52
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:root/manual-upgrade.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:22+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/manual-upgrade.md
+    import_slot: root/manual-upgrade.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/manual-upgrade.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/manual-upgrade.md
+    role: repository_root_document
+    sha256: 686c11b2be96a8f94f36865de5c523d3752ba6d7110fec2e335d977cb5520b1f
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/manual-upgrade.md
+    status: downloaded
+    text_sha256: 686c11b2be96a8f94f36865de5c523d3752ba6d7110fec2e335d977cb5520b1f
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/manual-upgrade.md
+  source_archive:
+    member: texts/69e6c4f371d403966185a7fbe58248bfc07ee1f32a568390c8a1f29932ac0ff4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 686c11b2be96a8f94f36865de5c523d3752ba6d7110fec2e335d977cb5520b1f
+  url: ''
+name: root/manual-upgrade.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/69e6c4f371d403966185a7fbe58248bfc07ee1f32a568390c8a1f29932ac0ff4.md

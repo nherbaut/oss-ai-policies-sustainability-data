@@ -1,0 +1,26 @@
+hash: bbc2cb0c047e281dc87adeac5d11bb6991856142c9d9820714b4447ebaa4c5ab
+id: 3fba901d-998b-4186-9c79-a7a325a16132
+metadata:
+  import_document_id: osssaysno:projectcalico/calico:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:50+00:00'
+    id: osssaysno:github.com/projectcalico/calico:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/projectcalico/calico/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/projectcalico/calico/master/README.md
+    role: repository_root_document
+    sha256: bbc2cb0c047e281dc87adeac5d11bb6991856142c9d9820714b4447ebaa4c5ab
+    snapshot: data/osssaysno/policies/projectcalico/calico/root/README.md
+    status: downloaded
+    text_sha256: bbc2cb0c047e281dc87adeac5d11bb6991856142c9d9820714b4447ebaa4c5ab
+    url: https://raw.githubusercontent.com/projectcalico/calico/master/README.md
+  source_archive:
+    member: texts/ed005dcedb3635f8f3591071c675659b51627d516d5a0e4387e45a018a55085d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bbc2cb0c047e281dc87adeac5d11bb6991856142c9d9820714b4447ebaa4c5ab
+  url: ''
+name: root/README.md
+path: corpus/9182e1b470d247e9bf05f8ef02219a2e/ed005dcedb3635f8f3591071c675659b51627d516d5a0e4387e45a018a55085d.md

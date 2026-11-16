@@ -1,0 +1,26 @@
+hash: ebf68f1fdbb78bf59c75e180f97e3d5c5fe5942b82a331c7f824267e690bd23f
+id: 684d3887-a044-4a9a-b76a-40d19e7771c8
+metadata:
+  import_document_id: osssaysno:nasa/fprime:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:02+00:00'
+    id: osssaysno:github.com/nasa/fprime:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/nasa/fprime/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/nasa/fprime/devel/AGENTS.md
+    role: repository_root_document
+    sha256: ebf68f1fdbb78bf59c75e180f97e3d5c5fe5942b82a331c7f824267e690bd23f
+    snapshot: data/osssaysno/policies/nasa/fprime/root/AGENTS.md
+    status: downloaded
+    text_sha256: ebf68f1fdbb78bf59c75e180f97e3d5c5fe5942b82a331c7f824267e690bd23f
+    url: https://raw.githubusercontent.com/nasa/fprime/devel/AGENTS.md
+  source_archive:
+    member: texts/9c0c4388fbdfc144b2ce2190db95b996e60c1893852f296bc636487a3ca93a07.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ebf68f1fdbb78bf59c75e180f97e3d5c5fe5942b82a331c7f824267e690bd23f
+  url: ''
+name: root/AGENTS.md
+path: corpus/1b4e631c89ad495c91ee7eeef7ca45ed/9c0c4388fbdfc144b2ce2190db95b996e60c1893852f296bc636487a3ca93a07.md

@@ -1,0 +1,37 @@
+hash: f123c0a942f1b1989f1d34db4e90f9b96a43e1b6be6c38fdbef7d84259ec6d47
+id: 5b300ecf-5061-4c07-8f6a-17f4d0607408
+metadata:
+  import_document_id: osssaysno:py-pdf/pypdf:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:25+00:00'
+    id: osssaysno:github.com/py-pdf/pypdf:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/py-pdf/pypdf/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/py-pdf/pypdf/main/CONTRIBUTING.md
+    role: contributing
+    sha256: f123c0a942f1b1989f1d34db4e90f9b96a43e1b6be6c38fdbef7d84259ec6d47
+    snapshot: data/osssaysno/policies/py-pdf/pypdf/contributing.md
+    status: downloaded
+    text_sha256: f123c0a942f1b1989f1d34db4e90f9b96a43e1b6be6c38fdbef7d84259ec6d47
+    url: https://github.com/py-pdf/pypdf/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:35:19+00:00'
+    id: osssaysno:github.com/py-pdf/pypdf:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/py-pdf/pypdf/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/py-pdf/pypdf/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: f123c0a942f1b1989f1d34db4e90f9b96a43e1b6be6c38fdbef7d84259ec6d47
+    snapshot: data/osssaysno/policies/py-pdf/pypdf/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: f123c0a942f1b1989f1d34db4e90f9b96a43e1b6be6c38fdbef7d84259ec6d47
+    url: https://raw.githubusercontent.com/py-pdf/pypdf/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/76b331ca6882a3c3e4094e4b8ae03f8af2e04c084fc9d8dbb220194a3eba8e99.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f123c0a942f1b1989f1d34db4e90f9b96a43e1b6be6c38fdbef7d84259ec6d47
+  url: ''
+name: contributing.md
+path: corpus/114c2a22aca7414b971b3af9f58e8ada/76b331ca6882a3c3e4094e4b8ae03f8af2e04c084fc9d8dbb220194a3eba8e99.md

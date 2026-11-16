@@ -1,0 +1,26 @@
+hash: b9189fa836420c153b01f11e4c39ddfbaf8ba00a36a924e189a27e16d03ca35d
+id: cba53eed-a67a-4227-ad87-19bf27a832aa
+metadata:
+  import_document_id: osssaysno:conda/conda:root/HOW_WE_USE_GITHUB.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:47+00:00'
+    id: osssaysno:github.com/conda/conda:root/HOW_WE_USE_GITHUB.md
+    import_slot: root/HOW_WE_USE_GITHUB.md
+    raw_snapshot: data/osssaysno/policies/conda/conda/root/raw/HOW_WE_USE_GITHUB.md
+    resolved_url: https://raw.githubusercontent.com/conda/conda/main/HOW_WE_USE_GITHUB.md
+    role: repository_root_document
+    sha256: b9189fa836420c153b01f11e4c39ddfbaf8ba00a36a924e189a27e16d03ca35d
+    snapshot: data/osssaysno/policies/conda/conda/root/HOW_WE_USE_GITHUB.md
+    status: downloaded
+    text_sha256: b9189fa836420c153b01f11e4c39ddfbaf8ba00a36a924e189a27e16d03ca35d
+    url: https://raw.githubusercontent.com/conda/conda/main/HOW_WE_USE_GITHUB.md
+  source_archive:
+    member: texts/1b9889a23e4753ff49e7fa3471cc21c0342e01725b2122aba8f44dbd17a7a6f9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b9189fa836420c153b01f11e4c39ddfbaf8ba00a36a924e189a27e16d03ca35d
+  url: ''
+name: root/HOW_WE_USE_GITHUB.md
+path: corpus/7700d61275b0420b93c802d3ed28167b/1b9889a23e4753ff49e7fa3471cc21c0342e01725b2122aba8f44dbd17a7a6f9.md

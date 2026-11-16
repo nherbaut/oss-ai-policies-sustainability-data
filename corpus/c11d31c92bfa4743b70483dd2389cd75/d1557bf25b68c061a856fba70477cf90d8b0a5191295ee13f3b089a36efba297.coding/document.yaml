@@ -1,0 +1,26 @@
+hash: 868ef40fa2b1b0c1c03cc6decd54aa586ac51723bdea617f057c30bf84e24f52
+id: 802cb61b-bc5b-4caf-8576-f97e084626ab
+metadata:
+  import_document_id: osssaysno:magnitudedev/magnitude:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:40+00:00'
+    id: osssaysno:github.com/magnitudedev/magnitude:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/magnitudedev/magnitude/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/magnitudedev/magnitude/main/README.md
+    role: repository_root_document
+    sha256: 868ef40fa2b1b0c1c03cc6decd54aa586ac51723bdea617f057c30bf84e24f52
+    snapshot: data/osssaysno/policies/magnitudedev/magnitude/root/README.md
+    status: downloaded
+    text_sha256: 868ef40fa2b1b0c1c03cc6decd54aa586ac51723bdea617f057c30bf84e24f52
+    url: https://raw.githubusercontent.com/magnitudedev/magnitude/main/README.md
+  source_archive:
+    member: texts/d1557bf25b68c061a856fba70477cf90d8b0a5191295ee13f3b089a36efba297.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 868ef40fa2b1b0c1c03cc6decd54aa586ac51723bdea617f057c30bf84e24f52
+  url: ''
+name: root/README.md
+path: corpus/c11d31c92bfa4743b70483dd2389cd75/d1557bf25b68c061a856fba70477cf90d8b0a5191295ee13f3b089a36efba297.md

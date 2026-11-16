@@ -1,0 +1,26 @@
+hash: 727da3f1dcec9684f14398b4aac2c2aa71b28d413ff3ed7161f85803cf78d5b7
+id: d9058e57-2ec6-497d-ad53-4dc54f96dee3
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:root/develop.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:20+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/develop.md
+    import_slot: root/develop.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/develop.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/develop.md
+    role: repository_root_document
+    sha256: 727da3f1dcec9684f14398b4aac2c2aa71b28d413ff3ed7161f85803cf78d5b7
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/develop.md
+    status: downloaded
+    text_sha256: 727da3f1dcec9684f14398b4aac2c2aa71b28d413ff3ed7161f85803cf78d5b7
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/develop.md
+  source_archive:
+    member: texts/7ff448184832ec29225f187613b04f590d3d0be392480fbea9247a296f92410a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 727da3f1dcec9684f14398b4aac2c2aa71b28d413ff3ed7161f85803cf78d5b7
+  url: ''
+name: root/develop.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/7ff448184832ec29225f187613b04f590d3d0be392480fbea9247a296f92410a.md

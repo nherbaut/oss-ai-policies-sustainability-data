@@ -1,0 +1,26 @@
+hash: b4671e8791ddd923d8e1ede7c561c13543e758a0ca6d655af98997539cc66f08
+id: 2c4cf0f0-9a92-481e-a047-7eccf8bf2d33
+metadata:
+  import_document_id: osssaysno:triliumnext/trilium:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:02+00:00'
+    id: osssaysno:github.com/triliumnext/trilium:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/triliumnext/trilium/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/TriliumNext/Trilium/main/CLAUDE.md
+    role: repository_root_document
+    sha256: b4671e8791ddd923d8e1ede7c561c13543e758a0ca6d655af98997539cc66f08
+    snapshot: data/osssaysno/policies/triliumnext/trilium/root/CLAUDE.md
+    status: downloaded
+    text_sha256: b4671e8791ddd923d8e1ede7c561c13543e758a0ca6d655af98997539cc66f08
+    url: https://raw.githubusercontent.com/TriliumNext/Trilium/main/CLAUDE.md
+  source_archive:
+    member: texts/fee5422c5e792a09130625f0991bbca3af9ac0a1db97d43919f97560e6e6e9db.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b4671e8791ddd923d8e1ede7c561c13543e758a0ca6d655af98997539cc66f08
+  url: ''
+name: root/CLAUDE.md
+path: corpus/9ef1ce9d9c64436f9984c3023136946d/fee5422c5e792a09130625f0991bbca3af9ac0a1db97d43919f97560e6e6e9db.md

@@ -1,0 +1,26 @@
+hash: 42e90e43576bfcc8945239179c49141c387c407a3a3c3696789d9f061cc4afb4
+id: 3dcb4718-c34b-4d33-b444-f867c51f2e74
+metadata:
+  import_document_id: osssaysno:f3d-app/f3d:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:49+00:00'
+    id: osssaysno:github.com/f3d-app/f3d:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/f3d-app/f3d/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/f3d-app/f3d/master/LICENSE.md
+    role: repository_root_document
+    sha256: 42e90e43576bfcc8945239179c49141c387c407a3a3c3696789d9f061cc4afb4
+    snapshot: data/osssaysno/policies/f3d-app/f3d/root/LICENSE.md
+    status: downloaded
+    text_sha256: 42e90e43576bfcc8945239179c49141c387c407a3a3c3696789d9f061cc4afb4
+    url: https://raw.githubusercontent.com/f3d-app/f3d/master/LICENSE.md
+  source_archive:
+    member: texts/04b7c1326df2fe1610589ef675dff4d34d44d0c2daeddade018845922511612a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 42e90e43576bfcc8945239179c49141c387c407a3a3c3696789d9f061cc4afb4
+  url: ''
+name: root/LICENSE.md
+path: corpus/9085e779d17747f293366cb695d0ba8c/04b7c1326df2fe1610589ef675dff4d34d44d0c2daeddade018845922511612a.md

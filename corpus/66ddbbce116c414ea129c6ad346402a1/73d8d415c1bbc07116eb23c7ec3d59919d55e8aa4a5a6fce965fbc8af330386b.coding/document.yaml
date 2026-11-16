@@ -1,0 +1,26 @@
+hash: 401e754d6e210f419d07089151e757d3048ef68f4a3daadc783089d76320eb5a
+id: f535b9e1-b1b2-4437-953f-c421d69051e0
+metadata:
+  import_document_id: osssaysno:librosa/librosa:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:05+00:00'
+    id: osssaysno:github.com/librosa/librosa:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/librosa/librosa/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/librosa/librosa/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 401e754d6e210f419d07089151e757d3048ef68f4a3daadc783089d76320eb5a
+    snapshot: data/osssaysno/policies/librosa/librosa/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 401e754d6e210f419d07089151e757d3048ef68f4a3daadc783089d76320eb5a
+    url: https://raw.githubusercontent.com/librosa/librosa/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/73d8d415c1bbc07116eb23c7ec3d59919d55e8aa4a5a6fce965fbc8af330386b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 401e754d6e210f419d07089151e757d3048ef68f4a3daadc783089d76320eb5a
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/66ddbbce116c414ea129c6ad346402a1/73d8d415c1bbc07116eb23c7ec3d59919d55e8aa4a5a6fce965fbc8af330386b.md

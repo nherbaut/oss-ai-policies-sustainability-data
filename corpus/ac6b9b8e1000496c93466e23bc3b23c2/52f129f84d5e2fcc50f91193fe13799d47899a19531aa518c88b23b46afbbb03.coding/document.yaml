@@ -1,0 +1,26 @@
+hash: 192ee04fb9f40db3b1d0ace6f8af5d615d32a7c1a22430813605e56b48238204
+id: 82dc6b77-8fad-46f1-bb67-9bd0dcf235f1
+metadata:
+  import_document_id: osssaysno:portapack-mayhem/mayhem-firmware:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:08+00:00'
+    id: osssaysno:github.com/portapack-mayhem/mayhem-firmware:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 192ee04fb9f40db3b1d0ace6f8af5d615d32a7c1a22430813605e56b48238204
+    snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 192ee04fb9f40db3b1d0ace6f8af5d615d32a7c1a22430813605e56b48238204
+    url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/52f129f84d5e2fcc50f91193fe13799d47899a19531aa518c88b23b46afbbb03.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 192ee04fb9f40db3b1d0ace6f8af5d615d32a7c1a22430813605e56b48238204
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/ac6b9b8e1000496c93466e23bc3b23c2/52f129f84d5e2fcc50f91193fe13799d47899a19531aa518c88b23b46afbbb03.md

@@ -1,0 +1,26 @@
+hash: 136c27a0f9b8f9f215ed393082b22599147356d86c111d477b4310aebf3bf7e9
+id: bdc1ee54-3d78-4124-9835-9e61548cf004
+metadata:
+  import_document_id: osssaysno:pennyw0rth/netexec:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:49+00:00'
+    id: osssaysno:github.com/pennyw0rth/netexec:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/pennyw0rth/netexec/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/Pennyw0rth/NetExec/main/README.md
+    role: repository_root_document
+    sha256: 136c27a0f9b8f9f215ed393082b22599147356d86c111d477b4310aebf3bf7e9
+    snapshot: data/osssaysno/policies/pennyw0rth/netexec/root/README.md
+    status: downloaded
+    text_sha256: 136c27a0f9b8f9f215ed393082b22599147356d86c111d477b4310aebf3bf7e9
+    url: https://raw.githubusercontent.com/Pennyw0rth/NetExec/main/README.md
+  source_archive:
+    member: texts/f1b5f2861d58fcd6ecec3c0609b2c56f8e788144ccb5f2699ab47addf0bc58ed.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 136c27a0f9b8f9f215ed393082b22599147356d86c111d477b4310aebf3bf7e9
+  url: ''
+name: root/README.md
+path: corpus/6a8ec42f793e4952af3c22ef2232fc7c/f1b5f2861d58fcd6ecec3c0609b2c56f8e788144ccb5f2699ab47addf0bc58ed.md

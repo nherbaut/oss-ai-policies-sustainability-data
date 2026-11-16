@@ -1,0 +1,26 @@
+hash: a69fe46e0a917d0bd005bf4e31fa19963802201bc5bda8997a7fe62119e8c6f1
+id: 539150f1-d8d0-4622-892c-0cef73d42663
+metadata:
+  import_document_id: osssaysno:yargs/yargs:root/contributing.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:16+00:00'
+    id: osssaysno:github.com/yargs/yargs:root/contributing.md
+    import_slot: root/contributing.md
+    raw_snapshot: data/osssaysno/policies/yargs/yargs/root/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/yargs/yargs/main/contributing.md
+    role: repository_root_document
+    sha256: a69fe46e0a917d0bd005bf4e31fa19963802201bc5bda8997a7fe62119e8c6f1
+    snapshot: data/osssaysno/policies/yargs/yargs/root/contributing.md
+    status: downloaded
+    text_sha256: a69fe46e0a917d0bd005bf4e31fa19963802201bc5bda8997a7fe62119e8c6f1
+    url: https://raw.githubusercontent.com/yargs/yargs/main/contributing.md
+  source_archive:
+    member: texts/26ebaab039c388b8c7396c9705c23b8b37a1d4d03fc20829227d5a00b796ad89.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a69fe46e0a917d0bd005bf4e31fa19963802201bc5bda8997a7fe62119e8c6f1
+  url: ''
+name: root/contributing.md
+path: corpus/9b5950d5f7af4622b7cc32c19b9118f3/26ebaab039c388b8c7396c9705c23b8b37a1d4d03fc20829227d5a00b796ad89.md

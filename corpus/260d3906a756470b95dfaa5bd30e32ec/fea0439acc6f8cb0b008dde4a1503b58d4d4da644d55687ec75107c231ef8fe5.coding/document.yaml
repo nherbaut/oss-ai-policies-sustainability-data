@@ -1,0 +1,26 @@
+hash: 1d9191ee57c1e587cccba10259df59b2d32eaf2650b9d3a6926240e47fc365ab
+id: b8b1b7a9-d1df-41fe-a42b-f23593604745
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:33+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/GOVERNANCE.md
+    role: repository_root_document
+    sha256: 1d9191ee57c1e587cccba10259df59b2d32eaf2650b9d3a6926240e47fc365ab
+    snapshot: data/osssaysno/policies/grafana/grafana/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: 1d9191ee57c1e587cccba10259df59b2d32eaf2650b9d3a6926240e47fc365ab
+    url: https://raw.githubusercontent.com/grafana/grafana/main/GOVERNANCE.md
+  source_archive:
+    member: texts/fea0439acc6f8cb0b008dde4a1503b58d4d4da644d55687ec75107c231ef8fe5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1d9191ee57c1e587cccba10259df59b2d32eaf2650b9d3a6926240e47fc365ab
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/fea0439acc6f8cb0b008dde4a1503b58d4d4da644d55687ec75107c231ef8fe5.md

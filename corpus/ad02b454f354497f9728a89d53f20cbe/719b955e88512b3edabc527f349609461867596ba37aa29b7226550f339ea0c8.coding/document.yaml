@@ -1,0 +1,26 @@
+hash: 002ed1801f1fcad905b2b6c53f11b60cf5a04d8ec1605342fc99d11afa004694
+id: a5e405f9-ac2a-487c-aef1-55ac24bd8522
+metadata:
+  import_document_id: osssaysno:fyroxengine/fyrox:root/ARCHITECTURE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:40+00:00'
+    id: osssaysno:github.com/fyroxengine/fyrox:root/ARCHITECTURE.md
+    import_slot: root/ARCHITECTURE.md
+    raw_snapshot: data/osssaysno/policies/fyroxengine/fyrox/root/raw/ARCHITECTURE.md
+    resolved_url: https://raw.githubusercontent.com/FyroxEngine/Fyrox/master/ARCHITECTURE.md
+    role: repository_root_document
+    sha256: 002ed1801f1fcad905b2b6c53f11b60cf5a04d8ec1605342fc99d11afa004694
+    snapshot: data/osssaysno/policies/fyroxengine/fyrox/root/ARCHITECTURE.md
+    status: downloaded
+    text_sha256: 002ed1801f1fcad905b2b6c53f11b60cf5a04d8ec1605342fc99d11afa004694
+    url: https://raw.githubusercontent.com/FyroxEngine/Fyrox/master/ARCHITECTURE.md
+  source_archive:
+    member: texts/719b955e88512b3edabc527f349609461867596ba37aa29b7226550f339ea0c8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 002ed1801f1fcad905b2b6c53f11b60cf5a04d8ec1605342fc99d11afa004694
+  url: ''
+name: root/ARCHITECTURE.md
+path: corpus/ad02b454f354497f9728a89d53f20cbe/719b955e88512b3edabc527f349609461867596ba37aa29b7226550f339ea0c8.md

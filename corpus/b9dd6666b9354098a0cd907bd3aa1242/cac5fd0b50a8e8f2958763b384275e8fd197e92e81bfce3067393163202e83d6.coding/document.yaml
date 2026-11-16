@@ -1,0 +1,26 @@
+hash: b1656effb782c02796eaef6758c62923b4219624713b20e8f0c6a83f0a8c2f43
+id: bd81f981-ca6a-49e9-aff7-983cc281d3a2
+metadata:
+  import_document_id: osssaysno:debpalash/voicestudio:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:21+00:00'
+    id: osssaysno:github.com/debpalash/voicestudio:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/debpalash/voicestudio/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/debpalash/VoiceStudio/main/.github/CONTRIBUTING.md
+    role: contributing
+    sha256: b1656effb782c02796eaef6758c62923b4219624713b20e8f0c6a83f0a8c2f43
+    snapshot: data/osssaysno/policies/debpalash/voicestudio/contributing.md
+    status: downloaded
+    text_sha256: b1656effb782c02796eaef6758c62923b4219624713b20e8f0c6a83f0a8c2f43
+    url: https://github.com/debpalash/VoiceStudio/blob/main/.github/CONTRIBUTING.md
+  source_archive:
+    member: texts/cac5fd0b50a8e8f2958763b384275e8fd197e92e81bfce3067393163202e83d6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b1656effb782c02796eaef6758c62923b4219624713b20e8f0c6a83f0a8c2f43
+  url: ''
+name: contributing.md
+path: corpus/b9dd6666b9354098a0cd907bd3aa1242/cac5fd0b50a8e8f2958763b384275e8fd197e92e81bfce3067393163202e83d6.md

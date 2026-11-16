@@ -1,0 +1,26 @@
+hash: 396b4ca4c3a253a5e4a6cea2b184708880db904816421e4897513e7f8c8558ee
+id: b3ad0649-9073-4ddc-9e5a-4efa13ea8ee7
+metadata:
+  import_document_id: osssaysno:quickwit-oss/quickwit:root/CODE_STYLE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:08+00:00'
+    id: osssaysno:github.com/quickwit-oss/quickwit:root/CODE_STYLE.md
+    import_slot: root/CODE_STYLE.md
+    raw_snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/raw/CODE_STYLE.md
+    resolved_url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/CODE_STYLE.md
+    role: repository_root_document
+    sha256: 396b4ca4c3a253a5e4a6cea2b184708880db904816421e4897513e7f8c8558ee
+    snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/CODE_STYLE.md
+    status: downloaded
+    text_sha256: 396b4ca4c3a253a5e4a6cea2b184708880db904816421e4897513e7f8c8558ee
+    url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/CODE_STYLE.md
+  source_archive:
+    member: texts/e7b0b41c1a8d30506109708f8775bfd193f0942d8e84d8cdef98731d11526d9b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 396b4ca4c3a253a5e4a6cea2b184708880db904816421e4897513e7f8c8558ee
+  url: ''
+name: root/CODE_STYLE.md
+path: corpus/fbdfe8f8cc3f4cf6b1c4e8097a3f7474/e7b0b41c1a8d30506109708f8775bfd193f0942d8e84d8cdef98731d11526d9b.md

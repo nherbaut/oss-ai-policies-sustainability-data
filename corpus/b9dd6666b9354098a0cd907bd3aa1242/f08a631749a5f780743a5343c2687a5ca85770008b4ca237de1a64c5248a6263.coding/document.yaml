@@ -1,0 +1,26 @@
+hash: a0cbc2cd4bd0941270083f99237e8860d62782e1bf88c5d85018ef1b6aca56f9
+id: 9e826888-15dc-4602-af9b-0b36c490cda6
+metadata:
+  import_document_id: osssaysno:debpalash/voicestudio:root/SPONSORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:25+00:00'
+    id: osssaysno:github.com/debpalash/voicestudio:root/SPONSORS.md
+    import_slot: root/SPONSORS.md
+    raw_snapshot: data/osssaysno/policies/debpalash/voicestudio/root/raw/SPONSORS.md
+    resolved_url: https://raw.githubusercontent.com/debpalash/VoiceStudio/main/SPONSORS.md
+    role: repository_root_document
+    sha256: a0cbc2cd4bd0941270083f99237e8860d62782e1bf88c5d85018ef1b6aca56f9
+    snapshot: data/osssaysno/policies/debpalash/voicestudio/root/SPONSORS.md
+    status: downloaded
+    text_sha256: a0cbc2cd4bd0941270083f99237e8860d62782e1bf88c5d85018ef1b6aca56f9
+    url: https://raw.githubusercontent.com/debpalash/VoiceStudio/main/SPONSORS.md
+  source_archive:
+    member: texts/f08a631749a5f780743a5343c2687a5ca85770008b4ca237de1a64c5248a6263.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a0cbc2cd4bd0941270083f99237e8860d62782e1bf88c5d85018ef1b6aca56f9
+  url: ''
+name: root/SPONSORS.md
+path: corpus/b9dd6666b9354098a0cd907bd3aa1242/f08a631749a5f780743a5343c2687a5ca85770008b4ca237de1a64c5248a6263.md

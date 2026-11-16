@@ -1,0 +1,26 @@
+hash: c8aef5846a58a8b7558181d9f8b11bccb75132bc1b488bea992a1d33726f5fac
+id: d5e4bff1-cd1e-48b9-a6e2-8fc48b3bdf4d
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:13+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/README.md
+    role: repository_root_document
+    sha256: c8aef5846a58a8b7558181d9f8b11bccb75132bc1b488bea992a1d33726f5fac
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/README.md
+    status: downloaded
+    text_sha256: c8aef5846a58a8b7558181d9f8b11bccb75132bc1b488bea992a1d33726f5fac
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/README.md
+  source_archive:
+    member: texts/39a30726cb2306ae65bcce2bb6333ad881e968dd0c55849dc236e6db4b5e8b66.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c8aef5846a58a8b7558181d9f8b11bccb75132bc1b488bea992a1d33726f5fac
+  url: ''
+name: root/README.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/39a30726cb2306ae65bcce2bb6333ad881e968dd0c55849dc236e6db4b5e8b66.md

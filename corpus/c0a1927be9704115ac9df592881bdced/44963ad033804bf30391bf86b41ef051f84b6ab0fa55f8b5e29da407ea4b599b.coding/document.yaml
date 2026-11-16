@@ -1,0 +1,37 @@
+hash: 08f71256dc1e48eb5469036b84f7bbd5bfbd155d595a8cc117428b868e1ba24b
+id: 364f2f3a-88f6-4ee4-82c0-39336ae5a193
+metadata:
+  import_document_id: osssaysno:nvim-tree/nvim-tree.lua:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:35+00:00'
+    id: osssaysno:github.com/nvim-tree/nvim-tree.lua:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/nvim-tree/nvim-tree.lua/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/nvim-tree/nvim-tree.lua/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 08f71256dc1e48eb5469036b84f7bbd5bfbd155d595a8cc117428b868e1ba24b
+    snapshot: data/osssaysno/policies/nvim-tree/nvim-tree.lua/contributing.md
+    status: downloaded
+    text_sha256: 08f71256dc1e48eb5469036b84f7bbd5bfbd155d595a8cc117428b868e1ba24b
+    url: https://github.com/nvim-tree/nvim-tree.lua/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:07+00:00'
+    id: osssaysno:github.com/nvim-tree/nvim-tree.lua:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/nvim-tree/nvim-tree.lua/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/nvim-tree/nvim-tree.lua/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 08f71256dc1e48eb5469036b84f7bbd5bfbd155d595a8cc117428b868e1ba24b
+    snapshot: data/osssaysno/policies/nvim-tree/nvim-tree.lua/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 08f71256dc1e48eb5469036b84f7bbd5bfbd155d595a8cc117428b868e1ba24b
+    url: https://raw.githubusercontent.com/nvim-tree/nvim-tree.lua/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/44963ad033804bf30391bf86b41ef051f84b6ab0fa55f8b5e29da407ea4b599b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 08f71256dc1e48eb5469036b84f7bbd5bfbd155d595a8cc117428b868e1ba24b
+  url: ''
+name: contributing.md
+path: corpus/c0a1927be9704115ac9df592881bdced/44963ad033804bf30391bf86b41ef051f84b6ab0fa55f8b5e29da407ea4b599b.md

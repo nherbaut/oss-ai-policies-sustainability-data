@@ -1,0 +1,37 @@
+hash: 68f00845d30a7dc20309e95559e476a13f913fa5ce8e5eb08ecef9202f27840f
+id: 6fe7db6c-c23d-4ef1-b6f6-c2c63047de33
+metadata:
+  import_document_id: osssaysno:leanprover/lean4:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:27+00:00'
+    id: osssaysno:github.com/leanprover/lean4:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/leanprover/lean4/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/leanprover/lean4/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 68f00845d30a7dc20309e95559e476a13f913fa5ce8e5eb08ecef9202f27840f
+    snapshot: data/osssaysno/policies/leanprover/lean4/contributing.md
+    status: downloaded
+    text_sha256: 68f00845d30a7dc20309e95559e476a13f913fa5ce8e5eb08ecef9202f27840f
+    url: https://github.com/leanprover/lean4/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:35:27+00:00'
+    id: osssaysno:github.com/leanprover/lean4:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/leanprover/lean4/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/leanprover/lean4/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 68f00845d30a7dc20309e95559e476a13f913fa5ce8e5eb08ecef9202f27840f
+    snapshot: data/osssaysno/policies/leanprover/lean4/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 68f00845d30a7dc20309e95559e476a13f913fa5ce8e5eb08ecef9202f27840f
+    url: https://raw.githubusercontent.com/leanprover/lean4/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/aecf6ba7acf2c68158e6b589af05b23a3a3e899771d2490b1557f82a1094f5e0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 68f00845d30a7dc20309e95559e476a13f913fa5ce8e5eb08ecef9202f27840f
+  url: ''
+name: contributing.md
+path: corpus/1f4e56773ec34636b9893f64295bfe87/aecf6ba7acf2c68158e6b589af05b23a3a3e899771d2490b1557f82a1094f5e0.md

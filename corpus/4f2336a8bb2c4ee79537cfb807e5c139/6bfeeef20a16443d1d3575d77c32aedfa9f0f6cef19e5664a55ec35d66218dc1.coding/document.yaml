@@ -1,0 +1,26 @@
+hash: 5c0cc53e6610ec5b3cae9099e194148a218f59048c752e42040df57a02575a5b
+id: 87a99ba9-f5c2-471e-af81-187b60061cbb
+metadata:
+  import_document_id: osssaysno:home-assistant/home-assistant.io:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:26+00:00'
+    id: osssaysno:github.com/home-assistant/home-assistant.io:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/LICENSE.md
+    role: repository_root_document
+    sha256: 5c0cc53e6610ec5b3cae9099e194148a218f59048c752e42040df57a02575a5b
+    snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/LICENSE.md
+    status: downloaded
+    text_sha256: 5c0cc53e6610ec5b3cae9099e194148a218f59048c752e42040df57a02575a5b
+    url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/LICENSE.md
+  source_archive:
+    member: texts/6bfeeef20a16443d1d3575d77c32aedfa9f0f6cef19e5664a55ec35d66218dc1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5c0cc53e6610ec5b3cae9099e194148a218f59048c752e42040df57a02575a5b
+  url: ''
+name: root/LICENSE.md
+path: corpus/4f2336a8bb2c4ee79537cfb807e5c139/6bfeeef20a16443d1d3575d77c32aedfa9f0f6cef19e5664a55ec35d66218dc1.md

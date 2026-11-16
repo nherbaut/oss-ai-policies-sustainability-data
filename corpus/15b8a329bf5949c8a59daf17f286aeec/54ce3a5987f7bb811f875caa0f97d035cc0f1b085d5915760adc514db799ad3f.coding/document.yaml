@@ -1,0 +1,26 @@
+hash: 303591d8c46cfe02be0f2035e7d23f1bca423ff2fed5c5561f13541a5963e777
+id: b4c34b9f-f809-40c4-aee6-465693483b85
+metadata:
+  import_document_id: osssaysno:biolab/orange3:root/ROADMAP.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:04+00:00'
+    id: osssaysno:github.com/biolab/orange3:root/ROADMAP.md
+    import_slot: root/ROADMAP.md
+    raw_snapshot: data/osssaysno/policies/biolab/orange3/root/raw/ROADMAP.md
+    resolved_url: https://raw.githubusercontent.com/biolab/orange3/master/ROADMAP.md
+    role: repository_root_document
+    sha256: 303591d8c46cfe02be0f2035e7d23f1bca423ff2fed5c5561f13541a5963e777
+    snapshot: data/osssaysno/policies/biolab/orange3/root/ROADMAP.md
+    status: downloaded
+    text_sha256: 303591d8c46cfe02be0f2035e7d23f1bca423ff2fed5c5561f13541a5963e777
+    url: https://raw.githubusercontent.com/biolab/orange3/master/ROADMAP.md
+  source_archive:
+    member: texts/54ce3a5987f7bb811f875caa0f97d035cc0f1b085d5915760adc514db799ad3f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 303591d8c46cfe02be0f2035e7d23f1bca423ff2fed5c5561f13541a5963e777
+  url: ''
+name: root/ROADMAP.md
+path: corpus/15b8a329bf5949c8a59daf17f286aeec/54ce3a5987f7bb811f875caa0f97d035cc0f1b085d5915760adc514db799ad3f.md

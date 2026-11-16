@@ -1,0 +1,26 @@
+hash: 374d2c18971328e4c8a2ee7fb3c3d14d8e6c4a48a2bc074ea3c1d53c2ae799aa
+id: 29c2a762-d73a-4ce0-aefe-c3922d74c21f
+metadata:
+  import_document_id: osssaysno:nibzard/awesome-agentic-patterns:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:45+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/CLAUDE.md
+    role: repository_root_document
+    sha256: 374d2c18971328e4c8a2ee7fb3c3d14d8e6c4a48a2bc074ea3c1d53c2ae799aa
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 374d2c18971328e4c8a2ee7fb3c3d14d8e6c4a48a2bc074ea3c1d53c2ae799aa
+    url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/CLAUDE.md
+  source_archive:
+    member: texts/521d6862e17733d92c25c5df79266010bd35d115dc39d243d4b9fc72cae366fa.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 374d2c18971328e4c8a2ee7fb3c3d14d8e6c4a48a2bc074ea3c1d53c2ae799aa
+  url: ''
+name: root/CLAUDE.md
+path: corpus/dd94b9ffd2f94e2fbe0e75d0714cd789/521d6862e17733d92c25c5df79266010bd35d115dc39d243d4b9fc72cae366fa.md

@@ -1,0 +1,26 @@
+hash: ea741c005d7c02b3bab989c8b9455aee8548433950c07d6e14aed747a14c35c9
+id: 8ee28e42-333f-41aa-8225-7f93a20ab2bd
+metadata:
+  import_document_id: osssaysno:prefix-dev/pixi:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:32+00:00'
+    id: osssaysno:github.com/prefix-dev/pixi:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/prefix-dev/pixi/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/prefix-dev/pixi/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: ea741c005d7c02b3bab989c8b9455aee8548433950c07d6e14aed747a14c35c9
+    snapshot: data/osssaysno/policies/prefix-dev/pixi/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: ea741c005d7c02b3bab989c8b9455aee8548433950c07d6e14aed747a14c35c9
+    url: https://raw.githubusercontent.com/prefix-dev/pixi/main/CHANGELOG.md
+  source_archive:
+    member: texts/3a4d90347ec8cf8ff43858210d8aa4dd93b3e4d03f6f0dccf9cfd961e4d6c951.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ea741c005d7c02b3bab989c8b9455aee8548433950c07d6e14aed747a14c35c9
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/dfd603d4b0d442bfb064dd4b638d28fb/3a4d90347ec8cf8ff43858210d8aa4dd93b3e4d03f6f0dccf9cfd961e4d6c951.md

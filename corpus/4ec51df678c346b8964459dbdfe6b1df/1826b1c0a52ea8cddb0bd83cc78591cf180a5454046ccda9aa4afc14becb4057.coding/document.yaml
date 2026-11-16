@@ -1,0 +1,26 @@
+hash: edd4fc9990a716ef004c204ac94f810d51f981c08c80187559e683626365b5ee
+id: 8c5b4f9c-0359-4349-b8db-9fb2c4e1ed57
+metadata:
+  import_document_id: osssaysno:openclaw/clawhub:root/DEPRECATIONS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:47+00:00'
+    id: osssaysno:github.com/openclaw/clawhub:root/DEPRECATIONS.md
+    import_slot: root/DEPRECATIONS.md
+    raw_snapshot: data/osssaysno/policies/openclaw/clawhub/root/raw/DEPRECATIONS.md
+    resolved_url: https://raw.githubusercontent.com/openclaw/clawhub/main/DEPRECATIONS.md
+    role: repository_root_document
+    sha256: edd4fc9990a716ef004c204ac94f810d51f981c08c80187559e683626365b5ee
+    snapshot: data/osssaysno/policies/openclaw/clawhub/root/DEPRECATIONS.md
+    status: downloaded
+    text_sha256: edd4fc9990a716ef004c204ac94f810d51f981c08c80187559e683626365b5ee
+    url: https://raw.githubusercontent.com/openclaw/clawhub/main/DEPRECATIONS.md
+  source_archive:
+    member: texts/1826b1c0a52ea8cddb0bd83cc78591cf180a5454046ccda9aa4afc14becb4057.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: edd4fc9990a716ef004c204ac94f810d51f981c08c80187559e683626365b5ee
+  url: ''
+name: root/DEPRECATIONS.md
+path: corpus/4ec51df678c346b8964459dbdfe6b1df/1826b1c0a52ea8cddb0bd83cc78591cf180a5454046ccda9aa4afc14becb4057.md

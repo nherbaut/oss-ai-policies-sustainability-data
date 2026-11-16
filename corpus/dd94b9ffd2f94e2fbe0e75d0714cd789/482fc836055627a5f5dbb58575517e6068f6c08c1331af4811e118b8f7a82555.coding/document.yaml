@@ -1,0 +1,26 @@
+hash: 9ff2740133f62d879db616261ffad898a758062e5d83889bdee96359ef2404bb
+id: c04de952-70bc-42b9-9776-a599a635f8b5
+metadata:
+  import_document_id: osssaysno:nibzard/awesome-agentic-patterns:root/MIGRATION-TO-GIT-LABELS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:46+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:root/MIGRATION-TO-GIT-LABELS.md
+    import_slot: root/MIGRATION-TO-GIT-LABELS.md
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/raw/MIGRATION-TO-GIT-LABELS.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/MIGRATION-TO-GIT-LABELS.md
+    role: repository_root_document
+    sha256: 9ff2740133f62d879db616261ffad898a758062e5d83889bdee96359ef2404bb
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/MIGRATION-TO-GIT-LABELS.md
+    status: downloaded
+    text_sha256: 9ff2740133f62d879db616261ffad898a758062e5d83889bdee96359ef2404bb
+    url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/MIGRATION-TO-GIT-LABELS.md
+  source_archive:
+    member: texts/482fc836055627a5f5dbb58575517e6068f6c08c1331af4811e118b8f7a82555.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9ff2740133f62d879db616261ffad898a758062e5d83889bdee96359ef2404bb
+  url: ''
+name: root/MIGRATION-TO-GIT-LABELS.md
+path: corpus/dd94b9ffd2f94e2fbe0e75d0714cd789/482fc836055627a5f5dbb58575517e6068f6c08c1331af4811e118b8f7a82555.md

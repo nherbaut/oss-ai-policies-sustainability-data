@@ -1,0 +1,37 @@
+hash: 8c3f8cca0d41aff48b0bdcd9b0378b434795b1bff99cbec101263c7ac523f01f
+id: 1c706d3d-0ec3-47da-bacd-982ec2465e8e
+metadata:
+  import_document_id: osssaysno:babel/babel:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:56+00:00'
+    id: osssaysno:github.com/babel/babel:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/babel/babel/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/babel/babel/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 8c3f8cca0d41aff48b0bdcd9b0378b434795b1bff99cbec101263c7ac523f01f
+    snapshot: data/osssaysno/policies/babel/babel/ai_policy.md
+    status: downloaded
+    text_sha256: 8c3f8cca0d41aff48b0bdcd9b0378b434795b1bff99cbec101263c7ac523f01f
+    url: https://github.com/babel/babel/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:03:57+00:00'
+    id: osssaysno:github.com/babel/babel:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/babel/babel/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/babel/babel/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 8c3f8cca0d41aff48b0bdcd9b0378b434795b1bff99cbec101263c7ac523f01f
+    snapshot: data/osssaysno/policies/babel/babel/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 8c3f8cca0d41aff48b0bdcd9b0378b434795b1bff99cbec101263c7ac523f01f
+    url: https://raw.githubusercontent.com/babel/babel/main/AI_POLICY.md
+  source_archive:
+    member: texts/be1258f0fc751421ad225b97c840f7b2f298f1345708e055d517c329a4fcdf4d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8c3f8cca0d41aff48b0bdcd9b0378b434795b1bff99cbec101263c7ac523f01f
+  url: ''
+name: ai_policy.md
+path: corpus/bab031bddab04550b0bce1a0e995ddd3/be1258f0fc751421ad225b97c840f7b2f298f1345708e055d517c329a4fcdf4d.md

@@ -1,0 +1,37 @@
+hash: cce007767bfa7e9df345215b3001e4f51b15370b52c3a41635c907c6692b7ada
+id: 71b4ff82-aed4-4068-bd0f-db30e5bdbef7
+metadata:
+  import_document_id: osssaysno:quickwit-oss/quickwit:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:07+00:00'
+    id: osssaysno:github.com/quickwit-oss/quickwit:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/AGENTS.md
+    role: repository_root_document
+    sha256: cce007767bfa7e9df345215b3001e4f51b15370b52c3a41635c907c6692b7ada
+    snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/AGENTS.md
+    status: downloaded
+    text_sha256: cce007767bfa7e9df345215b3001e4f51b15370b52c3a41635c907c6692b7ada
+    url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:30:07+00:00'
+    id: osssaysno:github.com/quickwit-oss/quickwit:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/AGENTS.md
+    role: repository_root_document
+    sha256: cce007767bfa7e9df345215b3001e4f51b15370b52c3a41635c907c6692b7ada
+    snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/CLAUDE.md
+    status: downloaded
+    text_sha256: cce007767bfa7e9df345215b3001e4f51b15370b52c3a41635c907c6692b7ada
+    url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/CLAUDE.md
+  source_archive:
+    member: texts/d32edceaa1e1da98b50fc3c1590bf6aee7947606d30ae823ee705ea0fc15e272.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cce007767bfa7e9df345215b3001e4f51b15370b52c3a41635c907c6692b7ada
+  url: ''
+name: root/AGENTS.md
+path: corpus/fbdfe8f8cc3f4cf6b1c4e8097a3f7474/d32edceaa1e1da98b50fc3c1590bf6aee7947606d30ae823ee705ea0fc15e272.md

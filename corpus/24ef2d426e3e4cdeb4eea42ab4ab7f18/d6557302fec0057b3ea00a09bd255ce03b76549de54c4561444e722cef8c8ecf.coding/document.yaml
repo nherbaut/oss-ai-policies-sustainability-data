@@ -1,0 +1,26 @@
+hash: ec31b7ca19e26724fcad6850849c7fd9b269c9c40e1f612ca1297ac3a4f542d3
+id: 7b3f7af4-99bc-40d0-a08f-3d60f3a22053
+metadata:
+  import_document_id: osssaysno:crossplane/crossplane:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:51+00:00'
+    id: osssaysno:github.com/crossplane/crossplane:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/crossplane/crossplane/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/crossplane/crossplane/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: ec31b7ca19e26724fcad6850849c7fd9b269c9c40e1f612ca1297ac3a4f542d3
+    snapshot: data/osssaysno/policies/crossplane/crossplane/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: ec31b7ca19e26724fcad6850849c7fd9b269c9c40e1f612ca1297ac3a4f542d3
+    url: https://raw.githubusercontent.com/crossplane/crossplane/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/d6557302fec0057b3ea00a09bd255ce03b76549de54c4561444e722cef8c8ecf.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ec31b7ca19e26724fcad6850849c7fd9b269c9c40e1f612ca1297ac3a4f542d3
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/24ef2d426e3e4cdeb4eea42ab4ab7f18/d6557302fec0057b3ea00a09bd255ce03b76549de54c4561444e722cef8c8ecf.md

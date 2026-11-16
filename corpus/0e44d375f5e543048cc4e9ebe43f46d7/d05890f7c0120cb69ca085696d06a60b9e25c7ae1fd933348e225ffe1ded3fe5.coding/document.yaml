@@ -1,0 +1,26 @@
+hash: e15253b14da9e51080d2c568153b09256ececadc2f2302f0a6086640507026b3
+id: 6eb67895-dba6-4c0f-aa8d-2949f373c2e9
+metadata:
+  import_document_id: osssaysno:redot-engine/redot-engine:root/REDOT_AUTHORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:44+00:00'
+    id: osssaysno:github.com/redot-engine/redot-engine:root/REDOT_AUTHORS.md
+    import_slot: root/REDOT_AUTHORS.md
+    raw_snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/raw/REDOT_AUTHORS.md
+    resolved_url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/REDOT_AUTHORS.md
+    role: repository_root_document
+    sha256: e15253b14da9e51080d2c568153b09256ececadc2f2302f0a6086640507026b3
+    snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/REDOT_AUTHORS.md
+    status: downloaded
+    text_sha256: e15253b14da9e51080d2c568153b09256ececadc2f2302f0a6086640507026b3
+    url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/REDOT_AUTHORS.md
+  source_archive:
+    member: texts/d05890f7c0120cb69ca085696d06a60b9e25c7ae1fd933348e225ffe1ded3fe5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e15253b14da9e51080d2c568153b09256ececadc2f2302f0a6086640507026b3
+  url: ''
+name: root/REDOT_AUTHORS.md
+path: corpus/0e44d375f5e543048cc4e9ebe43f46d7/d05890f7c0120cb69ca085696d06a60b9e25c7ae1fd933348e225ffe1ded3fe5.md

@@ -1,0 +1,26 @@
+hash: 932c1ab0cf6e1e52cb7d25553146d6c2083d02fe39913979ad0bba7d3217a989
+id: b72bd452-f4e6-444a-9b38-3937ca4faa28
+metadata:
+  import_document_id: osssaysno:osaurus-ai/osaurus:root/COMMUNITY_EVALS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:22+00:00'
+    id: osssaysno:github.com/osaurus-ai/osaurus:root/COMMUNITY_EVALS.md
+    import_slot: root/COMMUNITY_EVALS.md
+    raw_snapshot: data/osssaysno/policies/osaurus-ai/osaurus/root/raw/COMMUNITY_EVALS.md
+    resolved_url: https://raw.githubusercontent.com/osaurus-ai/osaurus/main/COMMUNITY_EVALS.md
+    role: repository_root_document
+    sha256: 932c1ab0cf6e1e52cb7d25553146d6c2083d02fe39913979ad0bba7d3217a989
+    snapshot: data/osssaysno/policies/osaurus-ai/osaurus/root/COMMUNITY_EVALS.md
+    status: downloaded
+    text_sha256: 932c1ab0cf6e1e52cb7d25553146d6c2083d02fe39913979ad0bba7d3217a989
+    url: https://raw.githubusercontent.com/osaurus-ai/osaurus/main/COMMUNITY_EVALS.md
+  source_archive:
+    member: texts/7bf1d7eb0853acae07ce1e47b735fe538a47c190e18146ed65e3ca5719b745d1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 932c1ab0cf6e1e52cb7d25553146d6c2083d02fe39913979ad0bba7d3217a989
+  url: ''
+name: root/COMMUNITY_EVALS.md
+path: corpus/01810dbe78814f26891b09468131f138/7bf1d7eb0853acae07ce1e47b735fe538a47c190e18146ed65e3ca5719b745d1.md

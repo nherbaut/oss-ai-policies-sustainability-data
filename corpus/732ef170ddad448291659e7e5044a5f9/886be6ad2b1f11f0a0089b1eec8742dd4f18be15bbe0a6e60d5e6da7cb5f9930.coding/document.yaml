@@ -1,0 +1,26 @@
+hash: 0b0df6c94b4c4f00a0c353710fbf4135595926c3a122fb31b57e2b7f02e98343
+id: 74bb8895-cd1a-4cb0-a21a-a781d6e6338e
+metadata:
+  import_document_id: osssaysno:aws/serverless-application-model:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:42+00:00'
+    id: osssaysno:github.com/aws/serverless-application-model:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/aws/serverless-application-model/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 0b0df6c94b4c4f00a0c353710fbf4135595926c3a122fb31b57e2b7f02e98343
+    snapshot: data/osssaysno/policies/aws/serverless-application-model/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 0b0df6c94b4c4f00a0c353710fbf4135595926c3a122fb31b57e2b7f02e98343
+    url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/886be6ad2b1f11f0a0089b1eec8742dd4f18be15bbe0a6e60d5e6da7cb5f9930.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0b0df6c94b4c4f00a0c353710fbf4135595926c3a122fb31b57e2b7f02e98343
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/732ef170ddad448291659e7e5044a5f9/886be6ad2b1f11f0a0089b1eec8742dd4f18be15bbe0a6e60d5e6da7cb5f9930.md

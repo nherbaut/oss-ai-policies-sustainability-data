@@ -1,0 +1,26 @@
+hash: 97556de84bb73a380b4400021064baa952c8d9e1df8291b1d98809a4a334b195
+id: 8909e7bb-7fc1-4f5a-9807-787c4bfc5a9a
+metadata:
+  import_document_id: osssaysno:project-monai/monai:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:01+00:00'
+    id: osssaysno:github.com/project-monai/monai:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/project-monai/monai/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/README.md
+    role: repository_root_document
+    sha256: 97556de84bb73a380b4400021064baa952c8d9e1df8291b1d98809a4a334b195
+    snapshot: data/osssaysno/policies/project-monai/monai/root/README.md
+    status: downloaded
+    text_sha256: 97556de84bb73a380b4400021064baa952c8d9e1df8291b1d98809a4a334b195
+    url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/README.md
+  source_archive:
+    member: texts/35f7d60268d88b4bb4058a5b4ce704229ad3f39d4b0a75044b3d862885ff88de.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 97556de84bb73a380b4400021064baa952c8d9e1df8291b1d98809a4a334b195
+  url: ''
+name: root/README.md
+path: corpus/b35027ef385649d6a23dcd3dab30ec0f/35f7d60268d88b4bb4058a5b4ce704229ad3f39d4b0a75044b3d862885ff88de.md

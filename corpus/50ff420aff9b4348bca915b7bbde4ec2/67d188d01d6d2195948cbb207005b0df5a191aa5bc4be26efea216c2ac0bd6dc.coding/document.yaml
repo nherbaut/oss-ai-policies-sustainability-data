@@ -1,0 +1,37 @@
+hash: 171d18ce4cb16f4b1a52fb616d33f106d610a683c8a9aee02cf796a25bca3e40
+id: a9d5bde2-b2c9-4eaf-be82-b72442602388
+metadata:
+  import_document_id: osssaysno:grpc/grpc:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:51+00:00'
+    id: osssaysno:github.com/grpc/grpc:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/grpc/grpc/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 171d18ce4cb16f4b1a52fb616d33f106d610a683c8a9aee02cf796a25bca3e40
+    snapshot: data/osssaysno/policies/grpc/grpc/contributing.md
+    status: downloaded
+    text_sha256: 171d18ce4cb16f4b1a52fb616d33f106d610a683c8a9aee02cf796a25bca3e40
+    url: https://github.com/grpc/grpc/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:03:54+00:00'
+    id: osssaysno:github.com/grpc/grpc:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 171d18ce4cb16f4b1a52fb616d33f106d610a683c8a9aee02cf796a25bca3e40
+    snapshot: data/osssaysno/policies/grpc/grpc/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 171d18ce4cb16f4b1a52fb616d33f106d610a683c8a9aee02cf796a25bca3e40
+    url: https://raw.githubusercontent.com/grpc/grpc/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/67d188d01d6d2195948cbb207005b0df5a191aa5bc4be26efea216c2ac0bd6dc.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 171d18ce4cb16f4b1a52fb616d33f106d610a683c8a9aee02cf796a25bca3e40
+  url: ''
+name: contributing.md
+path: corpus/50ff420aff9b4348bca915b7bbde4ec2/67d188d01d6d2195948cbb207005b0df5a191aa5bc4be26efea216c2ac0bd6dc.md

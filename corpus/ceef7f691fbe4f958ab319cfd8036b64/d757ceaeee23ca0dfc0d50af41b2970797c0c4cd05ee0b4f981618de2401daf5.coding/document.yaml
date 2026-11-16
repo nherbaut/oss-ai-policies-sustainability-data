@@ -1,0 +1,26 @@
+hash: 803b71ebc4c5100961e0c6a7bac31b335b7a6d9d78e288cb426be15c726b1c26
+id: 62625e02-e2f8-4b2c-aae0-d85a7346cb68
+metadata:
+  import_document_id: osssaysno:hydro-dev/hydro:root/README-EN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:01+00:00'
+    id: osssaysno:github.com/hydro-dev/hydro:root/README-EN.md
+    import_slot: root/README-EN.md
+    raw_snapshot: data/osssaysno/policies/hydro-dev/hydro/root/raw/README-EN.md
+    resolved_url: https://raw.githubusercontent.com/hydro-dev/Hydro/master/README-EN.md
+    role: repository_root_document
+    sha256: 803b71ebc4c5100961e0c6a7bac31b335b7a6d9d78e288cb426be15c726b1c26
+    snapshot: data/osssaysno/policies/hydro-dev/hydro/root/README-EN.md
+    status: downloaded
+    text_sha256: 803b71ebc4c5100961e0c6a7bac31b335b7a6d9d78e288cb426be15c726b1c26
+    url: https://raw.githubusercontent.com/hydro-dev/Hydro/master/README-EN.md
+  source_archive:
+    member: texts/d757ceaeee23ca0dfc0d50af41b2970797c0c4cd05ee0b4f981618de2401daf5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 803b71ebc4c5100961e0c6a7bac31b335b7a6d9d78e288cb426be15c726b1c26
+  url: ''
+name: root/README-EN.md
+path: corpus/ceef7f691fbe4f958ab319cfd8036b64/d757ceaeee23ca0dfc0d50af41b2970797c0c4cd05ee0b4f981618de2401daf5.md

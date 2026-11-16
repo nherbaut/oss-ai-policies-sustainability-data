@@ -1,0 +1,26 @@
+hash: bbca26f98a2f62e50d607ff6bd6f48778b0303abb32ef37e629f43142dabb83d
+id: e76a682a-9267-498b-bf97-9a0759381d68
+metadata:
+  import_document_id: osssaysno:aws/aws-sam-cli:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:16+00:00'
+    id: osssaysno:github.com/aws/aws-sam-cli:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/aws/aws-sam-cli/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/README.md
+    role: repository_root_document
+    sha256: bbca26f98a2f62e50d607ff6bd6f48778b0303abb32ef37e629f43142dabb83d
+    snapshot: data/osssaysno/policies/aws/aws-sam-cli/root/README.md
+    status: downloaded
+    text_sha256: bbca26f98a2f62e50d607ff6bd6f48778b0303abb32ef37e629f43142dabb83d
+    url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/README.md
+  source_archive:
+    member: texts/3f9adb6e308b7bf40d5bc05fd25a26e487b09a5632b31264f8f7bb4f90286be5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bbca26f98a2f62e50d607ff6bd6f48778b0303abb32ef37e629f43142dabb83d
+  url: ''
+name: root/README.md
+path: corpus/5b1a32658ea14e7eb3725870becf202e/3f9adb6e308b7bf40d5bc05fd25a26e487b09a5632b31264f8f7bb4f90286be5.md

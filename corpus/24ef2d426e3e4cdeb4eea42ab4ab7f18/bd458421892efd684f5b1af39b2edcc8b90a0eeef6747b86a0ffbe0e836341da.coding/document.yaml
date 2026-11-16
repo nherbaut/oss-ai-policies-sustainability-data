@@ -1,0 +1,26 @@
+hash: cf765fba260797f0d663cde7c8a4bab2bee8a46366d7ca12305de7a70ee18c12
+id: 89708be2-7004-430b-8b01-acfa08069cd8
+metadata:
+  import_document_id: osssaysno:crossplane/crossplane:root/ROADMAP.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:53+00:00'
+    id: osssaysno:github.com/crossplane/crossplane:root/ROADMAP.md
+    import_slot: root/ROADMAP.md
+    raw_snapshot: data/osssaysno/policies/crossplane/crossplane/root/raw/ROADMAP.md
+    resolved_url: https://raw.githubusercontent.com/crossplane/crossplane/main/ROADMAP.md
+    role: repository_root_document
+    sha256: cf765fba260797f0d663cde7c8a4bab2bee8a46366d7ca12305de7a70ee18c12
+    snapshot: data/osssaysno/policies/crossplane/crossplane/root/ROADMAP.md
+    status: downloaded
+    text_sha256: cf765fba260797f0d663cde7c8a4bab2bee8a46366d7ca12305de7a70ee18c12
+    url: https://raw.githubusercontent.com/crossplane/crossplane/main/ROADMAP.md
+  source_archive:
+    member: texts/bd458421892efd684f5b1af39b2edcc8b90a0eeef6747b86a0ffbe0e836341da.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cf765fba260797f0d663cde7c8a4bab2bee8a46366d7ca12305de7a70ee18c12
+  url: ''
+name: root/ROADMAP.md
+path: corpus/24ef2d426e3e4cdeb4eea42ab4ab7f18/bd458421892efd684f5b1af39b2edcc8b90a0eeef6747b86a0ffbe0e836341da.md

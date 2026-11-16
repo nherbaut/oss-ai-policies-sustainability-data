@@ -1,0 +1,26 @@
+hash: 2d51b91bed4f4a0aefc4169fd07a93640caed3add1339fcc7ba0e9662bf81f3b
+id: 44caf26c-d95c-4ddd-b4b0-b31d5f34815a
+metadata:
+  import_document_id: osssaysno:babel/babel:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:57+00:00'
+    id: osssaysno:github.com/babel/babel:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/babel/babel/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/babel/babel/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 2d51b91bed4f4a0aefc4169fd07a93640caed3add1339fcc7ba0e9662bf81f3b
+    snapshot: data/osssaysno/policies/babel/babel/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 2d51b91bed4f4a0aefc4169fd07a93640caed3add1339fcc7ba0e9662bf81f3b
+    url: https://raw.githubusercontent.com/babel/babel/main/CHANGELOG.md
+  source_archive:
+    member: texts/213ccee4ef6c108ea0a2d8a82f829ac7450c256d7672634ad6d0db4466d0b2fc.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2d51b91bed4f4a0aefc4169fd07a93640caed3add1339fcc7ba0e9662bf81f3b
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/bab031bddab04550b0bce1a0e995ddd3/213ccee4ef6c108ea0a2d8a82f829ac7450c256d7672634ad6d0db4466d0b2fc.md

@@ -1,0 +1,37 @@
+hash: 9cf293d90e898a679390662cf2d00581a3781c3c9cb805b5551d4da496f017d1
+id: 38217aba-d71e-4c11-aa0c-ec0585dd4b08
+metadata:
+  import_document_id: osssaysno:thanos-io/thanos:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:24+00:00'
+    id: osssaysno:github.com/thanos-io/thanos:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/thanos-io/thanos/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/thanos-io/thanos/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 9cf293d90e898a679390662cf2d00581a3781c3c9cb805b5551d4da496f017d1
+    snapshot: data/osssaysno/policies/thanos-io/thanos/contributing.md
+    status: downloaded
+    text_sha256: 9cf293d90e898a679390662cf2d00581a3781c3c9cb805b5551d4da496f017d1
+    url: https://github.com/thanos-io/thanos/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:26+00:00'
+    id: osssaysno:github.com/thanos-io/thanos:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/thanos-io/thanos/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/thanos-io/thanos/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 9cf293d90e898a679390662cf2d00581a3781c3c9cb805b5551d4da496f017d1
+    snapshot: data/osssaysno/policies/thanos-io/thanos/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 9cf293d90e898a679390662cf2d00581a3781c3c9cb805b5551d4da496f017d1
+    url: https://raw.githubusercontent.com/thanos-io/thanos/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/683adf0680536125fc006d2d41f0dfc86114cf71245e74759c94e14c870d7114.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9cf293d90e898a679390662cf2d00581a3781c3c9cb805b5551d4da496f017d1
+  url: ''
+name: contributing.md
+path: corpus/2c21c2a5cbd542729d4f6e311e838ba5/683adf0680536125fc006d2d41f0dfc86114cf71245e74759c94e14c870d7114.md

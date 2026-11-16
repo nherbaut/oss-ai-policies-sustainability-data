@@ -1,0 +1,26 @@
+hash: ca8b7331def74104f616685e2993a6f7e5d594566e88d88ec8ae03e36923f364
+id: f82a0416-0cf3-45ae-a687-daa3bb7626b9
+metadata:
+  import_document_id: osssaysno:jaegertracing/jaeger:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:31+00:00'
+    id: osssaysno:github.com/jaegertracing/jaeger:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/SECURITY.md
+    role: repository_root_document
+    sha256: ca8b7331def74104f616685e2993a6f7e5d594566e88d88ec8ae03e36923f364
+    snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/SECURITY.md
+    status: downloaded
+    text_sha256: ca8b7331def74104f616685e2993a6f7e5d594566e88d88ec8ae03e36923f364
+    url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/SECURITY.md
+  source_archive:
+    member: texts/c84f76c1448a432a1ee8775fcfd1821f918362e97f0669001890fccad929e9f4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ca8b7331def74104f616685e2993a6f7e5d594566e88d88ec8ae03e36923f364
+  url: ''
+name: root/SECURITY.md
+path: corpus/d4874f79daba4aeb9c2061c4f44e4aa4/c84f76c1448a432a1ee8775fcfd1821f918362e97f0669001890fccad929e9f4.md

@@ -1,0 +1,26 @@
+hash: 0924eaceee4852c9911b3eea22da4f0b7ab94ff73568e480701d750bea64ebf9
+id: 79a3deee-1bf8-4394-b9cf-0c7c39229f0c
+metadata:
+  import_document_id: osssaysno:ankidroid/anki-android:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:55+00:00'
+    id: osssaysno:github.com/ankidroid/anki-android:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/ankidroid/anki-android/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/ankidroid/Anki-Android/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 0924eaceee4852c9911b3eea22da4f0b7ab94ff73568e480701d750bea64ebf9
+    snapshot: data/osssaysno/policies/ankidroid/anki-android/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 0924eaceee4852c9911b3eea22da4f0b7ab94ff73568e480701d750bea64ebf9
+    url: https://raw.githubusercontent.com/ankidroid/Anki-Android/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/c3c5942e113e2fd9aa98746b9fe293d4d53d086fa7282878dcf22126d05a6f3f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0924eaceee4852c9911b3eea22da4f0b7ab94ff73568e480701d750bea64ebf9
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/1ddf5182b1604a9998d8888d4fdec3bc/c3c5942e113e2fd9aa98746b9fe293d4d53d086fa7282878dcf22126d05a6f3f.md

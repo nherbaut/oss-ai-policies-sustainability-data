@@ -1,0 +1,37 @@
+hash: c6dd4573868c3ef69e104bad03c286e5ec53f6390b71ce7ef26505c93fa014e7
+id: 3c85f1bc-f59a-4102-8bea-71ef4a69250b
+metadata:
+  import_document_id: osssaysno:tanstack/query:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:45+00:00'
+    id: osssaysno:github.com/tanstack/query:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/tanstack/query/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/TanStack/query/main/AI_POLICY.md
+    role: ai_policy
+    sha256: c6dd4573868c3ef69e104bad03c286e5ec53f6390b71ce7ef26505c93fa014e7
+    snapshot: data/osssaysno/policies/tanstack/query/ai_policy.md
+    status: downloaded
+    text_sha256: c6dd4573868c3ef69e104bad03c286e5ec53f6390b71ce7ef26505c93fa014e7
+    url: https://github.com/TanStack/query/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:03:46+00:00'
+    id: osssaysno:github.com/tanstack/query:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/tanstack/query/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/TanStack/query/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: c6dd4573868c3ef69e104bad03c286e5ec53f6390b71ce7ef26505c93fa014e7
+    snapshot: data/osssaysno/policies/tanstack/query/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: c6dd4573868c3ef69e104bad03c286e5ec53f6390b71ce7ef26505c93fa014e7
+    url: https://raw.githubusercontent.com/TanStack/query/main/AI_POLICY.md
+  source_archive:
+    member: texts/e57c192492475bd47b408e1738d73acf6da9c1930ae83a6405acd2af5a1ee130.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c6dd4573868c3ef69e104bad03c286e5ec53f6390b71ce7ef26505c93fa014e7
+  url: ''
+name: ai_policy.md
+path: corpus/b02425437a2240968d1781a015be471d/e57c192492475bd47b408e1738d73acf6da9c1930ae83a6405acd2af5a1ee130.md

@@ -1,0 +1,37 @@
+hash: e99e228cfcde9b4996d723cb71818dedf0a0e2e30ae2856c62188852cc1d5fad
+id: b2e34157-898e-4514-ad24-59a5786d3187
+metadata:
+  import_document_id: osssaysno:nirdiamant/genai_agents:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:22+00:00'
+    id: osssaysno:github.com/nirdiamant/genai_agents:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/nirdiamant/genai_agents/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/NirDiamant/GenAI_Agents/main/CONTRIBUTING.md
+    role: contributing
+    sha256: e99e228cfcde9b4996d723cb71818dedf0a0e2e30ae2856c62188852cc1d5fad
+    snapshot: data/osssaysno/policies/nirdiamant/genai_agents/contributing.md
+    status: downloaded
+    text_sha256: e99e228cfcde9b4996d723cb71818dedf0a0e2e30ae2856c62188852cc1d5fad
+    url: https://github.com/NirDiamant/GenAI_Agents/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:28:23+00:00'
+    id: osssaysno:github.com/nirdiamant/genai_agents:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/nirdiamant/genai_agents/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/NirDiamant/GenAI_Agents/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: e99e228cfcde9b4996d723cb71818dedf0a0e2e30ae2856c62188852cc1d5fad
+    snapshot: data/osssaysno/policies/nirdiamant/genai_agents/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: e99e228cfcde9b4996d723cb71818dedf0a0e2e30ae2856c62188852cc1d5fad
+    url: https://raw.githubusercontent.com/NirDiamant/GenAI_Agents/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/c4786457589913b1eb290daadb13c1871f65c1cdef255c0a6eadadc189eb38fb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e99e228cfcde9b4996d723cb71818dedf0a0e2e30ae2856c62188852cc1d5fad
+  url: ''
+name: contributing.md
+path: corpus/294f34f2ce06422bb75d78341fe435d8/c4786457589913b1eb290daadb13c1871f65c1cdef255c0a6eadadc189eb38fb.md

@@ -1,0 +1,37 @@
+hash: 84937fc499490b9c3f1a2c903a39b83d9022349b44374b4c6e778145f3a809d4
+id: 6d137f49-3364-49e4-bd32-2d3667bb6e83
+metadata:
+  import_document_id: osssaysno:marker-inc-korea/autorag:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:03+00:00'
+    id: osssaysno:github.com/marker-inc-korea/autorag:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/marker-inc-korea/autorag/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 84937fc499490b9c3f1a2c903a39b83d9022349b44374b4c6e778145f3a809d4
+    snapshot: data/osssaysno/policies/marker-inc-korea/autorag/contributing.md
+    status: downloaded
+    text_sha256: 84937fc499490b9c3f1a2c903a39b83d9022349b44374b4c6e778145f3a809d4
+    url: https://github.com/Marker-Inc-Korea/AutoRAG/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:38:20+00:00'
+    id: osssaysno:github.com/marker-inc-korea/autorag:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 84937fc499490b9c3f1a2c903a39b83d9022349b44374b4c6e778145f3a809d4
+    snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 84937fc499490b9c3f1a2c903a39b83d9022349b44374b4c6e778145f3a809d4
+    url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/767c69ddd18908d34e0f562770af3a22db9b2e88720ba2623d3d539f0aec98e2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 84937fc499490b9c3f1a2c903a39b83d9022349b44374b4c6e778145f3a809d4
+  url: ''
+name: contributing.md
+path: corpus/07f04e5858214a75a7a0ae0724922a33/767c69ddd18908d34e0f562770af3a22db9b2e88720ba2623d3d539f0aec98e2.md

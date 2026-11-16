@@ -1,0 +1,26 @@
+hash: 92c9dd1a7f93e891d5937481fffe858eb0e2f13d423867a3eef11ef26cb35cd1
+id: 7cc09d4f-c850-4424-bebf-ac0c1ae2ff34
+metadata:
+  import_document_id: osssaysno:veloren/veloren:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:42+00:00'
+    id: osssaysno:github.com/veloren/veloren:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/veloren/veloren/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/veloren/veloren/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: 92c9dd1a7f93e891d5937481fffe858eb0e2f13d423867a3eef11ef26cb35cd1
+    snapshot: data/osssaysno/policies/veloren/veloren/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 92c9dd1a7f93e891d5937481fffe858eb0e2f13d423867a3eef11ef26cb35cd1
+    url: https://raw.githubusercontent.com/veloren/veloren/master/CHANGELOG.md
+  source_archive:
+    member: texts/dd4867a134204795c83859d57ed79a69d995dccc6740ad771fe9770ca82e7337.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 92c9dd1a7f93e891d5937481fffe858eb0e2f13d423867a3eef11ef26cb35cd1
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/99d6f495dd9d4f33bf3540a518d359ca/dd4867a134204795c83859d57ed79a69d995dccc6740ad771fe9770ca82e7337.md

@@ -1,0 +1,26 @@
+hash: 6a4b3048d6e2d5e6441466255fa24de6427e451efb0867567859714dd6cf55a6
+id: 40c3c6a5-cabd-4ff7-9097-d55f2ce26273
+metadata:
+  import_document_id: osssaysno:kludex/uvicorn:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:17+00:00'
+    id: osssaysno:github.com/kludex/uvicorn:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/kludex/uvicorn/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/Kludex/uvicorn/main/docs/release-notes.md
+    role: repository_root_document
+    sha256: 6a4b3048d6e2d5e6441466255fa24de6427e451efb0867567859714dd6cf55a6
+    snapshot: data/osssaysno/policies/kludex/uvicorn/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 6a4b3048d6e2d5e6441466255fa24de6427e451efb0867567859714dd6cf55a6
+    url: https://raw.githubusercontent.com/Kludex/uvicorn/main/CHANGELOG.md
+  source_archive:
+    member: texts/987ed2df1ca3934be33da1c48eb87913b885deb6376401f88ee3553e52d3710b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6a4b3048d6e2d5e6441466255fa24de6427e451efb0867567859714dd6cf55a6
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/e4687bc7acdc47d89f1bd082d7b916e1/987ed2df1ca3934be33da1c48eb87913b885deb6376401f88ee3553e52d3710b.md

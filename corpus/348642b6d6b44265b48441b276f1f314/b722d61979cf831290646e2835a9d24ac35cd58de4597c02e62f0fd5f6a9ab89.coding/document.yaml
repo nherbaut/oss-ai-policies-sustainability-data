@@ -1,0 +1,26 @@
+hash: ede36b9890d9c87f74b0b6292ae6d9c409d9b993a66eabacf57ef57e24733503
+id: 586f7898-9ee6-44ee-b957-fd5c8c124656
+metadata:
+  import_document_id: osssaysno:Codeberg:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:51+00:00'
+    id: osssaysno:https://codeberg.org:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/Codeberg/raw/ai_policy.md
+    resolved_url: https://codeberg.org/Codeberg/org/raw/branch/main/TermsOfUse.md
+    role: ai_policy
+    sha256: ede36b9890d9c87f74b0b6292ae6d9c409d9b993a66eabacf57ef57e24733503
+    snapshot: data/osssaysno/policies/Codeberg/ai_policy.md
+    status: downloaded
+    text_sha256: ede36b9890d9c87f74b0b6292ae6d9c409d9b993a66eabacf57ef57e24733503
+    url: https://codeberg.org/Codeberg/org/raw/branch/main/TermsOfUse.md
+  source_archive:
+    member: texts/b722d61979cf831290646e2835a9d24ac35cd58de4597c02e62f0fd5f6a9ab89.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ede36b9890d9c87f74b0b6292ae6d9c409d9b993a66eabacf57ef57e24733503
+  url: ''
+name: ai_policy.md
+path: corpus/348642b6d6b44265b48441b276f1f314/b722d61979cf831290646e2835a9d24ac35cd58de4597c02e62f0fd5f6a9ab89.md

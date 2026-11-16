@@ -1,0 +1,37 @@
+hash: 8e3e4579161b73765f0afade35c05cb784fb93b63dd522be4526f6bf7cf5b8b8
+id: 7b4068e2-e149-4f99-af9d-e3c0bc25e549
+metadata:
+  import_document_id: osssaysno:aws/serverless-application-model:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:31+00:00'
+    id: osssaysno:github.com/aws/serverless-application-model:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/aws/serverless-application-model/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/CONTRIBUTING.md
+    role: contributing
+    sha256: 8e3e4579161b73765f0afade35c05cb784fb93b63dd522be4526f6bf7cf5b8b8
+    snapshot: data/osssaysno/policies/aws/serverless-application-model/contributing.md
+    status: downloaded
+    text_sha256: 8e3e4579161b73765f0afade35c05cb784fb93b63dd522be4526f6bf7cf5b8b8
+    url: https://github.com/aws/serverless-application-model/blob/develop/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:35:43+00:00'
+    id: osssaysno:github.com/aws/serverless-application-model:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/aws/serverless-application-model/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 8e3e4579161b73765f0afade35c05cb784fb93b63dd522be4526f6bf7cf5b8b8
+    snapshot: data/osssaysno/policies/aws/serverless-application-model/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 8e3e4579161b73765f0afade35c05cb784fb93b63dd522be4526f6bf7cf5b8b8
+    url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/CONTRIBUTING.md
+  source_archive:
+    member: texts/3601b1f0c46b593b03b8900e5f743fe31042ef43a92fcf520624101f3ef15ab7.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8e3e4579161b73765f0afade35c05cb784fb93b63dd522be4526f6bf7cf5b8b8
+  url: ''
+name: contributing.md
+path: corpus/732ef170ddad448291659e7e5044a5f9/3601b1f0c46b593b03b8900e5f743fe31042ef43a92fcf520624101f3ef15ab7.md

@@ -1,0 +1,26 @@
+hash: 228d535cea9572b0d015e080e57c25ec7a37eb510076935b8aaf60f4a36c0913
+id: af839e1e-e069-4be2-afc7-410dfed1337b
+metadata:
+  import_document_id: osssaysno:streetcomplete/streetcomplete:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:39+00:00'
+    id: osssaysno:github.com/streetcomplete/streetcomplete:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: 228d535cea9572b0d015e080e57c25ec7a37eb510076935b8aaf60f4a36c0913
+    snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 228d535cea9572b0d015e080e57c25ec7a37eb510076935b8aaf60f4a36c0913
+    url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/CHANGELOG.md
+  source_archive:
+    member: texts/e2058c7403a18e6b204fea0d9bb5504069b7ec18e0fb3d9f66870f37a3ada255.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 228d535cea9572b0d015e080e57c25ec7a37eb510076935b8aaf60f4a36c0913
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/050ac2b3413949c585d72c712f99899a/e2058c7403a18e6b204fea0d9bb5504069b7ec18e0fb3d9f66870f37a3ada255.md

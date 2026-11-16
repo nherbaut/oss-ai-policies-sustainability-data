@@ -1,0 +1,26 @@
+hash: 1e217794b977a6052f6372e52a473495ace95bb3dbdd01b9ea72b2c89a40333f
+id: 3c6c1a63-24e9-4b9e-9a85-a64cea23ff1f
+metadata:
+  import_document_id: osssaysno:dlvhdr/gh-dash:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:43+00:00'
+    id: osssaysno:github.com/dlvhdr/gh-dash:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/dlvhdr/gh-dash/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/dlvhdr/gh-dash/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 1e217794b977a6052f6372e52a473495ace95bb3dbdd01b9ea72b2c89a40333f
+    snapshot: data/osssaysno/policies/dlvhdr/gh-dash/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 1e217794b977a6052f6372e52a473495ace95bb3dbdd01b9ea72b2c89a40333f
+    url: https://raw.githubusercontent.com/dlvhdr/gh-dash/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/486994355d47f71aae1b2a10a8fa4adaad59693f0b06632f41af2fd6c8bda8ae.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1e217794b977a6052f6372e52a473495ace95bb3dbdd01b9ea72b2c89a40333f
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/b9cd6680c9a14810903130a2ca9a1aa8/486994355d47f71aae1b2a10a8fa4adaad59693f0b06632f41af2fd6c8bda8ae.md

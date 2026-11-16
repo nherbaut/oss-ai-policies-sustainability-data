@@ -1,0 +1,26 @@
+hash: 82a4d8f0026f7450529aa2e82b6fb48081a1d11e0c8801dabc5bd5b51d09c7fd
+id: 17540b34-0278-4daf-9d1c-95e27ff750d0
+metadata:
+  import_document_id: osssaysno:google/elephant-goldfish-model:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:26+00:00'
+    id: osssaysno:github.com/google/elephant-goldfish-model:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/google/elephant-goldfish-model/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 82a4d8f0026f7450529aa2e82b6fb48081a1d11e0c8801dabc5bd5b51d09c7fd
+    snapshot: data/osssaysno/policies/google/elephant-goldfish-model/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 82a4d8f0026f7450529aa2e82b6fb48081a1d11e0c8801dabc5bd5b51d09c7fd
+    url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/4d2e8c8a89297e23cd1d2e25c2faccf0dcae5d548aef9f4caac8669da37f7b8a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 82a4d8f0026f7450529aa2e82b6fb48081a1d11e0c8801dabc5bd5b51d09c7fd
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/76d4b344a9f444fd880e6ffcdfc6209e/4d2e8c8a89297e23cd1d2e25c2faccf0dcae5d548aef9f4caac8669da37f7b8a.md

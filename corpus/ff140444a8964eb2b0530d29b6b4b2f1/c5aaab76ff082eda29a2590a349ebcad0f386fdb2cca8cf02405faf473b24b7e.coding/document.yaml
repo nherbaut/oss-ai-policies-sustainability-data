@@ -1,0 +1,26 @@
+hash: f0d8e85cf73297c0059da2d8cf558224f574105da201a86c21be8cb902b2e76f
+id: e0488589-2f30-4e39-8023-0adbb9be90ef
+metadata:
+  import_document_id: osssaysno:azure/azure-sdk-for-python:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:06+00:00'
+    id: osssaysno:github.com/azure/azure-sdk-for-python:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/azure/azure-sdk-for-python/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/Azure/azure-sdk-for-python/main/SECURITY.md
+    role: repository_root_document
+    sha256: f0d8e85cf73297c0059da2d8cf558224f574105da201a86c21be8cb902b2e76f
+    snapshot: data/osssaysno/policies/azure/azure-sdk-for-python/root/SECURITY.md
+    status: downloaded
+    text_sha256: f0d8e85cf73297c0059da2d8cf558224f574105da201a86c21be8cb902b2e76f
+    url: https://raw.githubusercontent.com/Azure/azure-sdk-for-python/main/SECURITY.md
+  source_archive:
+    member: texts/c5aaab76ff082eda29a2590a349ebcad0f386fdb2cca8cf02405faf473b24b7e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f0d8e85cf73297c0059da2d8cf558224f574105da201a86c21be8cb902b2e76f
+  url: ''
+name: root/SECURITY.md
+path: corpus/ff140444a8964eb2b0530d29b6b4b2f1/c5aaab76ff082eda29a2590a349ebcad0f386fdb2cca8cf02405faf473b24b7e.md

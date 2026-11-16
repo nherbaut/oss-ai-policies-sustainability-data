@@ -1,0 +1,26 @@
+hash: 2b4acb9a35fc4bad07141b52edc29f09b4f4a5c01f6f0cc26ec76f521d7853d5
+id: 52ee7ad2-3cd9-4691-bda9-01111b0795ce
+metadata:
+  import_document_id: osssaysno:babel/babel:root/SONG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:59+00:00'
+    id: osssaysno:github.com/babel/babel:root/SONG.md
+    import_slot: root/SONG.md
+    raw_snapshot: data/osssaysno/policies/babel/babel/root/raw/SONG.md
+    resolved_url: https://raw.githubusercontent.com/babel/babel/main/SONG.md
+    role: repository_root_document
+    sha256: 2b4acb9a35fc4bad07141b52edc29f09b4f4a5c01f6f0cc26ec76f521d7853d5
+    snapshot: data/osssaysno/policies/babel/babel/root/SONG.md
+    status: downloaded
+    text_sha256: 2b4acb9a35fc4bad07141b52edc29f09b4f4a5c01f6f0cc26ec76f521d7853d5
+    url: https://raw.githubusercontent.com/babel/babel/main/SONG.md
+  source_archive:
+    member: texts/9b38c0ae0893f99d99c65cf67bae1ec8a1c5851e351ec93a529ad7720ce31779.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2b4acb9a35fc4bad07141b52edc29f09b4f4a5c01f6f0cc26ec76f521d7853d5
+  url: ''
+name: root/SONG.md
+path: corpus/bab031bddab04550b0bce1a0e995ddd3/9b38c0ae0893f99d99c65cf67bae1ec8a1c5851e351ec93a529ad7720ce31779.md

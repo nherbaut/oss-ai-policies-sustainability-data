@@ -1,0 +1,37 @@
+hash: 0ab3e11b4f9c4c68ce512aceacae3dbf83ec53327af0ba6de7e6d50b1a7822d4
+id: c1556a58-3b51-417a-920b-fce46a883263
+metadata:
+  import_document_id: osssaysno:microsoft/generative-ai-for-beginners:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:19+00:00'
+    id: osssaysno:github.com/microsoft/generative-ai-for-beginners:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 0ab3e11b4f9c4c68ce512aceacae3dbf83ec53327af0ba6de7e6d50b1a7822d4
+    snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/contributing.md
+    status: downloaded
+    text_sha256: 0ab3e11b4f9c4c68ce512aceacae3dbf83ec53327af0ba6de7e6d50b1a7822d4
+    url: https://github.com/microsoft/generative-ai-for-beginners/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:03:21+00:00'
+    id: osssaysno:github.com/microsoft/generative-ai-for-beginners:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 0ab3e11b4f9c4c68ce512aceacae3dbf83ec53327af0ba6de7e6d50b1a7822d4
+    snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 0ab3e11b4f9c4c68ce512aceacae3dbf83ec53327af0ba6de7e6d50b1a7822d4
+    url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/61e5f41a6d0540e3fd8b436276ea21e7f58c588be281e0785b9d4f838faa9761.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0ab3e11b4f9c4c68ce512aceacae3dbf83ec53327af0ba6de7e6d50b1a7822d4
+  url: ''
+name: contributing.md
+path: corpus/4b61fce5a7204fe59b2dd4c442d24d6f/61e5f41a6d0540e3fd8b436276ea21e7f58c588be281e0785b9d4f838faa9761.md

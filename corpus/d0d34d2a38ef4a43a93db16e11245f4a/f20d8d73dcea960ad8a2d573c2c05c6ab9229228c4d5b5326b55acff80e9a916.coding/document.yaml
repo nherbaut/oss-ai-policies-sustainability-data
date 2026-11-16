@@ -1,0 +1,26 @@
+hash: b3148e285147bb699a6581b7366a37b10071fb9190989ad5e5b796d475926a9a
+id: e023086f-abf4-4c38-82a7-52a534ff9637
+metadata:
+  import_document_id: osssaysno:pdfcpu/pdfcpu:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:00+00:00'
+    id: osssaysno:github.com/pdfcpu/pdfcpu:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/pdfcpu/pdfcpu/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/pdfcpu/pdfcpu/master/SECURITY.md
+    role: repository_root_document
+    sha256: b3148e285147bb699a6581b7366a37b10071fb9190989ad5e5b796d475926a9a
+    snapshot: data/osssaysno/policies/pdfcpu/pdfcpu/root/SECURITY.md
+    status: downloaded
+    text_sha256: b3148e285147bb699a6581b7366a37b10071fb9190989ad5e5b796d475926a9a
+    url: https://raw.githubusercontent.com/pdfcpu/pdfcpu/master/SECURITY.md
+  source_archive:
+    member: texts/f20d8d73dcea960ad8a2d573c2c05c6ab9229228c4d5b5326b55acff80e9a916.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b3148e285147bb699a6581b7366a37b10071fb9190989ad5e5b796d475926a9a
+  url: ''
+name: root/SECURITY.md
+path: corpus/d0d34d2a38ef4a43a93db16e11245f4a/f20d8d73dcea960ad8a2d573c2c05c6ab9229228c4d5b5326b55acff80e9a916.md

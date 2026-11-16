@@ -1,0 +1,26 @@
+hash: 162983c3c6a66306fcaa2588fb421b7fab55e5af04ec3bbf5e63d81122308194
+id: 5dd6897c-4ae5-4a79-8b44-2ad73b43790a
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:12+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/GOVERNANCE.md
+    role: repository_root_document
+    sha256: 162983c3c6a66306fcaa2588fb421b7fab55e5af04ec3bbf5e63d81122308194
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: 162983c3c6a66306fcaa2588fb421b7fab55e5af04ec3bbf5e63d81122308194
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/GOVERNANCE.md
+  source_archive:
+    member: texts/c97354704fdd44f3e3c85eeb4fcb276cdf50e5eba406c109c1ad136c01367bc9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 162983c3c6a66306fcaa2588fb421b7fab55e5af04ec3bbf5e63d81122308194
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/c97354704fdd44f3e3c85eeb4fcb276cdf50e5eba406c109c1ad136c01367bc9.md

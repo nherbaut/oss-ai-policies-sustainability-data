@@ -1,0 +1,26 @@
+hash: b199717d0140b89f1b6bfd44f06de1610ede0bbef4b41232c04580837aeb8b13
+id: 3c624cfe-5e4a-4268-9da6-89c0b3c88089
+metadata:
+  import_document_id: osssaysno:valhalla/valhalla:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:33+00:00'
+    id: osssaysno:github.com/valhalla/valhalla:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/valhalla/valhalla/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/valhalla/valhalla/master/LICENSE.md
+    role: repository_root_document
+    sha256: b199717d0140b89f1b6bfd44f06de1610ede0bbef4b41232c04580837aeb8b13
+    snapshot: data/osssaysno/policies/valhalla/valhalla/root/LICENSE.md
+    status: downloaded
+    text_sha256: b199717d0140b89f1b6bfd44f06de1610ede0bbef4b41232c04580837aeb8b13
+    url: https://raw.githubusercontent.com/valhalla/valhalla/master/LICENSE.md
+  source_archive:
+    member: texts/c9b49babe0167410cd9de5848f45485e88e51fc347819dfde1cf16f8585582a4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b199717d0140b89f1b6bfd44f06de1610ede0bbef4b41232c04580837aeb8b13
+  url: ''
+name: root/LICENSE.md
+path: corpus/630810638ca649c29ad30e0baf904285/c9b49babe0167410cd9de5848f45485e88e51fc347819dfde1cf16f8585582a4.md

@@ -1,0 +1,37 @@
+hash: 4cf4b91150ae13c97d484ba0a190755d90b357df303736c4ce34f1b39a22ccbe
+id: 2c8fa587-21fb-4b31-aa7e-f24d8b1b7380
+metadata:
+  import_document_id: osssaysno:yargs/yargs:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:14+00:00'
+    id: osssaysno:github.com/yargs/yargs:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/yargs/yargs/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/yargs/yargs/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 4cf4b91150ae13c97d484ba0a190755d90b357df303736c4ce34f1b39a22ccbe
+    snapshot: data/osssaysno/policies/yargs/yargs/ai_policy.md
+    status: downloaded
+    text_sha256: 4cf4b91150ae13c97d484ba0a190755d90b357df303736c4ce34f1b39a22ccbe
+    url: https://github.com/yargs/yargs/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:30:15+00:00'
+    id: osssaysno:github.com/yargs/yargs:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/yargs/yargs/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/yargs/yargs/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 4cf4b91150ae13c97d484ba0a190755d90b357df303736c4ce34f1b39a22ccbe
+    snapshot: data/osssaysno/policies/yargs/yargs/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 4cf4b91150ae13c97d484ba0a190755d90b357df303736c4ce34f1b39a22ccbe
+    url: https://raw.githubusercontent.com/yargs/yargs/main/AI_POLICY.md
+  source_archive:
+    member: texts/d94ec688c287c264832f763a2d71840f7160e6cb001bf2e846a5e37267b5915b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4cf4b91150ae13c97d484ba0a190755d90b357df303736c4ce34f1b39a22ccbe
+  url: ''
+name: ai_policy.md
+path: corpus/9b5950d5f7af4622b7cc32c19b9118f3/d94ec688c287c264832f763a2d71840f7160e6cb001bf2e846a5e37267b5915b.md

@@ -1,0 +1,37 @@
+hash: 47a9aeeb8eded1d85e0178cc567dc20106012a4d059a71756e721f4cbafaf890
+id: 7dbe14c1-2808-428e-8628-f5885b0130fb
+metadata:
+  import_document_id: osssaysno:pomerium/pomerium:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:42+00:00'
+    id: osssaysno:github.com/pomerium/pomerium:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/pomerium/pomerium/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/pomerium/pomerium/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 47a9aeeb8eded1d85e0178cc567dc20106012a4d059a71756e721f4cbafaf890
+    snapshot: data/osssaysno/policies/pomerium/pomerium/ai_policy.md
+    status: downloaded
+    text_sha256: 47a9aeeb8eded1d85e0178cc567dc20106012a4d059a71756e721f4cbafaf890
+    url: https://github.com/pomerium/pomerium/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:04:43+00:00'
+    id: osssaysno:github.com/pomerium/pomerium:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/pomerium/pomerium/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/pomerium/pomerium/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 47a9aeeb8eded1d85e0178cc567dc20106012a4d059a71756e721f4cbafaf890
+    snapshot: data/osssaysno/policies/pomerium/pomerium/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 47a9aeeb8eded1d85e0178cc567dc20106012a4d059a71756e721f4cbafaf890
+    url: https://raw.githubusercontent.com/pomerium/pomerium/main/AI_POLICY.md
+  source_archive:
+    member: texts/b48fa4188e925acbc1c4622bce0cba6705a7ff51094df65419fd3f03fd105924.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 47a9aeeb8eded1d85e0178cc567dc20106012a4d059a71756e721f4cbafaf890
+  url: ''
+name: ai_policy.md
+path: corpus/674a5f06023d434bbadeacb460629b06/b48fa4188e925acbc1c4622bce0cba6705a7ff51094df65419fd3f03fd105924.md

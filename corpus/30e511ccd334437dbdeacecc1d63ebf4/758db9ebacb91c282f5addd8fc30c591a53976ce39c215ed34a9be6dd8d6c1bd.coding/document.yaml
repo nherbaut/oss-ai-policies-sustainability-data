@@ -1,0 +1,26 @@
+hash: d9fadbccb61eaf384246fc20b6f07125a749153855f79dd04ec0c56079454566
+id: 354159f6-9e64-40c2-b6cd-becdf5867c5d
+metadata:
+  import_document_id: osssaysno:joomla/joomla-cms:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:29+00:00'
+    id: osssaysno:github.com/joomla/joomla-cms:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/joomla/joomla-cms/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/joomla/joomla-cms/6.2-dev/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: d9fadbccb61eaf384246fc20b6f07125a749153855f79dd04ec0c56079454566
+    snapshot: data/osssaysno/policies/joomla/joomla-cms/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: d9fadbccb61eaf384246fc20b6f07125a749153855f79dd04ec0c56079454566
+    url: https://raw.githubusercontent.com/joomla/joomla-cms/6.2-dev/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/758db9ebacb91c282f5addd8fc30c591a53976ce39c215ed34a9be6dd8d6c1bd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d9fadbccb61eaf384246fc20b6f07125a749153855f79dd04ec0c56079454566
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/30e511ccd334437dbdeacecc1d63ebf4/758db9ebacb91c282f5addd8fc30c591a53976ce39c215ed34a9be6dd8d6c1bd.md

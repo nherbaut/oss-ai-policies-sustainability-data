@@ -1,0 +1,26 @@
+hash: f9834576ca27ca0a4620fb33371c5c056278c6b8f45a1889b8e6e70867db91ab
+id: 64c6ea27-6748-4817-a781-aeafd2fdcbfd
+metadata:
+  import_document_id: osssaysno:microsoft/generative-ai-for-beginners:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:20+00:00'
+    id: osssaysno:github.com/microsoft/generative-ai-for-beginners:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: f9834576ca27ca0a4620fb33371c5c056278c6b8f45a1889b8e6e70867db91ab
+    snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: f9834576ca27ca0a4620fb33371c5c056278c6b8f45a1889b8e6e70867db91ab
+    url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/CHANGELOG.md
+  source_archive:
+    member: texts/c6323335265045501b7d2b874eb0d5785c326a84c11bf36bb99b5ff45a31c032.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f9834576ca27ca0a4620fb33371c5c056278c6b8f45a1889b8e6e70867db91ab
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/4b61fce5a7204fe59b2dd4c442d24d6f/c6323335265045501b7d2b874eb0d5785c326a84c11bf36bb99b5ff45a31c032.md

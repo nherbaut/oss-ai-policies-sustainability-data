@@ -1,0 +1,26 @@
+hash: b6c98a98e13c54d0fd19e67f3048eb7cb098a8126e261c1aacb4be54aaec1bd9
+id: dda65d4b-85c7-40ae-bf36-23b4ea7dfa9e
+metadata:
+  import_document_id: osssaysno:py-pdf/pypdf:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:18+00:00'
+    id: osssaysno:github.com/py-pdf/pypdf:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/py-pdf/pypdf/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/py-pdf/pypdf/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: b6c98a98e13c54d0fd19e67f3048eb7cb098a8126e261c1aacb4be54aaec1bd9
+    snapshot: data/osssaysno/policies/py-pdf/pypdf/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: b6c98a98e13c54d0fd19e67f3048eb7cb098a8126e261c1aacb4be54aaec1bd9
+    url: https://raw.githubusercontent.com/py-pdf/pypdf/main/CHANGELOG.md
+  source_archive:
+    member: texts/12163180bf5fe31c3c079c49aba032d58a927ac8e48d1fbf9824b1a37b863a15.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b6c98a98e13c54d0fd19e67f3048eb7cb098a8126e261c1aacb4be54aaec1bd9
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/114c2a22aca7414b971b3af9f58e8ada/12163180bf5fe31c3c079c49aba032d58a927ac8e48d1fbf9824b1a37b863a15.md

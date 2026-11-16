@@ -1,0 +1,37 @@
+hash: 720a66ed8d202ac9c6752b681745efd7642a7a4a1e2692cb47dcdfc3c3c461ba
+id: 8589d9c7-33f9-4f37-ad6b-9d1ba2f02430
+metadata:
+  import_document_id: osssaysno:scikit-image/scikit-image:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:51+00:00'
+    id: osssaysno:github.com/scikit-image/scikit-image:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/scikit-image/scikit-image/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/scikit-image/scikit-image/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 720a66ed8d202ac9c6752b681745efd7642a7a4a1e2692cb47dcdfc3c3c461ba
+    snapshot: data/osssaysno/policies/scikit-image/scikit-image/contributing.md
+    status: downloaded
+    text_sha256: 720a66ed8d202ac9c6752b681745efd7642a7a4a1e2692cb47dcdfc3c3c461ba
+    url: https://github.com/scikit-image/scikit-image/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:37:19+00:00'
+    id: osssaysno:github.com/scikit-image/scikit-image:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/scikit-image/scikit-image/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/scikit-image/scikit-image/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 720a66ed8d202ac9c6752b681745efd7642a7a4a1e2692cb47dcdfc3c3c461ba
+    snapshot: data/osssaysno/policies/scikit-image/scikit-image/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 720a66ed8d202ac9c6752b681745efd7642a7a4a1e2692cb47dcdfc3c3c461ba
+    url: https://raw.githubusercontent.com/scikit-image/scikit-image/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/d6c9652041e832a3597020964907f53ce74b182f0780c763be0a14bdbde12d14.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 720a66ed8d202ac9c6752b681745efd7642a7a4a1e2692cb47dcdfc3c3c461ba
+  url: ''
+name: contributing.md
+path: corpus/aa69bbfffcc7415791196d092b07c3a1/d6c9652041e832a3597020964907f53ce74b182f0780c763be0a14bdbde12d14.md

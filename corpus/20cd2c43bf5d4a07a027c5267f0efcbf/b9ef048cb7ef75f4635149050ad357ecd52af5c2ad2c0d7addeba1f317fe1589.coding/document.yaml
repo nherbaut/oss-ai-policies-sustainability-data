@@ -1,0 +1,26 @@
+hash: fb758b9496bc318b90bb3afb9bb2af9a1f09fec0c26b856d60f6677d3250fe9a
+id: e14c1596-020f-4ee7-88c5-332d6cd5e88f
+metadata:
+  import_document_id: osssaysno:tautulli/tautulli:root/API.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:17+00:00'
+    id: osssaysno:github.com/tautulli/tautulli:root/API.md
+    import_slot: root/API.md
+    raw_snapshot: data/osssaysno/policies/tautulli/tautulli/root/raw/API.md
+    resolved_url: https://raw.githubusercontent.com/Tautulli/Tautulli/nightly/API.md
+    role: repository_root_document
+    sha256: fb758b9496bc318b90bb3afb9bb2af9a1f09fec0c26b856d60f6677d3250fe9a
+    snapshot: data/osssaysno/policies/tautulli/tautulli/root/API.md
+    status: downloaded
+    text_sha256: fb758b9496bc318b90bb3afb9bb2af9a1f09fec0c26b856d60f6677d3250fe9a
+    url: https://raw.githubusercontent.com/Tautulli/Tautulli/nightly/API.md
+  source_archive:
+    member: texts/b9ef048cb7ef75f4635149050ad357ecd52af5c2ad2c0d7addeba1f317fe1589.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fb758b9496bc318b90bb3afb9bb2af9a1f09fec0c26b856d60f6677d3250fe9a
+  url: ''
+name: root/API.md
+path: corpus/20cd2c43bf5d4a07a027c5267f0efcbf/b9ef048cb7ef75f4635149050ad357ecd52af5c2ad2c0d7addeba1f317fe1589.md

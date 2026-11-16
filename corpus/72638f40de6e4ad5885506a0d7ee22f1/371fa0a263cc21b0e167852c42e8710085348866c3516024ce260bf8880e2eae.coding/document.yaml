@@ -1,0 +1,37 @@
+hash: f17a80edf7aa89d7f6367e28d80a383cda180a65b71b8b7056dea6910747b6d0
+id: 06dcc64a-1e81-4494-8663-00675bde699a
+metadata:
+  import_document_id: osssaysno:react-navigation/react-navigation:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:24+00:00'
+    id: osssaysno:github.com/react-navigation/react-navigation:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/react-navigation/react-navigation/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/react-navigation/react-navigation/main/AI_POLICY.md
+    role: ai_policy
+    sha256: f17a80edf7aa89d7f6367e28d80a383cda180a65b71b8b7056dea6910747b6d0
+    snapshot: data/osssaysno/policies/react-navigation/react-navigation/ai_policy.md
+    status: downloaded
+    text_sha256: f17a80edf7aa89d7f6367e28d80a383cda180a65b71b8b7056dea6910747b6d0
+    url: https://github.com/react-navigation/react-navigation/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:28:25+00:00'
+    id: osssaysno:github.com/react-navigation/react-navigation:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/react-navigation/react-navigation/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/react-navigation/react-navigation/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: f17a80edf7aa89d7f6367e28d80a383cda180a65b71b8b7056dea6910747b6d0
+    snapshot: data/osssaysno/policies/react-navigation/react-navigation/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: f17a80edf7aa89d7f6367e28d80a383cda180a65b71b8b7056dea6910747b6d0
+    url: https://raw.githubusercontent.com/react-navigation/react-navigation/main/AI_POLICY.md
+  source_archive:
+    member: texts/371fa0a263cc21b0e167852c42e8710085348866c3516024ce260bf8880e2eae.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f17a80edf7aa89d7f6367e28d80a383cda180a65b71b8b7056dea6910747b6d0
+  url: ''
+name: ai_policy.md
+path: corpus/72638f40de6e4ad5885506a0d7ee22f1/371fa0a263cc21b0e167852c42e8710085348866c3516024ce260bf8880e2eae.md

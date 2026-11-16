@@ -1,0 +1,37 @@
+hash: d5307ca78ff58284847a8004f4b86fc7a50e7c2ea31529b8bbd54014bde07c66
+id: 34be0984-ab44-4020-933f-cbf56e98e455
+metadata:
+  import_document_id: osssaysno:domaindrivendev/swashbuckle.aspnetcore:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:02+00:00'
+    id: osssaysno:github.com/domaindrivendev/swashbuckle.aspnetcore:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/domaindrivendev/swashbuckle.aspnetcore/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/domaindrivendev/Swashbuckle.AspNetCore/master/CONTRIBUTING.md
+    role: contributing
+    sha256: d5307ca78ff58284847a8004f4b86fc7a50e7c2ea31529b8bbd54014bde07c66
+    snapshot: data/osssaysno/policies/domaindrivendev/swashbuckle.aspnetcore/contributing.md
+    status: downloaded
+    text_sha256: d5307ca78ff58284847a8004f4b86fc7a50e7c2ea31529b8bbd54014bde07c66
+    url: https://github.com/domaindrivendev/Swashbuckle.AspNetCore/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:38:12+00:00'
+    id: osssaysno:github.com/domaindrivendev/swashbuckle.aspnetcore:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/domaindrivendev/swashbuckle.aspnetcore/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/domaindrivendev/Swashbuckle.AspNetCore/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: d5307ca78ff58284847a8004f4b86fc7a50e7c2ea31529b8bbd54014bde07c66
+    snapshot: data/osssaysno/policies/domaindrivendev/swashbuckle.aspnetcore/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: d5307ca78ff58284847a8004f4b86fc7a50e7c2ea31529b8bbd54014bde07c66
+    url: https://raw.githubusercontent.com/domaindrivendev/Swashbuckle.AspNetCore/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/f57b5f087b26293c54d2e1e4ce87ed055f3848d20bf39f39694043dfedf87c14.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d5307ca78ff58284847a8004f4b86fc7a50e7c2ea31529b8bbd54014bde07c66
+  url: ''
+name: contributing.md
+path: corpus/8d546076617b49c592e141821fe57f17/f57b5f087b26293c54d2e1e4ce87ed055f3848d20bf39f39694043dfedf87c14.md

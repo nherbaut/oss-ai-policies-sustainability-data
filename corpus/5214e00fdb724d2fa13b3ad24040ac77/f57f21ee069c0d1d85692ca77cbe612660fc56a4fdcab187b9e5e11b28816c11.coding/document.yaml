@@ -1,0 +1,37 @@
+hash: accf2d4ff276e5283de237340fba2556d6aca1fc1ce6a9d8ef7747b3272804f5
+id: bc9f8b4c-eb29-49a8-9ca0-1538a0d92f67
+metadata:
+  import_document_id: osssaysno:heroui-inc/heroui:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:08+00:00'
+    id: osssaysno:github.com/heroui-inc/heroui:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/heroui-inc/heroui/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/CONTRIBUTING.md
+    role: contributing
+    sha256: accf2d4ff276e5283de237340fba2556d6aca1fc1ce6a9d8ef7747b3272804f5
+    snapshot: data/osssaysno/policies/heroui-inc/heroui/contributing.md
+    status: downloaded
+    text_sha256: accf2d4ff276e5283de237340fba2556d6aca1fc1ce6a9d8ef7747b3272804f5
+    url: https://github.com/heroui-inc/heroui/blob/v3/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:28:11+00:00'
+    id: osssaysno:github.com/heroui-inc/heroui:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/heroui-inc/heroui/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: accf2d4ff276e5283de237340fba2556d6aca1fc1ce6a9d8ef7747b3272804f5
+    snapshot: data/osssaysno/policies/heroui-inc/heroui/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: accf2d4ff276e5283de237340fba2556d6aca1fc1ce6a9d8ef7747b3272804f5
+    url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/CONTRIBUTING.md
+  source_archive:
+    member: texts/f57f21ee069c0d1d85692ca77cbe612660fc56a4fdcab187b9e5e11b28816c11.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: accf2d4ff276e5283de237340fba2556d6aca1fc1ce6a9d8ef7747b3272804f5
+  url: ''
+name: contributing.md
+path: corpus/5214e00fdb724d2fa13b3ad24040ac77/f57f21ee069c0d1d85692ca77cbe612660fc56a4fdcab187b9e5e11b28816c11.md

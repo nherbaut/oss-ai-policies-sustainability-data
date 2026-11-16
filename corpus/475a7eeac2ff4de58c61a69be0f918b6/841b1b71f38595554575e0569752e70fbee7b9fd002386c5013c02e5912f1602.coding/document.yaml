@@ -1,0 +1,26 @@
+hash: 64436493cff7535ad54b118cd2ba7f6002ac68fea482fce144a8a3bb1f90b3b6
+id: 4c91cfec-d102-403e-a4c8-f689bca0a8d0
+metadata:
+  import_document_id: osssaysno:eigent-ai/eigent:root/README_CN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:11+00:00'
+    id: osssaysno:github.com/eigent-ai/eigent:root/README_CN.md
+    import_slot: root/README_CN.md
+    raw_snapshot: data/osssaysno/policies/eigent-ai/eigent/root/raw/README_CN.md
+    resolved_url: https://raw.githubusercontent.com/eigent-ai/eigent/main/README_CN.md
+    role: repository_root_document
+    sha256: 64436493cff7535ad54b118cd2ba7f6002ac68fea482fce144a8a3bb1f90b3b6
+    snapshot: data/osssaysno/policies/eigent-ai/eigent/root/README_CN.md
+    status: downloaded
+    text_sha256: 64436493cff7535ad54b118cd2ba7f6002ac68fea482fce144a8a3bb1f90b3b6
+    url: https://raw.githubusercontent.com/eigent-ai/eigent/main/README_CN.md
+  source_archive:
+    member: texts/841b1b71f38595554575e0569752e70fbee7b9fd002386c5013c02e5912f1602.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 64436493cff7535ad54b118cd2ba7f6002ac68fea482fce144a8a3bb1f90b3b6
+  url: ''
+name: root/README_CN.md
+path: corpus/475a7eeac2ff4de58c61a69be0f918b6/841b1b71f38595554575e0569752e70fbee7b9fd002386c5013c02e5912f1602.md

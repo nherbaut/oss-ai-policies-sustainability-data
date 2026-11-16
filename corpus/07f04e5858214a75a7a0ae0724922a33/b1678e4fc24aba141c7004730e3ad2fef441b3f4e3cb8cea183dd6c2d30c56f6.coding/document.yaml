@@ -1,0 +1,26 @@
+hash: 02c53f8bc3cad92b81b6f7617dbf390bc4ab50cc3467eb19d33526a96336f9cd
+id: c7dfdf21-f1e4-48b0-ae8c-787d588bb803
+metadata:
+  import_document_id: osssaysno:marker-inc-korea/autorag:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:21+00:00'
+    id: osssaysno:github.com/marker-inc-korea/autorag:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/README.md
+    role: repository_root_document
+    sha256: 02c53f8bc3cad92b81b6f7617dbf390bc4ab50cc3467eb19d33526a96336f9cd
+    snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/README.md
+    status: downloaded
+    text_sha256: 02c53f8bc3cad92b81b6f7617dbf390bc4ab50cc3467eb19d33526a96336f9cd
+    url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/README.md
+  source_archive:
+    member: texts/b1678e4fc24aba141c7004730e3ad2fef441b3f4e3cb8cea183dd6c2d30c56f6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 02c53f8bc3cad92b81b6f7617dbf390bc4ab50cc3467eb19d33526a96336f9cd
+  url: ''
+name: root/README.md
+path: corpus/07f04e5858214a75a7a0ae0724922a33/b1678e4fc24aba141c7004730e3ad2fef441b3f4e3cb8cea183dd6c2d30c56f6.md

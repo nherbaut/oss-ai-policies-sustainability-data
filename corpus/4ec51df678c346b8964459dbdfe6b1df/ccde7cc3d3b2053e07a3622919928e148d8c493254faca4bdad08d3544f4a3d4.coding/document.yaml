@@ -1,0 +1,26 @@
+hash: 771e41d87b6f311a428effc315796ac43b85a9a1914a49b708fd48eefbef41b4
+id: 996c5a68-e415-40f0-8273-0a44c66bef4a
+metadata:
+  import_document_id: osssaysno:openclaw/clawhub:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:46+00:00'
+    id: osssaysno:github.com/openclaw/clawhub:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/openclaw/clawhub/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/openclaw/clawhub/main/AGENTS.md
+    role: repository_root_document
+    sha256: 771e41d87b6f311a428effc315796ac43b85a9a1914a49b708fd48eefbef41b4
+    snapshot: data/osssaysno/policies/openclaw/clawhub/root/AGENTS.md
+    status: downloaded
+    text_sha256: 771e41d87b6f311a428effc315796ac43b85a9a1914a49b708fd48eefbef41b4
+    url: https://raw.githubusercontent.com/openclaw/clawhub/main/AGENTS.md
+  source_archive:
+    member: texts/ccde7cc3d3b2053e07a3622919928e148d8c493254faca4bdad08d3544f4a3d4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 771e41d87b6f311a428effc315796ac43b85a9a1914a49b708fd48eefbef41b4
+  url: ''
+name: root/AGENTS.md
+path: corpus/4ec51df678c346b8964459dbdfe6b1df/ccde7cc3d3b2053e07a3622919928e148d8c493254faca4bdad08d3544f4a3d4.md

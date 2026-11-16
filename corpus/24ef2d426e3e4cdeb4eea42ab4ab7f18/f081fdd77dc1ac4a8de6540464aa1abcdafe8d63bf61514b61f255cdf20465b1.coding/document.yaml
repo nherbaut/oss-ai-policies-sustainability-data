@@ -1,0 +1,26 @@
+hash: 3ded46b253763dd98105a40d9e8a6a6339808523391e7a37d6964f467bd75967
+id: 3ce1cb32-0560-4bdd-ae95-86047e86b1e6
+metadata:
+  import_document_id: osssaysno:crossplane/crossplane:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:51+00:00'
+    id: osssaysno:github.com/crossplane/crossplane:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/crossplane/crossplane/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/crossplane/crossplane/main/GOVERNANCE.md
+    role: repository_root_document
+    sha256: 3ded46b253763dd98105a40d9e8a6a6339808523391e7a37d6964f467bd75967
+    snapshot: data/osssaysno/policies/crossplane/crossplane/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: 3ded46b253763dd98105a40d9e8a6a6339808523391e7a37d6964f467bd75967
+    url: https://raw.githubusercontent.com/crossplane/crossplane/main/GOVERNANCE.md
+  source_archive:
+    member: texts/f081fdd77dc1ac4a8de6540464aa1abcdafe8d63bf61514b61f255cdf20465b1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3ded46b253763dd98105a40d9e8a6a6339808523391e7a37d6964f467bd75967
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/24ef2d426e3e4cdeb4eea42ab4ab7f18/f081fdd77dc1ac4a8de6540464aa1abcdafe8d63bf61514b61f255cdf20465b1.md

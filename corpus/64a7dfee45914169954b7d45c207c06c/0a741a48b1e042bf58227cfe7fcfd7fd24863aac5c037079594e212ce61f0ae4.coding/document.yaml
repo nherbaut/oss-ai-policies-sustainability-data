@@ -1,0 +1,26 @@
+hash: 2aa0a08f2f32c48fa54ad7391dd9556692f8b4070f51c7ba99a521b02e7c6847
+id: 7679e6e3-2865-45e3-9364-61c3c0f64c40
+metadata:
+  import_document_id: osssaysno:kunagent/kun:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:37+00:00'
+    id: osssaysno:github.com/kunagent/kun:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/kunagent/kun/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/KunAgent/Kun/master/README.md
+    role: repository_root_document
+    sha256: 2aa0a08f2f32c48fa54ad7391dd9556692f8b4070f51c7ba99a521b02e7c6847
+    snapshot: data/osssaysno/policies/kunagent/kun/root/README.md
+    status: downloaded
+    text_sha256: 2aa0a08f2f32c48fa54ad7391dd9556692f8b4070f51c7ba99a521b02e7c6847
+    url: https://raw.githubusercontent.com/KunAgent/Kun/master/README.md
+  source_archive:
+    member: texts/0a741a48b1e042bf58227cfe7fcfd7fd24863aac5c037079594e212ce61f0ae4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2aa0a08f2f32c48fa54ad7391dd9556692f8b4070f51c7ba99a521b02e7c6847
+  url: ''
+name: root/README.md
+path: corpus/64a7dfee45914169954b7d45c207c06c/0a741a48b1e042bf58227cfe7fcfd7fd24863aac5c037079594e212ce61f0ae4.md

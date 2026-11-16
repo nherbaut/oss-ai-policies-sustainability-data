@@ -1,0 +1,26 @@
+hash: 0a97d94a5a86009c6eab6e6e55b916212f5b8f5e77a73f71ecb1de410d074d88
+id: 68bc773b-db70-4f68-9108-b919c3d96ef0
+metadata:
+  import_document_id: osssaysno:nodejs/node:root/glossary.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:18+00:00'
+    id: osssaysno:github.com/nodejs/node:root/glossary.md
+    import_slot: root/glossary.md
+    raw_snapshot: data/osssaysno/policies/nodejs/node/root/raw/glossary.md
+    resolved_url: https://raw.githubusercontent.com/nodejs/node/main/glossary.md
+    role: repository_root_document
+    sha256: 0a97d94a5a86009c6eab6e6e55b916212f5b8f5e77a73f71ecb1de410d074d88
+    snapshot: data/osssaysno/policies/nodejs/node/root/glossary.md
+    status: downloaded
+    text_sha256: 0a97d94a5a86009c6eab6e6e55b916212f5b8f5e77a73f71ecb1de410d074d88
+    url: https://raw.githubusercontent.com/nodejs/node/main/glossary.md
+  source_archive:
+    member: texts/bc12d49f7901dfc2a48c205b4d1fbcdb4e436d0c2d607a17939c228a60617f9a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0a97d94a5a86009c6eab6e6e55b916212f5b8f5e77a73f71ecb1de410d074d88
+  url: ''
+name: root/glossary.md
+path: corpus/77cedc800d4241619f12a7104b9779d7/bc12d49f7901dfc2a48c205b4d1fbcdb4e436d0c2d607a17939c228a60617f9a.md

@@ -1,0 +1,26 @@
+hash: 483d548b6195850b2af61cd27af3f6a0f071175a36bfb9f334ddfbcedca24fd1
+id: a72cd5f3-f426-4585-8158-8bff1421213f
+metadata:
+  import_document_id: osssaysno:musescore/musescore:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:13+00:00'
+    id: osssaysno:github.com/musescore/musescore:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/musescore/musescore/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/musescore/MuseScore/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 483d548b6195850b2af61cd27af3f6a0f071175a36bfb9f334ddfbcedca24fd1
+    snapshot: data/osssaysno/policies/musescore/musescore/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 483d548b6195850b2af61cd27af3f6a0f071175a36bfb9f334ddfbcedca24fd1
+    url: https://raw.githubusercontent.com/musescore/MuseScore/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/495a12478c85d2e36c9ccc2493888c826a490467e50ba65f67f47bc53e4d34ef.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 483d548b6195850b2af61cd27af3f6a0f071175a36bfb9f334ddfbcedca24fd1
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/56de06e411c64992a0e0847c83d8ab1c/495a12478c85d2e36c9ccc2493888c826a490467e50ba65f67f47bc53e4d34ef.md

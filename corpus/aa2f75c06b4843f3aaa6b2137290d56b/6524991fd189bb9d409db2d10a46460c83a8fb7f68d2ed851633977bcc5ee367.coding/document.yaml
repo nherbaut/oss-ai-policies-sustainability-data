@@ -1,0 +1,26 @@
+hash: da7d85cf507e849df84d4987a34d1d5de74be715cc233f18eca6fce69b2f3d1e
+id: d2e14e16-13a7-4db6-bd47-4c66fa9e2852
+metadata:
+  import_document_id: osssaysno:lima-vm/lima:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:39+00:00'
+    id: osssaysno:github.com/lima-vm/lima:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/lima-vm/lima/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/lima-vm/lima/master/README.md
+    role: repository_root_document
+    sha256: da7d85cf507e849df84d4987a34d1d5de74be715cc233f18eca6fce69b2f3d1e
+    snapshot: data/osssaysno/policies/lima-vm/lima/root/README.md
+    status: downloaded
+    text_sha256: da7d85cf507e849df84d4987a34d1d5de74be715cc233f18eca6fce69b2f3d1e
+    url: https://raw.githubusercontent.com/lima-vm/lima/master/README.md
+  source_archive:
+    member: texts/6524991fd189bb9d409db2d10a46460c83a8fb7f68d2ed851633977bcc5ee367.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: da7d85cf507e849df84d4987a34d1d5de74be715cc233f18eca6fce69b2f3d1e
+  url: ''
+name: root/README.md
+path: corpus/aa2f75c06b4843f3aaa6b2137290d56b/6524991fd189bb9d409db2d10a46460c83a8fb7f68d2ed851633977bcc5ee367.md

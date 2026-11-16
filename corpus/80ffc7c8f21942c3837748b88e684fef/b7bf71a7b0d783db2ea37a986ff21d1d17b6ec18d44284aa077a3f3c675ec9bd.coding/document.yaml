@@ -1,0 +1,26 @@
+hash: d326e6c53b83d33e84cb4f08dcd403f7c4dfddafd92e967aa38a515f53735d1e
+id: 7392a98e-001c-4cec-bc75-83c993a1400b
+metadata:
+  import_document_id: osssaysno:code-yeongyu/oh-my-openagent:root/README.de.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:39+00:00'
+    id: osssaysno:github.com/code-yeongyu/oh-my-openagent:root/README.de.md
+    import_slot: root/README.de.md
+    raw_snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/raw/README.de.md
+    resolved_url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/README.de.md
+    role: repository_root_document
+    sha256: d326e6c53b83d33e84cb4f08dcd403f7c4dfddafd92e967aa38a515f53735d1e
+    snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/README.de.md
+    status: downloaded
+    text_sha256: d326e6c53b83d33e84cb4f08dcd403f7c4dfddafd92e967aa38a515f53735d1e
+    url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/README.de.md
+  source_archive:
+    member: texts/b7bf71a7b0d783db2ea37a986ff21d1d17b6ec18d44284aa077a3f3c675ec9bd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d326e6c53b83d33e84cb4f08dcd403f7c4dfddafd92e967aa38a515f53735d1e
+  url: ''
+name: root/README.de.md
+path: corpus/80ffc7c8f21942c3837748b88e684fef/b7bf71a7b0d783db2ea37a986ff21d1d17b6ec18d44284aa077a3f3c675ec9bd.md

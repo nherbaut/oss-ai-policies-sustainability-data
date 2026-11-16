@@ -1,0 +1,37 @@
+hash: ae60dacdb102e594ef4e29dd8e7448537c9997e7b9b746f1d799cb459716a7ba
+id: ed907dc7-7cbf-4390-b472-f29b438bdd4f
+metadata:
+  import_document_id: osssaysno:gocolly/colly:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:21+00:00'
+    id: osssaysno:github.com/gocolly/colly:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/gocolly/colly/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/gocolly/colly/master/CONTRIBUTING.md
+    role: contributing
+    sha256: ae60dacdb102e594ef4e29dd8e7448537c9997e7b9b746f1d799cb459716a7ba
+    snapshot: data/osssaysno/policies/gocolly/colly/contributing.md
+    status: downloaded
+    text_sha256: ae60dacdb102e594ef4e29dd8e7448537c9997e7b9b746f1d799cb459716a7ba
+    url: https://github.com/gocolly/colly/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:28:22+00:00'
+    id: osssaysno:github.com/gocolly/colly:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/gocolly/colly/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/gocolly/colly/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: ae60dacdb102e594ef4e29dd8e7448537c9997e7b9b746f1d799cb459716a7ba
+    snapshot: data/osssaysno/policies/gocolly/colly/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: ae60dacdb102e594ef4e29dd8e7448537c9997e7b9b746f1d799cb459716a7ba
+    url: https://raw.githubusercontent.com/gocolly/colly/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/2d5420a3b970e7b4ba9a29f64363525b144e72a080fa4bf8217e00e0345e77d3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ae60dacdb102e594ef4e29dd8e7448537c9997e7b9b746f1d799cb459716a7ba
+  url: ''
+name: contributing.md
+path: corpus/fd2ecf8f06fa495b87d71419c3ff05e8/2d5420a3b970e7b4ba9a29f64363525b144e72a080fa4bf8217e00e0345e77d3.md

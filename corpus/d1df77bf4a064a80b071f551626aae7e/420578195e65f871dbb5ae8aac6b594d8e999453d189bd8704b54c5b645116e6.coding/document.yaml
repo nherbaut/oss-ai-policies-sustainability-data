@@ -1,0 +1,26 @@
+hash: a5aa9efd6dc219cc9bc3782eb29f6508340bc9163edaf2413be0d5a76da447d9
+id: 64809c26-8b74-4944-81bd-74513605fb87
+metadata:
+  import_document_id: osssaysno:xonsh/xonsh:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:35+00:00'
+    id: osssaysno:github.com/xonsh/xonsh:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/xonsh/xonsh/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/xonsh/xonsh/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: a5aa9efd6dc219cc9bc3782eb29f6508340bc9163edaf2413be0d5a76da447d9
+    snapshot: data/osssaysno/policies/xonsh/xonsh/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: a5aa9efd6dc219cc9bc3782eb29f6508340bc9163edaf2413be0d5a76da447d9
+    url: https://raw.githubusercontent.com/xonsh/xonsh/main/CHANGELOG.md
+  source_archive:
+    member: texts/420578195e65f871dbb5ae8aac6b594d8e999453d189bd8704b54c5b645116e6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a5aa9efd6dc219cc9bc3782eb29f6508340bc9163edaf2413be0d5a76da447d9
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/d1df77bf4a064a80b071f551626aae7e/420578195e65f871dbb5ae8aac6b594d8e999453d189bd8704b54c5b645116e6.md

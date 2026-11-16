@@ -1,0 +1,26 @@
+hash: b821869ebd54da6d09e77b04edacd94235b3337fbfd3240385af6edeb6abafe4
+id: 9209c6ee-0920-47ac-83f0-b15a548071e9
+metadata:
+  import_document_id: osssaysno:openclaw/clawhub:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:48+00:00'
+    id: osssaysno:github.com/openclaw/clawhub:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/openclaw/clawhub/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/openclaw/clawhub/main/SECURITY.md
+    role: repository_root_document
+    sha256: b821869ebd54da6d09e77b04edacd94235b3337fbfd3240385af6edeb6abafe4
+    snapshot: data/osssaysno/policies/openclaw/clawhub/root/SECURITY.md
+    status: downloaded
+    text_sha256: b821869ebd54da6d09e77b04edacd94235b3337fbfd3240385af6edeb6abafe4
+    url: https://raw.githubusercontent.com/openclaw/clawhub/main/SECURITY.md
+  source_archive:
+    member: texts/ea243cea512e2f03d7bc0fed17d7de318c230aa7ad28d8cff4ecef1b1a3ae713.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b821869ebd54da6d09e77b04edacd94235b3337fbfd3240385af6edeb6abafe4
+  url: ''
+name: root/SECURITY.md
+path: corpus/4ec51df678c346b8964459dbdfe6b1df/ea243cea512e2f03d7bc0fed17d7de318c230aa7ad28d8cff4ecef1b1a3ae713.md

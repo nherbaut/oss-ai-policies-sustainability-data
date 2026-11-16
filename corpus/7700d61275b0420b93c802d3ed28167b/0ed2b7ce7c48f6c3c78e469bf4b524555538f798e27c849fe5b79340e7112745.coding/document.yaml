@@ -1,0 +1,26 @@
+hash: c7bb6b818678a51527d40b6b5fcc188b9fa4e4f8e8fa12e8240a94a161ba34dd
+id: 0ab8cd95-4e68-49cd-9dfc-20a8ae96b21f
+metadata:
+  import_document_id: osssaysno:conda/conda:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:47+00:00'
+    id: osssaysno:github.com/conda/conda:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/conda/conda/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/conda/conda/main/README.md
+    role: repository_root_document
+    sha256: c7bb6b818678a51527d40b6b5fcc188b9fa4e4f8e8fa12e8240a94a161ba34dd
+    snapshot: data/osssaysno/policies/conda/conda/root/README.md
+    status: downloaded
+    text_sha256: c7bb6b818678a51527d40b6b5fcc188b9fa4e4f8e8fa12e8240a94a161ba34dd
+    url: https://raw.githubusercontent.com/conda/conda/main/README.md
+  source_archive:
+    member: texts/0ed2b7ce7c48f6c3c78e469bf4b524555538f798e27c849fe5b79340e7112745.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c7bb6b818678a51527d40b6b5fcc188b9fa4e4f8e8fa12e8240a94a161ba34dd
+  url: ''
+name: root/README.md
+path: corpus/7700d61275b0420b93c802d3ed28167b/0ed2b7ce7c48f6c3c78e469bf4b524555538f798e27c849fe5b79340e7112745.md

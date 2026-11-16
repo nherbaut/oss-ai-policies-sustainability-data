@@ -1,0 +1,26 @@
+hash: 80929c694bc8b913f668b6878f6c52e5d6cfa408466022f693c92e48b1203476
+id: 62661640-1659-4fda-92f9-4295d27931ea
+metadata:
+  import_document_id: osssaysno:grpc/grpc-rust:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:46+00:00'
+    id: osssaysno:github.com/grpc/grpc-rust:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-rust/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-rust/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: 80929c694bc8b913f668b6878f6c52e5d6cfa408466022f693c92e48b1203476
+    snapshot: data/osssaysno/policies/grpc/grpc-rust/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 80929c694bc8b913f668b6878f6c52e5d6cfa408466022f693c92e48b1203476
+    url: https://raw.githubusercontent.com/grpc/grpc-rust/master/CHANGELOG.md
+  source_archive:
+    member: texts/7bd0c4d783d8464e913dee6b92e58e0d8d529719b2648c1c0b335ac2a1cd5d05.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 80929c694bc8b913f668b6878f6c52e5d6cfa408466022f693c92e48b1203476
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/c2f859f455be4e5294f59d1a1d0008fa/7bd0c4d783d8464e913dee6b92e58e0d8d529719b2648c1c0b335ac2a1cd5d05.md

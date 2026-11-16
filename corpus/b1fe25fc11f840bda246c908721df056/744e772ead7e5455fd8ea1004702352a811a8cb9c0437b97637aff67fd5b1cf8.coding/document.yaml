@@ -1,0 +1,37 @@
+hash: 89925ff2dde3d8e58c8f12d1bdd7be087e0bb0246ba3dc0d79a9fef3e36b369d
+id: ca853605-992b-46fb-ba45-efefdd7ff4dc
+metadata:
+  import_document_id: osssaysno:pycaret/pycaret:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:27+00:00'
+    id: osssaysno:github.com/pycaret/pycaret:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/pycaret/pycaret/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/pycaret/pycaret/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 89925ff2dde3d8e58c8f12d1bdd7be087e0bb0246ba3dc0d79a9fef3e36b369d
+    snapshot: data/osssaysno/policies/pycaret/pycaret/contributing.md
+    status: downloaded
+    text_sha256: 89925ff2dde3d8e58c8f12d1bdd7be087e0bb0246ba3dc0d79a9fef3e36b369d
+    url: https://github.com/pycaret/pycaret/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:35:30+00:00'
+    id: osssaysno:github.com/pycaret/pycaret:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/pycaret/pycaret/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/pycaret/pycaret/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 89925ff2dde3d8e58c8f12d1bdd7be087e0bb0246ba3dc0d79a9fef3e36b369d
+    snapshot: data/osssaysno/policies/pycaret/pycaret/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 89925ff2dde3d8e58c8f12d1bdd7be087e0bb0246ba3dc0d79a9fef3e36b369d
+    url: https://raw.githubusercontent.com/pycaret/pycaret/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/744e772ead7e5455fd8ea1004702352a811a8cb9c0437b97637aff67fd5b1cf8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 89925ff2dde3d8e58c8f12d1bdd7be087e0bb0246ba3dc0d79a9fef3e36b369d
+  url: ''
+name: contributing.md
+path: corpus/b1fe25fc11f840bda246c908721df056/744e772ead7e5455fd8ea1004702352a811a8cb9c0437b97637aff67fd5b1cf8.md

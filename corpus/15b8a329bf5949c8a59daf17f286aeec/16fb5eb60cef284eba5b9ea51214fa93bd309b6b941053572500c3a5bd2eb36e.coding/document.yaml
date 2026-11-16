@@ -1,0 +1,26 @@
+hash: 5d5357f57afe5873ca992a6fb1cab72f6cecb230f7fdc6658cefbae5284e084c
+id: b885c846-8603-4116-89d1-dad39452a0b2
+metadata:
+  import_document_id: osssaysno:biolab/orange3:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:04+00:00'
+    id: osssaysno:github.com/biolab/orange3:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/biolab/orange3/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/biolab/orange3/master/README.md
+    role: repository_root_document
+    sha256: 5d5357f57afe5873ca992a6fb1cab72f6cecb230f7fdc6658cefbae5284e084c
+    snapshot: data/osssaysno/policies/biolab/orange3/root/README.md
+    status: downloaded
+    text_sha256: 5d5357f57afe5873ca992a6fb1cab72f6cecb230f7fdc6658cefbae5284e084c
+    url: https://raw.githubusercontent.com/biolab/orange3/master/README.md
+  source_archive:
+    member: texts/16fb5eb60cef284eba5b9ea51214fa93bd309b6b941053572500c3a5bd2eb36e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5d5357f57afe5873ca992a6fb1cab72f6cecb230f7fdc6658cefbae5284e084c
+  url: ''
+name: root/README.md
+path: corpus/15b8a329bf5949c8a59daf17f286aeec/16fb5eb60cef284eba5b9ea51214fa93bd309b6b941053572500c3a5bd2eb36e.md

@@ -1,0 +1,26 @@
+hash: 799982daa89a30b8d0af069cc250c0e448149835105b406ad4c23e3f0aee84e1
+id: d9c4157d-0599-4c02-8047-ee6283371aae
+metadata:
+  import_document_id: osssaysno:lightgbm-org/lightgbm:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:55+00:00'
+    id: osssaysno:github.com/lightgbm-org/lightgbm:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/lightgbm-org/lightgbm/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/README.md
+    role: repository_root_document
+    sha256: 799982daa89a30b8d0af069cc250c0e448149835105b406ad4c23e3f0aee84e1
+    snapshot: data/osssaysno/policies/lightgbm-org/lightgbm/root/README.md
+    status: downloaded
+    text_sha256: 799982daa89a30b8d0af069cc250c0e448149835105b406ad4c23e3f0aee84e1
+    url: https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/README.md
+  source_archive:
+    member: texts/57ff9200bd5e43be8e9a8d9536702febaac13c2e917a6db783b2be9a409a96c4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 799982daa89a30b8d0af069cc250c0e448149835105b406ad4c23e3f0aee84e1
+  url: ''
+name: root/README.md
+path: corpus/0153c401adfa4f44829327a452f86e3b/57ff9200bd5e43be8e9a8d9536702febaac13c2e917a6db783b2be9a409a96c4.md

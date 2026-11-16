@@ -1,0 +1,26 @@
+hash: a3144f27463b12df389694dd0fe3ff6867a458d097f13a1358be310f5cd7409e
+id: 20a84509-a20d-4c84-b074-c99b7e7f8223
+metadata:
+  import_document_id: osssaysno:nvidia-nemo/guardrails:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:53+00:00'
+    id: osssaysno:github.com/nvidia-nemo/guardrails:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/CHANGELOG.md
+    role: repository_root_document
+    sha256: a3144f27463b12df389694dd0fe3ff6867a458d097f13a1358be310f5cd7409e
+    snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: a3144f27463b12df389694dd0fe3ff6867a458d097f13a1358be310f5cd7409e
+    url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/CHANGELOG.md
+  source_archive:
+    member: texts/a93ab71924f44fd5eeed3ca3beb3d6e7b41e3c5215dfcf0b636e09faa319cfda.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a3144f27463b12df389694dd0fe3ff6867a458d097f13a1358be310f5cd7409e
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/39095417ded042b6b0a797dfc257a546/a93ab71924f44fd5eeed3ca3beb3d6e7b41e3c5215dfcf0b636e09faa319cfda.md

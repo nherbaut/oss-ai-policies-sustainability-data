@@ -1,0 +1,37 @@
+hash: 240e772e16fce27b47ad11ccd0e1d9c31f6c9f23b1369c27fe1c1c234cc6ba03
+id: 1acf94d7-2f33-4492-a43d-519fbdf421f7
+metadata:
+  import_document_id: osssaysno:motion-canvas/motion-canvas:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:51+00:00'
+    id: osssaysno:github.com/motion-canvas/motion-canvas:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/motion-canvas/motion-canvas/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 240e772e16fce27b47ad11ccd0e1d9c31f6c9f23b1369c27fe1c1c234cc6ba03
+    snapshot: data/osssaysno/policies/motion-canvas/motion-canvas/contributing.md
+    status: downloaded
+    text_sha256: 240e772e16fce27b47ad11ccd0e1d9c31f6c9f23b1369c27fe1c1c234cc6ba03
+    url: https://github.com/motion-canvas/motion-canvas/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:28:52+00:00'
+    id: osssaysno:github.com/motion-canvas/motion-canvas:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/motion-canvas/motion-canvas/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 240e772e16fce27b47ad11ccd0e1d9c31f6c9f23b1369c27fe1c1c234cc6ba03
+    snapshot: data/osssaysno/policies/motion-canvas/motion-canvas/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 240e772e16fce27b47ad11ccd0e1d9c31f6c9f23b1369c27fe1c1c234cc6ba03
+    url: https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/58120c24a2afe551aae0cc22caf10552b0e1d562b667e036127dbda6bdd46011.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 240e772e16fce27b47ad11ccd0e1d9c31f6c9f23b1369c27fe1c1c234cc6ba03
+  url: ''
+name: contributing.md
+path: corpus/7cf967b29e0143dca58038707173d9b5/58120c24a2afe551aae0cc22caf10552b0e1d562b667e036127dbda6bdd46011.md

@@ -1,0 +1,26 @@
+hash: 21bb63b99f1422be9a321785782edf1bb112966c1fdda99b33ed846a2142203b
+id: 950eedb5-8a5c-4dec-978a-07c8fdd3c9c6
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:13+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/MAINTAINERS.md
+    role: repository_root_document
+    sha256: 21bb63b99f1422be9a321785782edf1bb112966c1fdda99b33ed846a2142203b
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: 21bb63b99f1422be9a321785782edf1bb112966c1fdda99b33ed846a2142203b
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/MAINTAINERS.md
+  source_archive:
+    member: texts/ae3e9b24214772bf03de62b94bb05741f651aee1889537726ace465d7db3cce2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 21bb63b99f1422be9a321785782edf1bb112966c1fdda99b33ed846a2142203b
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/ae3e9b24214772bf03de62b94bb05741f651aee1889537726ace465d7db3cce2.md

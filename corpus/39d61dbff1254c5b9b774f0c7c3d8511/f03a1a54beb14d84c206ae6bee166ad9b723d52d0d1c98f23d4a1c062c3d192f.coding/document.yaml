@@ -1,0 +1,26 @@
+hash: f77d17bca544d39299669d57dd23140945b9306c3c5ef1c712f78b3f910b1fbe
+id: 4478ffa9-ab12-4a0d-b01f-95a303a9cfb3
+metadata:
+  import_document_id: osssaysno:guaguastandup/zotero-pdf2zh:root/TODOLIST.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:27+00:00'
+    id: osssaysno:github.com/guaguastandup/zotero-pdf2zh:root/TODOLIST.md
+    import_slot: root/TODOLIST.md
+    raw_snapshot: data/osssaysno/policies/guaguastandup/zotero-pdf2zh/root/raw/TODOLIST.md
+    resolved_url: https://raw.githubusercontent.com/guaguastandup/zotero-pdf2zh/main/TODOLIST.md
+    role: repository_root_document
+    sha256: f77d17bca544d39299669d57dd23140945b9306c3c5ef1c712f78b3f910b1fbe
+    snapshot: data/osssaysno/policies/guaguastandup/zotero-pdf2zh/root/TODOLIST.md
+    status: downloaded
+    text_sha256: f77d17bca544d39299669d57dd23140945b9306c3c5ef1c712f78b3f910b1fbe
+    url: https://raw.githubusercontent.com/guaguastandup/zotero-pdf2zh/main/TODOLIST.md
+  source_archive:
+    member: texts/f03a1a54beb14d84c206ae6bee166ad9b723d52d0d1c98f23d4a1c062c3d192f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f77d17bca544d39299669d57dd23140945b9306c3c5ef1c712f78b3f910b1fbe
+  url: ''
+name: root/TODOLIST.md
+path: corpus/39d61dbff1254c5b9b774f0c7c3d8511/f03a1a54beb14d84c206ae6bee166ad9b723d52d0d1c98f23d4a1c062c3d192f.md

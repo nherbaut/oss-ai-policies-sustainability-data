@@ -1,0 +1,26 @@
+hash: 6dc0e068dcf3a5bc8e054205b85b7720e1d49265bbc64bf515d2cf79197df69a
+id: 72e36f48-96eb-40fb-bf9c-e0c2f417b74d
+metadata:
+  import_document_id: osssaysno:mongodb/node-mongodb-native:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:22+00:00'
+    id: osssaysno:github.com/mongodb/node-mongodb-native:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/LICENSE.md
+    role: repository_root_document
+    sha256: 6dc0e068dcf3a5bc8e054205b85b7720e1d49265bbc64bf515d2cf79197df69a
+    snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/LICENSE.md
+    status: downloaded
+    text_sha256: 6dc0e068dcf3a5bc8e054205b85b7720e1d49265bbc64bf515d2cf79197df69a
+    url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/LICENSE.md
+  source_archive:
+    member: texts/de4717ed5563e2d063eb232c0c6c9ec9a3094841f9a153c77f8d215bae348bb1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6dc0e068dcf3a5bc8e054205b85b7720e1d49265bbc64bf515d2cf79197df69a
+  url: ''
+name: root/LICENSE.md
+path: corpus/aafe5c7bd4f242d4b7243756b141018e/de4717ed5563e2d063eb232c0c6c9ec9a3094841f9a153c77f8d215bae348bb1.md

@@ -1,0 +1,26 @@
+hash: 718547700b2b2cd3d8ab3501ee73196d5ed91c0bd20c6b1a385843ba03d7f5e8
+id: ea67ba6f-6bd6-4aab-b694-210a9d9b9c3b
+metadata:
+  import_document_id: osssaysno:nteract/papermill:root/DEVELOPMENT_GUIDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:29+00:00'
+    id: osssaysno:github.com/nteract/papermill:root/DEVELOPMENT_GUIDE.md
+    import_slot: root/DEVELOPMENT_GUIDE.md
+    raw_snapshot: data/osssaysno/policies/nteract/papermill/root/raw/DEVELOPMENT_GUIDE.md
+    resolved_url: https://raw.githubusercontent.com/nteract/papermill/main/DEVELOPMENT_GUIDE.md
+    role: repository_root_document
+    sha256: 718547700b2b2cd3d8ab3501ee73196d5ed91c0bd20c6b1a385843ba03d7f5e8
+    snapshot: data/osssaysno/policies/nteract/papermill/root/DEVELOPMENT_GUIDE.md
+    status: downloaded
+    text_sha256: 718547700b2b2cd3d8ab3501ee73196d5ed91c0bd20c6b1a385843ba03d7f5e8
+    url: https://raw.githubusercontent.com/nteract/papermill/main/DEVELOPMENT_GUIDE.md
+  source_archive:
+    member: texts/2420fc43aa4a5cf9cc445945c6b64a87a44667407189984b31973979e620b413.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 718547700b2b2cd3d8ab3501ee73196d5ed91c0bd20c6b1a385843ba03d7f5e8
+  url: ''
+name: root/DEVELOPMENT_GUIDE.md
+path: corpus/8c0f6131b7f04a69a24737184848e55e/2420fc43aa4a5cf9cc445945c6b64a87a44667407189984b31973979e620b413.md

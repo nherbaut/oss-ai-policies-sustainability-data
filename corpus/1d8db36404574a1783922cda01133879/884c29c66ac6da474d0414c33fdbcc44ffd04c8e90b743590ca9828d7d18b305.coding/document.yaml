@@ -1,0 +1,26 @@
+hash: 33746454a54cfeacdc02bad444b7cc73c50d5fe8d2f641f7bcb05510879607d7
+id: 4755f2a1-63a6-44fa-b616-d2953bd5dd61
+metadata:
+  import_document_id: osssaysno:riot-os/riot:root/CODING_CONVENTIONS_C++.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:56+00:00'
+    id: osssaysno:github.com/riot-os/riot:root/CODING_CONVENTIONS_C++.md
+    import_slot: root/CODING_CONVENTIONS_C++.md
+    raw_snapshot: data/osssaysno/policies/riot-os/riot/root/raw/CODING_CONVENTIONS_C++.md
+    resolved_url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/CODING_CONVENTIONS_C++.md
+    role: repository_root_document
+    sha256: 33746454a54cfeacdc02bad444b7cc73c50d5fe8d2f641f7bcb05510879607d7
+    snapshot: data/osssaysno/policies/riot-os/riot/root/CODING_CONVENTIONS_C++.md
+    status: downloaded
+    text_sha256: 33746454a54cfeacdc02bad444b7cc73c50d5fe8d2f641f7bcb05510879607d7
+    url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/CODING_CONVENTIONS_C++.md
+  source_archive:
+    member: texts/884c29c66ac6da474d0414c33fdbcc44ffd04c8e90b743590ca9828d7d18b305.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 33746454a54cfeacdc02bad444b7cc73c50d5fe8d2f641f7bcb05510879607d7
+  url: ''
+name: root/CODING_CONVENTIONS_C++.md
+path: corpus/1d8db36404574a1783922cda01133879/884c29c66ac6da474d0414c33fdbcc44ffd04c8e90b743590ca9828d7d18b305.md

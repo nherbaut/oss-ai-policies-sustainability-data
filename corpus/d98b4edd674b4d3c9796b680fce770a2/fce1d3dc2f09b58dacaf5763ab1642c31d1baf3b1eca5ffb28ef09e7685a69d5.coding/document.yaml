@@ -1,0 +1,26 @@
+hash: a8a0343ee59a29e6aeb28d689888cda69f0c7d1cc034bf6372abdb16f40ee64d
+id: 7c2a0238-e10a-4fa4-b75f-240e2d90d485
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:26+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/AGENTS.md
+    role: repository_root_document
+    sha256: a8a0343ee59a29e6aeb28d689888cda69f0c7d1cc034bf6372abdb16f40ee64d
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/AGENTS.md
+    status: downloaded
+    text_sha256: a8a0343ee59a29e6aeb28d689888cda69f0c7d1cc034bf6372abdb16f40ee64d
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/AGENTS.md
+  source_archive:
+    member: texts/fce1d3dc2f09b58dacaf5763ab1642c31d1baf3b1eca5ffb28ef09e7685a69d5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a8a0343ee59a29e6aeb28d689888cda69f0c7d1cc034bf6372abdb16f40ee64d
+  url: ''
+name: root/AGENTS.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/fce1d3dc2f09b58dacaf5763ab1642c31d1baf3b1eca5ffb28ef09e7685a69d5.md

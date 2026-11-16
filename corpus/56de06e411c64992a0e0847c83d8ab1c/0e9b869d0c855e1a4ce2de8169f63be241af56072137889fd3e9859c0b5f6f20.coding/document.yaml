@@ -1,0 +1,26 @@
+hash: 3afa2ef7e07335a27f1758c7ca32840e81d572c2b60f2d462c8cf43a76481a9a
+id: 504bec0c-fa73-4208-be2a-9be5c996a8a2
+metadata:
+  import_document_id: osssaysno:musescore/musescore:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:14+00:00'
+    id: osssaysno:github.com/musescore/musescore:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/musescore/musescore/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/musescore/MuseScore/main/README.md
+    role: repository_root_document
+    sha256: 3afa2ef7e07335a27f1758c7ca32840e81d572c2b60f2d462c8cf43a76481a9a
+    snapshot: data/osssaysno/policies/musescore/musescore/root/README.md
+    status: downloaded
+    text_sha256: 3afa2ef7e07335a27f1758c7ca32840e81d572c2b60f2d462c8cf43a76481a9a
+    url: https://raw.githubusercontent.com/musescore/MuseScore/main/README.md
+  source_archive:
+    member: texts/0e9b869d0c855e1a4ce2de8169f63be241af56072137889fd3e9859c0b5f6f20.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3afa2ef7e07335a27f1758c7ca32840e81d572c2b60f2d462c8cf43a76481a9a
+  url: ''
+name: root/README.md
+path: corpus/56de06e411c64992a0e0847c83d8ab1c/0e9b869d0c855e1a4ce2de8169f63be241af56072137889fd3e9859c0b5f6f20.md

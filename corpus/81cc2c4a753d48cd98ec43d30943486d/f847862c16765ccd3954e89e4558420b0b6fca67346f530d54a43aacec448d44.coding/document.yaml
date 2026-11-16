@@ -1,0 +1,26 @@
+hash: 565f9c431fe41d05cb108e32838d54d80b25991187065cc3cbcb770b0fc3fa62
+id: a8b41f66-1e55-4208-9f13-7e5e486e4037
+metadata:
+  import_document_id: osssaysno:nvidia/openshell:root/CI.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:47+00:00'
+    id: osssaysno:github.com/nvidia/openshell:root/CI.md
+    import_slot: root/CI.md
+    raw_snapshot: data/osssaysno/policies/nvidia/openshell/root/raw/CI.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/CI.md
+    role: repository_root_document
+    sha256: 565f9c431fe41d05cb108e32838d54d80b25991187065cc3cbcb770b0fc3fa62
+    snapshot: data/osssaysno/policies/nvidia/openshell/root/CI.md
+    status: downloaded
+    text_sha256: 565f9c431fe41d05cb108e32838d54d80b25991187065cc3cbcb770b0fc3fa62
+    url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/CI.md
+  source_archive:
+    member: texts/f847862c16765ccd3954e89e4558420b0b6fca67346f530d54a43aacec448d44.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 565f9c431fe41d05cb108e32838d54d80b25991187065cc3cbcb770b0fc3fa62
+  url: ''
+name: root/CI.md
+path: corpus/81cc2c4a753d48cd98ec43d30943486d/f847862c16765ccd3954e89e4558420b0b6fca67346f530d54a43aacec448d44.md

@@ -1,0 +1,37 @@
+hash: bbb8f78cde7a6fdb2f0e7f5be3781af523290a0071a205bb0f01f159e5164e74
+id: 08ca9a85-c652-431b-ae7e-61afc4532261
+metadata:
+  import_document_id: osssaysno:ktorio/ktor:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:20+00:00'
+    id: osssaysno:github.com/ktorio/ktor:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/ktorio/ktor/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/ktorio/ktor/main/AI_POLICY.md
+    role: ai_policy
+    sha256: bbb8f78cde7a6fdb2f0e7f5be3781af523290a0071a205bb0f01f159e5164e74
+    snapshot: data/osssaysno/policies/ktorio/ktor/ai_policy.md
+    status: downloaded
+    text_sha256: bbb8f78cde7a6fdb2f0e7f5be3781af523290a0071a205bb0f01f159e5164e74
+    url: https://github.com/ktorio/ktor/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:29:21+00:00'
+    id: osssaysno:github.com/ktorio/ktor:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/ktorio/ktor/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/ktorio/ktor/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: bbb8f78cde7a6fdb2f0e7f5be3781af523290a0071a205bb0f01f159e5164e74
+    snapshot: data/osssaysno/policies/ktorio/ktor/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: bbb8f78cde7a6fdb2f0e7f5be3781af523290a0071a205bb0f01f159e5164e74
+    url: https://raw.githubusercontent.com/ktorio/ktor/main/AI_POLICY.md
+  source_archive:
+    member: texts/6370e12c340c9d488d260d72c0891fc332ffc3431dc6d915f71c3b1d3914228b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bbb8f78cde7a6fdb2f0e7f5be3781af523290a0071a205bb0f01f159e5164e74
+  url: ''
+name: ai_policy.md
+path: corpus/cb044368463c4e1fa45e70294841997b/6370e12c340c9d488d260d72c0891fc332ffc3431dc6d915f71c3b1d3914228b.md

@@ -1,0 +1,26 @@
+hash: d735bba4db6ad7cb3eb3b6ecc5ded768fc6995e86ee74516bbbfa3fa1ed474e9
+id: 9c4e0c5a-6b69-4d4f-b2b5-a3b84122eda8
+metadata:
+  import_document_id: osssaysno:magicuidesign/magicui:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:34+00:00'
+    id: osssaysno:github.com/magicuidesign/magicui:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/magicuidesign/magicui/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/magicuidesign/magicui/main/README.md
+    role: repository_root_document
+    sha256: d735bba4db6ad7cb3eb3b6ecc5ded768fc6995e86ee74516bbbfa3fa1ed474e9
+    snapshot: data/osssaysno/policies/magicuidesign/magicui/root/README.md
+    status: downloaded
+    text_sha256: d735bba4db6ad7cb3eb3b6ecc5ded768fc6995e86ee74516bbbfa3fa1ed474e9
+    url: https://raw.githubusercontent.com/magicuidesign/magicui/main/README.md
+  source_archive:
+    member: texts/cba386e4ba78402ee058b6f44e19aa9900ddb4fd744990f9ebf3428ec718010b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d735bba4db6ad7cb3eb3b6ecc5ded768fc6995e86ee74516bbbfa3fa1ed474e9
+  url: ''
+name: root/README.md
+path: corpus/a643d8a65392487480aa8ac7bdc563e5/cba386e4ba78402ee058b6f44e19aa9900ddb4fd744990f9ebf3428ec718010b.md

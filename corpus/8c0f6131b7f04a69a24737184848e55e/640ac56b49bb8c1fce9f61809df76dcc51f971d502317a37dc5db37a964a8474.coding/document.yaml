@@ -1,0 +1,26 @@
+hash: 2eee9aa7da7e9851c7dc7b36273a8cee5a2d3b6dc4d3c5699407d9bb1121621e
+id: 9bf20cc9-f7cb-4499-9243-73e43ea65695
+metadata:
+  import_document_id: osssaysno:nteract/papermill:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:30+00:00'
+    id: osssaysno:github.com/nteract/papermill:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/nteract/papermill/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/nteract/papermill/main/README.md
+    role: repository_root_document
+    sha256: 2eee9aa7da7e9851c7dc7b36273a8cee5a2d3b6dc4d3c5699407d9bb1121621e
+    snapshot: data/osssaysno/policies/nteract/papermill/root/README.md
+    status: downloaded
+    text_sha256: 2eee9aa7da7e9851c7dc7b36273a8cee5a2d3b6dc4d3c5699407d9bb1121621e
+    url: https://raw.githubusercontent.com/nteract/papermill/main/README.md
+  source_archive:
+    member: texts/640ac56b49bb8c1fce9f61809df76dcc51f971d502317a37dc5db37a964a8474.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2eee9aa7da7e9851c7dc7b36273a8cee5a2d3b6dc4d3c5699407d9bb1121621e
+  url: ''
+name: root/README.md
+path: corpus/8c0f6131b7f04a69a24737184848e55e/640ac56b49bb8c1fce9f61809df76dcc51f971d502317a37dc5db37a964a8474.md

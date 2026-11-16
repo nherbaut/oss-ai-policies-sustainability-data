@@ -1,0 +1,26 @@
+hash: 41fd5f03f4b09f26f36957d7e017e11d83fb0bd7b6178714d0f76d8d0cc82740
+id: 2a41b438-3d06-45c2-9a94-7ce311d9d2d3
+metadata:
+  import_document_id: osssaysno:debpalash/voicestudio:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:24+00:00'
+    id: osssaysno:github.com/debpalash/voicestudio:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/debpalash/voicestudio/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/debpalash/VoiceStudio/main/README.md
+    role: repository_root_document
+    sha256: 41fd5f03f4b09f26f36957d7e017e11d83fb0bd7b6178714d0f76d8d0cc82740
+    snapshot: data/osssaysno/policies/debpalash/voicestudio/root/README.md
+    status: downloaded
+    text_sha256: 41fd5f03f4b09f26f36957d7e017e11d83fb0bd7b6178714d0f76d8d0cc82740
+    url: https://raw.githubusercontent.com/debpalash/VoiceStudio/main/README.md
+  source_archive:
+    member: texts/53852a0af9fb71fd79fc24f9f7d63d427c9b37fba0248f846469f3536f483529.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 41fd5f03f4b09f26f36957d7e017e11d83fb0bd7b6178714d0f76d8d0cc82740
+  url: ''
+name: root/README.md
+path: corpus/b9dd6666b9354098a0cd907bd3aa1242/53852a0af9fb71fd79fc24f9f7d63d427c9b37fba0248f846469f3536f483529.md

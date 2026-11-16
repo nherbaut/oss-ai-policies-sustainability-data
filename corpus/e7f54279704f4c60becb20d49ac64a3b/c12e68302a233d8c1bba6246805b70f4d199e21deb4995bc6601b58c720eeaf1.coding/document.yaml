@@ -1,0 +1,26 @@
+hash: 06b321512d3f34010e07dd47371f0bbedcd3ed21cc9e04133d407f8ed39abe60
+id: bae3b60a-2f68-461e-9c1a-dd0f2ba2ad14
+metadata:
+  import_document_id: osssaysno:federico-busato/modern-cpp-programming:root/LICENSE-MIT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:08+00:00'
+    id: osssaysno:github.com/federico-busato/modern-cpp-programming:root/LICENSE-MIT.md
+    import_slot: root/LICENSE-MIT.md
+    raw_snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/root/raw/LICENSE-MIT.md
+    resolved_url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/LICENSE-MIT.md
+    role: repository_root_document
+    sha256: 06b321512d3f34010e07dd47371f0bbedcd3ed21cc9e04133d407f8ed39abe60
+    snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/root/LICENSE-MIT.md
+    status: downloaded
+    text_sha256: 06b321512d3f34010e07dd47371f0bbedcd3ed21cc9e04133d407f8ed39abe60
+    url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/LICENSE-MIT.md
+  source_archive:
+    member: texts/c12e68302a233d8c1bba6246805b70f4d199e21deb4995bc6601b58c720eeaf1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 06b321512d3f34010e07dd47371f0bbedcd3ed21cc9e04133d407f8ed39abe60
+  url: ''
+name: root/LICENSE-MIT.md
+path: corpus/e7f54279704f4c60becb20d49ac64a3b/c12e68302a233d8c1bba6246805b70f4d199e21deb4995bc6601b58c720eeaf1.md

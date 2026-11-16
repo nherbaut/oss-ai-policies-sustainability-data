@@ -1,0 +1,26 @@
+hash: d7769cddfb2ba9caa8972a91ef566fd289190084b816ac82d0b62bc69fed6a15
+id: fd0f65d9-4433-483c-b317-16662909f83c
+metadata:
+  import_document_id: osssaysno:clementtsang/bottom:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:27+00:00'
+    id: osssaysno:github.com/clementtsang/bottom:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/clementtsang/bottom/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/ClementTsang/bottom/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: d7769cddfb2ba9caa8972a91ef566fd289190084b816ac82d0b62bc69fed6a15
+    snapshot: data/osssaysno/policies/clementtsang/bottom/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: d7769cddfb2ba9caa8972a91ef566fd289190084b816ac82d0b62bc69fed6a15
+    url: https://raw.githubusercontent.com/ClementTsang/bottom/main/CHANGELOG.md
+  source_archive:
+    member: texts/831bbff929ca6fb28ef5eca13f283bdca91c09acb0eac9c934d64ffc4c8b7f05.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d7769cddfb2ba9caa8972a91ef566fd289190084b816ac82d0b62bc69fed6a15
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/911a9cf6c34541db847b09222b19d7a5/831bbff929ca6fb28ef5eca13f283bdca91c09acb0eac9c934d64ffc4c8b7f05.md

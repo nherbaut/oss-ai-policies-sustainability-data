@@ -1,0 +1,37 @@
+hash: 7274b5be0d42660648f4172ac82fa22afdc20ecd288856ff56846bff91e63ba6
+id: c164963a-d62c-40c4-87de-61a53a37d821
+metadata:
+  import_document_id: osssaysno:lysine-dev/okhttp:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:49+00:00'
+    id: osssaysno:github.com/lysine-dev/okhttp:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/lysine-dev/okhttp/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/lysine-dev/okhttp/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 7274b5be0d42660648f4172ac82fa22afdc20ecd288856ff56846bff91e63ba6
+    snapshot: data/osssaysno/policies/lysine-dev/okhttp/contributing.md
+    status: downloaded
+    text_sha256: 7274b5be0d42660648f4172ac82fa22afdc20ecd288856ff56846bff91e63ba6
+    url: https://github.com/lysine-dev/okhttp/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:03:51+00:00'
+    id: osssaysno:github.com/lysine-dev/okhttp:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/lysine-dev/okhttp/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/lysine-dev/okhttp/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 7274b5be0d42660648f4172ac82fa22afdc20ecd288856ff56846bff91e63ba6
+    snapshot: data/osssaysno/policies/lysine-dev/okhttp/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 7274b5be0d42660648f4172ac82fa22afdc20ecd288856ff56846bff91e63ba6
+    url: https://raw.githubusercontent.com/lysine-dev/okhttp/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/f927ea101b763049b12147b42227b51dff4902a487fee60070df54292d57cf57.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7274b5be0d42660648f4172ac82fa22afdc20ecd288856ff56846bff91e63ba6
+  url: ''
+name: contributing.md
+path: corpus/19d07dc8b553446abb913aa6715efe7f/f927ea101b763049b12147b42227b51dff4902a487fee60070df54292d57cf57.md

@@ -1,0 +1,26 @@
+hash: 93f3fe006529f4c49c8638c1c39d0368c318c7db9307d6493708abe807a7663e
+id: a63d19d4-d326-47ea-bfe8-58f1eb938f28
+metadata:
+  import_document_id: osssaysno:rukamori/archivetune:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:35+00:00'
+    id: osssaysno:github.com/rukamori/archivetune:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/rukamori/archivetune/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 93f3fe006529f4c49c8638c1c39d0368c318c7db9307d6493708abe807a7663e
+    snapshot: data/osssaysno/policies/rukamori/archivetune/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 93f3fe006529f4c49c8638c1c39d0368c318c7db9307d6493708abe807a7663e
+    url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/536051c4bad7e93d1cbdd5bc34ca06dc695a9ac310ace44353f2a9c452870b2a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 93f3fe006529f4c49c8638c1c39d0368c318c7db9307d6493708abe807a7663e
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/8b2896af63d64dcd8b27a24a860b8000/536051c4bad7e93d1cbdd5bc34ca06dc695a9ac310ace44353f2a9c452870b2a.md

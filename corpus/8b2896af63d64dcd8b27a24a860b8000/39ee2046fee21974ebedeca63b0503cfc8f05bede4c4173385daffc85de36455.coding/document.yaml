@@ -1,0 +1,26 @@
+hash: 081ccf2e5cf6d793d31d5abf2a584c22c3e6db938df45212cbd1c64c42fc2d00
+id: 8a3b30c0-291b-4eea-90cb-f809ea7ff364
+metadata:
+  import_document_id: osssaysno:rukamori/archivetune:root/MODULES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:36+00:00'
+    id: osssaysno:github.com/rukamori/archivetune:root/MODULES.md
+    import_slot: root/MODULES.md
+    raw_snapshot: data/osssaysno/policies/rukamori/archivetune/root/raw/MODULES.md
+    resolved_url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/MODULES.md
+    role: repository_root_document
+    sha256: 081ccf2e5cf6d793d31d5abf2a584c22c3e6db938df45212cbd1c64c42fc2d00
+    snapshot: data/osssaysno/policies/rukamori/archivetune/root/MODULES.md
+    status: downloaded
+    text_sha256: 081ccf2e5cf6d793d31d5abf2a584c22c3e6db938df45212cbd1c64c42fc2d00
+    url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/MODULES.md
+  source_archive:
+    member: texts/39ee2046fee21974ebedeca63b0503cfc8f05bede4c4173385daffc85de36455.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 081ccf2e5cf6d793d31d5abf2a584c22c3e6db938df45212cbd1c64c42fc2d00
+  url: ''
+name: root/MODULES.md
+path: corpus/8b2896af63d64dcd8b27a24a860b8000/39ee2046fee21974ebedeca63b0503cfc8f05bede4c4173385daffc85de36455.md

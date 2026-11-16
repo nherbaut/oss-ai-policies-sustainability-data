@@ -1,0 +1,26 @@
+hash: 06dace31384a6871b40a0717d68de933fc9893d6f92bb3efc01350d08af7b3bc
+id: 91f14630-1a89-43d6-95d6-0fee2e8d3e9e
+metadata:
+  import_document_id: osssaysno:modelcontextprotocol/modelcontextprotocol:root/ANTITRUST.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:37+00:00'
+    id: osssaysno:github.com/modelcontextprotocol/modelcontextprotocol:root/ANTITRUST.md
+    import_slot: root/ANTITRUST.md
+    raw_snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/raw/ANTITRUST.md
+    resolved_url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/ANTITRUST.md
+    role: repository_root_document
+    sha256: 06dace31384a6871b40a0717d68de933fc9893d6f92bb3efc01350d08af7b3bc
+    snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/ANTITRUST.md
+    status: downloaded
+    text_sha256: 06dace31384a6871b40a0717d68de933fc9893d6f92bb3efc01350d08af7b3bc
+    url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/ANTITRUST.md
+  source_archive:
+    member: texts/0d790cd6ae4f39a400660eda0ffc063c6a98633071e512b9712dff444ed6dfd6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 06dace31384a6871b40a0717d68de933fc9893d6f92bb3efc01350d08af7b3bc
+  url: ''
+name: root/ANTITRUST.md
+path: corpus/b5d4598700cc49f09b9d1009e0ab6ac5/0d790cd6ae4f39a400660eda0ffc063c6a98633071e512b9712dff444ed6dfd6.md

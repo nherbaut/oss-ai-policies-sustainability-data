@@ -1,0 +1,37 @@
+hash: d4860ba625c8fe1d2a53cd6dcb23e237767ebda9d3a5b83558efee5a94fcad81
+id: 8ae5391d-b8cc-4a21-8745-43b17069c23a
+metadata:
+  import_document_id: osssaysno:grpc/grpc-java:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:56+00:00'
+    id: osssaysno:github.com/grpc/grpc-java:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-java/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-java/master/CONTRIBUTING.md
+    role: contributing
+    sha256: d4860ba625c8fe1d2a53cd6dcb23e237767ebda9d3a5b83558efee5a94fcad81
+    snapshot: data/osssaysno/policies/grpc/grpc-java/contributing.md
+    status: downloaded
+    text_sha256: d4860ba625c8fe1d2a53cd6dcb23e237767ebda9d3a5b83558efee5a94fcad81
+    url: https://github.com/grpc/grpc-java/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:58+00:00'
+    id: osssaysno:github.com/grpc/grpc-java:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-java/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-java/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: d4860ba625c8fe1d2a53cd6dcb23e237767ebda9d3a5b83558efee5a94fcad81
+    snapshot: data/osssaysno/policies/grpc/grpc-java/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: d4860ba625c8fe1d2a53cd6dcb23e237767ebda9d3a5b83558efee5a94fcad81
+    url: https://raw.githubusercontent.com/grpc/grpc-java/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/f917827822a3bf47f93c4725bfcfd2a9ec9e4915ca9c79ca45ffc1c512b75216.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d4860ba625c8fe1d2a53cd6dcb23e237767ebda9d3a5b83558efee5a94fcad81
+  url: ''
+name: contributing.md
+path: corpus/3e38e7dc201e40588ce69f5f92efec39/f917827822a3bf47f93c4725bfcfd2a9ec9e4915ca9c79ca45ffc1c512b75216.md

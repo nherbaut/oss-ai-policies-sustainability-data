@@ -1,0 +1,26 @@
+hash: daeb1fd9001542bb63ff815c9d89f5a46a459696e10d4613b3170d348b7dbf8f
+id: 802b8d27-906b-4b30-be0b-6113d33cd580
+metadata:
+  import_document_id: osssaysno:grpc/grpc:root/MANIFEST.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:55+00:00'
+    id: osssaysno:github.com/grpc/grpc:root/MANIFEST.md
+    import_slot: root/MANIFEST.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc/root/raw/MANIFEST.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc/master/MANIFEST.md
+    role: repository_root_document
+    sha256: daeb1fd9001542bb63ff815c9d89f5a46a459696e10d4613b3170d348b7dbf8f
+    snapshot: data/osssaysno/policies/grpc/grpc/root/MANIFEST.md
+    status: downloaded
+    text_sha256: daeb1fd9001542bb63ff815c9d89f5a46a459696e10d4613b3170d348b7dbf8f
+    url: https://raw.githubusercontent.com/grpc/grpc/master/MANIFEST.md
+  source_archive:
+    member: texts/9dae6e10d1ed764e5d65d2ccd17a7bdf157a0e68bb9a76558a313d887ad9248e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: daeb1fd9001542bb63ff815c9d89f5a46a459696e10d4613b3170d348b7dbf8f
+  url: ''
+name: root/MANIFEST.md
+path: corpus/50ff420aff9b4348bca915b7bbde4ec2/9dae6e10d1ed764e5d65d2ccd17a7bdf157a0e68bb9a76558a313d887ad9248e.md

@@ -1,0 +1,26 @@
+hash: e339fafec2bf3c8359b87b299ca2ad23074b0028b4dd7d7baa45ad789329030b
+id: e53c1949-e3ed-43c2-ac61-be9ef272efee
+metadata:
+  import_document_id: osssaysno:grpc/grpc:root/CONCEPTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:53+00:00'
+    id: osssaysno:github.com/grpc/grpc:root/CONCEPTS.md
+    import_slot: root/CONCEPTS.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc/root/raw/CONCEPTS.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc/master/CONCEPTS.md
+    role: repository_root_document
+    sha256: e339fafec2bf3c8359b87b299ca2ad23074b0028b4dd7d7baa45ad789329030b
+    snapshot: data/osssaysno/policies/grpc/grpc/root/CONCEPTS.md
+    status: downloaded
+    text_sha256: e339fafec2bf3c8359b87b299ca2ad23074b0028b4dd7d7baa45ad789329030b
+    url: https://raw.githubusercontent.com/grpc/grpc/master/CONCEPTS.md
+  source_archive:
+    member: texts/925f6d26cdb67ded50d3299a40a846e78681769af059f33b23acc51a9659f156.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e339fafec2bf3c8359b87b299ca2ad23074b0028b4dd7d7baa45ad789329030b
+  url: ''
+name: root/CONCEPTS.md
+path: corpus/50ff420aff9b4348bca915b7bbde4ec2/925f6d26cdb67ded50d3299a40a846e78681769af059f33b23acc51a9659f156.md

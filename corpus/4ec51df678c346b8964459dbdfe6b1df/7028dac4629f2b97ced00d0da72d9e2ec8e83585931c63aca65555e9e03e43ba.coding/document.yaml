@@ -1,0 +1,26 @@
+hash: 6b0de0c85696fe537065206c88ec393f900e921931f4cd6e017e8facccb134e2
+id: 8aaf4ecf-ffe8-4055-a38b-a325448e16ec
+metadata:
+  import_document_id: osssaysno:openclaw/clawhub:root/DESIGN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:48+00:00'
+    id: osssaysno:github.com/openclaw/clawhub:root/DESIGN.md
+    import_slot: root/DESIGN.md
+    raw_snapshot: data/osssaysno/policies/openclaw/clawhub/root/raw/DESIGN.md
+    resolved_url: https://raw.githubusercontent.com/openclaw/clawhub/main/DESIGN.md
+    role: repository_root_document
+    sha256: 6b0de0c85696fe537065206c88ec393f900e921931f4cd6e017e8facccb134e2
+    snapshot: data/osssaysno/policies/openclaw/clawhub/root/DESIGN.md
+    status: downloaded
+    text_sha256: 6b0de0c85696fe537065206c88ec393f900e921931f4cd6e017e8facccb134e2
+    url: https://raw.githubusercontent.com/openclaw/clawhub/main/DESIGN.md
+  source_archive:
+    member: texts/7028dac4629f2b97ced00d0da72d9e2ec8e83585931c63aca65555e9e03e43ba.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6b0de0c85696fe537065206c88ec393f900e921931f4cd6e017e8facccb134e2
+  url: ''
+name: root/DESIGN.md
+path: corpus/4ec51df678c346b8964459dbdfe6b1df/7028dac4629f2b97ced00d0da72d9e2ec8e83585931c63aca65555e9e03e43ba.md

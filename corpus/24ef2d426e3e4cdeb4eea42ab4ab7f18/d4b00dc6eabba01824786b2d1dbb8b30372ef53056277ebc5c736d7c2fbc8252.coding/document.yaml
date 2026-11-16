@@ -1,0 +1,26 @@
+hash: e2496fbf6b47e80e8ac547822c972b94765c54469b2f753cec39eaac022a1162
+id: dede74c7-e4a7-4c49-8450-fe62c0131328
+metadata:
+  import_document_id: osssaysno:crossplane/crossplane:root/CHARTER.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:50+00:00'
+    id: osssaysno:github.com/crossplane/crossplane:root/CHARTER.md
+    import_slot: root/CHARTER.md
+    raw_snapshot: data/osssaysno/policies/crossplane/crossplane/root/raw/CHARTER.md
+    resolved_url: https://raw.githubusercontent.com/crossplane/crossplane/main/CHARTER.md
+    role: repository_root_document
+    sha256: e2496fbf6b47e80e8ac547822c972b94765c54469b2f753cec39eaac022a1162
+    snapshot: data/osssaysno/policies/crossplane/crossplane/root/CHARTER.md
+    status: downloaded
+    text_sha256: e2496fbf6b47e80e8ac547822c972b94765c54469b2f753cec39eaac022a1162
+    url: https://raw.githubusercontent.com/crossplane/crossplane/main/CHARTER.md
+  source_archive:
+    member: texts/d4b00dc6eabba01824786b2d1dbb8b30372ef53056277ebc5c736d7c2fbc8252.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e2496fbf6b47e80e8ac547822c972b94765c54469b2f753cec39eaac022a1162
+  url: ''
+name: root/CHARTER.md
+path: corpus/24ef2d426e3e4cdeb4eea42ab4ab7f18/d4b00dc6eabba01824786b2d1dbb8b30372ef53056277ebc5c736d7c2fbc8252.md

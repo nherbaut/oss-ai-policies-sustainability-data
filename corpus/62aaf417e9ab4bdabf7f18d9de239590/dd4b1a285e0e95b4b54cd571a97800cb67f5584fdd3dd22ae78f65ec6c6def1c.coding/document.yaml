@@ -1,0 +1,26 @@
+hash: a3c291f661a04bb52515fa0fc918f9d5eea1eb96d5e55cb58ca43b7b9e188f38
+id: 8f9ec62b-9618-4a7b-b1ce-f50686b80cd8
+metadata:
+  import_document_id: osssaysno:stanfordnlp/stanza:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:34+00:00'
+    id: osssaysno:github.com/stanfordnlp/stanza:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/stanfordnlp/stanza/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/stanfordnlp/stanza/main/README.md
+    role: repository_root_document
+    sha256: a3c291f661a04bb52515fa0fc918f9d5eea1eb96d5e55cb58ca43b7b9e188f38
+    snapshot: data/osssaysno/policies/stanfordnlp/stanza/root/README.md
+    status: downloaded
+    text_sha256: a3c291f661a04bb52515fa0fc918f9d5eea1eb96d5e55cb58ca43b7b9e188f38
+    url: https://raw.githubusercontent.com/stanfordnlp/stanza/main/README.md
+  source_archive:
+    member: texts/dd4b1a285e0e95b4b54cd571a97800cb67f5584fdd3dd22ae78f65ec6c6def1c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a3c291f661a04bb52515fa0fc918f9d5eea1eb96d5e55cb58ca43b7b9e188f38
+  url: ''
+name: root/README.md
+path: corpus/62aaf417e9ab4bdabf7f18d9de239590/dd4b1a285e0e95b4b54cd571a97800cb67f5584fdd3dd22ae78f65ec6c6def1c.md

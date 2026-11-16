@@ -1,0 +1,37 @@
+hash: 00e57638303defe4903ad9e5757dc4e83d1edf083057223477828c2a1e709076
+id: 65321ce1-1250-4c2c-ac90-3d5476923b2c
+metadata:
+  import_document_id: osssaysno:nibzard/awesome-agentic-patterns:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:44+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 00e57638303defe4903ad9e5757dc4e83d1edf083057223477828c2a1e709076
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/ai_policy.md
+    status: downloaded
+    text_sha256: 00e57638303defe4903ad9e5757dc4e83d1edf083057223477828c2a1e709076
+    url: https://github.com/nibzard/awesome-agentic-patterns/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:04:45+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 00e57638303defe4903ad9e5757dc4e83d1edf083057223477828c2a1e709076
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 00e57638303defe4903ad9e5757dc4e83d1edf083057223477828c2a1e709076
+    url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/AI_POLICY.md
+  source_archive:
+    member: texts/7bfd982025242d77f37d44cf51849924bdee36fd199e6b90b4eb1e750f558fab.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 00e57638303defe4903ad9e5757dc4e83d1edf083057223477828c2a1e709076
+  url: ''
+name: ai_policy.md
+path: corpus/dd94b9ffd2f94e2fbe0e75d0714cd789/7bfd982025242d77f37d44cf51849924bdee36fd199e6b90b4eb1e750f558fab.md

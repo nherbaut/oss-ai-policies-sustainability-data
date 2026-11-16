@@ -1,0 +1,26 @@
+hash: 7ff2150c6b2dea590d13cfe286dbb1ca38c53a01d1deb43988d8378a82ad50ed
+id: 23127380-d0f7-4bdf-a319-5f134c8957b4
+metadata:
+  import_document_id: osssaysno:fyroxengine/fyrox:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:41+00:00'
+    id: osssaysno:github.com/fyroxengine/fyrox:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/fyroxengine/fyrox/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/FyroxEngine/Fyrox/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: 7ff2150c6b2dea590d13cfe286dbb1ca38c53a01d1deb43988d8378a82ad50ed
+    snapshot: data/osssaysno/policies/fyroxengine/fyrox/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 7ff2150c6b2dea590d13cfe286dbb1ca38c53a01d1deb43988d8378a82ad50ed
+    url: https://raw.githubusercontent.com/FyroxEngine/Fyrox/master/CHANGELOG.md
+  source_archive:
+    member: texts/eb2078ada9ae774f04a88e1440959a5a03caed7951e8e0ca52426df85c45927f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7ff2150c6b2dea590d13cfe286dbb1ca38c53a01d1deb43988d8378a82ad50ed
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/ad02b454f354497f9728a89d53f20cbe/eb2078ada9ae774f04a88e1440959a5a03caed7951e8e0ca52426df85c45927f.md

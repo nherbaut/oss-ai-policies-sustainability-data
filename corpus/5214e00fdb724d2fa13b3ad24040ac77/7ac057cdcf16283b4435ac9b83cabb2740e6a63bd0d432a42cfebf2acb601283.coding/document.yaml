@@ -1,0 +1,26 @@
+hash: cc8f5f74795e61124aa08e088342ea393c36429dc7c611d478508c21e3174529
+id: a078aa54-b07e-44c9-bbca-9fab4a6b6cd7
+metadata:
+  import_document_id: osssaysno:heroui-inc/heroui:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:11+00:00'
+    id: osssaysno:github.com/heroui-inc/heroui:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/heroui-inc/heroui/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: cc8f5f74795e61124aa08e088342ea393c36429dc7c611d478508c21e3174529
+    snapshot: data/osssaysno/policies/heroui-inc/heroui/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: cc8f5f74795e61124aa08e088342ea393c36429dc7c611d478508c21e3174529
+    url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/7ac057cdcf16283b4435ac9b83cabb2740e6a63bd0d432a42cfebf2acb601283.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cc8f5f74795e61124aa08e088342ea393c36429dc7c611d478508c21e3174529
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/5214e00fdb724d2fa13b3ad24040ac77/7ac057cdcf16283b4435ac9b83cabb2740e6a63bd0d432a42cfebf2acb601283.md

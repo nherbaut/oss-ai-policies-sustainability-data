@@ -1,0 +1,26 @@
+hash: 0b0df6c94b4c4f00a0c353710fbf4135595926c3a122fb31b57e2b7f02e98343
+id: d22231fd-b6a8-4a86-95d1-06da67556d55
+metadata:
+  import_document_id: osssaysno:aws/aws-sam-cli:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:15+00:00'
+    id: osssaysno:github.com/aws/aws-sam-cli:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/aws/aws-sam-cli/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 0b0df6c94b4c4f00a0c353710fbf4135595926c3a122fb31b57e2b7f02e98343
+    snapshot: data/osssaysno/policies/aws/aws-sam-cli/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 0b0df6c94b4c4f00a0c353710fbf4135595926c3a122fb31b57e2b7f02e98343
+    url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/eeb481b8f28ee64b0578d94ae69f2739301a0167a5e0ccc701df90f1d300280c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0b0df6c94b4c4f00a0c353710fbf4135595926c3a122fb31b57e2b7f02e98343
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/5b1a32658ea14e7eb3725870becf202e/eeb481b8f28ee64b0578d94ae69f2739301a0167a5e0ccc701df90f1d300280c.md

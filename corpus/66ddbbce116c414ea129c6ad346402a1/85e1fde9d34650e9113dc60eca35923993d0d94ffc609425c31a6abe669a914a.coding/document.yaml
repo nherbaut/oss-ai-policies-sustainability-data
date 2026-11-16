@@ -1,0 +1,26 @@
+hash: 79aa4a8086d51ac89f9a7322f546670cdef73e758c67f04587b7af8afafd6df8
+id: e0e3a59a-6737-473e-ab37-b7e4b1a2b061
+metadata:
+  import_document_id: osssaysno:librosa/librosa:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:06+00:00'
+    id: osssaysno:github.com/librosa/librosa:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/librosa/librosa/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/librosa/librosa/main/LICENSE.md
+    role: repository_root_document
+    sha256: 79aa4a8086d51ac89f9a7322f546670cdef73e758c67f04587b7af8afafd6df8
+    snapshot: data/osssaysno/policies/librosa/librosa/root/LICENSE.md
+    status: downloaded
+    text_sha256: 79aa4a8086d51ac89f9a7322f546670cdef73e758c67f04587b7af8afafd6df8
+    url: https://raw.githubusercontent.com/librosa/librosa/main/LICENSE.md
+  source_archive:
+    member: texts/85e1fde9d34650e9113dc60eca35923993d0d94ffc609425c31a6abe669a914a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 79aa4a8086d51ac89f9a7322f546670cdef73e758c67f04587b7af8afafd6df8
+  url: ''
+name: root/LICENSE.md
+path: corpus/66ddbbce116c414ea129c6ad346402a1/85e1fde9d34650e9113dc60eca35923993d0d94ffc609425c31a6abe669a914a.md

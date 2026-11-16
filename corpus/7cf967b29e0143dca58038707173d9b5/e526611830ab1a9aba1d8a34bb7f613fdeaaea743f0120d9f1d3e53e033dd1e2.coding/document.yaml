@@ -1,0 +1,26 @@
+hash: 4386de6cf7a0f35d0f66eee6d46dea5b7a140af5a3cc2d76b8b8ea12112a98da
+id: 92fed5c6-e153-4622-acca-4d2174f869a6
+metadata:
+  import_document_id: osssaysno:motion-canvas/motion-canvas:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:51+00:00'
+    id: osssaysno:github.com/motion-canvas/motion-canvas:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/motion-canvas/motion-canvas/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 4386de6cf7a0f35d0f66eee6d46dea5b7a140af5a3cc2d76b8b8ea12112a98da
+    snapshot: data/osssaysno/policies/motion-canvas/motion-canvas/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 4386de6cf7a0f35d0f66eee6d46dea5b7a140af5a3cc2d76b8b8ea12112a98da
+    url: https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/CHANGELOG.md
+  source_archive:
+    member: texts/e526611830ab1a9aba1d8a34bb7f613fdeaaea743f0120d9f1d3e53e033dd1e2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4386de6cf7a0f35d0f66eee6d46dea5b7a140af5a3cc2d76b8b8ea12112a98da
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/7cf967b29e0143dca58038707173d9b5/e526611830ab1a9aba1d8a34bb7f613fdeaaea743f0120d9f1d3e53e033dd1e2.md

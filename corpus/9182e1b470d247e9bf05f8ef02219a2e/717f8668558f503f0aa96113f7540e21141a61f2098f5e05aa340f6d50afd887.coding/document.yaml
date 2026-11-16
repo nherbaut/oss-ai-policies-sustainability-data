@@ -1,0 +1,26 @@
+hash: 267bc76fcb4ef70542e6e79aba358dc36567f8923f26c112d32c3e83b37ef686
+id: fba0c1be-728b-4df3-a2b9-a6fef23accb6
+metadata:
+  import_document_id: osssaysno:projectcalico/calico:root/DEVELOPER_GUIDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:50+00:00'
+    id: osssaysno:github.com/projectcalico/calico:root/DEVELOPER_GUIDE.md
+    import_slot: root/DEVELOPER_GUIDE.md
+    raw_snapshot: data/osssaysno/policies/projectcalico/calico/root/raw/DEVELOPER_GUIDE.md
+    resolved_url: https://raw.githubusercontent.com/projectcalico/calico/master/DEVELOPER_GUIDE.md
+    role: repository_root_document
+    sha256: 267bc76fcb4ef70542e6e79aba358dc36567f8923f26c112d32c3e83b37ef686
+    snapshot: data/osssaysno/policies/projectcalico/calico/root/DEVELOPER_GUIDE.md
+    status: downloaded
+    text_sha256: 267bc76fcb4ef70542e6e79aba358dc36567f8923f26c112d32c3e83b37ef686
+    url: https://raw.githubusercontent.com/projectcalico/calico/master/DEVELOPER_GUIDE.md
+  source_archive:
+    member: texts/717f8668558f503f0aa96113f7540e21141a61f2098f5e05aa340f6d50afd887.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 267bc76fcb4ef70542e6e79aba358dc36567f8923f26c112d32c3e83b37ef686
+  url: ''
+name: root/DEVELOPER_GUIDE.md
+path: corpus/9182e1b470d247e9bf05f8ef02219a2e/717f8668558f503f0aa96113f7540e21141a61f2098f5e05aa340f6d50afd887.md

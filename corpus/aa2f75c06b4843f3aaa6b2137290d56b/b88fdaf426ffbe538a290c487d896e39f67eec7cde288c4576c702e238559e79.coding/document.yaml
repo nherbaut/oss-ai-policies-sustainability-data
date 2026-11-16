@@ -1,0 +1,26 @@
+hash: 11be97b9d348f88d2ece3b6394cafb9f51aebb5049b60066174cf9c6624cab7c
+id: 99477178-afc6-4bc4-95f2-f1ff1575c5f0
+metadata:
+  import_document_id: osssaysno:lima-vm/lima:root/ROADMAP.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:39+00:00'
+    id: osssaysno:github.com/lima-vm/lima:root/ROADMAP.md
+    import_slot: root/ROADMAP.md
+    raw_snapshot: data/osssaysno/policies/lima-vm/lima/root/raw/ROADMAP.md
+    resolved_url: https://raw.githubusercontent.com/lima-vm/lima/master/ROADMAP.md
+    role: repository_root_document
+    sha256: 11be97b9d348f88d2ece3b6394cafb9f51aebb5049b60066174cf9c6624cab7c
+    snapshot: data/osssaysno/policies/lima-vm/lima/root/ROADMAP.md
+    status: downloaded
+    text_sha256: 11be97b9d348f88d2ece3b6394cafb9f51aebb5049b60066174cf9c6624cab7c
+    url: https://raw.githubusercontent.com/lima-vm/lima/master/ROADMAP.md
+  source_archive:
+    member: texts/b88fdaf426ffbe538a290c487d896e39f67eec7cde288c4576c702e238559e79.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 11be97b9d348f88d2ece3b6394cafb9f51aebb5049b60066174cf9c6624cab7c
+  url: ''
+name: root/ROADMAP.md
+path: corpus/aa2f75c06b4843f3aaa6b2137290d56b/b88fdaf426ffbe538a290c487d896e39f67eec7cde288c4576c702e238559e79.md

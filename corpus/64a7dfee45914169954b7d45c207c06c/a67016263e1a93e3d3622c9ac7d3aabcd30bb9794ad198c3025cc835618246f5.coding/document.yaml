@@ -1,0 +1,37 @@
+hash: 1f70b025b76b5fffd1ff3567ac91cf6d49d4c9d09dd5ae501b1bcc7295e1fefb
+id: 16b80a0b-b0e5-4b48-ade7-8e9c7003c71b
+metadata:
+  import_document_id: osssaysno:kunagent/kun:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:56+00:00'
+    id: osssaysno:github.com/kunagent/kun:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/kunagent/kun/raw/agent.md
+    resolved_url: https://raw.githubusercontent.com/KunAgent/Kun/master/AGENTS.md
+    role: agent
+    sha256: 1f70b025b76b5fffd1ff3567ac91cf6d49d4c9d09dd5ae501b1bcc7295e1fefb
+    snapshot: data/osssaysno/policies/kunagent/kun/agent.md
+    status: downloaded
+    text_sha256: 1f70b025b76b5fffd1ff3567ac91cf6d49d4c9d09dd5ae501b1bcc7295e1fefb
+    url: https://github.com/KunAgent/Kun/blob/master/AGENTS.md
+  - accessed_at: '2026-11-15T23:37:34+00:00'
+    id: osssaysno:github.com/kunagent/kun:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/kunagent/kun/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/KunAgent/Kun/master/AGENTS.md
+    role: repository_root_document
+    sha256: 1f70b025b76b5fffd1ff3567ac91cf6d49d4c9d09dd5ae501b1bcc7295e1fefb
+    snapshot: data/osssaysno/policies/kunagent/kun/root/AGENTS.md
+    status: downloaded
+    text_sha256: 1f70b025b76b5fffd1ff3567ac91cf6d49d4c9d09dd5ae501b1bcc7295e1fefb
+    url: https://raw.githubusercontent.com/KunAgent/Kun/master/AGENTS.md
+  source_archive:
+    member: texts/a67016263e1a93e3d3622c9ac7d3aabcd30bb9794ad198c3025cc835618246f5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1f70b025b76b5fffd1ff3567ac91cf6d49d4c9d09dd5ae501b1bcc7295e1fefb
+  url: ''
+name: agent.md
+path: corpus/64a7dfee45914169954b7d45c207c06c/a67016263e1a93e3d3622c9ac7d3aabcd30bb9794ad198c3025cc835618246f5.md

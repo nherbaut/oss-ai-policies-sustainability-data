@@ -1,0 +1,26 @@
+hash: 9f8a9ce081ab127e1231fad45be2cd04bbfc87d80bde15e8f04c711acbf686f6
+id: 256071f9-cdca-454b-af77-247e39b9c85c
+metadata:
+  import_document_id: osssaysno:openclaw/clawhub:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:46+00:00'
+    id: osssaysno:github.com/openclaw/clawhub:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/openclaw/clawhub/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/openclaw/clawhub/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 9f8a9ce081ab127e1231fad45be2cd04bbfc87d80bde15e8f04c711acbf686f6
+    snapshot: data/osssaysno/policies/openclaw/clawhub/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 9f8a9ce081ab127e1231fad45be2cd04bbfc87d80bde15e8f04c711acbf686f6
+    url: https://raw.githubusercontent.com/openclaw/clawhub/main/CHANGELOG.md
+  source_archive:
+    member: texts/e0fa8ad868622d16cf852a3c1185e62ceaec66045d8b87b4c8782c1a97fc323d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9f8a9ce081ab127e1231fad45be2cd04bbfc87d80bde15e8f04c711acbf686f6
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/4ec51df678c346b8964459dbdfe6b1df/e0fa8ad868622d16cf852a3c1185e62ceaec66045d8b87b4c8782c1a97fc323d.md

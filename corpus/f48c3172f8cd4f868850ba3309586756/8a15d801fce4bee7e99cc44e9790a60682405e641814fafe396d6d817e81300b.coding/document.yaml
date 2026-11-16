@@ -1,0 +1,26 @@
+hash: 4f484d855cff3547189a477de84dda4ca6c3e226d3b1fcb2b60dbdbecbb387f3
+id: b9123f1f-77fc-4da5-af96-3c38c61fc93d
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/STEERING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:14+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/STEERING.md
+    import_slot: root/STEERING.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/STEERING.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/STEERING.md
+    role: repository_root_document
+    sha256: 4f484d855cff3547189a477de84dda4ca6c3e226d3b1fcb2b60dbdbecbb387f3
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/STEERING.md
+    status: downloaded
+    text_sha256: 4f484d855cff3547189a477de84dda4ca6c3e226d3b1fcb2b60dbdbecbb387f3
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/STEERING.md
+  source_archive:
+    member: texts/8a15d801fce4bee7e99cc44e9790a60682405e641814fafe396d6d817e81300b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4f484d855cff3547189a477de84dda4ca6c3e226d3b1fcb2b60dbdbecbb387f3
+  url: ''
+name: root/STEERING.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/8a15d801fce4bee7e99cc44e9790a60682405e641814fafe396d6d817e81300b.md

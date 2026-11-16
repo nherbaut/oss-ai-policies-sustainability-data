@@ -1,0 +1,26 @@
+hash: 3d9d2215c03ff51d2fd50652df2aec80ad18e19150980ccf9b8b4bca1e14aa63
+id: 45613d15-ace4-4f0c-983d-5e40c5f7045a
+metadata:
+  import_document_id: osssaysno:home-assistant/home-assistant.io:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:26+00:00'
+    id: osssaysno:github.com/home-assistant/home-assistant.io:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/README.md
+    role: repository_root_document
+    sha256: 3d9d2215c03ff51d2fd50652df2aec80ad18e19150980ccf9b8b4bca1e14aa63
+    snapshot: data/osssaysno/policies/home-assistant/home-assistant.io/root/README.md
+    status: downloaded
+    text_sha256: 3d9d2215c03ff51d2fd50652df2aec80ad18e19150980ccf9b8b4bca1e14aa63
+    url: https://raw.githubusercontent.com/home-assistant/home-assistant.io/current/README.md
+  source_archive:
+    member: texts/e689e99ccbf6ae928136cf678654bf75330eb7817b7b657b9707fd8b7feef6cb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3d9d2215c03ff51d2fd50652df2aec80ad18e19150980ccf9b8b4bca1e14aa63
+  url: ''
+name: root/README.md
+path: corpus/4f2336a8bb2c4ee79537cfb807e5c139/e689e99ccbf6ae928136cf678654bf75330eb7817b7b657b9707fd8b7feef6cb.md

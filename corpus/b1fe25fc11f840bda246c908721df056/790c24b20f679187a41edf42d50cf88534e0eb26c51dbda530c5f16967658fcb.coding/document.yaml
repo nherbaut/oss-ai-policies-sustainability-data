@@ -1,0 +1,26 @@
+hash: 697406456b33fa8c01363825bbde5d4bc613cb1d843d7b0b940e9a11d442ca13
+id: 6f188d59-efb9-4982-9840-dfb4a5a31dee
+metadata:
+  import_document_id: osssaysno:pycaret/pycaret:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:29+00:00'
+    id: osssaysno:github.com/pycaret/pycaret:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/pycaret/pycaret/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/pycaret/pycaret/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 697406456b33fa8c01363825bbde5d4bc613cb1d843d7b0b940e9a11d442ca13
+    snapshot: data/osssaysno/policies/pycaret/pycaret/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 697406456b33fa8c01363825bbde5d4bc613cb1d843d7b0b940e9a11d442ca13
+    url: https://raw.githubusercontent.com/pycaret/pycaret/main/CHANGELOG.md
+  source_archive:
+    member: texts/790c24b20f679187a41edf42d50cf88534e0eb26c51dbda530c5f16967658fcb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 697406456b33fa8c01363825bbde5d4bc613cb1d843d7b0b940e9a11d442ca13
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/b1fe25fc11f840bda246c908721df056/790c24b20f679187a41edf42d50cf88534e0eb26c51dbda530c5f16967658fcb.md

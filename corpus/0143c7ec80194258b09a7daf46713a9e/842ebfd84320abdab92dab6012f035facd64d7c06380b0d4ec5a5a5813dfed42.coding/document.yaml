@@ -1,0 +1,37 @@
+hash: af31fb7422b5a56879936214bf5011f7a66ec877aa622856c0b3cb819466f8d7
+id: 55858c5f-ee2b-40f6-8101-b9ca7757612e
+metadata:
+  import_document_id: osssaysno:novnc/novnc:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:28+00:00'
+    id: osssaysno:github.com/novnc/novnc:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/novnc/novnc/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/novnc/noVNC/master/AI_POLICY.md
+    role: ai_policy
+    sha256: af31fb7422b5a56879936214bf5011f7a66ec877aa622856c0b3cb819466f8d7
+    snapshot: data/osssaysno/policies/novnc/novnc/ai_policy.md
+    status: downloaded
+    text_sha256: af31fb7422b5a56879936214bf5011f7a66ec877aa622856c0b3cb819466f8d7
+    url: https://github.com/novnc/noVNC/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:29:29+00:00'
+    id: osssaysno:github.com/novnc/novnc:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/novnc/novnc/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/novnc/noVNC/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: af31fb7422b5a56879936214bf5011f7a66ec877aa622856c0b3cb819466f8d7
+    snapshot: data/osssaysno/policies/novnc/novnc/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: af31fb7422b5a56879936214bf5011f7a66ec877aa622856c0b3cb819466f8d7
+    url: https://raw.githubusercontent.com/novnc/noVNC/master/AI_POLICY.md
+  source_archive:
+    member: texts/842ebfd84320abdab92dab6012f035facd64d7c06380b0d4ec5a5a5813dfed42.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: af31fb7422b5a56879936214bf5011f7a66ec877aa622856c0b3cb819466f8d7
+  url: ''
+name: ai_policy.md
+path: corpus/0143c7ec80194258b09a7daf46713a9e/842ebfd84320abdab92dab6012f035facd64d7c06380b0d4ec5a5a5813dfed42.md

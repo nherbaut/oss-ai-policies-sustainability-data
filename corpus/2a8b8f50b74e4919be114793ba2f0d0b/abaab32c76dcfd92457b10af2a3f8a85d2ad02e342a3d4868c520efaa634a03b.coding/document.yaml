@@ -1,0 +1,26 @@
+hash: 37f0f7f275d272a754ea71dc14689cdb74de1851f15843034d672d6d40a1fd2f
+id: 249f336c-f8db-498f-a7a6-8a5237baff3f
+metadata:
+  import_document_id: osssaysno:jj-vcs/jj:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:06+00:00'
+    id: osssaysno:github.com/jj-vcs/jj:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/jj-vcs/jj/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/jj-vcs/jj/main/GOVERNANCE.md
+    role: repository_root_document
+    sha256: 37f0f7f275d272a754ea71dc14689cdb74de1851f15843034d672d6d40a1fd2f
+    snapshot: data/osssaysno/policies/jj-vcs/jj/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: 37f0f7f275d272a754ea71dc14689cdb74de1851f15843034d672d6d40a1fd2f
+    url: https://raw.githubusercontent.com/jj-vcs/jj/main/GOVERNANCE.md
+  source_archive:
+    member: texts/abaab32c76dcfd92457b10af2a3f8a85d2ad02e342a3d4868c520efaa634a03b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 37f0f7f275d272a754ea71dc14689cdb74de1851f15843034d672d6d40a1fd2f
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/2a8b8f50b74e4919be114793ba2f0d0b/abaab32c76dcfd92457b10af2a3f8a85d2ad02e342a3d4868c520efaa634a03b.md

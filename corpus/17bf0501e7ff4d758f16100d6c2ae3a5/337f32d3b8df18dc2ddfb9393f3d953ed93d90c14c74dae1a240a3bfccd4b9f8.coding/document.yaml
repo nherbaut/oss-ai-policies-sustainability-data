@@ -1,0 +1,37 @@
+hash: a44c92d614b5121bae946c8a3454e42fc49084644ffc61dbbdd3746e13147e03
+id: ef9fa1e2-d9d0-4edc-afd0-3ef18c1e5064
+metadata:
+  import_document_id: osssaysno:polarsource/polar:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:15+00:00'
+    id: osssaysno:github.com/polarsource/polar:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/polarsource/polar/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/polarsource/polar/main/AGENTS.md
+    role: repository_root_document
+    sha256: a44c92d614b5121bae946c8a3454e42fc49084644ffc61dbbdd3746e13147e03
+    snapshot: data/osssaysno/policies/polarsource/polar/root/AGENTS.md
+    status: downloaded
+    text_sha256: a44c92d614b5121bae946c8a3454e42fc49084644ffc61dbbdd3746e13147e03
+    url: https://raw.githubusercontent.com/polarsource/polar/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:35:15+00:00'
+    id: osssaysno:github.com/polarsource/polar:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/polarsource/polar/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/polarsource/polar/main/AGENTS.md
+    role: repository_root_document
+    sha256: a44c92d614b5121bae946c8a3454e42fc49084644ffc61dbbdd3746e13147e03
+    snapshot: data/osssaysno/policies/polarsource/polar/root/CLAUDE.md
+    status: downloaded
+    text_sha256: a44c92d614b5121bae946c8a3454e42fc49084644ffc61dbbdd3746e13147e03
+    url: https://raw.githubusercontent.com/polarsource/polar/main/CLAUDE.md
+  source_archive:
+    member: texts/337f32d3b8df18dc2ddfb9393f3d953ed93d90c14c74dae1a240a3bfccd4b9f8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a44c92d614b5121bae946c8a3454e42fc49084644ffc61dbbdd3746e13147e03
+  url: ''
+name: root/AGENTS.md
+path: corpus/17bf0501e7ff4d758f16100d6c2ae3a5/337f32d3b8df18dc2ddfb9393f3d953ed93d90c14c74dae1a240a3bfccd4b9f8.md

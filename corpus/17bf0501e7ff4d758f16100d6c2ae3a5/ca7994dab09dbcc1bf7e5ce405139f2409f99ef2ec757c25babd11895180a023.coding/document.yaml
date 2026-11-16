@@ -1,0 +1,26 @@
+hash: 170cf849964b54213bcc42ac95af305ef4ad64bdbe6276e96edbc9c6b49fd7bc
+id: b97b2767-0244-46fe-a6b0-d77cbc671092
+metadata:
+  import_document_id: osssaysno:polarsource/polar:root/DEVELOPMENT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:16+00:00'
+    id: osssaysno:github.com/polarsource/polar:root/DEVELOPMENT.md
+    import_slot: root/DEVELOPMENT.md
+    raw_snapshot: data/osssaysno/policies/polarsource/polar/root/raw/DEVELOPMENT.md
+    resolved_url: https://raw.githubusercontent.com/polarsource/polar/main/DEVELOPMENT.md
+    role: repository_root_document
+    sha256: 170cf849964b54213bcc42ac95af305ef4ad64bdbe6276e96edbc9c6b49fd7bc
+    snapshot: data/osssaysno/policies/polarsource/polar/root/DEVELOPMENT.md
+    status: downloaded
+    text_sha256: 170cf849964b54213bcc42ac95af305ef4ad64bdbe6276e96edbc9c6b49fd7bc
+    url: https://raw.githubusercontent.com/polarsource/polar/main/DEVELOPMENT.md
+  source_archive:
+    member: texts/ca7994dab09dbcc1bf7e5ce405139f2409f99ef2ec757c25babd11895180a023.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 170cf849964b54213bcc42ac95af305ef4ad64bdbe6276e96edbc9c6b49fd7bc
+  url: ''
+name: root/DEVELOPMENT.md
+path: corpus/17bf0501e7ff4d758f16100d6c2ae3a5/ca7994dab09dbcc1bf7e5ce405139f2409f99ef2ec757c25babd11895180a023.md

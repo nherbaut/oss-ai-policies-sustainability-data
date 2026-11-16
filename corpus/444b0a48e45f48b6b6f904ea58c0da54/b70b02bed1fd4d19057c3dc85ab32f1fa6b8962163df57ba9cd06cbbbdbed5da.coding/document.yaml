@@ -1,0 +1,37 @@
+hash: accd540e5b0a6b0701b3ca58621cb97d474e1abf55be8afec7a76107e95aad21
+id: 737873a1-5945-47a5-bcac-f627aad20bc7
+metadata:
+  import_document_id: osssaysno:moment/moment:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:47+00:00'
+    id: osssaysno:github.com/moment/moment:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/moment/moment/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/moment/moment/develop/CONTRIBUTING.md
+    role: contributing
+    sha256: accd540e5b0a6b0701b3ca58621cb97d474e1abf55be8afec7a76107e95aad21
+    snapshot: data/osssaysno/policies/moment/moment/contributing.md
+    status: downloaded
+    text_sha256: accd540e5b0a6b0701b3ca58621cb97d474e1abf55be8afec7a76107e95aad21
+    url: https://github.com/moment/moment/blob/develop/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:03:48+00:00'
+    id: osssaysno:github.com/moment/moment:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/moment/moment/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/moment/moment/develop/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: accd540e5b0a6b0701b3ca58621cb97d474e1abf55be8afec7a76107e95aad21
+    snapshot: data/osssaysno/policies/moment/moment/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: accd540e5b0a6b0701b3ca58621cb97d474e1abf55be8afec7a76107e95aad21
+    url: https://raw.githubusercontent.com/moment/moment/develop/CONTRIBUTING.md
+  source_archive:
+    member: texts/b70b02bed1fd4d19057c3dc85ab32f1fa6b8962163df57ba9cd06cbbbdbed5da.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: accd540e5b0a6b0701b3ca58621cb97d474e1abf55be8afec7a76107e95aad21
+  url: ''
+name: contributing.md
+path: corpus/444b0a48e45f48b6b6f904ea58c0da54/b70b02bed1fd4d19057c3dc85ab32f1fa6b8962163df57ba9cd06cbbbdbed5da.md

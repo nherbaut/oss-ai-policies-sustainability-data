@@ -1,0 +1,37 @@
+hash: 90ce2e13c939ee0c8c4ffc42993f0913433cfea2b71308a5f351d90f73cf1d03
+id: 77b37d4a-d99c-47b0-8109-3d89a83f8742
+metadata:
+  import_document_id: osssaysno:openclaw/clawhub:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:31+00:00'
+    id: osssaysno:github.com/openclaw/clawhub:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/openclaw/clawhub/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/openclaw/clawhub/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 90ce2e13c939ee0c8c4ffc42993f0913433cfea2b71308a5f351d90f73cf1d03
+    snapshot: data/osssaysno/policies/openclaw/clawhub/contributing.md
+    status: downloaded
+    text_sha256: 90ce2e13c939ee0c8c4ffc42993f0913433cfea2b71308a5f351d90f73cf1d03
+    url: https://github.com/openclaw/clawhub/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:35:47+00:00'
+    id: osssaysno:github.com/openclaw/clawhub:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/openclaw/clawhub/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/openclaw/clawhub/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 90ce2e13c939ee0c8c4ffc42993f0913433cfea2b71308a5f351d90f73cf1d03
+    snapshot: data/osssaysno/policies/openclaw/clawhub/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 90ce2e13c939ee0c8c4ffc42993f0913433cfea2b71308a5f351d90f73cf1d03
+    url: https://raw.githubusercontent.com/openclaw/clawhub/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/ff1aca3db87bdcad308ef57ae65b97488b914f35d2a94791f110b70efb3dc7ec.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 90ce2e13c939ee0c8c4ffc42993f0913433cfea2b71308a5f351d90f73cf1d03
+  url: ''
+name: contributing.md
+path: corpus/4ec51df678c346b8964459dbdfe6b1df/ff1aca3db87bdcad308ef57ae65b97488b914f35d2a94791f110b70efb3dc7ec.md

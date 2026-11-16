@@ -1,0 +1,37 @@
+hash: 4db3fb880bd9b8747e9a4ebf425cb8c301d96810ec9455697d1c7888568e4e76
+id: 446ed5c3-863a-43b8-bfd0-b0125e3c5649
+metadata:
+  import_document_id: osssaysno:modelcontextprotocol/modelcontextprotocol:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:36+00:00'
+    id: osssaysno:github.com/modelcontextprotocol/modelcontextprotocol:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/AGENTS.md
+    role: repository_root_document
+    sha256: 4db3fb880bd9b8747e9a4ebf425cb8c301d96810ec9455697d1c7888568e4e76
+    snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/AGENTS.md
+    status: downloaded
+    text_sha256: 4db3fb880bd9b8747e9a4ebf425cb8c301d96810ec9455697d1c7888568e4e76
+    url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:35:37+00:00'
+    id: osssaysno:github.com/modelcontextprotocol/modelcontextprotocol:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/AGENTS.md
+    role: repository_root_document
+    sha256: 4db3fb880bd9b8747e9a4ebf425cb8c301d96810ec9455697d1c7888568e4e76
+    snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 4db3fb880bd9b8747e9a4ebf425cb8c301d96810ec9455697d1c7888568e4e76
+    url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/CLAUDE.md
+  source_archive:
+    member: texts/48be9040dd997ba2dcdcc054cb114f9f484837e229b3e06d9fb0b411ad41a6c9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4db3fb880bd9b8747e9a4ebf425cb8c301d96810ec9455697d1c7888568e4e76
+  url: ''
+name: root/AGENTS.md
+path: corpus/b5d4598700cc49f09b9d1009e0ab6ac5/48be9040dd997ba2dcdcc054cb114f9f484837e229b3e06d9fb0b411ad41a6c9.md

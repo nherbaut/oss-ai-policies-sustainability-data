@@ -1,0 +1,26 @@
+hash: b849309c188caa7fbd7cdfe5c18510c2e6cfbb53161839c3bd8a03de626b33ab
+id: 98b271c8-ff12-4d50-894d-c53f3bb7256b
+metadata:
+  import_document_id: osssaysno:pyrefly-org/pyrefly:root/ARCHITECTURE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:59+00:00'
+    id: osssaysno:github.com/pyrefly-org/pyrefly:root/ARCHITECTURE.md
+    import_slot: root/ARCHITECTURE.md
+    raw_snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/raw/ARCHITECTURE.md
+    resolved_url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/ARCHITECTURE.md
+    role: repository_root_document
+    sha256: b849309c188caa7fbd7cdfe5c18510c2e6cfbb53161839c3bd8a03de626b33ab
+    snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/ARCHITECTURE.md
+    status: downloaded
+    text_sha256: b849309c188caa7fbd7cdfe5c18510c2e6cfbb53161839c3bd8a03de626b33ab
+    url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/ARCHITECTURE.md
+  source_archive:
+    member: texts/4c805b1f5591dc77ed5b16e11a495a5670b791d0bdb254a1ee7d22d2a6d046f3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b849309c188caa7fbd7cdfe5c18510c2e6cfbb53161839c3bd8a03de626b33ab
+  url: ''
+name: root/ARCHITECTURE.md
+path: corpus/971a84d6a3da4077865cb731d77e95ae/4c805b1f5591dc77ed5b16e11a495a5670b791d0bdb254a1ee7d22d2a6d046f3.md

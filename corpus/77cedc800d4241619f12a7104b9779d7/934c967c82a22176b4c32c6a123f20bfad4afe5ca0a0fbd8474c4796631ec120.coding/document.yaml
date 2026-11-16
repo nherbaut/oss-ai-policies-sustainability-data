@@ -1,0 +1,26 @@
+hash: 411bfbc2150092fde13eb75dac977d12c26ba5cc3bf7cddc2699d521d22785c8
+id: cd860292-9965-44ba-8cff-63249f99eade
+metadata:
+  import_document_id: osssaysno:nodejs/node:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:16+00:00'
+    id: osssaysno:github.com/nodejs/node:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/nodejs/node/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/nodejs/node/main/AGENTS.md
+    role: repository_root_document
+    sha256: 411bfbc2150092fde13eb75dac977d12c26ba5cc3bf7cddc2699d521d22785c8
+    snapshot: data/osssaysno/policies/nodejs/node/root/AGENTS.md
+    status: downloaded
+    text_sha256: 411bfbc2150092fde13eb75dac977d12c26ba5cc3bf7cddc2699d521d22785c8
+    url: https://raw.githubusercontent.com/nodejs/node/main/AGENTS.md
+  source_archive:
+    member: texts/934c967c82a22176b4c32c6a123f20bfad4afe5ca0a0fbd8474c4796631ec120.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 411bfbc2150092fde13eb75dac977d12c26ba5cc3bf7cddc2699d521d22785c8
+  url: ''
+name: root/AGENTS.md
+path: corpus/77cedc800d4241619f12a7104b9779d7/934c967c82a22176b4c32c6a123f20bfad4afe5ca0a0fbd8474c4796631ec120.md

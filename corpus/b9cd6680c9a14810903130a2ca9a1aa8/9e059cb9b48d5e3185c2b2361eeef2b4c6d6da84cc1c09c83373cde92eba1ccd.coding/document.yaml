@@ -1,0 +1,26 @@
+hash: cc440e8d6c362dc54d9df69c98bf24966fb3039c47951f9d8002645b7f06dea0
+id: 8560ced4-bd36-4bf6-885d-2b5e95e43f8d
+metadata:
+  import_document_id: osssaysno:dlvhdr/gh-dash:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:43+00:00'
+    id: osssaysno:github.com/dlvhdr/gh-dash:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/dlvhdr/gh-dash/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/dlvhdr/gh-dash/main/README.md
+    role: repository_root_document
+    sha256: cc440e8d6c362dc54d9df69c98bf24966fb3039c47951f9d8002645b7f06dea0
+    snapshot: data/osssaysno/policies/dlvhdr/gh-dash/root/README.md
+    status: downloaded
+    text_sha256: cc440e8d6c362dc54d9df69c98bf24966fb3039c47951f9d8002645b7f06dea0
+    url: https://raw.githubusercontent.com/dlvhdr/gh-dash/main/README.md
+  source_archive:
+    member: texts/9e059cb9b48d5e3185c2b2361eeef2b4c6d6da84cc1c09c83373cde92eba1ccd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cc440e8d6c362dc54d9df69c98bf24966fb3039c47951f9d8002645b7f06dea0
+  url: ''
+name: root/README.md
+path: corpus/b9cd6680c9a14810903130a2ca9a1aa8/9e059cb9b48d5e3185c2b2361eeef2b4c6d6da84cc1c09c83373cde92eba1ccd.md

@@ -1,0 +1,26 @@
+hash: 88504558eb3470566208af69870487d373e6687575e8c9b9863f517f16309d81
+id: af4f2b9f-cb1d-4312-894d-24ab1c93ecc1
+metadata:
+  import_document_id: osssaysno:tinyauthapp/tinyauth:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:13+00:00'
+    id: osssaysno:github.com/tinyauthapp/tinyauth:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 88504558eb3470566208af69870487d373e6687575e8c9b9863f517f16309d81
+    snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 88504558eb3470566208af69870487d373e6687575e8c9b9863f517f16309d81
+    url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/ee1d8f96efdc0a6c26ba25eab8f0644ff0950d39dfbe3f6617dcbede32e8d83c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 88504558eb3470566208af69870487d373e6687575e8c9b9863f517f16309d81
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/3a57808b6fe34d46b12f63556eb14006/ee1d8f96efdc0a6c26ba25eab8f0644ff0950d39dfbe3f6617dcbede32e8d83c.md

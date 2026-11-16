@@ -1,0 +1,26 @@
+hash: 7a181cefaacc1939bfba8a38cc38532bad5cf3b932db3e6dfeb5bff44b5cc313
+id: 503c72bd-b431-4295-a1b8-cb036af4b67a
+metadata:
+  import_document_id: osssaysno:octoprint/octoprint:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:56+00:00'
+    id: osssaysno:github.com/octoprint/octoprint:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/octoprint/octoprint/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 7a181cefaacc1939bfba8a38cc38532bad5cf3b932db3e6dfeb5bff44b5cc313
+    snapshot: data/osssaysno/policies/octoprint/octoprint/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 7a181cefaacc1939bfba8a38cc38532bad5cf3b932db3e6dfeb5bff44b5cc313
+    url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/39d1f056eebd1a18d50e351cbeb5975b0d0af3f65c1b9646a6a09ed294f8ef34.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7a181cefaacc1939bfba8a38cc38532bad5cf3b932db3e6dfeb5bff44b5cc313
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/c341d0a7f38e4942ad8c9b3df11f8b88/39d1f056eebd1a18d50e351cbeb5975b0d0af3f65c1b9646a6a09ed294f8ef34.md

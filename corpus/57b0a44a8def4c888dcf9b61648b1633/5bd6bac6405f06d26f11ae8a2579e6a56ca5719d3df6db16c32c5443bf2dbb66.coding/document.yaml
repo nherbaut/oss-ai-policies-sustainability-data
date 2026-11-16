@@ -1,0 +1,37 @@
+hash: f1db627dbdc45278d3e423ebf0114aab7bd36311cd5b2bdbacdd04db1eaa8786
+id: e28f2c8b-9b90-404f-9ece-4cbd23021226
+metadata:
+  import_document_id: osssaysno:qiskit/qiskit:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:41+00:00'
+    id: osssaysno:github.com/qiskit/qiskit:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/qiskit/qiskit/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/Qiskit/qiskit/main/CONTRIBUTING.md
+    role: contributing
+    sha256: f1db627dbdc45278d3e423ebf0114aab7bd36311cd5b2bdbacdd04db1eaa8786
+    snapshot: data/osssaysno/policies/qiskit/qiskit/contributing.md
+    status: downloaded
+    text_sha256: f1db627dbdc45278d3e423ebf0114aab7bd36311cd5b2bdbacdd04db1eaa8786
+    url: https://github.com/Qiskit/qiskit/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:31+00:00'
+    id: osssaysno:github.com/qiskit/qiskit:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/qiskit/qiskit/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/Qiskit/qiskit/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: f1db627dbdc45278d3e423ebf0114aab7bd36311cd5b2bdbacdd04db1eaa8786
+    snapshot: data/osssaysno/policies/qiskit/qiskit/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: f1db627dbdc45278d3e423ebf0114aab7bd36311cd5b2bdbacdd04db1eaa8786
+    url: https://raw.githubusercontent.com/Qiskit/qiskit/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/5bd6bac6405f06d26f11ae8a2579e6a56ca5719d3df6db16c32c5443bf2dbb66.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f1db627dbdc45278d3e423ebf0114aab7bd36311cd5b2bdbacdd04db1eaa8786
+  url: ''
+name: contributing.md
+path: corpus/57b0a44a8def4c888dcf9b61648b1633/5bd6bac6405f06d26f11ae8a2579e6a56ca5719d3df6db16c32c5443bf2dbb66.md

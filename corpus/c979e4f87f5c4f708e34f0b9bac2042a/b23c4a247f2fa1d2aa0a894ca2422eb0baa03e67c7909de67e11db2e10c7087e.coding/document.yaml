@@ -1,0 +1,26 @@
+hash: b10b1f126b02be50f4142939bc74f63ae872cfb2cc5fde9adb84a2ba2e494669
+id: f8ea2647-12f8-434a-8b72-b20ae4cccd89
+metadata:
+  import_document_id: osssaysno:ory/keto:root/UPGRADE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:16+00:00'
+    id: osssaysno:github.com/ory/keto:root/UPGRADE.md
+    import_slot: root/UPGRADE.md
+    raw_snapshot: data/osssaysno/policies/ory/keto/root/raw/UPGRADE.md
+    resolved_url: https://raw.githubusercontent.com/ory/keto/master/UPGRADE.md
+    role: repository_root_document
+    sha256: b10b1f126b02be50f4142939bc74f63ae872cfb2cc5fde9adb84a2ba2e494669
+    snapshot: data/osssaysno/policies/ory/keto/root/UPGRADE.md
+    status: downloaded
+    text_sha256: b10b1f126b02be50f4142939bc74f63ae872cfb2cc5fde9adb84a2ba2e494669
+    url: https://raw.githubusercontent.com/ory/keto/master/UPGRADE.md
+  source_archive:
+    member: texts/b23c4a247f2fa1d2aa0a894ca2422eb0baa03e67c7909de67e11db2e10c7087e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b10b1f126b02be50f4142939bc74f63ae872cfb2cc5fde9adb84a2ba2e494669
+  url: ''
+name: root/UPGRADE.md
+path: corpus/c979e4f87f5c4f708e34f0b9bac2042a/b23c4a247f2fa1d2aa0a894ca2422eb0baa03e67c7909de67e11db2e10c7087e.md

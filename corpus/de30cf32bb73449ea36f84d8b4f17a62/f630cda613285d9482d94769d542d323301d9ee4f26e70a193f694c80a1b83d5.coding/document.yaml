@@ -1,0 +1,26 @@
+hash: c123bcab055f61c9b20d24b980d042e5af14be50969b237fc10225b292257af3
+id: 7421dc25-2ca0-4aa5-b471-0e62e1190005
+metadata:
+  import_document_id: osssaysno:agones-dev/agones:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:06+00:00'
+    id: osssaysno:github.com/agones-dev/agones:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/agones-dev/agones/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/agones-dev/agones/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: c123bcab055f61c9b20d24b980d042e5af14be50969b237fc10225b292257af3
+    snapshot: data/osssaysno/policies/agones-dev/agones/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: c123bcab055f61c9b20d24b980d042e5af14be50969b237fc10225b292257af3
+    url: https://raw.githubusercontent.com/agones-dev/agones/main/CHANGELOG.md
+  source_archive:
+    member: texts/f630cda613285d9482d94769d542d323301d9ee4f26e70a193f694c80a1b83d5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c123bcab055f61c9b20d24b980d042e5af14be50969b237fc10225b292257af3
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/de30cf32bb73449ea36f84d8b4f17a62/f630cda613285d9482d94769d542d323301d9ee4f26e70a193f694c80a1b83d5.md

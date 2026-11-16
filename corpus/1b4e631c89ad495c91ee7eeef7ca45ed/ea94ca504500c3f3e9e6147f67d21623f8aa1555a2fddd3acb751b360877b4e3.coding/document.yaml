@@ -1,0 +1,26 @@
+hash: 41f41bd8f4cf8edd5e076d22ff56a4475a6d74897dc4e83ba4edcef6f2d22651
+id: aba03dc4-3930-429a-af8c-953fda21db0c
+metadata:
+  import_document_id: osssaysno:nasa/fprime:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:02+00:00'
+    id: osssaysno:github.com/nasa/fprime:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/nasa/fprime/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/nasa/fprime/devel/CLAUDE.md
+    role: repository_root_document
+    sha256: 41f41bd8f4cf8edd5e076d22ff56a4475a6d74897dc4e83ba4edcef6f2d22651
+    snapshot: data/osssaysno/policies/nasa/fprime/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 41f41bd8f4cf8edd5e076d22ff56a4475a6d74897dc4e83ba4edcef6f2d22651
+    url: https://raw.githubusercontent.com/nasa/fprime/devel/CLAUDE.md
+  source_archive:
+    member: texts/ea94ca504500c3f3e9e6147f67d21623f8aa1555a2fddd3acb751b360877b4e3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 41f41bd8f4cf8edd5e076d22ff56a4475a6d74897dc4e83ba4edcef6f2d22651
+  url: ''
+name: root/CLAUDE.md
+path: corpus/1b4e631c89ad495c91ee7eeef7ca45ed/ea94ca504500c3f3e9e6147f67d21623f8aa1555a2fddd3acb751b360877b4e3.md

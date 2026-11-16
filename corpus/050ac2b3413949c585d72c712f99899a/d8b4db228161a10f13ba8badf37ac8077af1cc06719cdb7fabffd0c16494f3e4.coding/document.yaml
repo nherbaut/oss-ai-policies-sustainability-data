@@ -1,0 +1,37 @@
+hash: 9cb7e9a903e5973921eeb120e2ee9edeb64da0532b4f67c3daa060add485752a
+id: c35ff029-9903-4e41-99cb-95c7871f61b3
+metadata:
+  import_document_id: osssaysno:streetcomplete/streetcomplete:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:38+00:00'
+    id: osssaysno:github.com/streetcomplete/streetcomplete:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/AI_POLICY.md
+    role: ai_policy
+    sha256: 9cb7e9a903e5973921eeb120e2ee9edeb64da0532b4f67c3daa060add485752a
+    snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/ai_policy.md
+    status: downloaded
+    text_sha256: 9cb7e9a903e5973921eeb120e2ee9edeb64da0532b4f67c3daa060add485752a
+    url: https://github.com/streetcomplete/StreetComplete/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:04:38+00:00'
+    id: osssaysno:github.com/streetcomplete/streetcomplete:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: 9cb7e9a903e5973921eeb120e2ee9edeb64da0532b4f67c3daa060add485752a
+    snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 9cb7e9a903e5973921eeb120e2ee9edeb64da0532b4f67c3daa060add485752a
+    url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/AI_POLICY.md
+  source_archive:
+    member: texts/d8b4db228161a10f13ba8badf37ac8077af1cc06719cdb7fabffd0c16494f3e4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9cb7e9a903e5973921eeb120e2ee9edeb64da0532b4f67c3daa060add485752a
+  url: ''
+name: ai_policy.md
+path: corpus/050ac2b3413949c585d72c712f99899a/d8b4db228161a10f13ba8badf37ac8077af1cc06719cdb7fabffd0c16494f3e4.md

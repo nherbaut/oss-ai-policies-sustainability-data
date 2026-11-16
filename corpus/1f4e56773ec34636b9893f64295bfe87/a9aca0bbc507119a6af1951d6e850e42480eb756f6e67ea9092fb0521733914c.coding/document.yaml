@@ -1,0 +1,26 @@
+hash: 2aa09a3c95c31f52c2a63925895ff98cba122a53a7d4fec9697d04e918faa604
+id: 07aacb5e-20bb-4554-97e5-05c7e7059e17
+metadata:
+  import_document_id: osssaysno:leanprover/lean4:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:27+00:00'
+    id: osssaysno:github.com/leanprover/lean4:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/leanprover/lean4/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/leanprover/lean4/master/.claude/CLAUDE.md
+    role: repository_root_document
+    sha256: 2aa09a3c95c31f52c2a63925895ff98cba122a53a7d4fec9697d04e918faa604
+    snapshot: data/osssaysno/policies/leanprover/lean4/root/AGENTS.md
+    status: downloaded
+    text_sha256: 2aa09a3c95c31f52c2a63925895ff98cba122a53a7d4fec9697d04e918faa604
+    url: https://raw.githubusercontent.com/leanprover/lean4/master/AGENTS.md
+  source_archive:
+    member: texts/a9aca0bbc507119a6af1951d6e850e42480eb756f6e67ea9092fb0521733914c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2aa09a3c95c31f52c2a63925895ff98cba122a53a7d4fec9697d04e918faa604
+  url: ''
+name: root/AGENTS.md
+path: corpus/1f4e56773ec34636b9893f64295bfe87/a9aca0bbc507119a6af1951d6e850e42480eb756f6e67ea9092fb0521733914c.md

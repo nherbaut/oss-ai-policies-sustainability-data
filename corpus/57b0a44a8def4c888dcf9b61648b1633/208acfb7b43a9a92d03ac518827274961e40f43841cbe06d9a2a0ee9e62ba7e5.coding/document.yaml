@@ -1,0 +1,26 @@
+hash: 9e83c57cdd3fef47bdb8cb2acf94dba9cf6ab1ff82ed9c0877bc1fe4ba72c104
+id: 71a585ed-67b0-4240-bebf-8d440185bb2e
+metadata:
+  import_document_id: osssaysno:qiskit/qiskit:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:31+00:00'
+    id: osssaysno:github.com/qiskit/qiskit:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/qiskit/qiskit/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/Qiskit/qiskit/main/SECURITY.md
+    role: repository_root_document
+    sha256: 9e83c57cdd3fef47bdb8cb2acf94dba9cf6ab1ff82ed9c0877bc1fe4ba72c104
+    snapshot: data/osssaysno/policies/qiskit/qiskit/root/SECURITY.md
+    status: downloaded
+    text_sha256: 9e83c57cdd3fef47bdb8cb2acf94dba9cf6ab1ff82ed9c0877bc1fe4ba72c104
+    url: https://raw.githubusercontent.com/Qiskit/qiskit/main/SECURITY.md
+  source_archive:
+    member: texts/208acfb7b43a9a92d03ac518827274961e40f43841cbe06d9a2a0ee9e62ba7e5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9e83c57cdd3fef47bdb8cb2acf94dba9cf6ab1ff82ed9c0877bc1fe4ba72c104
+  url: ''
+name: root/SECURITY.md
+path: corpus/57b0a44a8def4c888dcf9b61648b1633/208acfb7b43a9a92d03ac518827274961e40f43841cbe06d9a2a0ee9e62ba7e5.md

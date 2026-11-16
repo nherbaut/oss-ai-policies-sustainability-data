@@ -1,0 +1,26 @@
+hash: 12dceb169715ebd970f720d7da48ece2a393a95faedb1ab04b40781e295fde66
+id: 8208ff24-7a81-4787-a871-14f8140a2ea1
+metadata:
+  import_document_id: osssaysno:pennyw0rth/netexec:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:48+00:00'
+    id: osssaysno:github.com/pennyw0rth/netexec:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/pennyw0rth/netexec/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/Pennyw0rth/NetExec/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 12dceb169715ebd970f720d7da48ece2a393a95faedb1ab04b40781e295fde66
+    snapshot: data/osssaysno/policies/pennyw0rth/netexec/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 12dceb169715ebd970f720d7da48ece2a393a95faedb1ab04b40781e295fde66
+    url: https://raw.githubusercontent.com/Pennyw0rth/NetExec/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/4b94250507511e55d9cfc8be0d42b3f7637334d338456e6f46a79f9d457ea997.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 12dceb169715ebd970f720d7da48ece2a393a95faedb1ab04b40781e295fde66
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/6a8ec42f793e4952af3c22ef2232fc7c/4b94250507511e55d9cfc8be0d42b3f7637334d338456e6f46a79f9d457ea997.md

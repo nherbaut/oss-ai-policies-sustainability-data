@@ -1,0 +1,26 @@
+hash: 666a19c00c9b3b3d9256e34651f2ef7830e42997cd2c71ee8e424bf59227ab02
+id: da59c716-76d6-4a7a-9dfd-86ca268a4008
+metadata:
+  import_document_id: osssaysno:vespa-engine/vespa:root/Code-map.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:03+00:00'
+    id: osssaysno:github.com/vespa-engine/vespa:root/Code-map.md
+    import_slot: root/Code-map.md
+    raw_snapshot: data/osssaysno/policies/vespa-engine/vespa/root/raw/Code-map.md
+    resolved_url: https://raw.githubusercontent.com/vespa-engine/vespa/master/Code-map.md
+    role: repository_root_document
+    sha256: 666a19c00c9b3b3d9256e34651f2ef7830e42997cd2c71ee8e424bf59227ab02
+    snapshot: data/osssaysno/policies/vespa-engine/vespa/root/Code-map.md
+    status: downloaded
+    text_sha256: 666a19c00c9b3b3d9256e34651f2ef7830e42997cd2c71ee8e424bf59227ab02
+    url: https://raw.githubusercontent.com/vespa-engine/vespa/master/Code-map.md
+  source_archive:
+    member: texts/e33d610b663f3f5f4a230e3ef17293797b42916c8444293b578dd708638bb870.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 666a19c00c9b3b3d9256e34651f2ef7830e42997cd2c71ee8e424bf59227ab02
+  url: ''
+name: root/Code-map.md
+path: corpus/c7b2859b90a34ebda520e0c29dcd7e86/e33d610b663f3f5f4a230e3ef17293797b42916c8444293b578dd708638bb870.md

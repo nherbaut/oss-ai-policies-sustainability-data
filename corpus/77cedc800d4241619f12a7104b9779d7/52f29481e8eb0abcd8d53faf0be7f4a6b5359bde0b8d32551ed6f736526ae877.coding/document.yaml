@@ -1,0 +1,26 @@
+hash: cc552201ace4782f005bc879d43e1aaaa8fb604e64052a28b3d2da506022dce7
+id: e415c642-59b9-4929-8219-38cec8eb6d65
+metadata:
+  import_document_id: osssaysno:nodejs/node:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:15+00:00'
+    id: osssaysno:github.com/nodejs/node:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/nodejs/node/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/nodejs/node/main/doc/contributing/ai-guidelines.md
+    role: ai_policy
+    sha256: cc552201ace4782f005bc879d43e1aaaa8fb604e64052a28b3d2da506022dce7
+    snapshot: data/osssaysno/policies/nodejs/node/ai_policy.md
+    status: downloaded
+    text_sha256: cc552201ace4782f005bc879d43e1aaaa8fb604e64052a28b3d2da506022dce7
+    url: https://raw.githubusercontent.com/nodejs/node/main/doc/contributing/ai-guidelines.md
+  source_archive:
+    member: texts/52f29481e8eb0abcd8d53faf0be7f4a6b5359bde0b8d32551ed6f736526ae877.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cc552201ace4782f005bc879d43e1aaaa8fb604e64052a28b3d2da506022dce7
+  url: ''
+name: ai_policy.md
+path: corpus/77cedc800d4241619f12a7104b9779d7/52f29481e8eb0abcd8d53faf0be7f4a6b5359bde0b8d32551ed6f736526ae877.md

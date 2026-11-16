@@ -1,0 +1,26 @@
+hash: 6785d4badd7f99e6042722f5ec5d14607fc22a5777a711925a46a6ee564ee577
+id: 56b13d8c-0ad0-4ce3-869a-f5751904fe4d
+metadata:
+  import_document_id: osssaysno:kunagent/kun:root/THIRD_PARTY_NOTICES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:38+00:00'
+    id: osssaysno:github.com/kunagent/kun:root/THIRD_PARTY_NOTICES.md
+    import_slot: root/THIRD_PARTY_NOTICES.md
+    raw_snapshot: data/osssaysno/policies/kunagent/kun/root/raw/THIRD_PARTY_NOTICES.md
+    resolved_url: https://raw.githubusercontent.com/KunAgent/Kun/master/THIRD_PARTY_NOTICES.md
+    role: repository_root_document
+    sha256: 6785d4badd7f99e6042722f5ec5d14607fc22a5777a711925a46a6ee564ee577
+    snapshot: data/osssaysno/policies/kunagent/kun/root/THIRD_PARTY_NOTICES.md
+    status: downloaded
+    text_sha256: 6785d4badd7f99e6042722f5ec5d14607fc22a5777a711925a46a6ee564ee577
+    url: https://raw.githubusercontent.com/KunAgent/Kun/master/THIRD_PARTY_NOTICES.md
+  source_archive:
+    member: texts/45237e6063e38e90450dd9095b5eb85cca4c0db99cf047011baa7a4845a24c00.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6785d4badd7f99e6042722f5ec5d14607fc22a5777a711925a46a6ee564ee577
+  url: ''
+name: root/THIRD_PARTY_NOTICES.md
+path: corpus/64a7dfee45914169954b7d45c207c06c/45237e6063e38e90450dd9095b5eb85cca4c0db99cf047011baa7a4845a24c00.md

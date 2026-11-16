@@ -1,0 +1,26 @@
+hash: 58226ff92bd5abb079c25c542aa83bd8f5434587ccfc73cfc6ead26622fa01a8
+id: eb49905e-b12e-4927-a718-9b7a4b6a4a33
+metadata:
+  import_document_id: osssaysno:mongodb/node-mongodb-native:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:22+00:00'
+    id: osssaysno:github.com/mongodb/node-mongodb-native:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/README.md
+    role: repository_root_document
+    sha256: 58226ff92bd5abb079c25c542aa83bd8f5434587ccfc73cfc6ead26622fa01a8
+    snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/README.md
+    status: downloaded
+    text_sha256: 58226ff92bd5abb079c25c542aa83bd8f5434587ccfc73cfc6ead26622fa01a8
+    url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/README.md
+  source_archive:
+    member: texts/77e26c6f99e9e9a439c8ea6fe4820a45b7429e5ce4c3895608c67b75bf8f6c4c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 58226ff92bd5abb079c25c542aa83bd8f5434587ccfc73cfc6ead26622fa01a8
+  url: ''
+name: root/README.md
+path: corpus/aafe5c7bd4f242d4b7243756b141018e/77e26c6f99e9e9a439c8ea6fe4820a45b7429e5ce4c3895608c67b75bf8f6c4c.md

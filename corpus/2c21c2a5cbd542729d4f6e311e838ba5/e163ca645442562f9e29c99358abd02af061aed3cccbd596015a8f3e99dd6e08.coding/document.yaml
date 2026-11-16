@@ -1,0 +1,26 @@
+hash: 2fd18964d7f25e0a6716c3a966fdccb50ccf4fd840edad12dd9d7670d806ee42
+id: c230802b-a113-4114-8f19-c0e9d3c2a70f
+metadata:
+  import_document_id: osssaysno:thanos-io/thanos:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:26+00:00'
+    id: osssaysno:github.com/thanos-io/thanos:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/thanos-io/thanos/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/thanos-io/thanos/main/SECURITY.md
+    role: repository_root_document
+    sha256: 2fd18964d7f25e0a6716c3a966fdccb50ccf4fd840edad12dd9d7670d806ee42
+    snapshot: data/osssaysno/policies/thanos-io/thanos/root/SECURITY.md
+    status: downloaded
+    text_sha256: 2fd18964d7f25e0a6716c3a966fdccb50ccf4fd840edad12dd9d7670d806ee42
+    url: https://raw.githubusercontent.com/thanos-io/thanos/main/SECURITY.md
+  source_archive:
+    member: texts/e163ca645442562f9e29c99358abd02af061aed3cccbd596015a8f3e99dd6e08.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2fd18964d7f25e0a6716c3a966fdccb50ccf4fd840edad12dd9d7670d806ee42
+  url: ''
+name: root/SECURITY.md
+path: corpus/2c21c2a5cbd542729d4f6e311e838ba5/e163ca645442562f9e29c99358abd02af061aed3cccbd596015a8f3e99dd6e08.md

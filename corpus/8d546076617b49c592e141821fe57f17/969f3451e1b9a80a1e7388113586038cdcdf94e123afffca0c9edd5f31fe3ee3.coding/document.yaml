@@ -1,0 +1,26 @@
+hash: 860b05c375e83084e3d89bc056b7f0546eb67a5b1f5d1fcf4c28afc72705a8e5
+id: efed5a46-e5a1-47e6-a74a-90fd4e8200dd
+metadata:
+  import_document_id: osssaysno:domaindrivendev/swashbuckle.aspnetcore:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:12+00:00'
+    id: osssaysno:github.com/domaindrivendev/swashbuckle.aspnetcore:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/domaindrivendev/swashbuckle.aspnetcore/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/domaindrivendev/Swashbuckle.AspNetCore/master/AGENTS.md
+    role: repository_root_document
+    sha256: 860b05c375e83084e3d89bc056b7f0546eb67a5b1f5d1fcf4c28afc72705a8e5
+    snapshot: data/osssaysno/policies/domaindrivendev/swashbuckle.aspnetcore/root/AGENTS.md
+    status: downloaded
+    text_sha256: 860b05c375e83084e3d89bc056b7f0546eb67a5b1f5d1fcf4c28afc72705a8e5
+    url: https://raw.githubusercontent.com/domaindrivendev/Swashbuckle.AspNetCore/master/AGENTS.md
+  source_archive:
+    member: texts/969f3451e1b9a80a1e7388113586038cdcdf94e123afffca0c9edd5f31fe3ee3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 860b05c375e83084e3d89bc056b7f0546eb67a5b1f5d1fcf4c28afc72705a8e5
+  url: ''
+name: root/AGENTS.md
+path: corpus/8d546076617b49c592e141821fe57f17/969f3451e1b9a80a1e7388113586038cdcdf94e123afffca0c9edd5f31fe3ee3.md

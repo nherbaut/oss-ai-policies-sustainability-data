@@ -1,0 +1,26 @@
+hash: 2301d7f930d8fb734ac4812fc07f9e417c9d1ccd7d5947ae6fc9d618c7ec98f6
+id: 28e5a6d6-c6fb-4d3a-b88b-35a7743bbbb9
+metadata:
+  import_document_id: osssaysno:alainm23/planify:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:01+00:00'
+    id: osssaysno:github.com/alainm23/planify:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/alainm23/planify/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/alainm23/planify/main/README.md
+    role: repository_root_document
+    sha256: 2301d7f930d8fb734ac4812fc07f9e417c9d1ccd7d5947ae6fc9d618c7ec98f6
+    snapshot: data/osssaysno/policies/alainm23/planify/root/README.md
+    status: downloaded
+    text_sha256: 2301d7f930d8fb734ac4812fc07f9e417c9d1ccd7d5947ae6fc9d618c7ec98f6
+    url: https://raw.githubusercontent.com/alainm23/planify/main/README.md
+  source_archive:
+    member: texts/c46d0b3cc0bf5f5f307b8dda359efb96fce8100f5b7b4d567f2112389b5ee532.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2301d7f930d8fb734ac4812fc07f9e417c9d1ccd7d5947ae6fc9d618c7ec98f6
+  url: ''
+name: root/README.md
+path: corpus/6469a9e253e243008dd2cdf5a22f8ef9/c46d0b3cc0bf5f5f307b8dda359efb96fce8100f5b7b4d567f2112389b5ee532.md

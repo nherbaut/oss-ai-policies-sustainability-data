@@ -1,0 +1,26 @@
+hash: 65754851cafbc266b6c511fd9ce9931a76771b4a21f54603cc84911e935039bd
+id: 080d5d63-6af2-4873-9295-b5e24881d8f2
+metadata:
+  import_document_id: osssaysno:heroui-inc/heroui:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:10+00:00'
+    id: osssaysno:github.com/heroui-inc/heroui:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/heroui-inc/heroui/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/CLAUDE.md
+    role: repository_root_document
+    sha256: 65754851cafbc266b6c511fd9ce9931a76771b4a21f54603cc84911e935039bd
+    snapshot: data/osssaysno/policies/heroui-inc/heroui/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 65754851cafbc266b6c511fd9ce9931a76771b4a21f54603cc84911e935039bd
+    url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/CLAUDE.md
+  source_archive:
+    member: texts/cbfd077d228f2435ce08eb39433454ec87fd24bafaa0114ace653b2773f3a443.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 65754851cafbc266b6c511fd9ce9931a76771b4a21f54603cc84911e935039bd
+  url: ''
+name: root/CLAUDE.md
+path: corpus/5214e00fdb724d2fa13b3ad24040ac77/cbfd077d228f2435ce08eb39433454ec87fd24bafaa0114ace653b2773f3a443.md

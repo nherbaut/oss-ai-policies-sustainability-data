@@ -1,0 +1,26 @@
+hash: 8a966ab116d4d2e6724cf1c8c0c290dd8e69cbdec6c38e4ece9e037fba10633c
+id: 55ec58ae-42d4-4ae0-abce-ace642461299
+metadata:
+  import_document_id: osssaysno:pomerium/pomerium:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:43+00:00'
+    id: osssaysno:github.com/pomerium/pomerium:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/pomerium/pomerium/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/pomerium/pomerium/main/SECURITY.md
+    role: repository_root_document
+    sha256: 8a966ab116d4d2e6724cf1c8c0c290dd8e69cbdec6c38e4ece9e037fba10633c
+    snapshot: data/osssaysno/policies/pomerium/pomerium/root/SECURITY.md
+    status: downloaded
+    text_sha256: 8a966ab116d4d2e6724cf1c8c0c290dd8e69cbdec6c38e4ece9e037fba10633c
+    url: https://raw.githubusercontent.com/pomerium/pomerium/main/SECURITY.md
+  source_archive:
+    member: texts/8696defb0cbd3a04ff93f4017c4b457a99dfdf8cb202cfaf1ced68e0f36aac3d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8a966ab116d4d2e6724cf1c8c0c290dd8e69cbdec6c38e4ece9e037fba10633c
+  url: ''
+name: root/SECURITY.md
+path: corpus/674a5f06023d434bbadeacb460629b06/8696defb0cbd3a04ff93f4017c4b457a99dfdf8cb202cfaf1ced68e0f36aac3d.md

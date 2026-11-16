@@ -1,0 +1,26 @@
+hash: 5ec188ce043a6416c2bfab67c1353ed266289a093642ed47ead328b064ff3fc6
+id: 94555688-d7aa-4c77-9b1d-c868726b37d7
+metadata:
+  import_document_id: osssaysno:monogame/monogame:root/CODESTYLE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:18+00:00'
+    id: osssaysno:github.com/monogame/monogame:root/CODESTYLE.md
+    import_slot: root/CODESTYLE.md
+    raw_snapshot: data/osssaysno/policies/monogame/monogame/root/raw/CODESTYLE.md
+    resolved_url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/CODESTYLE.md
+    role: repository_root_document
+    sha256: 5ec188ce043a6416c2bfab67c1353ed266289a093642ed47ead328b064ff3fc6
+    snapshot: data/osssaysno/policies/monogame/monogame/root/CODESTYLE.md
+    status: downloaded
+    text_sha256: 5ec188ce043a6416c2bfab67c1353ed266289a093642ed47ead328b064ff3fc6
+    url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/CODESTYLE.md
+  source_archive:
+    member: texts/8003865bf431916fc4a151b467f907f6fa7760939357fed54ca5e8132b47bec2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5ec188ce043a6416c2bfab67c1353ed266289a093642ed47ead328b064ff3fc6
+  url: ''
+name: root/CODESTYLE.md
+path: corpus/13de31677fb54d8b8f4dbfa8e497a9a1/8003865bf431916fc4a151b467f907f6fa7760939357fed54ca5e8132b47bec2.md

@@ -1,0 +1,37 @@
+hash: 03c44f5dd1e962d75fc5c2641cfaeaf6866d2f9d33d119100f9c3a42ccb8f093
+id: e5f59fc2-6da4-4e8e-b8d5-61ee5aea2d54
+metadata:
+  import_document_id: osssaysno:portapack-mayhem/mayhem-firmware:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:01+00:00'
+    id: osssaysno:github.com/portapack-mayhem/mayhem-firmware:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/README.md
+    role: ai_policy
+    sha256: 03c44f5dd1e962d75fc5c2641cfaeaf6866d2f9d33d119100f9c3a42ccb8f093
+    snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/ai_policy.md
+    status: downloaded
+    text_sha256: 03c44f5dd1e962d75fc5c2641cfaeaf6866d2f9d33d119100f9c3a42ccb8f093
+    url: https://github.com/portapack-mayhem/mayhem-firmware/blob/next/README.md
+  - accessed_at: '2026-11-15T23:38:09+00:00'
+    id: osssaysno:github.com/portapack-mayhem/mayhem-firmware:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/README.md
+    role: repository_root_document
+    sha256: 03c44f5dd1e962d75fc5c2641cfaeaf6866d2f9d33d119100f9c3a42ccb8f093
+    snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/root/README.md
+    status: downloaded
+    text_sha256: 03c44f5dd1e962d75fc5c2641cfaeaf6866d2f9d33d119100f9c3a42ccb8f093
+    url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/README.md
+  source_archive:
+    member: texts/a88f3f240d51736806b0070ae8ae3c77dd3eff932aa18ffde97b21de5d3d175e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 03c44f5dd1e962d75fc5c2641cfaeaf6866d2f9d33d119100f9c3a42ccb8f093
+  url: ''
+name: ai_policy.md
+path: corpus/ac6b9b8e1000496c93466e23bc3b23c2/a88f3f240d51736806b0070ae8ae3c77dd3eff932aa18ffde97b21de5d3d175e.md

@@ -1,0 +1,26 @@
+hash: caf9ce08d6c5d4e5e97269996b64f76de2094e0c412cf2130a41dfe77aa207d1
+id: 7365eaa1-975e-4a83-afaa-1923e3b78ae3
+metadata:
+  import_document_id: osssaysno:googlecloudplatform/agent-starter-pack:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:22+00:00'
+    id: osssaysno:github.com/googlecloudplatform/agent-starter-pack:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/googlecloudplatform/agent-starter-pack/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/GoogleCloudPlatform/agent-starter-pack/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: caf9ce08d6c5d4e5e97269996b64f76de2094e0c412cf2130a41dfe77aa207d1
+    snapshot: data/osssaysno/policies/googlecloudplatform/agent-starter-pack/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: caf9ce08d6c5d4e5e97269996b64f76de2094e0c412cf2130a41dfe77aa207d1
+    url: https://raw.githubusercontent.com/GoogleCloudPlatform/agent-starter-pack/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/4dc427654449e923b2c701d781a3a004910a270493a123d3d2d86039e476c52a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: caf9ce08d6c5d4e5e97269996b64f76de2094e0c412cf2130a41dfe77aa207d1
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/a95ee4ec10124a0aa72cbb9e2a935392/4dc427654449e923b2c701d781a3a004910a270493a123d3d2d86039e476c52a.md

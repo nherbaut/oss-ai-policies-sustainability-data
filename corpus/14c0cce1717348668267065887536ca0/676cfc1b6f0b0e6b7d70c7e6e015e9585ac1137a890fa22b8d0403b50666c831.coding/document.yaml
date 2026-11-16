@@ -1,0 +1,37 @@
+hash: da32135b571dc1f7b5dc7548c8ef445fa602656a42b7bfd55dced603b331dba5
+id: 8db37ed8-4174-431d-936e-8b1c5057fbe1
+metadata:
+  import_document_id: osssaysno:gentleman-programming/gentle-ai:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:40+00:00'
+    id: osssaysno:github.com/gentleman-programming/gentle-ai:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/AI_POLICY.md
+    role: ai_policy
+    sha256: da32135b571dc1f7b5dc7548c8ef445fa602656a42b7bfd55dced603b331dba5
+    snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/ai_policy.md
+    status: downloaded
+    text_sha256: da32135b571dc1f7b5dc7548c8ef445fa602656a42b7bfd55dced603b331dba5
+    url: https://github.com/Gentleman-Programming/gentle-ai/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:36:28+00:00'
+    id: osssaysno:github.com/gentleman-programming/gentle-ai:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: da32135b571dc1f7b5dc7548c8ef445fa602656a42b7bfd55dced603b331dba5
+    snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: da32135b571dc1f7b5dc7548c8ef445fa602656a42b7bfd55dced603b331dba5
+    url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/AI_POLICY.md
+  source_archive:
+    member: texts/676cfc1b6f0b0e6b7d70c7e6e015e9585ac1137a890fa22b8d0403b50666c831.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: da32135b571dc1f7b5dc7548c8ef445fa602656a42b7bfd55dced603b331dba5
+  url: ''
+name: ai_policy.md
+path: corpus/14c0cce1717348668267065887536ca0/676cfc1b6f0b0e6b7d70c7e6e015e9585ac1137a890fa22b8d0403b50666c831.md

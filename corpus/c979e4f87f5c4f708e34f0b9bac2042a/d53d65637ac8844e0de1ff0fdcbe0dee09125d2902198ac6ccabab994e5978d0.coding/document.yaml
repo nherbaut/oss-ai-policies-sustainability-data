@@ -1,0 +1,37 @@
+hash: 53e2c6afbe0f634338fbb975d272674e5ea84a3c52f746295c30b52e6ec1349b
+id: b3f32ee5-e1aa-43ec-b288-4536af76c434
+metadata:
+  import_document_id: osssaysno:ory/keto:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:02+00:00'
+    id: osssaysno:github.com/ory/keto:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/ory/keto/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/ory/keto/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 53e2c6afbe0f634338fbb975d272674e5ea84a3c52f746295c30b52e6ec1349b
+    snapshot: data/osssaysno/policies/ory/keto/contributing.md
+    status: downloaded
+    text_sha256: 53e2c6afbe0f634338fbb975d272674e5ea84a3c52f746295c30b52e6ec1349b
+    url: https://github.com/ory/keto/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:38:15+00:00'
+    id: osssaysno:github.com/ory/keto:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/ory/keto/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/ory/keto/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 53e2c6afbe0f634338fbb975d272674e5ea84a3c52f746295c30b52e6ec1349b
+    snapshot: data/osssaysno/policies/ory/keto/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 53e2c6afbe0f634338fbb975d272674e5ea84a3c52f746295c30b52e6ec1349b
+    url: https://raw.githubusercontent.com/ory/keto/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/d53d65637ac8844e0de1ff0fdcbe0dee09125d2902198ac6ccabab994e5978d0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 53e2c6afbe0f634338fbb975d272674e5ea84a3c52f746295c30b52e6ec1349b
+  url: ''
+name: contributing.md
+path: corpus/c979e4f87f5c4f708e34f0b9bac2042a/d53d65637ac8844e0de1ff0fdcbe0dee09125d2902198ac6ccabab994e5978d0.md

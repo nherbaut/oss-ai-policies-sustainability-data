@@ -1,0 +1,26 @@
+hash: d041b82f54aaa524e0f7cb88f53d4ad4a783e036d63eee8f524ed38bebde3307
+id: 1a7a6a5e-041f-487a-90a6-93ac3a29a1b1
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:51+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: d041b82f54aaa524e0f7cb88f53d4ad4a783e036d63eee8f524ed38bebde3307
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: d041b82f54aaa524e0f7cb88f53d4ad4a783e036d63eee8f524ed38bebde3307
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/4ce013e6da6e53ba7763e005be97f96b6320312cbd493733b6253c00ded8201a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d041b82f54aaa524e0f7cb88f53d4ad4a783e036d63eee8f524ed38bebde3307
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/4ce013e6da6e53ba7763e005be97f96b6320312cbd493733b6253c00ded8201a.md

@@ -1,0 +1,26 @@
+hash: 052e8c65f8d6009112d3521da640e4d1344e9e97f17c26b0e52ddff003e3d261
+id: 1b441cd3-4cc5-4cfc-97df-49eda8a618af
+metadata:
+  import_document_id: osssaysno:project-monai/monai:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:00+00:00'
+    id: osssaysno:github.com/project-monai/monai:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/project-monai/monai/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/AGENTS.md
+    role: repository_root_document
+    sha256: 052e8c65f8d6009112d3521da640e4d1344e9e97f17c26b0e52ddff003e3d261
+    snapshot: data/osssaysno/policies/project-monai/monai/root/AGENTS.md
+    status: downloaded
+    text_sha256: 052e8c65f8d6009112d3521da640e4d1344e9e97f17c26b0e52ddff003e3d261
+    url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/AGENTS.md
+  source_archive:
+    member: texts/204df47b8f65e7f50f3cf53a1c172790f41d2099e0b395d09bb2b388bb594edb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 052e8c65f8d6009112d3521da640e4d1344e9e97f17c26b0e52ddff003e3d261
+  url: ''
+name: root/AGENTS.md
+path: corpus/b35027ef385649d6a23dcd3dab30ec0f/204df47b8f65e7f50f3cf53a1c172790f41d2099e0b395d09bb2b388bb594edb.md

@@ -1,0 +1,26 @@
+hash: 46a51d270ae3c01fdf57c758e3256f542308d4d0f223a150645a7fc4845230c2
+id: 7f4f9d69-321c-4881-a3ca-378223a69579
+metadata:
+  import_document_id: osssaysno:jaegertracing/jaeger:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:29+00:00'
+    id: osssaysno:github.com/jaegertracing/jaeger:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 46a51d270ae3c01fdf57c758e3256f542308d4d0f223a150645a7fc4845230c2
+    snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 46a51d270ae3c01fdf57c758e3256f542308d4d0f223a150645a7fc4845230c2
+    url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/4068a4514ef3fa29cffb7d6fca3399703acbdf428fa0ef7cc3414796599b1a95.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 46a51d270ae3c01fdf57c758e3256f542308d4d0f223a150645a7fc4845230c2
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/d4874f79daba4aeb9c2061c4f44e4aa4/4068a4514ef3fa29cffb7d6fca3399703acbdf428fa0ef7cc3414796599b1a95.md

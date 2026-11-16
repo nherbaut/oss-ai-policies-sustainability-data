@@ -1,0 +1,26 @@
+hash: 37bbdfaad94a1fa0c0d0ad87278afad1b91e7007ef8197062a27f96e61dd5246
+id: 5b88f94f-f4b1-4a5b-a6a4-bb9df70303f6
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:32+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 37bbdfaad94a1fa0c0d0ad87278afad1b91e7007ef8197062a27f96e61dd5246
+    snapshot: data/osssaysno/policies/grafana/grafana/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 37bbdfaad94a1fa0c0d0ad87278afad1b91e7007ef8197062a27f96e61dd5246
+    url: https://raw.githubusercontent.com/grafana/grafana/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/14520d3a5f32d8c74517ba5b78d17d21691e6b1f7acf5b67b9ef3bb7cea98fc9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 37bbdfaad94a1fa0c0d0ad87278afad1b91e7007ef8197062a27f96e61dd5246
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/14520d3a5f32d8c74517ba5b78d17d21691e6b1f7acf5b67b9ef3bb7cea98fc9.md

@@ -1,0 +1,26 @@
+hash: baca0bd61c3523339ecbbeaf7c912c7892c50fc01730ac6ddcc4086edfa2b528
+id: 7d359c9c-7262-4bea-8ed6-96f772b52e0d
+metadata:
+  import_document_id: osssaysno:pyrefly-org/pyrefly:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:59+00:00'
+    id: osssaysno:github.com/pyrefly-org/pyrefly:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: baca0bd61c3523339ecbbeaf7c912c7892c50fc01730ac6ddcc4086edfa2b528
+    snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: baca0bd61c3523339ecbbeaf7c912c7892c50fc01730ac6ddcc4086edfa2b528
+    url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/aac69b9b328b18b1ba630244f45f7c102afe8c46856bff5d5cd351844566a095.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: baca0bd61c3523339ecbbeaf7c912c7892c50fc01730ac6ddcc4086edfa2b528
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/971a84d6a3da4077865cb731d77e95ae/aac69b9b328b18b1ba630244f45f7c102afe8c46856bff5d5cd351844566a095.md

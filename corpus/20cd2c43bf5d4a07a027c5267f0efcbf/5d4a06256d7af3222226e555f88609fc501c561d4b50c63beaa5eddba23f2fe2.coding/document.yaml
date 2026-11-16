@@ -1,0 +1,26 @@
+hash: 1737ccf1f36e2dd9250bb2681bc1f76857aa1a0e431155dcb9862acc9cce5776
+id: f49f85ac-0673-4fae-974c-a3bd5e26faf3
+metadata:
+  import_document_id: osssaysno:tautulli/tautulli:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:18+00:00'
+    id: osssaysno:github.com/tautulli/tautulli:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/tautulli/tautulli/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/Tautulli/Tautulli/nightly/SECURITY.md
+    role: repository_root_document
+    sha256: 1737ccf1f36e2dd9250bb2681bc1f76857aa1a0e431155dcb9862acc9cce5776
+    snapshot: data/osssaysno/policies/tautulli/tautulli/root/SECURITY.md
+    status: downloaded
+    text_sha256: 1737ccf1f36e2dd9250bb2681bc1f76857aa1a0e431155dcb9862acc9cce5776
+    url: https://raw.githubusercontent.com/Tautulli/Tautulli/nightly/SECURITY.md
+  source_archive:
+    member: texts/5d4a06256d7af3222226e555f88609fc501c561d4b50c63beaa5eddba23f2fe2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1737ccf1f36e2dd9250bb2681bc1f76857aa1a0e431155dcb9862acc9cce5776
+  url: ''
+name: root/SECURITY.md
+path: corpus/20cd2c43bf5d4a07a027c5267f0efcbf/5d4a06256d7af3222226e555f88609fc501c561d4b50c63beaa5eddba23f2fe2.md

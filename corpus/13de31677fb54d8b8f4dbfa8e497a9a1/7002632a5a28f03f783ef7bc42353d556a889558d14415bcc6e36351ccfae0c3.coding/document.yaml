@@ -1,0 +1,26 @@
+hash: 9a8212f364111043abbd24c83e3690346dac7d9ae7ca0bb208866231c548682f
+id: 759dfeb4-f7b3-4521-90df-792534d1728c
+metadata:
+  import_document_id: osssaysno:monogame/monogame:root/TRIAGE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:20+00:00'
+    id: osssaysno:github.com/monogame/monogame:root/TRIAGE.md
+    import_slot: root/TRIAGE.md
+    raw_snapshot: data/osssaysno/policies/monogame/monogame/root/raw/TRIAGE.md
+    resolved_url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/TRIAGE.md
+    role: repository_root_document
+    sha256: 9a8212f364111043abbd24c83e3690346dac7d9ae7ca0bb208866231c548682f
+    snapshot: data/osssaysno/policies/monogame/monogame/root/TRIAGE.md
+    status: downloaded
+    text_sha256: 9a8212f364111043abbd24c83e3690346dac7d9ae7ca0bb208866231c548682f
+    url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/TRIAGE.md
+  source_archive:
+    member: texts/7002632a5a28f03f783ef7bc42353d556a889558d14415bcc6e36351ccfae0c3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9a8212f364111043abbd24c83e3690346dac7d9ae7ca0bb208866231c548682f
+  url: ''
+name: root/TRIAGE.md
+path: corpus/13de31677fb54d8b8f4dbfa8e497a9a1/7002632a5a28f03f783ef7bc42353d556a889558d14415bcc6e36351ccfae0c3.md

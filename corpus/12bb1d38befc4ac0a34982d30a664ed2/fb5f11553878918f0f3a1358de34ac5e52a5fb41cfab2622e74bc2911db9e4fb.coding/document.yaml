@@ -1,0 +1,26 @@
+hash: 79bb5bdd5102cd102c72de35e6c7faf9d388aa108a4af5058721e7128637d0f5
+id: 2184fca0-6f30-4316-944a-fa9e65db8bc4
+metadata:
+  import_document_id: osssaysno:kludex/starlette:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:44+00:00'
+    id: osssaysno:github.com/kludex/starlette:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/kludex/starlette/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/Kludex/starlette/main/AGENTS.md
+    role: repository_root_document
+    sha256: 79bb5bdd5102cd102c72de35e6c7faf9d388aa108a4af5058721e7128637d0f5
+    snapshot: data/osssaysno/policies/kludex/starlette/root/AGENTS.md
+    status: downloaded
+    text_sha256: 79bb5bdd5102cd102c72de35e6c7faf9d388aa108a4af5058721e7128637d0f5
+    url: https://raw.githubusercontent.com/Kludex/starlette/main/AGENTS.md
+  source_archive:
+    member: texts/fb5f11553878918f0f3a1358de34ac5e52a5fb41cfab2622e74bc2911db9e4fb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 79bb5bdd5102cd102c72de35e6c7faf9d388aa108a4af5058721e7128637d0f5
+  url: ''
+name: root/AGENTS.md
+path: corpus/12bb1d38befc4ac0a34982d30a664ed2/fb5f11553878918f0f3a1358de34ac5e52a5fb41cfab2622e74bc2911db9e4fb.md

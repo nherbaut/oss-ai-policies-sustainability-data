@@ -1,0 +1,26 @@
+hash: e9c22a60e3e339ce06bd9fafe2d350e4aa89a28451b09e0564607d90169f3bee
+id: 7c41734a-125d-4e79-b167-3e9c8072152c
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:root/local-instance.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:21+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/local-instance.md
+    import_slot: root/local-instance.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/local-instance.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/local-instance.md
+    role: repository_root_document
+    sha256: e9c22a60e3e339ce06bd9fafe2d350e4aa89a28451b09e0564607d90169f3bee
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/local-instance.md
+    status: downloaded
+    text_sha256: e9c22a60e3e339ce06bd9fafe2d350e4aa89a28451b09e0564607d90169f3bee
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/local-instance.md
+  source_archive:
+    member: texts/97fb60108e99ee887ee97f884ece2a388cf6e188a164a7ab6fdb063abe318c31.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e9c22a60e3e339ce06bd9fafe2d350e4aa89a28451b09e0564607d90169f3bee
+  url: ''
+name: root/local-instance.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/97fb60108e99ee887ee97f884ece2a388cf6e188a164a7ab6fdb063abe318c31.md

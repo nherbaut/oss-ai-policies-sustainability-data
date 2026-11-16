@@ -1,0 +1,26 @@
+hash: 4ac9d45a2dec8b4f13797583832b28d6af78e0ab7b72de8d4a8604028a9db46b
+id: b33400ab-cf36-43a3-adb8-f1a7ebdba818
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:12+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 4ac9d45a2dec8b4f13797583832b28d6af78e0ab7b72de8d4a8604028a9db46b
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 4ac9d45a2dec8b4f13797583832b28d6af78e0ab7b72de8d4a8604028a9db46b
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/62e5e55788cb51089912abc436d21153fb23627f5f90253b577e4d1fab3b80f3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4ac9d45a2dec8b4f13797583832b28d6af78e0ab7b72de8d4a8604028a9db46b
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/62e5e55788cb51089912abc436d21153fb23627f5f90253b577e4d1fab3b80f3.md

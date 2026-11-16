@@ -1,0 +1,26 @@
+hash: 70f8297642650b3adeca0e7c9d5671cd87087c578ddd3cc85b4cd5c43067171c
+id: bf5c8e8b-ca0b-42cc-8b58-5bccc8073c73
+metadata:
+  import_document_id: osssaysno:mozilla-mobile/firefox-ios:root/ISSUE_TEMPLATE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:36+00:00'
+    id: osssaysno:github.com/mozilla-mobile/firefox-ios:root/ISSUE_TEMPLATE.md
+    import_slot: root/ISSUE_TEMPLATE.md
+    raw_snapshot: data/osssaysno/policies/mozilla-mobile/firefox-ios/root/raw/ISSUE_TEMPLATE.md
+    resolved_url: https://raw.githubusercontent.com/mozilla-mobile/firefox-ios/main/ISSUE_TEMPLATE.md
+    role: repository_root_document
+    sha256: 70f8297642650b3adeca0e7c9d5671cd87087c578ddd3cc85b4cd5c43067171c
+    snapshot: data/osssaysno/policies/mozilla-mobile/firefox-ios/root/ISSUE_TEMPLATE.md
+    status: downloaded
+    text_sha256: 70f8297642650b3adeca0e7c9d5671cd87087c578ddd3cc85b4cd5c43067171c
+    url: https://raw.githubusercontent.com/mozilla-mobile/firefox-ios/main/ISSUE_TEMPLATE.md
+  source_archive:
+    member: texts/69ab4c1811121071a4fc6e0a0f13c8ca147cccd29aaa87f6b12758924b463555.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 70f8297642650b3adeca0e7c9d5671cd87087c578ddd3cc85b4cd5c43067171c
+  url: ''
+name: root/ISSUE_TEMPLATE.md
+path: corpus/cef3fecd374d47e391901c9d5c016a8f/69ab4c1811121071a4fc6e0a0f13c8ca147cccd29aaa87f6b12758924b463555.md

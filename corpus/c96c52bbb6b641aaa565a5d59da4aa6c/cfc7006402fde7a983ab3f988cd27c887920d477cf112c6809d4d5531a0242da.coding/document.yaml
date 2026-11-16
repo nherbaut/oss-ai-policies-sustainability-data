@@ -1,0 +1,26 @@
+hash: cf6a627fa9f7366483e332b30a2e606bbb76fec0c3c0c0b524074a8360f3e06f
+id: 2bc82afd-1104-451e-bca8-e9c25d0644e2
+metadata:
+  import_document_id: osssaysno:sebastianbergmann/recursion-context:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:28+00:00'
+    id: osssaysno:github.com/sebastianbergmann/recursion-context:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/sebastianbergmann/recursion-context/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/sebastianbergmann/recursion-context/main/SECURITY.md
+    role: repository_root_document
+    sha256: cf6a627fa9f7366483e332b30a2e606bbb76fec0c3c0c0b524074a8360f3e06f
+    snapshot: data/osssaysno/policies/sebastianbergmann/recursion-context/root/SECURITY.md
+    status: downloaded
+    text_sha256: cf6a627fa9f7366483e332b30a2e606bbb76fec0c3c0c0b524074a8360f3e06f
+    url: https://raw.githubusercontent.com/sebastianbergmann/recursion-context/main/SECURITY.md
+  source_archive:
+    member: texts/cfc7006402fde7a983ab3f988cd27c887920d477cf112c6809d4d5531a0242da.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cf6a627fa9f7366483e332b30a2e606bbb76fec0c3c0c0b524074a8360f3e06f
+  url: ''
+name: root/SECURITY.md
+path: corpus/c96c52bbb6b641aaa565a5d59da4aa6c/cfc7006402fde7a983ab3f988cd27c887920d477cf112c6809d4d5531a0242da.md

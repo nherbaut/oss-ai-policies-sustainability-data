@@ -1,0 +1,37 @@
+hash: bb40076cc658e45a13b910a47575f7e1bf18f72f9513299c0fe991679c1c93a7
+id: 17da0133-62b6-4cd8-b7f0-0ecf4b63317e
+metadata:
+  import_document_id: osssaysno:n0-computer/iroh:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:39+00:00'
+    id: osssaysno:github.com/n0-computer/iroh:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/n0-computer/iroh/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/n0-computer/iroh/main/AI_POLICY.md
+    role: ai_policy
+    sha256: bb40076cc658e45a13b910a47575f7e1bf18f72f9513299c0fe991679c1c93a7
+    snapshot: data/osssaysno/policies/n0-computer/iroh/ai_policy.md
+    status: downloaded
+    text_sha256: bb40076cc658e45a13b910a47575f7e1bf18f72f9513299c0fe991679c1c93a7
+    url: https://github.com/n0-computer/iroh/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:29:40+00:00'
+    id: osssaysno:github.com/n0-computer/iroh:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/n0-computer/iroh/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/n0-computer/iroh/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: bb40076cc658e45a13b910a47575f7e1bf18f72f9513299c0fe991679c1c93a7
+    snapshot: data/osssaysno/policies/n0-computer/iroh/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: bb40076cc658e45a13b910a47575f7e1bf18f72f9513299c0fe991679c1c93a7
+    url: https://raw.githubusercontent.com/n0-computer/iroh/main/AI_POLICY.md
+  source_archive:
+    member: texts/5d064918fc697578dc1aa16e727a9021b048a0422ab308cefbe866257c2aee9b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bb40076cc658e45a13b910a47575f7e1bf18f72f9513299c0fe991679c1c93a7
+  url: ''
+name: ai_policy.md
+path: corpus/b6bff42c649544d0bc99a96e74c88af6/5d064918fc697578dc1aa16e727a9021b048a0422ab308cefbe866257c2aee9b.md

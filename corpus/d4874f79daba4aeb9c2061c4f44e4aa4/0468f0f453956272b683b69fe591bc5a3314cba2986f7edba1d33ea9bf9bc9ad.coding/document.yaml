@@ -1,0 +1,37 @@
+hash: ae58c4a80cedab532bdc712f49e6cdb50241d954425c27e5b774a4576911fe23
+id: 80d4461b-8c17-427d-acd0-2599f279e3c8
+metadata:
+  import_document_id: osssaysno:jaegertracing/jaeger:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:28+00:00'
+    id: osssaysno:github.com/jaegertracing/jaeger:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/AGENTS.md
+    role: repository_root_document
+    sha256: ae58c4a80cedab532bdc712f49e6cdb50241d954425c27e5b774a4576911fe23
+    snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/AGENTS.md
+    status: downloaded
+    text_sha256: ae58c4a80cedab532bdc712f49e6cdb50241d954425c27e5b774a4576911fe23
+    url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:28:29+00:00'
+    id: osssaysno:github.com/jaegertracing/jaeger:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/AGENTS.md
+    role: repository_root_document
+    sha256: ae58c4a80cedab532bdc712f49e6cdb50241d954425c27e5b774a4576911fe23
+    snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/CLAUDE.md
+    status: downloaded
+    text_sha256: ae58c4a80cedab532bdc712f49e6cdb50241d954425c27e5b774a4576911fe23
+    url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/CLAUDE.md
+  source_archive:
+    member: texts/0468f0f453956272b683b69fe591bc5a3314cba2986f7edba1d33ea9bf9bc9ad.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ae58c4a80cedab532bdc712f49e6cdb50241d954425c27e5b774a4576911fe23
+  url: ''
+name: root/AGENTS.md
+path: corpus/d4874f79daba4aeb9c2061c4f44e4aa4/0468f0f453956272b683b69fe591bc5a3314cba2986f7edba1d33ea9bf9bc9ad.md

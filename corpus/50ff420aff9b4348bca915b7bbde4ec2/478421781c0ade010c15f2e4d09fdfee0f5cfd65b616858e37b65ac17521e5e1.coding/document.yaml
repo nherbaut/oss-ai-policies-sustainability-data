@@ -1,0 +1,26 @@
+hash: 84a598ef4bd32ce4d63a9ad58def1ff853ca4b8781925d1243a5e4909c990f50
+id: 7ce1f981-3fd5-4146-adea-f664f7b8a7eb
+metadata:
+  import_document_id: osssaysno:grpc/grpc:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:52+00:00'
+    id: osssaysno:github.com/grpc/grpc:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc/master/AGENTS.md
+    role: repository_root_document
+    sha256: 84a598ef4bd32ce4d63a9ad58def1ff853ca4b8781925d1243a5e4909c990f50
+    snapshot: data/osssaysno/policies/grpc/grpc/root/AGENTS.md
+    status: downloaded
+    text_sha256: 84a598ef4bd32ce4d63a9ad58def1ff853ca4b8781925d1243a5e4909c990f50
+    url: https://raw.githubusercontent.com/grpc/grpc/master/AGENTS.md
+  source_archive:
+    member: texts/478421781c0ade010c15f2e4d09fdfee0f5cfd65b616858e37b65ac17521e5e1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 84a598ef4bd32ce4d63a9ad58def1ff853ca4b8781925d1243a5e4909c990f50
+  url: ''
+name: root/AGENTS.md
+path: corpus/50ff420aff9b4348bca915b7bbde4ec2/478421781c0ade010c15f2e4d09fdfee0f5cfd65b616858e37b65ac17521e5e1.md

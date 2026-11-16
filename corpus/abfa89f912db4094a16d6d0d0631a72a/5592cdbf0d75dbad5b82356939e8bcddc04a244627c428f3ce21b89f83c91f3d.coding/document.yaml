@@ -1,0 +1,26 @@
+hash: 5a2f8d5f2e0a138887e299c6468acd781f88e7855b8710ef05d48854926c6263
+id: 18929f6f-30a4-44b8-ace1-bac5b0a334ee
+metadata:
+  import_document_id: osssaysno:zeek/zeek:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:24+00:00'
+    id: osssaysno:github.com/zeek/zeek:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/zeek/zeek/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/zeek/zeek/master/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 5a2f8d5f2e0a138887e299c6468acd781f88e7855b8710ef05d48854926c6263
+    snapshot: data/osssaysno/policies/zeek/zeek/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 5a2f8d5f2e0a138887e299c6468acd781f88e7855b8710ef05d48854926c6263
+    url: https://raw.githubusercontent.com/zeek/zeek/master/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/5592cdbf0d75dbad5b82356939e8bcddc04a244627c428f3ce21b89f83c91f3d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5a2f8d5f2e0a138887e299c6468acd781f88e7855b8710ef05d48854926c6263
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/abfa89f912db4094a16d6d0d0631a72a/5592cdbf0d75dbad5b82356939e8bcddc04a244627c428f3ce21b89f83c91f3d.md

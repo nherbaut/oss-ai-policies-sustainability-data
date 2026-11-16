@@ -1,0 +1,26 @@
+hash: b5fcd48708b7861c8732c63657979c70ea05a4962ee605a57fd0758f0dbd1972
+id: 6b3a035b-d4cd-4051-84cf-a56d2b994693
+metadata:
+  import_document_id: osssaysno:kunagent/kun:root/CODE_OF_CONDUCT.zh-CN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:35+00:00'
+    id: osssaysno:github.com/kunagent/kun:root/CODE_OF_CONDUCT.zh-CN.md
+    import_slot: root/CODE_OF_CONDUCT.zh-CN.md
+    raw_snapshot: data/osssaysno/policies/kunagent/kun/root/raw/CODE_OF_CONDUCT.zh-CN.md
+    resolved_url: https://raw.githubusercontent.com/KunAgent/Kun/master/CODE_OF_CONDUCT.zh-CN.md
+    role: repository_root_document
+    sha256: b5fcd48708b7861c8732c63657979c70ea05a4962ee605a57fd0758f0dbd1972
+    snapshot: data/osssaysno/policies/kunagent/kun/root/CODE_OF_CONDUCT.zh-CN.md
+    status: downloaded
+    text_sha256: b5fcd48708b7861c8732c63657979c70ea05a4962ee605a57fd0758f0dbd1972
+    url: https://raw.githubusercontent.com/KunAgent/Kun/master/CODE_OF_CONDUCT.zh-CN.md
+  source_archive:
+    member: texts/c78ac25b647d03d164d5e758ca8b86c4de1d11253dbe6c99bf89afe844201aa7.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b5fcd48708b7861c8732c63657979c70ea05a4962ee605a57fd0758f0dbd1972
+  url: ''
+name: root/CODE_OF_CONDUCT.zh-CN.md
+path: corpus/64a7dfee45914169954b7d45c207c06c/c78ac25b647d03d164d5e758ca8b86c4de1d11253dbe6c99bf89afe844201aa7.md

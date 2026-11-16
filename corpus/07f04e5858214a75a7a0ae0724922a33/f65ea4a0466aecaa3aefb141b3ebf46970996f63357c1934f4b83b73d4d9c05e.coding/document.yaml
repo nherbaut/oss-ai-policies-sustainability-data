@@ -1,0 +1,26 @@
+hash: dc98b6c1e6fb52777b15bb197669cee2733e85c20bd67be6a1cb3d5d41747eed
+id: 73eccf87-4ae0-4369-8ad8-7674c3dda799
+metadata:
+  import_document_id: osssaysno:marker-inc-korea/autorag:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:20+00:00'
+    id: osssaysno:github.com/marker-inc-korea/autorag:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/GOVERNANCE.md
+    role: repository_root_document
+    sha256: dc98b6c1e6fb52777b15bb197669cee2733e85c20bd67be6a1cb3d5d41747eed
+    snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: dc98b6c1e6fb52777b15bb197669cee2733e85c20bd67be6a1cb3d5d41747eed
+    url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/GOVERNANCE.md
+  source_archive:
+    member: texts/f65ea4a0466aecaa3aefb141b3ebf46970996f63357c1934f4b83b73d4d9c05e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: dc98b6c1e6fb52777b15bb197669cee2733e85c20bd67be6a1cb3d5d41747eed
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/07f04e5858214a75a7a0ae0724922a33/f65ea4a0466aecaa3aefb141b3ebf46970996f63357c1934f4b83b73d4d9c05e.md

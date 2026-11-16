@@ -1,0 +1,26 @@
+hash: a1eefd3a2a21c2aa19cb0fded27fbcaf5d65e5139a483b1dd2c8aab452257ad6
+id: 34a9917a-544a-4220-9b65-42db3a95a04d
+metadata:
+  import_document_id: osssaysno:pest-parser/pest:root/FUZZING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:17+00:00'
+    id: osssaysno:github.com/pest-parser/pest:root/FUZZING.md
+    import_slot: root/FUZZING.md
+    raw_snapshot: data/osssaysno/policies/pest-parser/pest/root/raw/FUZZING.md
+    resolved_url: https://raw.githubusercontent.com/pest-parser/pest/master/FUZZING.md
+    role: repository_root_document
+    sha256: a1eefd3a2a21c2aa19cb0fded27fbcaf5d65e5139a483b1dd2c8aab452257ad6
+    snapshot: data/osssaysno/policies/pest-parser/pest/root/FUZZING.md
+    status: downloaded
+    text_sha256: a1eefd3a2a21c2aa19cb0fded27fbcaf5d65e5139a483b1dd2c8aab452257ad6
+    url: https://raw.githubusercontent.com/pest-parser/pest/master/FUZZING.md
+  source_archive:
+    member: texts/d7f57e2be9dbf6a4a0a893013c3390b1bfe9e06353d800b5185eabbe4ad74799.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a1eefd3a2a21c2aa19cb0fded27fbcaf5d65e5139a483b1dd2c8aab452257ad6
+  url: ''
+name: root/FUZZING.md
+path: corpus/500512c21c7e41c8a418fcfa24f38b8d/d7f57e2be9dbf6a4a0a893013c3390b1bfe9e06353d800b5185eabbe4ad74799.md

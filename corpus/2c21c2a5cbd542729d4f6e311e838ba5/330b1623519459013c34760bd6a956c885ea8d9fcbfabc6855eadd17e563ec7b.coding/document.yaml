@@ -1,0 +1,26 @@
+hash: 78a089bc072acce074f2aba2f639de5573fb023a46e3598f782a29f0598ef440
+id: f3518e17-fc6a-4b71-9409-17a854b43240
+metadata:
+  import_document_id: osssaysno:thanos-io/thanos:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:25+00:00'
+    id: osssaysno:github.com/thanos-io/thanos:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/thanos-io/thanos/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/thanos-io/thanos/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 78a089bc072acce074f2aba2f639de5573fb023a46e3598f782a29f0598ef440
+    snapshot: data/osssaysno/policies/thanos-io/thanos/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 78a089bc072acce074f2aba2f639de5573fb023a46e3598f782a29f0598ef440
+    url: https://raw.githubusercontent.com/thanos-io/thanos/main/CHANGELOG.md
+  source_archive:
+    member: texts/330b1623519459013c34760bd6a956c885ea8d9fcbfabc6855eadd17e563ec7b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 78a089bc072acce074f2aba2f639de5573fb023a46e3598f782a29f0598ef440
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/2c21c2a5cbd542729d4f6e311e838ba5/330b1623519459013c34760bd6a956c885ea8d9fcbfabc6855eadd17e563ec7b.md

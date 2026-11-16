@@ -1,0 +1,26 @@
+hash: 9f6742adc60ceb883b80babe1b71b9f9978a8482efc8f2365628c637d2066378
+id: 31ac764e-ab61-420d-b919-b100498898de
+metadata:
+  import_document_id: osssaysno:libvips/libvips:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:05+00:00'
+    id: osssaysno:github.com/libvips/libvips:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/libvips/libvips/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/libvips/libvips/master/SECURITY.md
+    role: repository_root_document
+    sha256: 9f6742adc60ceb883b80babe1b71b9f9978a8482efc8f2365628c637d2066378
+    snapshot: data/osssaysno/policies/libvips/libvips/root/SECURITY.md
+    status: downloaded
+    text_sha256: 9f6742adc60ceb883b80babe1b71b9f9978a8482efc8f2365628c637d2066378
+    url: https://raw.githubusercontent.com/libvips/libvips/master/SECURITY.md
+  source_archive:
+    member: texts/f12571079a272519a877c4266c4c43be7495ef3a185b8e2373dbbd08a56a248e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9f6742adc60ceb883b80babe1b71b9f9978a8482efc8f2365628c637d2066378
+  url: ''
+name: root/SECURITY.md
+path: corpus/079201f97e314fd684d04a54752cacb9/f12571079a272519a877c4266c4c43be7495ef3a185b8e2373dbbd08a56a248e.md

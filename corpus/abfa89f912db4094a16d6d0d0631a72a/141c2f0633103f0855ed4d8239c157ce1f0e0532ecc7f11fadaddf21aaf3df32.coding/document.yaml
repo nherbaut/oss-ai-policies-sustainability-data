@@ -1,0 +1,26 @@
+hash: e7d89295fe86d81a4731e398b05f4c90fdbc72d22a65c2b2aed052aaa07581b1
+id: 418461c6-167f-4a7f-8420-69611967cf07
+metadata:
+  import_document_id: osssaysno:zeek/zeek:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:25+00:00'
+    id: osssaysno:github.com/zeek/zeek:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/zeek/zeek/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/zeek/zeek/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: e7d89295fe86d81a4731e398b05f4c90fdbc72d22a65c2b2aed052aaa07581b1
+    snapshot: data/osssaysno/policies/zeek/zeek/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: e7d89295fe86d81a4731e398b05f4c90fdbc72d22a65c2b2aed052aaa07581b1
+    url: https://raw.githubusercontent.com/zeek/zeek/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/141c2f0633103f0855ed4d8239c157ce1f0e0532ecc7f11fadaddf21aaf3df32.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e7d89295fe86d81a4731e398b05f4c90fdbc72d22a65c2b2aed052aaa07581b1
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/abfa89f912db4094a16d6d0d0631a72a/141c2f0633103f0855ed4d8239c157ce1f0e0532ecc7f11fadaddf21aaf3df32.md

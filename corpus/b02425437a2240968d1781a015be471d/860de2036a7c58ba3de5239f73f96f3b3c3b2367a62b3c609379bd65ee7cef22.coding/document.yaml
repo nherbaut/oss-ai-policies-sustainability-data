@@ -1,0 +1,26 @@
+hash: 8b48efd96b0760eb8001b16ae4cbabd812ee050b22d13e3eca3a42daaf28a03b
+id: ea877a62-1f85-432d-869c-0f02436ddf63
+metadata:
+  import_document_id: osssaysno:tanstack/query:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:46+00:00'
+    id: osssaysno:github.com/tanstack/query:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/tanstack/query/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/TanStack/query/main/README.md
+    role: repository_root_document
+    sha256: 8b48efd96b0760eb8001b16ae4cbabd812ee050b22d13e3eca3a42daaf28a03b
+    snapshot: data/osssaysno/policies/tanstack/query/root/README.md
+    status: downloaded
+    text_sha256: 8b48efd96b0760eb8001b16ae4cbabd812ee050b22d13e3eca3a42daaf28a03b
+    url: https://raw.githubusercontent.com/TanStack/query/main/README.md
+  source_archive:
+    member: texts/860de2036a7c58ba3de5239f73f96f3b3c3b2367a62b3c609379bd65ee7cef22.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8b48efd96b0760eb8001b16ae4cbabd812ee050b22d13e3eca3a42daaf28a03b
+  url: ''
+name: root/README.md
+path: corpus/b02425437a2240968d1781a015be471d/860de2036a7c58ba3de5239f73f96f3b3c3b2367a62b3c609379bd65ee7cef22.md

@@ -1,0 +1,26 @@
+hash: 7940c0790c1cc71ff7d6993a86d84562c5233333b239f871aed8e917150dfb7e
+id: 3c3a7a28-1c57-4ef2-b581-ff8402d29a0a
+metadata:
+  import_document_id: osssaysno:asciimoo/hister:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:40+00:00'
+    id: osssaysno:github.com/asciimoo/hister:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/asciimoo/hister/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/asciimoo/hister/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: 7940c0790c1cc71ff7d6993a86d84562c5233333b239f871aed8e917150dfb7e
+    snapshot: data/osssaysno/policies/asciimoo/hister/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 7940c0790c1cc71ff7d6993a86d84562c5233333b239f871aed8e917150dfb7e
+    url: https://raw.githubusercontent.com/asciimoo/hister/master/CHANGELOG.md
+  source_archive:
+    member: texts/1e7ed3f8621705a7f5f0d14d9840ed7ac0c6facca75f0e1aac7778f758c86fee.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7940c0790c1cc71ff7d6993a86d84562c5233333b239f871aed8e917150dfb7e
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/86fb7caca2c1417e9bd4c9e14b84a6e0/1e7ed3f8621705a7f5f0d14d9840ed7ac0c6facca75f0e1aac7778f758c86fee.md

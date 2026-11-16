@@ -1,0 +1,37 @@
+hash: 8a120c2381f57fd53d456cbbfa0dc1cc23f21eb34dc66195b3fe37d21fcfef91
+id: 49b354a0-c4cd-4322-b4db-6a9fdae23985
+metadata:
+  import_document_id: osssaysno:libvips/libvips:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:04+00:00'
+    id: osssaysno:github.com/libvips/libvips:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/libvips/libvips/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/libvips/libvips/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 8a120c2381f57fd53d456cbbfa0dc1cc23f21eb34dc66195b3fe37d21fcfef91
+    snapshot: data/osssaysno/policies/libvips/libvips/contributing.md
+    status: downloaded
+    text_sha256: 8a120c2381f57fd53d456cbbfa0dc1cc23f21eb34dc66195b3fe37d21fcfef91
+    url: https://github.com/libvips/libvips/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:30:05+00:00'
+    id: osssaysno:github.com/libvips/libvips:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/libvips/libvips/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/libvips/libvips/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 8a120c2381f57fd53d456cbbfa0dc1cc23f21eb34dc66195b3fe37d21fcfef91
+    snapshot: data/osssaysno/policies/libvips/libvips/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 8a120c2381f57fd53d456cbbfa0dc1cc23f21eb34dc66195b3fe37d21fcfef91
+    url: https://raw.githubusercontent.com/libvips/libvips/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/eb34767e445405a2b408f36bd2fe55136beac9306f88c3b9d1e4b351e75d6472.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8a120c2381f57fd53d456cbbfa0dc1cc23f21eb34dc66195b3fe37d21fcfef91
+  url: ''
+name: contributing.md
+path: corpus/079201f97e314fd684d04a54752cacb9/eb34767e445405a2b408f36bd2fe55136beac9306f88c3b9d1e4b351e75d6472.md

@@ -1,0 +1,37 @@
+hash: bbc7996dadf8d4bde9c85bea4baaee3e6395ff9c1565dc12690a05afd884e80a
+id: db2ed329-cc0f-4635-a444-cf7a12473acb
+metadata:
+  import_document_id: osssaysno:mozilla-mobile/firefox-ios:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:35+00:00'
+    id: osssaysno:github.com/mozilla-mobile/firefox-ios:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/mozilla-mobile/firefox-ios/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/mozilla-mobile/firefox-ios/main/AGENTS.md
+    role: repository_root_document
+    sha256: bbc7996dadf8d4bde9c85bea4baaee3e6395ff9c1565dc12690a05afd884e80a
+    snapshot: data/osssaysno/policies/mozilla-mobile/firefox-ios/root/AGENTS.md
+    status: downloaded
+    text_sha256: bbc7996dadf8d4bde9c85bea4baaee3e6395ff9c1565dc12690a05afd884e80a
+    url: https://raw.githubusercontent.com/mozilla-mobile/firefox-ios/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:29:35+00:00'
+    id: osssaysno:github.com/mozilla-mobile/firefox-ios:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/mozilla-mobile/firefox-ios/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/mozilla-mobile/firefox-ios/main/AGENTS.md
+    role: repository_root_document
+    sha256: bbc7996dadf8d4bde9c85bea4baaee3e6395ff9c1565dc12690a05afd884e80a
+    snapshot: data/osssaysno/policies/mozilla-mobile/firefox-ios/root/CLAUDE.md
+    status: downloaded
+    text_sha256: bbc7996dadf8d4bde9c85bea4baaee3e6395ff9c1565dc12690a05afd884e80a
+    url: https://raw.githubusercontent.com/mozilla-mobile/firefox-ios/main/CLAUDE.md
+  source_archive:
+    member: texts/fa7985af4fc586a07986d8ebe3874611968624f671286d8d28a4442f14a1ca16.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bbc7996dadf8d4bde9c85bea4baaee3e6395ff9c1565dc12690a05afd884e80a
+  url: ''
+name: root/AGENTS.md
+path: corpus/cef3fecd374d47e391901c9d5c016a8f/fa7985af4fc586a07986d8ebe3874611968624f671286d8d28a4442f14a1ca16.md

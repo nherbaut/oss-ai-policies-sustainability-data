@@ -1,0 +1,37 @@
+hash: c49da97ee502e78151be21674e7a83c987e28588b5d853ecd37148f3d76f44a7
+id: e3221c8b-df05-43fd-baa4-b09ca2a2aebb
+metadata:
+  import_document_id: osssaysno:hatchet-dev/hatchet:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:38+00:00'
+    id: osssaysno:github.com/hatchet-dev/hatchet:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/hatchet-dev/hatchet/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/hatchet-dev/hatchet/main/AI_POLICY.md
+    role: ai_policy
+    sha256: c49da97ee502e78151be21674e7a83c987e28588b5d853ecd37148f3d76f44a7
+    snapshot: data/osssaysno/policies/hatchet-dev/hatchet/ai_policy.md
+    status: downloaded
+    text_sha256: c49da97ee502e78151be21674e7a83c987e28588b5d853ecd37148f3d76f44a7
+    url: https://github.com/hatchet-dev/hatchet/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:36:19+00:00'
+    id: osssaysno:github.com/hatchet-dev/hatchet:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/hatchet-dev/hatchet/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/hatchet-dev/hatchet/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: c49da97ee502e78151be21674e7a83c987e28588b5d853ecd37148f3d76f44a7
+    snapshot: data/osssaysno/policies/hatchet-dev/hatchet/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: c49da97ee502e78151be21674e7a83c987e28588b5d853ecd37148f3d76f44a7
+    url: https://raw.githubusercontent.com/hatchet-dev/hatchet/main/AI_POLICY.md
+  source_archive:
+    member: texts/3ac69aca3936fe98f378a9b358c427cde7fba89355ba99cccdeec5eca2c447e1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c49da97ee502e78151be21674e7a83c987e28588b5d853ecd37148f3d76f44a7
+  url: ''
+name: ai_policy.md
+path: corpus/e13e264f5b48473699e5a67f30f2ce8e/3ac69aca3936fe98f378a9b358c427cde7fba89355ba99cccdeec5eca2c447e1.md

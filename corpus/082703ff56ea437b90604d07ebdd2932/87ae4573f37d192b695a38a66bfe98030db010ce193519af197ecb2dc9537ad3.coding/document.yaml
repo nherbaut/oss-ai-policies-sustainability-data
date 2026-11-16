@@ -1,0 +1,26 @@
+hash: 5460f772ad31e85fb7594740119e6cf6bcdcf301b795840e7a1161a8784dab3b
+id: 58f9ac64-886a-472b-8117-1a14cee1a2d0
+metadata:
+  import_document_id: osssaysno:elastic/kibana:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:42+00:00'
+    id: osssaysno:github.com/elastic/kibana:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/elastic/kibana/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/elastic/kibana/main/SECURITY.md
+    role: repository_root_document
+    sha256: 5460f772ad31e85fb7594740119e6cf6bcdcf301b795840e7a1161a8784dab3b
+    snapshot: data/osssaysno/policies/elastic/kibana/root/SECURITY.md
+    status: downloaded
+    text_sha256: 5460f772ad31e85fb7594740119e6cf6bcdcf301b795840e7a1161a8784dab3b
+    url: https://raw.githubusercontent.com/elastic/kibana/main/SECURITY.md
+  source_archive:
+    member: texts/87ae4573f37d192b695a38a66bfe98030db010ce193519af197ecb2dc9537ad3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5460f772ad31e85fb7594740119e6cf6bcdcf301b795840e7a1161a8784dab3b
+  url: ''
+name: root/SECURITY.md
+path: corpus/082703ff56ea437b90604d07ebdd2932/87ae4573f37d192b695a38a66bfe98030db010ce193519af197ecb2dc9537ad3.md

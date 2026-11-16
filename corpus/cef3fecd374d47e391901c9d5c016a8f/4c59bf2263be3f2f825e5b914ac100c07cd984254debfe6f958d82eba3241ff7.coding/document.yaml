@@ -1,0 +1,26 @@
+hash: eddd8ed3d0e38f11dcea4ba6f2936b60c96811465b2deec34c04f424957060bb
+id: e1f6e9d2-5061-4fb3-97a3-e3214e5f7800
+metadata:
+  import_document_id: osssaysno:mozilla-mobile/firefox-ios:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:35+00:00'
+    id: osssaysno:github.com/mozilla-mobile/firefox-ios:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/mozilla-mobile/firefox-ios/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/mozilla-mobile/firefox-ios/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: eddd8ed3d0e38f11dcea4ba6f2936b60c96811465b2deec34c04f424957060bb
+    snapshot: data/osssaysno/policies/mozilla-mobile/firefox-ios/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: eddd8ed3d0e38f11dcea4ba6f2936b60c96811465b2deec34c04f424957060bb
+    url: https://raw.githubusercontent.com/mozilla-mobile/firefox-ios/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/4c59bf2263be3f2f825e5b914ac100c07cd984254debfe6f958d82eba3241ff7.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: eddd8ed3d0e38f11dcea4ba6f2936b60c96811465b2deec34c04f424957060bb
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/cef3fecd374d47e391901c9d5c016a8f/4c59bf2263be3f2f825e5b914ac100c07cd984254debfe6f958d82eba3241ff7.md

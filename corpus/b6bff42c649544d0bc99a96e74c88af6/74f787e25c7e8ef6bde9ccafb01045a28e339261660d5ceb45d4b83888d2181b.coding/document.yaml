@@ -1,0 +1,26 @@
+hash: 8dade5853262dca9537e5a5c9a3b71329d04b8fab22827dcb499a44d449fd0af
+id: 0138027d-e2e2-48f8-8802-e7658d0550f5
+metadata:
+  import_document_id: osssaysno:n0-computer/iroh:root/TRANSPORTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:42+00:00'
+    id: osssaysno:github.com/n0-computer/iroh:root/TRANSPORTS.md
+    import_slot: root/TRANSPORTS.md
+    raw_snapshot: data/osssaysno/policies/n0-computer/iroh/root/raw/TRANSPORTS.md
+    resolved_url: https://raw.githubusercontent.com/n0-computer/iroh/main/TRANSPORTS.md
+    role: repository_root_document
+    sha256: 8dade5853262dca9537e5a5c9a3b71329d04b8fab22827dcb499a44d449fd0af
+    snapshot: data/osssaysno/policies/n0-computer/iroh/root/TRANSPORTS.md
+    status: downloaded
+    text_sha256: 8dade5853262dca9537e5a5c9a3b71329d04b8fab22827dcb499a44d449fd0af
+    url: https://raw.githubusercontent.com/n0-computer/iroh/main/TRANSPORTS.md
+  source_archive:
+    member: texts/74f787e25c7e8ef6bde9ccafb01045a28e339261660d5ceb45d4b83888d2181b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8dade5853262dca9537e5a5c9a3b71329d04b8fab22827dcb499a44d449fd0af
+  url: ''
+name: root/TRANSPORTS.md
+path: corpus/b6bff42c649544d0bc99a96e74c88af6/74f787e25c7e8ef6bde9ccafb01045a28e339261660d5ceb45d4b83888d2181b.md

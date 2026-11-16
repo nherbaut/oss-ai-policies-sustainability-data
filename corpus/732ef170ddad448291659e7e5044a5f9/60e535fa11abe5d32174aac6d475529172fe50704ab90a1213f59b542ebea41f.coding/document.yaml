@@ -1,0 +1,26 @@
+hash: 602f1d454882d2bbfce5b8ce842d7783736a662b6df000e37aeb9d0232582df4
+id: 90ae677d-9984-41ae-bf3b-d686d610034f
+metadata:
+  import_document_id: osssaysno:aws/serverless-application-model:root/DEVELOPMENT_GUIDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:43+00:00'
+    id: osssaysno:github.com/aws/serverless-application-model:root/DEVELOPMENT_GUIDE.md
+    import_slot: root/DEVELOPMENT_GUIDE.md
+    raw_snapshot: data/osssaysno/policies/aws/serverless-application-model/root/raw/DEVELOPMENT_GUIDE.md
+    resolved_url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/DEVELOPMENT_GUIDE.md
+    role: repository_root_document
+    sha256: 602f1d454882d2bbfce5b8ce842d7783736a662b6df000e37aeb9d0232582df4
+    snapshot: data/osssaysno/policies/aws/serverless-application-model/root/DEVELOPMENT_GUIDE.md
+    status: downloaded
+    text_sha256: 602f1d454882d2bbfce5b8ce842d7783736a662b6df000e37aeb9d0232582df4
+    url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/DEVELOPMENT_GUIDE.md
+  source_archive:
+    member: texts/60e535fa11abe5d32174aac6d475529172fe50704ab90a1213f59b542ebea41f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 602f1d454882d2bbfce5b8ce842d7783736a662b6df000e37aeb9d0232582df4
+  url: ''
+name: root/DEVELOPMENT_GUIDE.md
+path: corpus/732ef170ddad448291659e7e5044a5f9/60e535fa11abe5d32174aac6d475529172fe50704ab90a1213f59b542ebea41f.md

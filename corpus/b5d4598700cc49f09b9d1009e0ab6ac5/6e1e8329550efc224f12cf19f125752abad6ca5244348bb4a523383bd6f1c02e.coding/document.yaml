@@ -1,0 +1,26 @@
+hash: 9d0cbd63b565fec9974fe577548dcc9821d7b0585b9f8219afab496e36f0115a
+id: 7a99aa33-649a-4af1-af85-b06a5eef7a8d
+metadata:
+  import_document_id: osssaysno:modelcontextprotocol/modelcontextprotocol:root/AI_POLICY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:37+00:00'
+    id: osssaysno:github.com/modelcontextprotocol/modelcontextprotocol:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 9d0cbd63b565fec9974fe577548dcc9821d7b0585b9f8219afab496e36f0115a
+    snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 9d0cbd63b565fec9974fe577548dcc9821d7b0585b9f8219afab496e36f0115a
+    url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/AI_POLICY.md
+  source_archive:
+    member: texts/6e1e8329550efc224f12cf19f125752abad6ca5244348bb4a523383bd6f1c02e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9d0cbd63b565fec9974fe577548dcc9821d7b0585b9f8219afab496e36f0115a
+  url: ''
+name: root/AI_POLICY.md
+path: corpus/b5d4598700cc49f09b9d1009e0ab6ac5/6e1e8329550efc224f12cf19f125752abad6ca5244348bb4a523383bd6f1c02e.md

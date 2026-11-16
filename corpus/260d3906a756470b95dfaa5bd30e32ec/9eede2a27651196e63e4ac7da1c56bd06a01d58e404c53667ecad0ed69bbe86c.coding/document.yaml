@@ -1,0 +1,37 @@
+hash: 6aa5342c5f8de0e1332cfb6355941d5ab57ba1f0bfc2b67178d0d44d4635351f
+id: dcf1bdee-1122-4287-9606-d4d2c11d3f0e
+metadata:
+  import_document_id: osssaysno:grafana/grafana:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:30+00:00'
+    id: osssaysno:github.com/grafana/grafana:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 6aa5342c5f8de0e1332cfb6355941d5ab57ba1f0bfc2b67178d0d44d4635351f
+    snapshot: data/osssaysno/policies/grafana/grafana/ai_policy.md
+    status: downloaded
+    text_sha256: 6aa5342c5f8de0e1332cfb6355941d5ab57ba1f0bfc2b67178d0d44d4635351f
+    url: https://github.com/grafana/grafana/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:03:31+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 6aa5342c5f8de0e1332cfb6355941d5ab57ba1f0bfc2b67178d0d44d4635351f
+    snapshot: data/osssaysno/policies/grafana/grafana/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 6aa5342c5f8de0e1332cfb6355941d5ab57ba1f0bfc2b67178d0d44d4635351f
+    url: https://raw.githubusercontent.com/grafana/grafana/main/AI_POLICY.md
+  source_archive:
+    member: texts/9eede2a27651196e63e4ac7da1c56bd06a01d58e404c53667ecad0ed69bbe86c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6aa5342c5f8de0e1332cfb6355941d5ab57ba1f0bfc2b67178d0d44d4635351f
+  url: ''
+name: ai_policy.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/9eede2a27651196e63e4ac7da1c56bd06a01d58e404c53667ecad0ed69bbe86c.md

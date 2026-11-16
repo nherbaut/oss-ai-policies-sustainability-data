@@ -1,0 +1,26 @@
+hash: 85d41bd3f65fac5a13bec598fc4ce3401b39a5907ad826f3453ea99acf4e8f2f
+id: c9155d26-12ad-4f4f-8427-fe1ec7df7f10
+metadata:
+  import_document_id: osssaysno:lysine-dev/okhttp:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:51+00:00'
+    id: osssaysno:github.com/lysine-dev/okhttp:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/lysine-dev/okhttp/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/lysine-dev/okhttp/main/README.md
+    role: repository_root_document
+    sha256: 85d41bd3f65fac5a13bec598fc4ce3401b39a5907ad826f3453ea99acf4e8f2f
+    snapshot: data/osssaysno/policies/lysine-dev/okhttp/root/README.md
+    status: downloaded
+    text_sha256: 85d41bd3f65fac5a13bec598fc4ce3401b39a5907ad826f3453ea99acf4e8f2f
+    url: https://raw.githubusercontent.com/lysine-dev/okhttp/main/README.md
+  source_archive:
+    member: texts/06f47f6f8892315bade5d693b39faabae3ab04324086622c3b40bbd32bb731ae.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 85d41bd3f65fac5a13bec598fc4ce3401b39a5907ad826f3453ea99acf4e8f2f
+  url: ''
+name: root/README.md
+path: corpus/19d07dc8b553446abb913aa6715efe7f/06f47f6f8892315bade5d693b39faabae3ab04324086622c3b40bbd32bb731ae.md

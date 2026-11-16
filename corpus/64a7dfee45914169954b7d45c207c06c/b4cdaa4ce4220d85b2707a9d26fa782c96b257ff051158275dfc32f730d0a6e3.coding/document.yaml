@@ -1,0 +1,26 @@
+hash: 43f9a1ba89e5a28c00c8ea9c30b4d127cd511f5f5c93ad63e2005b752314b510
+id: faf5615b-f8fd-44f5-9c41-e50a675c9c31
+metadata:
+  import_document_id: osssaysno:kunagent/kun:root/CLA.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:34+00:00'
+    id: osssaysno:github.com/kunagent/kun:root/CLA.md
+    import_slot: root/CLA.md
+    raw_snapshot: data/osssaysno/policies/kunagent/kun/root/raw/CLA.md
+    resolved_url: https://raw.githubusercontent.com/KunAgent/Kun/master/CLA.md
+    role: repository_root_document
+    sha256: 43f9a1ba89e5a28c00c8ea9c30b4d127cd511f5f5c93ad63e2005b752314b510
+    snapshot: data/osssaysno/policies/kunagent/kun/root/CLA.md
+    status: downloaded
+    text_sha256: 43f9a1ba89e5a28c00c8ea9c30b4d127cd511f5f5c93ad63e2005b752314b510
+    url: https://raw.githubusercontent.com/KunAgent/Kun/master/CLA.md
+  source_archive:
+    member: texts/b4cdaa4ce4220d85b2707a9d26fa782c96b257ff051158275dfc32f730d0a6e3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 43f9a1ba89e5a28c00c8ea9c30b4d127cd511f5f5c93ad63e2005b752314b510
+  url: ''
+name: root/CLA.md
+path: corpus/64a7dfee45914169954b7d45c207c06c/b4cdaa4ce4220d85b2707a9d26fa782c96b257ff051158275dfc32f730d0a6e3.md

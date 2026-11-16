@@ -1,0 +1,26 @@
+hash: 0147b84235ed916b8b4e89c1f80655351c5afe7d211b629be61f553a227b34ba
+id: 81784c12-5b3e-4eb3-b346-6b414c4a6a58
+metadata:
+  import_document_id: osssaysno:magicuidesign/magicui:root/LICENSE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:33+00:00'
+    id: osssaysno:github.com/magicuidesign/magicui:root/LICENSE.md
+    import_slot: root/LICENSE.md
+    raw_snapshot: data/osssaysno/policies/magicuidesign/magicui/root/raw/LICENSE.md
+    resolved_url: https://raw.githubusercontent.com/magicuidesign/magicui/main/LICENSE.md
+    role: repository_root_document
+    sha256: 0147b84235ed916b8b4e89c1f80655351c5afe7d211b629be61f553a227b34ba
+    snapshot: data/osssaysno/policies/magicuidesign/magicui/root/LICENSE.md
+    status: downloaded
+    text_sha256: 0147b84235ed916b8b4e89c1f80655351c5afe7d211b629be61f553a227b34ba
+    url: https://raw.githubusercontent.com/magicuidesign/magicui/main/LICENSE.md
+  source_archive:
+    member: texts/32a7b2968b76cfbc04decb2c8056233f49d6e719f3ab23f511ab5c6edbb1c7d0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0147b84235ed916b8b4e89c1f80655351c5afe7d211b629be61f553a227b34ba
+  url: ''
+name: root/LICENSE.md
+path: corpus/a643d8a65392487480aa8ac7bdc563e5/32a7b2968b76cfbc04decb2c8056233f49d6e719f3ab23f511ab5c6edbb1c7d0.md

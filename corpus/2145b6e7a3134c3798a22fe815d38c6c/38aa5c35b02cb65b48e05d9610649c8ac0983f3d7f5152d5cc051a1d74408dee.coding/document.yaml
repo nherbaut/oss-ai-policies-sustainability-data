@@ -1,0 +1,26 @@
+hash: 87535d07d6aaafcb9d7dd4d1a1a91383b8faa79cc98df165cb8e872c904eb4ac
+id: 13399a92-e528-4e7e-bd58-6ae19b36f881
+metadata:
+  import_document_id: osssaysno:usekaneo/kaneo:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:34+00:00'
+    id: osssaysno:github.com/usekaneo/kaneo:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/usekaneo/kaneo/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/usekaneo/kaneo/main/SECURITY.md
+    role: repository_root_document
+    sha256: 87535d07d6aaafcb9d7dd4d1a1a91383b8faa79cc98df165cb8e872c904eb4ac
+    snapshot: data/osssaysno/policies/usekaneo/kaneo/root/SECURITY.md
+    status: downloaded
+    text_sha256: 87535d07d6aaafcb9d7dd4d1a1a91383b8faa79cc98df165cb8e872c904eb4ac
+    url: https://raw.githubusercontent.com/usekaneo/kaneo/main/SECURITY.md
+  source_archive:
+    member: texts/38aa5c35b02cb65b48e05d9610649c8ac0983f3d7f5152d5cc051a1d74408dee.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 87535d07d6aaafcb9d7dd4d1a1a91383b8faa79cc98df165cb8e872c904eb4ac
+  url: ''
+name: root/SECURITY.md
+path: corpus/2145b6e7a3134c3798a22fe815d38c6c/38aa5c35b02cb65b48e05d9610649c8ac0983f3d7f5152d5cc051a1d74408dee.md

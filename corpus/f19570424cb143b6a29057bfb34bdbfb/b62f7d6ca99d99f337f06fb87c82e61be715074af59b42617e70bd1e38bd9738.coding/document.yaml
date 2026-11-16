@@ -1,0 +1,26 @@
+hash: f34b6d2432ea63f99d88aa5d90bc997635ce4fe1e74b52d3e5d285c0aaedcfbc
+id: df188243-16c1-417d-94cc-856ca3971ad3
+metadata:
+  import_document_id: osssaysno:cactus-compute/cactus:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:39+00:00'
+    id: osssaysno:github.com/cactus-compute/cactus:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/cactus-compute/cactus/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/cactus-compute/cactus/main/README.md
+    role: repository_root_document
+    sha256: f34b6d2432ea63f99d88aa5d90bc997635ce4fe1e74b52d3e5d285c0aaedcfbc
+    snapshot: data/osssaysno/policies/cactus-compute/cactus/root/README.md
+    status: downloaded
+    text_sha256: f34b6d2432ea63f99d88aa5d90bc997635ce4fe1e74b52d3e5d285c0aaedcfbc
+    url: https://raw.githubusercontent.com/cactus-compute/cactus/main/README.md
+  source_archive:
+    member: texts/b62f7d6ca99d99f337f06fb87c82e61be715074af59b42617e70bd1e38bd9738.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f34b6d2432ea63f99d88aa5d90bc997635ce4fe1e74b52d3e5d285c0aaedcfbc
+  url: ''
+name: root/README.md
+path: corpus/f19570424cb143b6a29057bfb34bdbfb/b62f7d6ca99d99f337f06fb87c82e61be715074af59b42617e70bd1e38bd9738.md

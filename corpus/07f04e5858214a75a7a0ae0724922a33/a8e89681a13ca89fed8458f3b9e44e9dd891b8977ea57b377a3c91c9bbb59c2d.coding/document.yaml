@@ -1,0 +1,26 @@
+hash: ea057e1642e8a8b65280373f24d3d5edee23130480d21c14d9d7285633d72dcf
+id: acf71d86-edc4-48cb-a960-f3239a790689
+metadata:
+  import_document_id: osssaysno:marker-inc-korea/autorag:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:19+00:00'
+    id: osssaysno:github.com/marker-inc-korea/autorag:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/AGENTS.md
+    role: repository_root_document
+    sha256: ea057e1642e8a8b65280373f24d3d5edee23130480d21c14d9d7285633d72dcf
+    snapshot: data/osssaysno/policies/marker-inc-korea/autorag/root/AGENTS.md
+    status: downloaded
+    text_sha256: ea057e1642e8a8b65280373f24d3d5edee23130480d21c14d9d7285633d72dcf
+    url: https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/main/AGENTS.md
+  source_archive:
+    member: texts/a8e89681a13ca89fed8458f3b9e44e9dd891b8977ea57b377a3c91c9bbb59c2d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ea057e1642e8a8b65280373f24d3d5edee23130480d21c14d9d7285633d72dcf
+  url: ''
+name: root/AGENTS.md
+path: corpus/07f04e5858214a75a7a0ae0724922a33/a8e89681a13ca89fed8458f3b9e44e9dd891b8977ea57b377a3c91c9bbb59c2d.md

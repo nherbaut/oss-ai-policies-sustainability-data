@@ -1,0 +1,37 @@
+hash: 2d7e7be8e976cb634d6c152fcd272d7c1d080e58a23db393cfb0af91f05fad77
+id: 04b391db-a291-4a9d-b8a1-81537915a8ba
+metadata:
+  import_document_id: osssaysno:iv-org/invidious:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:19+00:00'
+    id: osssaysno:github.com/iv-org/invidious:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/iv-org/invidious/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/iv-org/invidious/master/AI_POLICY.md
+    role: ai_policy
+    sha256: 2d7e7be8e976cb634d6c152fcd272d7c1d080e58a23db393cfb0af91f05fad77
+    snapshot: data/osssaysno/policies/iv-org/invidious/ai_policy.md
+    status: downloaded
+    text_sha256: 2d7e7be8e976cb634d6c152fcd272d7c1d080e58a23db393cfb0af91f05fad77
+    url: https://github.com/iv-org/invidious/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:28:20+00:00'
+    id: osssaysno:github.com/iv-org/invidious:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/iv-org/invidious/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/iv-org/invidious/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: 2d7e7be8e976cb634d6c152fcd272d7c1d080e58a23db393cfb0af91f05fad77
+    snapshot: data/osssaysno/policies/iv-org/invidious/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 2d7e7be8e976cb634d6c152fcd272d7c1d080e58a23db393cfb0af91f05fad77
+    url: https://raw.githubusercontent.com/iv-org/invidious/master/AI_POLICY.md
+  source_archive:
+    member: texts/a386af5286a63122f60adbcd8682efcf0a1a678355359d540353802fcf56605a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2d7e7be8e976cb634d6c152fcd272d7c1d080e58a23db393cfb0af91f05fad77
+  url: ''
+name: ai_policy.md
+path: corpus/49964c24b1554823a06d62f7f4cc7bd4/a386af5286a63122f60adbcd8682efcf0a1a678355359d540353802fcf56605a.md

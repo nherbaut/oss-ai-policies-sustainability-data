@@ -1,0 +1,26 @@
+hash: 0b89d67a55d0ed92942090b10137232826ad87ff5c07610400eb265774090f10
+id: cc0b6380-128b-4aa2-87cb-805b765f410f
+metadata:
+  import_document_id: osssaysno:mozilla-mobile/firefox-ios:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:36+00:00'
+    id: osssaysno:github.com/mozilla-mobile/firefox-ios:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/mozilla-mobile/firefox-ios/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/mozilla-mobile/firefox-ios/main/SECURITY.md
+    role: repository_root_document
+    sha256: 0b89d67a55d0ed92942090b10137232826ad87ff5c07610400eb265774090f10
+    snapshot: data/osssaysno/policies/mozilla-mobile/firefox-ios/root/SECURITY.md
+    status: downloaded
+    text_sha256: 0b89d67a55d0ed92942090b10137232826ad87ff5c07610400eb265774090f10
+    url: https://raw.githubusercontent.com/mozilla-mobile/firefox-ios/main/SECURITY.md
+  source_archive:
+    member: texts/06f66d2675d022430dabc647e96d04c52d0af2cc7f0b32a13998dcbeb50bf223.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0b89d67a55d0ed92942090b10137232826ad87ff5c07610400eb265774090f10
+  url: ''
+name: root/SECURITY.md
+path: corpus/cef3fecd374d47e391901c9d5c016a8f/06f66d2675d022430dabc647e96d04c52d0af2cc7f0b32a13998dcbeb50bf223.md

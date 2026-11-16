@@ -1,0 +1,26 @@
+hash: 17dc7de098d620ad556f50f7b3a7a2d749767462f64d7a11cc8fa87c6e9de69a
+id: 1f246c4d-606b-49f7-af83-199297a9b8ff
+metadata:
+  import_document_id: osssaysno:miguelgrinberg/flask-socketio:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:10+00:00'
+    id: osssaysno:github.com/miguelgrinberg/flask-socketio:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/miguelgrinberg/flask-socketio/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/miguelgrinberg/Flask-SocketIO/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 17dc7de098d620ad556f50f7b3a7a2d749767462f64d7a11cc8fa87c6e9de69a
+    snapshot: data/osssaysno/policies/miguelgrinberg/flask-socketio/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 17dc7de098d620ad556f50f7b3a7a2d749767462f64d7a11cc8fa87c6e9de69a
+    url: https://raw.githubusercontent.com/miguelgrinberg/Flask-SocketIO/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/d184ddb70b1350aabc0fd8be9ecbb6e3c07b7e13cc6f8efde1a03efe96baac38.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 17dc7de098d620ad556f50f7b3a7a2d749767462f64d7a11cc8fa87c6e9de69a
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/87f56973ba7d402192389deaaf0c0fd0/d184ddb70b1350aabc0fd8be9ecbb6e3c07b7e13cc6f8efde1a03efe96baac38.md

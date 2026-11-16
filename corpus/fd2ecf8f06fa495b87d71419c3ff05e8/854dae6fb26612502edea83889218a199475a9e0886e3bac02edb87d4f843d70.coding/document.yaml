@@ -1,0 +1,26 @@
+hash: a285f06cbc0a3bb317cbb9e8bc52183ee0640a905676dd7cedd3889105071500
+id: fa4e738e-a2df-4535-a546-56255c4bfc3a
+metadata:
+  import_document_id: osssaysno:gocolly/colly:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:22+00:00'
+    id: osssaysno:github.com/gocolly/colly:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/gocolly/colly/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/gocolly/colly/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: a285f06cbc0a3bb317cbb9e8bc52183ee0640a905676dd7cedd3889105071500
+    snapshot: data/osssaysno/policies/gocolly/colly/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: a285f06cbc0a3bb317cbb9e8bc52183ee0640a905676dd7cedd3889105071500
+    url: https://raw.githubusercontent.com/gocolly/colly/master/CHANGELOG.md
+  source_archive:
+    member: texts/854dae6fb26612502edea83889218a199475a9e0886e3bac02edb87d4f843d70.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a285f06cbc0a3bb317cbb9e8bc52183ee0640a905676dd7cedd3889105071500
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/fd2ecf8f06fa495b87d71419c3ff05e8/854dae6fb26612502edea83889218a199475a9e0886e3bac02edb87d4f843d70.md

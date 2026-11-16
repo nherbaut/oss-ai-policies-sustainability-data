@@ -1,0 +1,26 @@
+hash: 3d298f6dc1ecc10427697aa27e1107380e5b713e7cd0075f331550795c7ec7fe
+id: 07c9bad2-c82f-4e4b-8e81-e126e0dd0b8d
+metadata:
+  import_document_id: osssaysno:flashinfer-ai/flashinfer:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:10+00:00'
+    id: osssaysno:github.com/flashinfer-ai/flashinfer:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/flashinfer-ai/flashinfer/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/flashinfer-ai/flashinfer/main/README.md
+    role: repository_root_document
+    sha256: 3d298f6dc1ecc10427697aa27e1107380e5b713e7cd0075f331550795c7ec7fe
+    snapshot: data/osssaysno/policies/flashinfer-ai/flashinfer/root/README.md
+    status: downloaded
+    text_sha256: 3d298f6dc1ecc10427697aa27e1107380e5b713e7cd0075f331550795c7ec7fe
+    url: https://raw.githubusercontent.com/flashinfer-ai/flashinfer/main/README.md
+  source_archive:
+    member: texts/f2fc9b6c4f58182670e20285a9b041548fab4a583015fbd9655c75777971c34a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3d298f6dc1ecc10427697aa27e1107380e5b713e7cd0075f331550795c7ec7fe
+  url: ''
+name: root/README.md
+path: corpus/eb1c0f3ee78f48889b5da6008f7d7772/f2fc9b6c4f58182670e20285a9b041548fab4a583015fbd9655c75777971c34a.md

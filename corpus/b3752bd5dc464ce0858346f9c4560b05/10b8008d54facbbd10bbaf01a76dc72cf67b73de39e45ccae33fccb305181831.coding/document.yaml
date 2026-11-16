@@ -1,0 +1,26 @@
+hash: 09159cb3fb9c64fe725870ca02b029653fe6f25a6aee0133277060229a4d33f5
+id: b073a9ae-75b4-4717-b81f-dec2a6cc81fd
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:root/migration.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:22+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/migration.md
+    import_slot: root/migration.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/migration.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/migration.md
+    role: repository_root_document
+    sha256: 09159cb3fb9c64fe725870ca02b029653fe6f25a6aee0133277060229a4d33f5
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/migration.md
+    status: downloaded
+    text_sha256: 09159cb3fb9c64fe725870ca02b029653fe6f25a6aee0133277060229a4d33f5
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/migration.md
+  source_archive:
+    member: texts/10b8008d54facbbd10bbaf01a76dc72cf67b73de39e45ccae33fccb305181831.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 09159cb3fb9c64fe725870ca02b029653fe6f25a6aee0133277060229a4d33f5
+  url: ''
+name: root/migration.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/10b8008d54facbbd10bbaf01a76dc72cf67b73de39e45ccae33fccb305181831.md

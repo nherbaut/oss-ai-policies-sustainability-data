@@ -1,0 +1,26 @@
+hash: dc06277a1f463c08ea265c3edbd6b460976fcfbebb8d033a5a80d3e0e7ced3d1
+id: e30a6987-74ef-4cae-a7a8-bbfc9d06e773
+metadata:
+  import_document_id: osssaysno:pgmq/pgmq:root/INSTALLATION.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:22+00:00'
+    id: osssaysno:github.com/pgmq/pgmq:root/INSTALLATION.md
+    import_slot: root/INSTALLATION.md
+    raw_snapshot: data/osssaysno/policies/pgmq/pgmq/root/raw/INSTALLATION.md
+    resolved_url: https://raw.githubusercontent.com/pgmq/pgmq/main/INSTALLATION.md
+    role: repository_root_document
+    sha256: dc06277a1f463c08ea265c3edbd6b460976fcfbebb8d033a5a80d3e0e7ced3d1
+    snapshot: data/osssaysno/policies/pgmq/pgmq/root/INSTALLATION.md
+    status: downloaded
+    text_sha256: dc06277a1f463c08ea265c3edbd6b460976fcfbebb8d033a5a80d3e0e7ced3d1
+    url: https://raw.githubusercontent.com/pgmq/pgmq/main/INSTALLATION.md
+  source_archive:
+    member: texts/d48e2e74919ff2801eb0e4eccbc32ff8a99d340e17054b97360896119a33d346.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: dc06277a1f463c08ea265c3edbd6b460976fcfbebb8d033a5a80d3e0e7ced3d1
+  url: ''
+name: root/INSTALLATION.md
+path: corpus/13d6ecc485f14ac6993fcdb455b09859/d48e2e74919ff2801eb0e4eccbc32ff8a99d340e17054b97360896119a33d346.md

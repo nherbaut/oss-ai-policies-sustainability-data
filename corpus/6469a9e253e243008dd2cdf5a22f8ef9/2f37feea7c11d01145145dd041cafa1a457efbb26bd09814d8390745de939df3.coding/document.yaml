@@ -1,0 +1,37 @@
+hash: d6b240bb8f0680d20ce8c0ab7544eb6cc3918ca952f446c44d22b2575c437fe2
+id: 0ab5d01f-f319-49f0-bc01-9623e7c86b81
+metadata:
+  import_document_id: osssaysno:alainm23/planify:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:00+00:00'
+    id: osssaysno:github.com/alainm23/planify:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/alainm23/planify/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/alainm23/planify/main/AI_POLICY.md
+    role: ai_policy
+    sha256: d6b240bb8f0680d20ce8c0ab7544eb6cc3918ca952f446c44d22b2575c437fe2
+    snapshot: data/osssaysno/policies/alainm23/planify/ai_policy.md
+    status: downloaded
+    text_sha256: d6b240bb8f0680d20ce8c0ab7544eb6cc3918ca952f446c44d22b2575c437fe2
+    url: https://github.com/alainm23/planify/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:38:01+00:00'
+    id: osssaysno:github.com/alainm23/planify:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/alainm23/planify/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/alainm23/planify/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: d6b240bb8f0680d20ce8c0ab7544eb6cc3918ca952f446c44d22b2575c437fe2
+    snapshot: data/osssaysno/policies/alainm23/planify/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: d6b240bb8f0680d20ce8c0ab7544eb6cc3918ca952f446c44d22b2575c437fe2
+    url: https://raw.githubusercontent.com/alainm23/planify/main/AI_POLICY.md
+  source_archive:
+    member: texts/2f37feea7c11d01145145dd041cafa1a457efbb26bd09814d8390745de939df3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d6b240bb8f0680d20ce8c0ab7544eb6cc3918ca952f446c44d22b2575c437fe2
+  url: ''
+name: ai_policy.md
+path: corpus/6469a9e253e243008dd2cdf5a22f8ef9/2f37feea7c11d01145145dd041cafa1a457efbb26bd09814d8390745de939df3.md

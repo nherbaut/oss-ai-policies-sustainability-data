@@ -1,0 +1,26 @@
+hash: 3f9be91ba2fa6f791d7612ce10e9872de98dc799969fdc5f5f75228b2061ce92
+id: f28d5cac-3c66-49dd-9c0d-b8fae6c473ec
+metadata:
+  import_document_id: osssaysno:pyinfra-dev/pyinfra:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:45+00:00'
+    id: osssaysno:github.com/pyinfra-dev/pyinfra:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/CHANGELOG.md
+    role: repository_root_document
+    sha256: 3f9be91ba2fa6f791d7612ce10e9872de98dc799969fdc5f5f75228b2061ce92
+    snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 3f9be91ba2fa6f791d7612ce10e9872de98dc799969fdc5f5f75228b2061ce92
+    url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/CHANGELOG.md
+  source_archive:
+    member: texts/1ecf72f3d33b6d16c01c5c5ac0ed661b6fa584c5e712bd1c98e47212083df1f9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3f9be91ba2fa6f791d7612ce10e9872de98dc799969fdc5f5f75228b2061ce92
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/0bfcf1e8ee0f4d319220157c18e18d83/1ecf72f3d33b6d16c01c5c5ac0ed661b6fa584c5e712bd1c98e47212083df1f9.md

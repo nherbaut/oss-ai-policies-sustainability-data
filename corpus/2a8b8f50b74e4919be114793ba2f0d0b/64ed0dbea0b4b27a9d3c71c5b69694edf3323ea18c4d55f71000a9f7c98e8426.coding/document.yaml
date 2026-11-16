@@ -1,0 +1,37 @@
+hash: 8660533c1b1b81cd24f24d311ab758c1737aa3b13b0de1dad152737b334aee41
+id: 8cbe8519-e990-470a-b6a5-b6d0046c5b8a
+metadata:
+  import_document_id: osssaysno:jj-vcs/jj:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:05+00:00'
+    id: osssaysno:github.com/jj-vcs/jj:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/jj-vcs/jj/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/jj-vcs/jj/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 8660533c1b1b81cd24f24d311ab758c1737aa3b13b0de1dad152737b334aee41
+    snapshot: data/osssaysno/policies/jj-vcs/jj/ai_policy.md
+    status: downloaded
+    text_sha256: 8660533c1b1b81cd24f24d311ab758c1737aa3b13b0de1dad152737b334aee41
+    url: https://github.com/jj-vcs/jj/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:04:05+00:00'
+    id: osssaysno:github.com/jj-vcs/jj:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/jj-vcs/jj/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/jj-vcs/jj/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 8660533c1b1b81cd24f24d311ab758c1737aa3b13b0de1dad152737b334aee41
+    snapshot: data/osssaysno/policies/jj-vcs/jj/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 8660533c1b1b81cd24f24d311ab758c1737aa3b13b0de1dad152737b334aee41
+    url: https://raw.githubusercontent.com/jj-vcs/jj/main/AI_POLICY.md
+  source_archive:
+    member: texts/64ed0dbea0b4b27a9d3c71c5b69694edf3323ea18c4d55f71000a9f7c98e8426.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8660533c1b1b81cd24f24d311ab758c1737aa3b13b0de1dad152737b334aee41
+  url: ''
+name: ai_policy.md
+path: corpus/2a8b8f50b74e4919be114793ba2f0d0b/64ed0dbea0b4b27a9d3c71c5b69694edf3323ea18c4d55f71000a9f7c98e8426.md

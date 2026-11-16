@@ -1,0 +1,26 @@
+hash: b15fa837edeb632f4a85871590df4dab64deec10af904d512a5ee12bce8773c9
+id: df72ae0b-bfe8-4608-b85a-b14c2cd1dddd
+metadata:
+  import_document_id: osssaysno:travisvn/awesome-claude-skills:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:09+00:00'
+    id: osssaysno:github.com/travisvn/awesome-claude-skills:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/travisvn/awesome-claude-skills/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/travisvn/awesome-claude-skills/main/README.md
+    role: repository_root_document
+    sha256: b15fa837edeb632f4a85871590df4dab64deec10af904d512a5ee12bce8773c9
+    snapshot: data/osssaysno/policies/travisvn/awesome-claude-skills/root/README.md
+    status: downloaded
+    text_sha256: b15fa837edeb632f4a85871590df4dab64deec10af904d512a5ee12bce8773c9
+    url: https://raw.githubusercontent.com/travisvn/awesome-claude-skills/main/README.md
+  source_archive:
+    member: texts/5aacf0851197e7845e75283b6e6a635d18d12b63ae8aade1fdf3804f2769100d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b15fa837edeb632f4a85871590df4dab64deec10af904d512a5ee12bce8773c9
+  url: ''
+name: root/README.md
+path: corpus/e00dc59531e1487eb07a3722068ca4ff/5aacf0851197e7845e75283b6e6a635d18d12b63ae8aade1fdf3804f2769100d.md

@@ -1,0 +1,37 @@
+hash: a86c223cfce84dce1254069b7eb3d47e1fd476c447fff2e2cee7e6c16b5fffcd
+id: 9fd3cea3-fbe9-471b-add1-1a170bcda6ee
+metadata:
+  import_document_id: osssaysno:netalertx/netalertx:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:46+00:00'
+    id: osssaysno:github.com/netalertx/netalertx:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/netalertx/netalertx/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/netalertx/NetAlertX/main/CONTRIBUTING.md
+    role: contributing
+    sha256: a86c223cfce84dce1254069b7eb3d47e1fd476c447fff2e2cee7e6c16b5fffcd
+    snapshot: data/osssaysno/policies/netalertx/netalertx/contributing.md
+    status: downloaded
+    text_sha256: a86c223cfce84dce1254069b7eb3d47e1fd476c447fff2e2cee7e6c16b5fffcd
+    url: https://github.com/netalertx/NetAlertX/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:57+00:00'
+    id: osssaysno:github.com/netalertx/netalertx:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/netalertx/netalertx/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/netalertx/NetAlertX/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: a86c223cfce84dce1254069b7eb3d47e1fd476c447fff2e2cee7e6c16b5fffcd
+    snapshot: data/osssaysno/policies/netalertx/netalertx/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: a86c223cfce84dce1254069b7eb3d47e1fd476c447fff2e2cee7e6c16b5fffcd
+    url: https://raw.githubusercontent.com/netalertx/NetAlertX/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/c28cf1698153a0cc9220c6bbce0f8c6ece4fd6306e8a7c4d687ba1c4fb9a4ace.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a86c223cfce84dce1254069b7eb3d47e1fd476c447fff2e2cee7e6c16b5fffcd
+  url: ''
+name: contributing.md
+path: corpus/010e8f74a39448cc9003bc53379591b8/c28cf1698153a0cc9220c6bbce0f8c6ece4fd6306e8a7c4d687ba1c4fb9a4ace.md

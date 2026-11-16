@@ -1,0 +1,26 @@
+hash: da1bb5cfb12d89db7a410857c08bf2ce4a436e459b5bd5e01a34ef7ad17b849b
+id: 38daed44-25b3-4810-a926-f24445fe5cbb
+metadata:
+  import_document_id: osssaysno:miguelgrinberg/flask-socketio:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:11+00:00'
+    id: osssaysno:github.com/miguelgrinberg/flask-socketio:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/miguelgrinberg/flask-socketio/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/miguelgrinberg/Flask-SocketIO/main/README.md
+    role: repository_root_document
+    sha256: da1bb5cfb12d89db7a410857c08bf2ce4a436e459b5bd5e01a34ef7ad17b849b
+    snapshot: data/osssaysno/policies/miguelgrinberg/flask-socketio/root/README.md
+    status: downloaded
+    text_sha256: da1bb5cfb12d89db7a410857c08bf2ce4a436e459b5bd5e01a34ef7ad17b849b
+    url: https://raw.githubusercontent.com/miguelgrinberg/Flask-SocketIO/main/README.md
+  source_archive:
+    member: texts/e49d3218c99e4fee5594d2735f912c8f67fa80927e4087de4518f32e422bc1e6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: da1bb5cfb12d89db7a410857c08bf2ce4a436e459b5bd5e01a34ef7ad17b849b
+  url: ''
+name: root/README.md
+path: corpus/87f56973ba7d402192389deaaf0c0fd0/e49d3218c99e4fee5594d2735f912c8f67fa80927e4087de4518f32e422bc1e6.md

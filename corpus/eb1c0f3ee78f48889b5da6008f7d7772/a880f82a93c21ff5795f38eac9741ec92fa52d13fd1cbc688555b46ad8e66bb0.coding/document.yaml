@@ -1,0 +1,37 @@
+hash: 336d992eb6be6b5b482951170099d575da6fec919a8c0a754c55dafdea1ef3d7
+id: 55b4212f-3e0c-484a-9838-dbfeec071c6e
+metadata:
+  import_document_id: osssaysno:flashinfer-ai/flashinfer:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:49+00:00'
+    id: osssaysno:github.com/flashinfer-ai/flashinfer:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/flashinfer-ai/flashinfer/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/flashinfer-ai/flashinfer/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 336d992eb6be6b5b482951170099d575da6fec919a8c0a754c55dafdea1ef3d7
+    snapshot: data/osssaysno/policies/flashinfer-ai/flashinfer/contributing.md
+    status: downloaded
+    text_sha256: 336d992eb6be6b5b482951170099d575da6fec919a8c0a754c55dafdea1ef3d7
+    url: https://github.com/flashinfer-ai/flashinfer/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:37:09+00:00'
+    id: osssaysno:github.com/flashinfer-ai/flashinfer:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/flashinfer-ai/flashinfer/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/flashinfer-ai/flashinfer/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 336d992eb6be6b5b482951170099d575da6fec919a8c0a754c55dafdea1ef3d7
+    snapshot: data/osssaysno/policies/flashinfer-ai/flashinfer/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 336d992eb6be6b5b482951170099d575da6fec919a8c0a754c55dafdea1ef3d7
+    url: https://raw.githubusercontent.com/flashinfer-ai/flashinfer/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/a880f82a93c21ff5795f38eac9741ec92fa52d13fd1cbc688555b46ad8e66bb0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 336d992eb6be6b5b482951170099d575da6fec919a8c0a754c55dafdea1ef3d7
+  url: ''
+name: contributing.md
+path: corpus/eb1c0f3ee78f48889b5da6008f7d7772/a880f82a93c21ff5795f38eac9741ec92fa52d13fd1cbc688555b46ad8e66bb0.md

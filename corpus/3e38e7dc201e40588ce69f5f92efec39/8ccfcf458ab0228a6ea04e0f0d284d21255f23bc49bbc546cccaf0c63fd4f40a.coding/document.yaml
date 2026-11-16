@@ -1,0 +1,26 @@
+hash: 4fcdab8c8ca45051e248fe4ce3dbd9ea9155cc8f406cf9ec9770b6e5818fbc45
+id: f8adb7ba-02a4-487c-a03e-4f86647b7fcf
+metadata:
+  import_document_id: osssaysno:grpc/grpc-java:root/CODE-OF-CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:57+00:00'
+    id: osssaysno:github.com/grpc/grpc-java:root/CODE-OF-CONDUCT.md
+    import_slot: root/CODE-OF-CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-java/root/raw/CODE-OF-CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-java/master/CODE-OF-CONDUCT.md
+    role: repository_root_document
+    sha256: 4fcdab8c8ca45051e248fe4ce3dbd9ea9155cc8f406cf9ec9770b6e5818fbc45
+    snapshot: data/osssaysno/policies/grpc/grpc-java/root/CODE-OF-CONDUCT.md
+    status: downloaded
+    text_sha256: 4fcdab8c8ca45051e248fe4ce3dbd9ea9155cc8f406cf9ec9770b6e5818fbc45
+    url: https://raw.githubusercontent.com/grpc/grpc-java/master/CODE-OF-CONDUCT.md
+  source_archive:
+    member: texts/8ccfcf458ab0228a6ea04e0f0d284d21255f23bc49bbc546cccaf0c63fd4f40a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4fcdab8c8ca45051e248fe4ce3dbd9ea9155cc8f406cf9ec9770b6e5818fbc45
+  url: ''
+name: root/CODE-OF-CONDUCT.md
+path: corpus/3e38e7dc201e40588ce69f5f92efec39/8ccfcf458ab0228a6ea04e0f0d284d21255f23bc49bbc546cccaf0c63fd4f40a.md

@@ -1,0 +1,26 @@
+hash: 7ef3db86b0ef991077e0fb94c12b536da2890f8f632468136d73762d4490f0ba
+id: accf28d1-a1b7-4f02-84e8-280b2d99db77
+metadata:
+  import_document_id: osssaysno:lima-vm/lima:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:38+00:00'
+    id: osssaysno:github.com/lima-vm/lima:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/lima-vm/lima/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/lima-vm/lima/master/CLAUDE.md
+    role: repository_root_document
+    sha256: 7ef3db86b0ef991077e0fb94c12b536da2890f8f632468136d73762d4490f0ba
+    snapshot: data/osssaysno/policies/lima-vm/lima/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 7ef3db86b0ef991077e0fb94c12b536da2890f8f632468136d73762d4490f0ba
+    url: https://raw.githubusercontent.com/lima-vm/lima/master/CLAUDE.md
+  source_archive:
+    member: texts/374918cf5c82d4eb72f6f01b63199f01524d394d0ef6d70386a1db32cd381b49.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7ef3db86b0ef991077e0fb94c12b536da2890f8f632468136d73762d4490f0ba
+  url: ''
+name: root/CLAUDE.md
+path: corpus/aa2f75c06b4843f3aaa6b2137290d56b/374918cf5c82d4eb72f6f01b63199f01524d394d0ef6d70386a1db32cd381b49.md

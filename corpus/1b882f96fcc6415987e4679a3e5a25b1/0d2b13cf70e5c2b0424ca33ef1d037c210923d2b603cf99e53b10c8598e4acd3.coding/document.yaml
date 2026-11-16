@@ -1,0 +1,26 @@
+hash: 190cf9d7b8eabfd2c87af5f602822a6a88f3f6f29cdf1f8ed9ed4efb70e2ba89
+id: e2c3e1f9-5019-4b41-91ab-c115eb078c8d
+metadata:
+  import_document_id: osssaysno:endless-sky/endless-sky:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:37+00:00'
+    id: osssaysno:github.com/endless-sky/endless-sky:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/endless-sky/endless-sky/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/endless-sky/endless-sky/master/README.md
+    role: repository_root_document
+    sha256: 190cf9d7b8eabfd2c87af5f602822a6a88f3f6f29cdf1f8ed9ed4efb70e2ba89
+    snapshot: data/osssaysno/policies/endless-sky/endless-sky/root/README.md
+    status: downloaded
+    text_sha256: 190cf9d7b8eabfd2c87af5f602822a6a88f3f6f29cdf1f8ed9ed4efb70e2ba89
+    url: https://raw.githubusercontent.com/endless-sky/endless-sky/master/README.md
+  source_archive:
+    member: texts/0d2b13cf70e5c2b0424ca33ef1d037c210923d2b603cf99e53b10c8598e4acd3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 190cf9d7b8eabfd2c87af5f602822a6a88f3f6f29cdf1f8ed9ed4efb70e2ba89
+  url: ''
+name: root/README.md
+path: corpus/1b882f96fcc6415987e4679a3e5a25b1/0d2b13cf70e5c2b0424ca33ef1d037c210923d2b603cf99e53b10c8598e4acd3.md

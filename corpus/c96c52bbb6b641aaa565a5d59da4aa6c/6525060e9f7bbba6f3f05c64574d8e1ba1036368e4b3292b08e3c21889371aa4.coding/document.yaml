@@ -1,0 +1,26 @@
+hash: 754ae3cf1c84498bce23f822ecb6cf1ca251843a225253601c8a6e8e1fc9e1ba
+id: c87784b9-5072-4b82-81e0-06bbc27f82b6
+metadata:
+  import_document_id: osssaysno:sebastianbergmann/recursion-context:root/ChangeLog.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:27+00:00'
+    id: osssaysno:github.com/sebastianbergmann/recursion-context:root/ChangeLog.md
+    import_slot: root/ChangeLog.md
+    raw_snapshot: data/osssaysno/policies/sebastianbergmann/recursion-context/root/raw/ChangeLog.md
+    resolved_url: https://raw.githubusercontent.com/sebastianbergmann/recursion-context/main/ChangeLog.md
+    role: repository_root_document
+    sha256: 754ae3cf1c84498bce23f822ecb6cf1ca251843a225253601c8a6e8e1fc9e1ba
+    snapshot: data/osssaysno/policies/sebastianbergmann/recursion-context/root/ChangeLog.md
+    status: downloaded
+    text_sha256: 754ae3cf1c84498bce23f822ecb6cf1ca251843a225253601c8a6e8e1fc9e1ba
+    url: https://raw.githubusercontent.com/sebastianbergmann/recursion-context/main/ChangeLog.md
+  source_archive:
+    member: texts/6525060e9f7bbba6f3f05c64574d8e1ba1036368e4b3292b08e3c21889371aa4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 754ae3cf1c84498bce23f822ecb6cf1ca251843a225253601c8a6e8e1fc9e1ba
+  url: ''
+name: root/ChangeLog.md
+path: corpus/c96c52bbb6b641aaa565a5d59da4aa6c/6525060e9f7bbba6f3f05c64574d8e1ba1036368e4b3292b08e3c21889371aa4.md

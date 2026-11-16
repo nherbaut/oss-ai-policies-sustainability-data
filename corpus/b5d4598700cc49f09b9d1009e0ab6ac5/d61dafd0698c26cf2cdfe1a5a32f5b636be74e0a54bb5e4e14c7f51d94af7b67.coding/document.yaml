@@ -1,0 +1,26 @@
+hash: 03e9bc0116b7deeffb0bba1df6482179605c674c87c55a0f31cfd5c2a93dcd32
+id: c1a73877-bf85-4a74-bd61-f00bf7e172d8
+metadata:
+  import_document_id: osssaysno:modelcontextprotocol/modelcontextprotocol:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:39+00:00'
+    id: osssaysno:github.com/modelcontextprotocol/modelcontextprotocol:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/README.md
+    role: repository_root_document
+    sha256: 03e9bc0116b7deeffb0bba1df6482179605c674c87c55a0f31cfd5c2a93dcd32
+    snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/README.md
+    status: downloaded
+    text_sha256: 03e9bc0116b7deeffb0bba1df6482179605c674c87c55a0f31cfd5c2a93dcd32
+    url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/README.md
+  source_archive:
+    member: texts/d61dafd0698c26cf2cdfe1a5a32f5b636be74e0a54bb5e4e14c7f51d94af7b67.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 03e9bc0116b7deeffb0bba1df6482179605c674c87c55a0f31cfd5c2a93dcd32
+  url: ''
+name: root/README.md
+path: corpus/b5d4598700cc49f09b9d1009e0ab6ac5/d61dafd0698c26cf2cdfe1a5a32f5b636be74e0a54bb5e4e14c7f51d94af7b67.md

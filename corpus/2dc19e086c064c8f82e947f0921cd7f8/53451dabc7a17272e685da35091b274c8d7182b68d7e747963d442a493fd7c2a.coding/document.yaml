@@ -1,0 +1,37 @@
+hash: f4b98d09bf87fdd5508c34b2b5ec27c45ca27faaaeb58c2472e8cbaae85f05b3
+id: 669af6e7-0414-45de-bf31-02b545285e35
+metadata:
+  import_document_id: osssaysno:fluxcd/flux2:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:36+00:00'
+    id: osssaysno:github.com/fluxcd/flux2:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/fluxcd/flux2/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/fluxcd/flux2/main/CONTRIBUTING.md
+    role: contributing
+    sha256: f4b98d09bf87fdd5508c34b2b5ec27c45ca27faaaeb58c2472e8cbaae85f05b3
+    snapshot: data/osssaysno/policies/fluxcd/flux2/contributing.md
+    status: downloaded
+    text_sha256: f4b98d09bf87fdd5508c34b2b5ec27c45ca27faaaeb58c2472e8cbaae85f05b3
+    url: https://github.com/fluxcd/flux2/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:11+00:00'
+    id: osssaysno:github.com/fluxcd/flux2:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/fluxcd/flux2/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/fluxcd/flux2/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: f4b98d09bf87fdd5508c34b2b5ec27c45ca27faaaeb58c2472e8cbaae85f05b3
+    snapshot: data/osssaysno/policies/fluxcd/flux2/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: f4b98d09bf87fdd5508c34b2b5ec27c45ca27faaaeb58c2472e8cbaae85f05b3
+    url: https://raw.githubusercontent.com/fluxcd/flux2/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/53451dabc7a17272e685da35091b274c8d7182b68d7e747963d442a493fd7c2a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f4b98d09bf87fdd5508c34b2b5ec27c45ca27faaaeb58c2472e8cbaae85f05b3
+  url: ''
+name: contributing.md
+path: corpus/2dc19e086c064c8f82e947f0921cd7f8/53451dabc7a17272e685da35091b274c8d7182b68d7e747963d442a493fd7c2a.md

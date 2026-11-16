@@ -1,0 +1,26 @@
+hash: 14a7432321405990581714c1de07167fcf9f7e6f60808fff354e2fe0e8f27c2f
+id: a5795020-d4af-4dd3-bd7f-263b404fac72
+metadata:
+  import_document_id: osssaysno:scikit-image/scikit-image:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:20+00:00'
+    id: osssaysno:github.com/scikit-image/scikit-image:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/scikit-image/scikit-image/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/scikit-image/scikit-image/main/README.md
+    role: repository_root_document
+    sha256: 14a7432321405990581714c1de07167fcf9f7e6f60808fff354e2fe0e8f27c2f
+    snapshot: data/osssaysno/policies/scikit-image/scikit-image/root/README.md
+    status: downloaded
+    text_sha256: 14a7432321405990581714c1de07167fcf9f7e6f60808fff354e2fe0e8f27c2f
+    url: https://raw.githubusercontent.com/scikit-image/scikit-image/main/README.md
+  source_archive:
+    member: texts/e2303332dcc8269f950ebffa97b56f394e8fdc1fe8c1eadef1d09e64196a3040.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 14a7432321405990581714c1de07167fcf9f7e6f60808fff354e2fe0e8f27c2f
+  url: ''
+name: root/README.md
+path: corpus/aa69bbfffcc7415791196d092b07c3a1/e2303332dcc8269f950ebffa97b56f394e8fdc1fe8c1eadef1d09e64196a3040.md

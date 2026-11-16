@@ -1,0 +1,26 @@
+hash: c2b3cf8420dfbc076003fb0ec34ac5298466fec9046ede17cf9ae32b951708ab
+id: 24dde09a-592b-4cef-8882-f843f827b653
+metadata:
+  import_document_id: osssaysno:luanti-org/luanti:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:32+00:00'
+    id: osssaysno:github.com/luanti-org/luanti:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/luanti-org/luanti/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/luanti-org/luanti/master/README.md
+    role: repository_root_document
+    sha256: c2b3cf8420dfbc076003fb0ec34ac5298466fec9046ede17cf9ae32b951708ab
+    snapshot: data/osssaysno/policies/luanti-org/luanti/root/README.md
+    status: downloaded
+    text_sha256: c2b3cf8420dfbc076003fb0ec34ac5298466fec9046ede17cf9ae32b951708ab
+    url: https://raw.githubusercontent.com/luanti-org/luanti/master/README.md
+  source_archive:
+    member: texts/912890b9c514db94db6f473792100217cc9991c672f7c206ea4c535c4ae78901.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c2b3cf8420dfbc076003fb0ec34ac5298466fec9046ede17cf9ae32b951708ab
+  url: ''
+name: root/README.md
+path: corpus/b3a096e6df8b486e8ce778acb90cc670/912890b9c514db94db6f473792100217cc9991c672f7c206ea4c535c4ae78901.md

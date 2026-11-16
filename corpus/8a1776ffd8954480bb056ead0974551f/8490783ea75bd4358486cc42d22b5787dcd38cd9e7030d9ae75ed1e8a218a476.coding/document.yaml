@@ -1,0 +1,26 @@
+hash: c84ab5991133706a2899c20539df624ecaa124b7be9d4aff6d2b20986978d121
+id: 24231847-25ab-46f7-b91c-e13243b17105
+metadata:
+  import_document_id: osssaysno:audacity/audacity:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:57+00:00'
+    id: osssaysno:github.com/audacity/audacity:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/audacity/audacity/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/audacity/audacity/master/README.md
+    role: repository_root_document
+    sha256: c84ab5991133706a2899c20539df624ecaa124b7be9d4aff6d2b20986978d121
+    snapshot: data/osssaysno/policies/audacity/audacity/root/README.md
+    status: downloaded
+    text_sha256: c84ab5991133706a2899c20539df624ecaa124b7be9d4aff6d2b20986978d121
+    url: https://raw.githubusercontent.com/audacity/audacity/master/README.md
+  source_archive:
+    member: texts/8490783ea75bd4358486cc42d22b5787dcd38cd9e7030d9ae75ed1e8a218a476.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c84ab5991133706a2899c20539df624ecaa124b7be9d4aff6d2b20986978d121
+  url: ''
+name: root/README.md
+path: corpus/8a1776ffd8954480bb056ead0974551f/8490783ea75bd4358486cc42d22b5787dcd38cd9e7030d9ae75ed1e8a218a476.md

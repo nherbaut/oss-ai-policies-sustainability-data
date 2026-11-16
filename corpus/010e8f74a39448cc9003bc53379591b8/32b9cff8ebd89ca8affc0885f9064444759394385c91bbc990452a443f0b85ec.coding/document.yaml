@@ -1,0 +1,26 @@
+hash: db396e362c5b7797343ecff38da9e60ee0c6bd0ef24b467bf6817d120c426ef9
+id: 91becf26-634b-4a2d-8908-0a8bc1aaf846
+metadata:
+  import_document_id: osssaysno:netalertx/netalertx:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:57+00:00'
+    id: osssaysno:github.com/netalertx/netalertx:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/netalertx/netalertx/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/netalertx/NetAlertX/main/README.md
+    role: repository_root_document
+    sha256: db396e362c5b7797343ecff38da9e60ee0c6bd0ef24b467bf6817d120c426ef9
+    snapshot: data/osssaysno/policies/netalertx/netalertx/root/README.md
+    status: downloaded
+    text_sha256: db396e362c5b7797343ecff38da9e60ee0c6bd0ef24b467bf6817d120c426ef9
+    url: https://raw.githubusercontent.com/netalertx/NetAlertX/main/README.md
+  source_archive:
+    member: texts/32b9cff8ebd89ca8affc0885f9064444759394385c91bbc990452a443f0b85ec.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: db396e362c5b7797343ecff38da9e60ee0c6bd0ef24b467bf6817d120c426ef9
+  url: ''
+name: root/README.md
+path: corpus/010e8f74a39448cc9003bc53379591b8/32b9cff8ebd89ca8affc0885f9064444759394385c91bbc990452a443f0b85ec.md

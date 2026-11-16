@@ -1,0 +1,26 @@
+hash: dd9c69a700514ab8878519bbf8d0f85675dbe5915501f064ebcd58b2cf59f269
+id: 481af5e2-a9d4-40e4-a520-fa1c0aea5d1c
+metadata:
+  import_document_id: osssaysno:grpc/grpc:root/BUILDING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:52+00:00'
+    id: osssaysno:github.com/grpc/grpc:root/BUILDING.md
+    import_slot: root/BUILDING.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc/root/raw/BUILDING.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc/master/BUILDING.md
+    role: repository_root_document
+    sha256: dd9c69a700514ab8878519bbf8d0f85675dbe5915501f064ebcd58b2cf59f269
+    snapshot: data/osssaysno/policies/grpc/grpc/root/BUILDING.md
+    status: downloaded
+    text_sha256: dd9c69a700514ab8878519bbf8d0f85675dbe5915501f064ebcd58b2cf59f269
+    url: https://raw.githubusercontent.com/grpc/grpc/master/BUILDING.md
+  source_archive:
+    member: texts/54825c5089f974c14694eea347d52fcff458abddbf11de9bfec3a4bf1d2636fa.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: dd9c69a700514ab8878519bbf8d0f85675dbe5915501f064ebcd58b2cf59f269
+  url: ''
+name: root/BUILDING.md
+path: corpus/50ff420aff9b4348bca915b7bbde4ec2/54825c5089f974c14694eea347d52fcff458abddbf11de9bfec3a4bf1d2636fa.md

@@ -1,0 +1,26 @@
+hash: 1a68f06e7e8c7e6029f2fbfe21c59f89f3dba52e771044b10684583e949c2655
+id: 5864e15f-51aa-42c8-bf35-797366be8c35
+metadata:
+  import_document_id: osssaysno:nvidia-nemo/guardrails:root/CHANGELOG-Colang.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:52+00:00'
+    id: osssaysno:github.com/nvidia-nemo/guardrails:root/CHANGELOG-Colang.md
+    import_slot: root/CHANGELOG-Colang.md
+    raw_snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/raw/CHANGELOG-Colang.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/CHANGELOG-Colang.md
+    role: repository_root_document
+    sha256: 1a68f06e7e8c7e6029f2fbfe21c59f89f3dba52e771044b10684583e949c2655
+    snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/CHANGELOG-Colang.md
+    status: downloaded
+    text_sha256: 1a68f06e7e8c7e6029f2fbfe21c59f89f3dba52e771044b10684583e949c2655
+    url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/CHANGELOG-Colang.md
+  source_archive:
+    member: texts/71c5a47dcbc8ce2a28944439f6b8afd88c2f7f07d1f08aebbcfa18e0534b5278.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1a68f06e7e8c7e6029f2fbfe21c59f89f3dba52e771044b10684583e949c2655
+  url: ''
+name: root/CHANGELOG-Colang.md
+path: corpus/39095417ded042b6b0a797dfc257a546/71c5a47dcbc8ce2a28944439f6b8afd88c2f7f07d1f08aebbcfa18e0534b5278.md

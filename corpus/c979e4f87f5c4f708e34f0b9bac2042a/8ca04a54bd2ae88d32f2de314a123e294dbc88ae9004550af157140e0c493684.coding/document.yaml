@@ -1,0 +1,26 @@
+hash: 8cbe0c04dd3aa8e551e5e86fe9e19ec7400112d9f925e6037af66fade1d5a9bf
+id: e2ba9247-1f05-4be1-b3d7-c6b78ebbe1c7
+metadata:
+  import_document_id: osssaysno:ory/keto:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:14+00:00'
+    id: osssaysno:github.com/ory/keto:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/ory/keto/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/ory/keto/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: 8cbe0c04dd3aa8e551e5e86fe9e19ec7400112d9f925e6037af66fade1d5a9bf
+    snapshot: data/osssaysno/policies/ory/keto/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 8cbe0c04dd3aa8e551e5e86fe9e19ec7400112d9f925e6037af66fade1d5a9bf
+    url: https://raw.githubusercontent.com/ory/keto/master/CHANGELOG.md
+  source_archive:
+    member: texts/8ca04a54bd2ae88d32f2de314a123e294dbc88ae9004550af157140e0c493684.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8cbe0c04dd3aa8e551e5e86fe9e19ec7400112d9f925e6037af66fade1d5a9bf
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/c979e4f87f5c4f708e34f0b9bac2042a/8ca04a54bd2ae88d32f2de314a123e294dbc88ae9004550af157140e0c493684.md

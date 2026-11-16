@@ -1,0 +1,26 @@
+hash: 6c69d6dd5b616fc79d3d0d8fb0e5f3b6a83c2e43a9730d3caf77d90085bc8153
+id: 6dbb94fe-edb7-464e-8ff9-05b95c19e65e
+metadata:
+  import_document_id: osssaysno:magicuidesign/magicui:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:33+00:00'
+    id: osssaysno:github.com/magicuidesign/magicui:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/magicuidesign/magicui/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/magicuidesign/magicui/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 6c69d6dd5b616fc79d3d0d8fb0e5f3b6a83c2e43a9730d3caf77d90085bc8153
+    snapshot: data/osssaysno/policies/magicuidesign/magicui/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 6c69d6dd5b616fc79d3d0d8fb0e5f3b6a83c2e43a9730d3caf77d90085bc8153
+    url: https://raw.githubusercontent.com/magicuidesign/magicui/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/32cf0e6a05d7311fded26138706bb3dcff878ecb038ecf58d6b74c9603f420b1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6c69d6dd5b616fc79d3d0d8fb0e5f3b6a83c2e43a9730d3caf77d90085bc8153
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/a643d8a65392487480aa8ac7bdc563e5/32cf0e6a05d7311fded26138706bb3dcff878ecb038ecf58d6b74c9603f420b1.md

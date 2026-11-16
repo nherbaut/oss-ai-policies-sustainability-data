@@ -1,0 +1,37 @@
+hash: 7b48b55574d0fee3edba6e0347f0bbd82afa324d3667bfd9b38bae2ba139876d
+id: 9af8b42a-bba5-45d2-ae34-d9ede35ad949
+metadata:
+  import_document_id: osssaysno:biolab/orange3:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:00+00:00'
+    id: osssaysno:github.com/biolab/orange3:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/biolab/orange3/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/biolab/orange3/master/AI_POLICY.md
+    role: ai_policy
+    sha256: 7b48b55574d0fee3edba6e0347f0bbd82afa324d3667bfd9b38bae2ba139876d
+    snapshot: data/osssaysno/policies/biolab/orange3/ai_policy.md
+    status: downloaded
+    text_sha256: 7b48b55574d0fee3edba6e0347f0bbd82afa324d3667bfd9b38bae2ba139876d
+    url: https://github.com/biolab/orange3/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:38:02+00:00'
+    id: osssaysno:github.com/biolab/orange3:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/biolab/orange3/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/biolab/orange3/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: 7b48b55574d0fee3edba6e0347f0bbd82afa324d3667bfd9b38bae2ba139876d
+    snapshot: data/osssaysno/policies/biolab/orange3/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 7b48b55574d0fee3edba6e0347f0bbd82afa324d3667bfd9b38bae2ba139876d
+    url: https://raw.githubusercontent.com/biolab/orange3/master/AI_POLICY.md
+  source_archive:
+    member: texts/3e938c00897871d90c8d6554f16d343430c353ddb516d99b3503393c235ef419.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7b48b55574d0fee3edba6e0347f0bbd82afa324d3667bfd9b38bae2ba139876d
+  url: ''
+name: ai_policy.md
+path: corpus/15b8a329bf5949c8a59daf17f286aeec/3e938c00897871d90c8d6554f16d343430c353ddb516d99b3503393c235ef419.md

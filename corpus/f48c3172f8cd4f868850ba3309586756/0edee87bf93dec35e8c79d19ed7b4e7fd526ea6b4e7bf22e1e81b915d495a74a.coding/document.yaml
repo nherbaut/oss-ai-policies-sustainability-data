@@ -1,0 +1,26 @@
+hash: 11d9154da2204e84f5f15b74f91a3a389afbeb223fb6c89839a9f8fa69e1ba30
+id: 9d9b6a75-1033-4f36-864c-4e102e82dc8e
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/ADOPTERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:10+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/ADOPTERS.md
+    import_slot: root/ADOPTERS.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/ADOPTERS.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/ADOPTERS.md
+    role: repository_root_document
+    sha256: 11d9154da2204e84f5f15b74f91a3a389afbeb223fb6c89839a9f8fa69e1ba30
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/ADOPTERS.md
+    status: downloaded
+    text_sha256: 11d9154da2204e84f5f15b74f91a3a389afbeb223fb6c89839a9f8fa69e1ba30
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/ADOPTERS.md
+  source_archive:
+    member: texts/0edee87bf93dec35e8c79d19ed7b4e7fd526ea6b4e7bf22e1e81b915d495a74a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 11d9154da2204e84f5f15b74f91a3a389afbeb223fb6c89839a9f8fa69e1ba30
+  url: ''
+name: root/ADOPTERS.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/0edee87bf93dec35e8c79d19ed7b4e7fd526ea6b4e7bf22e1e81b915d495a74a.md

@@ -1,0 +1,37 @@
+hash: 1ba1456c462f7367ee62c1e742fc1ff681289f70d6e33fb73a59ec87246e3df2
+id: fdcf100e-3dda-4f35-b3d2-2515f95b96ba
+metadata:
+  import_document_id: osssaysno:pyinfra-dev/pyinfra:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:58+00:00'
+    id: osssaysno:github.com/pyinfra-dev/pyinfra:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/AI_POLICY.md
+    role: ai_policy
+    sha256: 1ba1456c462f7367ee62c1e742fc1ff681289f70d6e33fb73a59ec87246e3df2
+    snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/ai_policy.md
+    status: downloaded
+    text_sha256: 1ba1456c462f7367ee62c1e742fc1ff681289f70d6e33fb73a59ec87246e3df2
+    url: https://github.com/pyinfra-dev/pyinfra/blob/3.x/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:37:45+00:00'
+    id: osssaysno:github.com/pyinfra-dev/pyinfra:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/AI_POLICY.md
+    role: repository_root_document
+    sha256: 1ba1456c462f7367ee62c1e742fc1ff681289f70d6e33fb73a59ec87246e3df2
+    snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 1ba1456c462f7367ee62c1e742fc1ff681289f70d6e33fb73a59ec87246e3df2
+    url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/AI_POLICY.md
+  source_archive:
+    member: texts/b9198287be96304b86c5a9f006fb84a742f562739320d2c95604218ca83f6897.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1ba1456c462f7367ee62c1e742fc1ff681289f70d6e33fb73a59ec87246e3df2
+  url: ''
+name: ai_policy.md
+path: corpus/0bfcf1e8ee0f4d319220157c18e18d83/b9198287be96304b86c5a9f006fb84a742f562739320d2c95604218ca83f6897.md

@@ -1,0 +1,26 @@
+hash: 8c605c74674849f14b0f9846c5079ef513fc532e4435870d4648084f82b98307
+id: 4bfcb290-bc29-4988-8239-63ad5d2ef317
+metadata:
+  import_document_id: osssaysno:f3d-app/f3d:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:49+00:00'
+    id: osssaysno:github.com/f3d-app/f3d:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/f3d-app/f3d/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/f3d-app/f3d/master/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 8c605c74674849f14b0f9846c5079ef513fc532e4435870d4648084f82b98307
+    snapshot: data/osssaysno/policies/f3d-app/f3d/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 8c605c74674849f14b0f9846c5079ef513fc532e4435870d4648084f82b98307
+    url: https://raw.githubusercontent.com/f3d-app/f3d/master/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/08e449bb69d36d83c7fb568b0aec46c4884f4864e8a2ecf66c3c92b704f74833.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8c605c74674849f14b0f9846c5079ef513fc532e4435870d4648084f82b98307
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/9085e779d17747f293366cb695d0ba8c/08e449bb69d36d83c7fb568b0aec46c4884f4864e8a2ecf66c3c92b704f74833.md

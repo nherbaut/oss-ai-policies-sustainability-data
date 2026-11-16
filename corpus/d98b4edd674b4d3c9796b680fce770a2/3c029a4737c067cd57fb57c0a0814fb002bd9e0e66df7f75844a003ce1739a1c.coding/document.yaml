@@ -1,0 +1,26 @@
+hash: 42d6bcca10fd5aa79af7dc9cc9c6dc1ed2d04fdd822137584f327734648e932d
+id: 712d6465-a80b-42e3-ad5f-a960dbac7796
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:root/REVIEWING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:29+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/REVIEWING.md
+    import_slot: root/REVIEWING.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/REVIEWING.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/REVIEWING.md
+    role: repository_root_document
+    sha256: 42d6bcca10fd5aa79af7dc9cc9c6dc1ed2d04fdd822137584f327734648e932d
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/REVIEWING.md
+    status: downloaded
+    text_sha256: 42d6bcca10fd5aa79af7dc9cc9c6dc1ed2d04fdd822137584f327734648e932d
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/REVIEWING.md
+  source_archive:
+    member: texts/3c029a4737c067cd57fb57c0a0814fb002bd9e0e66df7f75844a003ce1739a1c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 42d6bcca10fd5aa79af7dc9cc9c6dc1ed2d04fdd822137584f327734648e932d
+  url: ''
+name: root/REVIEWING.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/3c029a4737c067cd57fb57c0a0814fb002bd9e0e66df7f75844a003ce1739a1c.md

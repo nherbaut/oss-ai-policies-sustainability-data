@@ -1,0 +1,26 @@
+hash: 2adb4f565188fe51ba672a2c15a81ceebb663bf86c57bfdfe53d7a0ecf5bf88c
+id: 1355f58a-536a-4930-a225-cf2a927623d4
+metadata:
+  import_document_id: osssaysno:transact-rs/sqlx:root/FAQ.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:02+00:00'
+    id: osssaysno:github.com/transact-rs/sqlx:root/FAQ.md
+    import_slot: root/FAQ.md
+    raw_snapshot: data/osssaysno/policies/transact-rs/sqlx/root/raw/FAQ.md
+    resolved_url: https://raw.githubusercontent.com/transact-rs/sqlx/main/FAQ.md
+    role: repository_root_document
+    sha256: 2adb4f565188fe51ba672a2c15a81ceebb663bf86c57bfdfe53d7a0ecf5bf88c
+    snapshot: data/osssaysno/policies/transact-rs/sqlx/root/FAQ.md
+    status: downloaded
+    text_sha256: 2adb4f565188fe51ba672a2c15a81ceebb663bf86c57bfdfe53d7a0ecf5bf88c
+    url: https://raw.githubusercontent.com/transact-rs/sqlx/main/FAQ.md
+  source_archive:
+    member: texts/bda8bc1f38321032f585ba8608c33894020dc55711a68fbd14ecc0a66e8ac94c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2adb4f565188fe51ba672a2c15a81ceebb663bf86c57bfdfe53d7a0ecf5bf88c
+  url: ''
+name: root/FAQ.md
+path: corpus/be22cf71824140cfaddb57be4c43cc7f/bda8bc1f38321032f585ba8608c33894020dc55711a68fbd14ecc0a66e8ac94c.md

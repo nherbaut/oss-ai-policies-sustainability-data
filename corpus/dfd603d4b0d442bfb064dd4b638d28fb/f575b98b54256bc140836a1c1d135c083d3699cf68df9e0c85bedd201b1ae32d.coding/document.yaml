@@ -1,0 +1,37 @@
+hash: 0182912f34155416e09c9448a0c385abb76483300bcba82eaa61c9494e056b1a
+id: ad8ae8ae-a22d-42ed-889e-432a756639c2
+metadata:
+  import_document_id: osssaysno:prefix-dev/pixi:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:41+00:00'
+    id: osssaysno:github.com/prefix-dev/pixi:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/prefix-dev/pixi/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/prefix-dev/pixi/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 0182912f34155416e09c9448a0c385abb76483300bcba82eaa61c9494e056b1a
+    snapshot: data/osssaysno/policies/prefix-dev/pixi/contributing.md
+    status: downloaded
+    text_sha256: 0182912f34155416e09c9448a0c385abb76483300bcba82eaa61c9494e056b1a
+    url: https://github.com/prefix-dev/pixi/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:33+00:00'
+    id: osssaysno:github.com/prefix-dev/pixi:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/prefix-dev/pixi/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/prefix-dev/pixi/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 0182912f34155416e09c9448a0c385abb76483300bcba82eaa61c9494e056b1a
+    snapshot: data/osssaysno/policies/prefix-dev/pixi/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 0182912f34155416e09c9448a0c385abb76483300bcba82eaa61c9494e056b1a
+    url: https://raw.githubusercontent.com/prefix-dev/pixi/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/f575b98b54256bc140836a1c1d135c083d3699cf68df9e0c85bedd201b1ae32d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0182912f34155416e09c9448a0c385abb76483300bcba82eaa61c9494e056b1a
+  url: ''
+name: contributing.md
+path: corpus/dfd603d4b0d442bfb064dd4b638d28fb/f575b98b54256bc140836a1c1d135c083d3699cf68df9e0c85bedd201b1ae32d.md

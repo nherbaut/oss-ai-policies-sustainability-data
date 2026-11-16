@@ -1,0 +1,26 @@
+hash: 3ab012bf8d7c3de837b3f1a32bfa52908b22f2559de432c54e47fd6d0afcfa1d
+id: ef1a5488-5d90-411e-83cc-38ffa53979d4
+metadata:
+  import_document_id: osssaysno:octoprint/octoprint:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:55+00:00'
+    id: osssaysno:github.com/octoprint/octoprint:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/octoprint/octoprint/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/AGENTS.md
+    role: repository_root_document
+    sha256: 3ab012bf8d7c3de837b3f1a32bfa52908b22f2559de432c54e47fd6d0afcfa1d
+    snapshot: data/osssaysno/policies/octoprint/octoprint/root/AGENTS.md
+    status: downloaded
+    text_sha256: 3ab012bf8d7c3de837b3f1a32bfa52908b22f2559de432c54e47fd6d0afcfa1d
+    url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/AGENTS.md
+  source_archive:
+    member: texts/6026870e7aec7046003f642c4f6cda7158df7f30abf7b1655b21ca07a765a5d9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3ab012bf8d7c3de837b3f1a32bfa52908b22f2559de432c54e47fd6d0afcfa1d
+  url: ''
+name: root/AGENTS.md
+path: corpus/c341d0a7f38e4942ad8c9b3df11f8b88/6026870e7aec7046003f642c4f6cda7158df7f30abf7b1655b21ca07a765a5d9.md

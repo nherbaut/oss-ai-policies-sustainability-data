@@ -1,0 +1,26 @@
+hash: efc941d5a8633e0c816a90d53c830f71460c429f2a2edc7d5116ecae880a03df
+id: e799ff66-07bf-420e-bd9e-ab590be34221
+metadata:
+  import_document_id: osssaysno:ory/keto:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:15+00:00'
+    id: osssaysno:github.com/ory/keto:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/ory/keto/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/ory/keto/master/README.md
+    role: repository_root_document
+    sha256: efc941d5a8633e0c816a90d53c830f71460c429f2a2edc7d5116ecae880a03df
+    snapshot: data/osssaysno/policies/ory/keto/root/README.md
+    status: downloaded
+    text_sha256: efc941d5a8633e0c816a90d53c830f71460c429f2a2edc7d5116ecae880a03df
+    url: https://raw.githubusercontent.com/ory/keto/master/README.md
+  source_archive:
+    member: texts/c7782495db73c15179a20011f58ffce6b20d7a89dcc9f87bc10a3616148a744b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: efc941d5a8633e0c816a90d53c830f71460c429f2a2edc7d5116ecae880a03df
+  url: ''
+name: root/README.md
+path: corpus/c979e4f87f5c4f708e34f0b9bac2042a/c7782495db73c15179a20011f58ffce6b20d7a89dcc9f87bc10a3616148a744b.md

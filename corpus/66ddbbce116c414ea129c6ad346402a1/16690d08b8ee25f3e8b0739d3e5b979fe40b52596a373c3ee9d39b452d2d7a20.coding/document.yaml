@@ -1,0 +1,26 @@
+hash: d356e22aeb5f73dca7e9089c3b7f572540753e918dab71ef11edf11561fb1a46
+id: 71e430c0-1904-4d29-8708-48f188cb5b3b
+metadata:
+  import_document_id: osssaysno:librosa/librosa:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:04+00:00'
+    id: osssaysno:github.com/librosa/librosa:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/librosa/librosa/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/librosa/librosa/main/AGENTS.md
+    role: repository_root_document
+    sha256: d356e22aeb5f73dca7e9089c3b7f572540753e918dab71ef11edf11561fb1a46
+    snapshot: data/osssaysno/policies/librosa/librosa/root/AGENTS.md
+    status: downloaded
+    text_sha256: d356e22aeb5f73dca7e9089c3b7f572540753e918dab71ef11edf11561fb1a46
+    url: https://raw.githubusercontent.com/librosa/librosa/main/AGENTS.md
+  source_archive:
+    member: texts/16690d08b8ee25f3e8b0739d3e5b979fe40b52596a373c3ee9d39b452d2d7a20.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d356e22aeb5f73dca7e9089c3b7f572540753e918dab71ef11edf11561fb1a46
+  url: ''
+name: root/AGENTS.md
+path: corpus/66ddbbce116c414ea129c6ad346402a1/16690d08b8ee25f3e8b0739d3e5b979fe40b52596a373c3ee9d39b452d2d7a20.md

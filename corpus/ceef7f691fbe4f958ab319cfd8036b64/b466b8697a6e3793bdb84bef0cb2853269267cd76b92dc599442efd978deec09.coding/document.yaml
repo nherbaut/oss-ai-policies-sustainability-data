@@ -1,0 +1,26 @@
+hash: 4fd9e6bd518f1e4f99a02ccd16b158599250e2344f29f9c536a097d1121c707a
+id: 264f4585-1b06-4f8c-b8aa-dd8ae19ec52b
+metadata:
+  import_document_id: osssaysno:hydro-dev/hydro:root/HALL_OF_SHAME.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:01+00:00'
+    id: osssaysno:github.com/hydro-dev/hydro:root/HALL_OF_SHAME.md
+    import_slot: root/HALL_OF_SHAME.md
+    raw_snapshot: data/osssaysno/policies/hydro-dev/hydro/root/raw/HALL_OF_SHAME.md
+    resolved_url: https://raw.githubusercontent.com/hydro-dev/Hydro/master/HALL_OF_SHAME.md
+    role: repository_root_document
+    sha256: 4fd9e6bd518f1e4f99a02ccd16b158599250e2344f29f9c536a097d1121c707a
+    snapshot: data/osssaysno/policies/hydro-dev/hydro/root/HALL_OF_SHAME.md
+    status: downloaded
+    text_sha256: 4fd9e6bd518f1e4f99a02ccd16b158599250e2344f29f9c536a097d1121c707a
+    url: https://raw.githubusercontent.com/hydro-dev/Hydro/master/HALL_OF_SHAME.md
+  source_archive:
+    member: texts/b466b8697a6e3793bdb84bef0cb2853269267cd76b92dc599442efd978deec09.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4fd9e6bd518f1e4f99a02ccd16b158599250e2344f29f9c536a097d1121c707a
+  url: ''
+name: root/HALL_OF_SHAME.md
+path: corpus/ceef7f691fbe4f958ab319cfd8036b64/b466b8697a6e3793bdb84bef0cb2853269267cd76b92dc599442efd978deec09.md

@@ -1,0 +1,26 @@
+hash: e9d1b2b57efca7c8e66a3cd30f1626607d37cc419ebabac4b883e00ad07ee736
+id: f2bafe7b-650d-4d50-83d4-0b87d2da2685
+metadata:
+  import_document_id: osssaysno:aws/serverless-application-model:root/DESIGN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:43+00:00'
+    id: osssaysno:github.com/aws/serverless-application-model:root/DESIGN.md
+    import_slot: root/DESIGN.md
+    raw_snapshot: data/osssaysno/policies/aws/serverless-application-model/root/raw/DESIGN.md
+    resolved_url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/DESIGN.md
+    role: repository_root_document
+    sha256: e9d1b2b57efca7c8e66a3cd30f1626607d37cc419ebabac4b883e00ad07ee736
+    snapshot: data/osssaysno/policies/aws/serverless-application-model/root/DESIGN.md
+    status: downloaded
+    text_sha256: e9d1b2b57efca7c8e66a3cd30f1626607d37cc419ebabac4b883e00ad07ee736
+    url: https://raw.githubusercontent.com/aws/serverless-application-model/develop/DESIGN.md
+  source_archive:
+    member: texts/1321f5dfe8d9a6ba050e06b29933aa5fe893ee47e444b0124a26bb9b57194688.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e9d1b2b57efca7c8e66a3cd30f1626607d37cc419ebabac4b883e00ad07ee736
+  url: ''
+name: root/DESIGN.md
+path: corpus/732ef170ddad448291659e7e5044a5f9/1321f5dfe8d9a6ba050e06b29933aa5fe893ee47e444b0124a26bb9b57194688.md

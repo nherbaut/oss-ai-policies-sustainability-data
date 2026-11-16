@@ -1,0 +1,37 @@
+hash: 7c23ad69f47cfbb66bdfdc3ae8566e357798faa435a9ce3c7317e5360b1a1257
+id: 3d547fca-5560-49a4-8279-0f4b1ad0f03d
+metadata:
+  import_document_id: osssaysno:xonsh/xonsh:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:29+00:00'
+    id: osssaysno:github.com/xonsh/xonsh:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/xonsh/xonsh/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/xonsh/xonsh/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 7c23ad69f47cfbb66bdfdc3ae8566e357798faa435a9ce3c7317e5360b1a1257
+    snapshot: data/osssaysno/policies/xonsh/xonsh/ai_policy.md
+    status: downloaded
+    text_sha256: 7c23ad69f47cfbb66bdfdc3ae8566e357798faa435a9ce3c7317e5360b1a1257
+    url: https://github.com/xonsh/xonsh/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:35:35+00:00'
+    id: osssaysno:github.com/xonsh/xonsh:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/xonsh/xonsh/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/xonsh/xonsh/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 7c23ad69f47cfbb66bdfdc3ae8566e357798faa435a9ce3c7317e5360b1a1257
+    snapshot: data/osssaysno/policies/xonsh/xonsh/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 7c23ad69f47cfbb66bdfdc3ae8566e357798faa435a9ce3c7317e5360b1a1257
+    url: https://raw.githubusercontent.com/xonsh/xonsh/main/AI_POLICY.md
+  source_archive:
+    member: texts/c6588c2cdf6672feaafacd99d4a965570abe2071a5ed40f50ebc707d34d6281d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7c23ad69f47cfbb66bdfdc3ae8566e357798faa435a9ce3c7317e5360b1a1257
+  url: ''
+name: ai_policy.md
+path: corpus/d1df77bf4a064a80b071f551626aae7e/c6588c2cdf6672feaafacd99d4a965570abe2071a5ed40f50ebc707d34d6281d.md

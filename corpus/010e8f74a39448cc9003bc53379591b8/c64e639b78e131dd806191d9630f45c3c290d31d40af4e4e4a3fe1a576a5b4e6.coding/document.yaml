@@ -1,0 +1,26 @@
+hash: 2b1285cbac5eb61a3c0848385f2705182672939d303847235fbe911f58da5c0c
+id: 6ab7c5ea-d7c5-46f0-84e1-2e27831b16be
+metadata:
+  import_document_id: osssaysno:netalertx/netalertx:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:56+00:00'
+    id: osssaysno:github.com/netalertx/netalertx:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/netalertx/netalertx/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/netalertx/NetAlertX/main/CLAUDE.md
+    role: repository_root_document
+    sha256: 2b1285cbac5eb61a3c0848385f2705182672939d303847235fbe911f58da5c0c
+    snapshot: data/osssaysno/policies/netalertx/netalertx/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 2b1285cbac5eb61a3c0848385f2705182672939d303847235fbe911f58da5c0c
+    url: https://raw.githubusercontent.com/netalertx/NetAlertX/main/CLAUDE.md
+  source_archive:
+    member: texts/c64e639b78e131dd806191d9630f45c3c290d31d40af4e4e4a3fe1a576a5b4e6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2b1285cbac5eb61a3c0848385f2705182672939d303847235fbe911f58da5c0c
+  url: ''
+name: root/CLAUDE.md
+path: corpus/010e8f74a39448cc9003bc53379591b8/c64e639b78e131dd806191d9630f45c3c290d31d40af4e4e4a3fe1a576a5b4e6.md

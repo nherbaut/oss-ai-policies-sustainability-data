@@ -1,0 +1,26 @@
+hash: ef59a993b7affc6de8c5c883579d55d526cbb61041a601f33fa8cdfa4c23a3b9
+id: 8c668d77-06b0-4013-864d-fc64175fb052
+metadata:
+  import_document_id: osssaysno:tanstack/query:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:46+00:00'
+    id: osssaysno:github.com/tanstack/query:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/tanstack/query/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/TanStack/query/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: ef59a993b7affc6de8c5c883579d55d526cbb61041a601f33fa8cdfa4c23a3b9
+    snapshot: data/osssaysno/policies/tanstack/query/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: ef59a993b7affc6de8c5c883579d55d526cbb61041a601f33fa8cdfa4c23a3b9
+    url: https://raw.githubusercontent.com/TanStack/query/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/22ba17df0532e69589c06b867f604ba15213ebe4dcd89b03cd25584ff4f2ee9e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ef59a993b7affc6de8c5c883579d55d526cbb61041a601f33fa8cdfa4c23a3b9
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/b02425437a2240968d1781a015be471d/22ba17df0532e69589c06b867f604ba15213ebe4dcd89b03cd25584ff4f2ee9e.md

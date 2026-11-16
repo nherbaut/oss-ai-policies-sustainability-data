@@ -1,0 +1,26 @@
+hash: 9c1441ffedc9c4fe88b1fa9a6abb6b4d8f413b286a669814abad4882f02718cc
+id: 788788e0-7f46-49b1-bc86-ebc4669ee8a4
+metadata:
+  import_document_id: osssaysno:asciimoo/hister:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:40+00:00'
+    id: osssaysno:github.com/asciimoo/hister:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/asciimoo/hister/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/asciimoo/hister/master/README.md
+    role: repository_root_document
+    sha256: 9c1441ffedc9c4fe88b1fa9a6abb6b4d8f413b286a669814abad4882f02718cc
+    snapshot: data/osssaysno/policies/asciimoo/hister/root/README.md
+    status: downloaded
+    text_sha256: 9c1441ffedc9c4fe88b1fa9a6abb6b4d8f413b286a669814abad4882f02718cc
+    url: https://raw.githubusercontent.com/asciimoo/hister/master/README.md
+  source_archive:
+    member: texts/9fe7ad4517a7228a975c6b8bea0add74c6fe0a02bf57d5c770a31af72097b42d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9c1441ffedc9c4fe88b1fa9a6abb6b4d8f413b286a669814abad4882f02718cc
+  url: ''
+name: root/README.md
+path: corpus/86fb7caca2c1417e9bd4c9e14b84a6e0/9fe7ad4517a7228a975c6b8bea0add74c6fe0a02bf57d5c770a31af72097b42d.md

@@ -1,0 +1,26 @@
+hash: 4393edddf47e6bea89b817a2eb28f99d8a245da390bf6a6ed317e070e018948d
+id: 0c418f8e-40b3-4818-86b0-dce3ea7c268b
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/LICENSING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:34+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/LICENSING.md
+    import_slot: root/LICENSING.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/LICENSING.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/LICENSING.md
+    role: repository_root_document
+    sha256: 4393edddf47e6bea89b817a2eb28f99d8a245da390bf6a6ed317e070e018948d
+    snapshot: data/osssaysno/policies/grafana/grafana/root/LICENSING.md
+    status: downloaded
+    text_sha256: 4393edddf47e6bea89b817a2eb28f99d8a245da390bf6a6ed317e070e018948d
+    url: https://raw.githubusercontent.com/grafana/grafana/main/LICENSING.md
+  source_archive:
+    member: texts/372b58f8aed95abcdd36469cfe6ec6cde529a87114b0ab785016f56050462875.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4393edddf47e6bea89b817a2eb28f99d8a245da390bf6a6ed317e070e018948d
+  url: ''
+name: root/LICENSING.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/372b58f8aed95abcdd36469cfe6ec6cde529a87114b0ab785016f56050462875.md

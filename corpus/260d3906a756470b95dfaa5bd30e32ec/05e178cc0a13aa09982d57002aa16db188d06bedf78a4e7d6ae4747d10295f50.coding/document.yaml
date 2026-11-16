@@ -1,0 +1,37 @@
+hash: 6031c69909f3b010e75f258037e0e2448aa15f0a094d98a2a50c63e1c3241c11
+id: b7de589b-fcc3-4d69-8746-f5d850a01c6f
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:31+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/AGENTS.md
+    role: repository_root_document
+    sha256: 6031c69909f3b010e75f258037e0e2448aa15f0a094d98a2a50c63e1c3241c11
+    snapshot: data/osssaysno/policies/grafana/grafana/root/AGENTS.md
+    status: downloaded
+    text_sha256: 6031c69909f3b010e75f258037e0e2448aa15f0a094d98a2a50c63e1c3241c11
+    url: https://raw.githubusercontent.com/grafana/grafana/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:03:32+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/AGENTS.md
+    role: repository_root_document
+    sha256: 6031c69909f3b010e75f258037e0e2448aa15f0a094d98a2a50c63e1c3241c11
+    snapshot: data/osssaysno/policies/grafana/grafana/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 6031c69909f3b010e75f258037e0e2448aa15f0a094d98a2a50c63e1c3241c11
+    url: https://raw.githubusercontent.com/grafana/grafana/main/CLAUDE.md
+  source_archive:
+    member: texts/05e178cc0a13aa09982d57002aa16db188d06bedf78a4e7d6ae4747d10295f50.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6031c69909f3b010e75f258037e0e2448aa15f0a094d98a2a50c63e1c3241c11
+  url: ''
+name: root/AGENTS.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/05e178cc0a13aa09982d57002aa16db188d06bedf78a4e7d6ae4747d10295f50.md

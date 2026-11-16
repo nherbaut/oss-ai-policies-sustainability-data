@@ -1,0 +1,26 @@
+hash: 9c9def23215f65f80283b47792e6e16db8c36e098cc97ab414fb1168058e9c48
+id: 63eb5e33-f45e-4d1a-a060-19f14a477ff3
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:52+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/MAINTAINERS.md
+    role: repository_root_document
+    sha256: 9c9def23215f65f80283b47792e6e16db8c36e098cc97ab414fb1168058e9c48
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: 9c9def23215f65f80283b47792e6e16db8c36e098cc97ab414fb1168058e9c48
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/MAINTAINERS.md
+  source_archive:
+    member: texts/a41dc6d02b43047d3f648b76c8f4d93370cf5ddb90fd2ce01c046f8e90eaf2b0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9c9def23215f65f80283b47792e6e16db8c36e098cc97ab414fb1168058e9c48
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/a41dc6d02b43047d3f648b76c8f4d93370cf5ddb90fd2ce01c046f8e90eaf2b0.md

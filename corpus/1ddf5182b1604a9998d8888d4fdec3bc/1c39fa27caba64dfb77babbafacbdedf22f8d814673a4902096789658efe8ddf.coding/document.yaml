@@ -1,0 +1,37 @@
+hash: 7cd30b4590e7cd2ab1361e60a4800de0b45d52e4ff5a163feed5685dc634cf28
+id: 0edcaa5b-22ec-4a4f-a528-638747ff21a9
+metadata:
+  import_document_id: osssaysno:ankidroid/anki-android:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:55+00:00'
+    id: osssaysno:github.com/ankidroid/anki-android:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/ankidroid/anki-android/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/ankidroid/Anki-Android/main/AGENTS.md
+    role: repository_root_document
+    sha256: 7cd30b4590e7cd2ab1361e60a4800de0b45d52e4ff5a163feed5685dc634cf28
+    snapshot: data/osssaysno/policies/ankidroid/anki-android/root/AGENTS.md
+    status: downloaded
+    text_sha256: 7cd30b4590e7cd2ab1361e60a4800de0b45d52e4ff5a163feed5685dc634cf28
+    url: https://raw.githubusercontent.com/ankidroid/Anki-Android/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:29:55+00:00'
+    id: osssaysno:github.com/ankidroid/anki-android:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/ankidroid/anki-android/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/ankidroid/Anki-Android/main/AGENTS.md
+    role: repository_root_document
+    sha256: 7cd30b4590e7cd2ab1361e60a4800de0b45d52e4ff5a163feed5685dc634cf28
+    snapshot: data/osssaysno/policies/ankidroid/anki-android/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 7cd30b4590e7cd2ab1361e60a4800de0b45d52e4ff5a163feed5685dc634cf28
+    url: https://raw.githubusercontent.com/ankidroid/Anki-Android/main/CLAUDE.md
+  source_archive:
+    member: texts/1c39fa27caba64dfb77babbafacbdedf22f8d814673a4902096789658efe8ddf.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7cd30b4590e7cd2ab1361e60a4800de0b45d52e4ff5a163feed5685dc634cf28
+  url: ''
+name: root/AGENTS.md
+path: corpus/1ddf5182b1604a9998d8888d4fdec3bc/1c39fa27caba64dfb77babbafacbdedf22f8d814673a4902096789658efe8ddf.md

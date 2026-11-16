@@ -1,0 +1,26 @@
+hash: 073e66a2fb72c0b562fa78e8f53c6c53ca5e5a2a706c377f83e9c9ddd4e0fc6a
+id: 55f38b9d-3aeb-4476-bb9d-d06f65f7e849
+metadata:
+  import_document_id: osssaysno:react-navigation/react-navigation:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:25+00:00'
+    id: osssaysno:github.com/react-navigation/react-navigation:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/react-navigation/react-navigation/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/react-navigation/react-navigation/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 073e66a2fb72c0b562fa78e8f53c6c53ca5e5a2a706c377f83e9c9ddd4e0fc6a
+    snapshot: data/osssaysno/policies/react-navigation/react-navigation/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 073e66a2fb72c0b562fa78e8f53c6c53ca5e5a2a706c377f83e9c9ddd4e0fc6a
+    url: https://raw.githubusercontent.com/react-navigation/react-navigation/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/730163bef3bd86cc5a8b47f3f50c33298162ca195c3d15acb13fb12abe683772.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 073e66a2fb72c0b562fa78e8f53c6c53ca5e5a2a706c377f83e9c9ddd4e0fc6a
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/72638f40de6e4ad5885506a0d7ee22f1/730163bef3bd86cc5a8b47f3f50c33298162ca195c3d15acb13fb12abe683772.md

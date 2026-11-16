@@ -1,0 +1,26 @@
+hash: e6c210f7131ff1b56867dca5047c0fba4e5e9c915bed6803eaa278a5e2afa4a6
+id: 492e52c2-4796-4d15-a74d-6c9942071574
+metadata:
+  import_document_id: osssaysno:Debian:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:51+00:00'
+    id: osssaysno:https://www.debian.org:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/Debian/raw/ai_policy.html
+    resolved_url: https://www.debian.org/vote/2026/vote_002
+    role: ai_policy
+    sha256: 42a354fffe83cf74fbfd66e2a9818552f8a3fb26313dd9d5b87bb92473980398
+    snapshot: data/osssaysno/policies/Debian/ai_policy.md
+    status: downloaded
+    text_sha256: e6c210f7131ff1b56867dca5047c0fba4e5e9c915bed6803eaa278a5e2afa4a6
+    url: https://www.debian.org/vote/2026/vote_002
+  source_archive:
+    member: texts/91eb24c90f7cdd1a7c1ff29953174154f1880c558a8ce5ba2a91ec39bececf4f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e6c210f7131ff1b56867dca5047c0fba4e5e9c915bed6803eaa278a5e2afa4a6
+  url: ''
+name: ai_policy.md
+path: corpus/09c349dfbfd0406b96b0ed8402a7ad1f/91eb24c90f7cdd1a7c1ff29953174154f1880c558a8ce5ba2a91ec39bececf4f.md

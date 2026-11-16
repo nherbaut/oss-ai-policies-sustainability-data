@@ -1,0 +1,26 @@
+hash: 73f7c67b1d2b76f550ca8933e98c95cb67d0ed12952d8c733907a2657f1d35f8
+id: 845f826b-722b-4d01-8931-45702bdddb66
+metadata:
+  import_document_id: osssaysno:analogj/scrutiny:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:15+00:00'
+    id: osssaysno:github.com/analogj/scrutiny:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/analogj/scrutiny/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 73f7c67b1d2b76f550ca8933e98c95cb67d0ed12952d8c733907a2657f1d35f8
+    snapshot: data/osssaysno/policies/analogj/scrutiny/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 73f7c67b1d2b76f550ca8933e98c95cb67d0ed12952d8c733907a2657f1d35f8
+    url: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/7f91a0b54e16e2960947733fcbe3c07744d8f9df11c867bdc37fbee85dab2309.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 73f7c67b1d2b76f550ca8933e98c95cb67d0ed12952d8c733907a2657f1d35f8
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/40ab35a0891b46a8a2104abfab9d2623/7f91a0b54e16e2960947733fcbe3c07744d8f9df11c867bdc37fbee85dab2309.md

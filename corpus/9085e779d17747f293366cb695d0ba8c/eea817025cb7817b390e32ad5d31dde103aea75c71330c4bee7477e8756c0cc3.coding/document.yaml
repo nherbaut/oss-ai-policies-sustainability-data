@@ -1,0 +1,26 @@
+hash: 84f8ddf90aeb15a442d745c4224a967fe92a750aa862d3e79a9ecf5787e8e3e9
+id: 592a02f5-f610-471d-bc59-225350c2918d
+metadata:
+  import_document_id: osssaysno:f3d-app/f3d:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:50+00:00'
+    id: osssaysno:github.com/f3d-app/f3d:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/f3d-app/f3d/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/f3d-app/f3d/master/README.md
+    role: repository_root_document
+    sha256: 84f8ddf90aeb15a442d745c4224a967fe92a750aa862d3e79a9ecf5787e8e3e9
+    snapshot: data/osssaysno/policies/f3d-app/f3d/root/README.md
+    status: downloaded
+    text_sha256: 84f8ddf90aeb15a442d745c4224a967fe92a750aa862d3e79a9ecf5787e8e3e9
+    url: https://raw.githubusercontent.com/f3d-app/f3d/master/README.md
+  source_archive:
+    member: texts/eea817025cb7817b390e32ad5d31dde103aea75c71330c4bee7477e8756c0cc3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 84f8ddf90aeb15a442d745c4224a967fe92a750aa862d3e79a9ecf5787e8e3e9
+  url: ''
+name: root/README.md
+path: corpus/9085e779d17747f293366cb695d0ba8c/eea817025cb7817b390e32ad5d31dde103aea75c71330c4bee7477e8756c0cc3.md

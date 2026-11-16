@@ -1,0 +1,26 @@
+hash: f32aaf3902512c4ad6f6a964f368247f19f67a048592468b2d728b32febbdf7a
+id: 15360187-518b-43f8-9ec9-bb2ca918e08f
+metadata:
+  import_document_id: osssaysno:streetcomplete/streetcomplete:root/OVERLAY_GUIDELINES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:41+00:00'
+    id: osssaysno:github.com/streetcomplete/streetcomplete:root/OVERLAY_GUIDELINES.md
+    import_slot: root/OVERLAY_GUIDELINES.md
+    raw_snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/raw/OVERLAY_GUIDELINES.md
+    resolved_url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/OVERLAY_GUIDELINES.md
+    role: repository_root_document
+    sha256: f32aaf3902512c4ad6f6a964f368247f19f67a048592468b2d728b32febbdf7a
+    snapshot: data/osssaysno/policies/streetcomplete/streetcomplete/root/OVERLAY_GUIDELINES.md
+    status: downloaded
+    text_sha256: f32aaf3902512c4ad6f6a964f368247f19f67a048592468b2d728b32febbdf7a
+    url: https://raw.githubusercontent.com/streetcomplete/StreetComplete/master/OVERLAY_GUIDELINES.md
+  source_archive:
+    member: texts/8b85050a6405084be0161117bbe41375a5fc88b635b0773dc19b5cdb673d9f36.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f32aaf3902512c4ad6f6a964f368247f19f67a048592468b2d728b32febbdf7a
+  url: ''
+name: root/OVERLAY_GUIDELINES.md
+path: corpus/050ac2b3413949c585d72c712f99899a/8b85050a6405084be0161117bbe41375a5fc88b635b0773dc19b5cdb673d9f36.md

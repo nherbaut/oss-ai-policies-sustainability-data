@@ -1,0 +1,26 @@
+hash: 8450d1e7488982125cc1dbc9efed368c5281a7112b3f4f6b58366ca91bf2df39
+id: 5464314f-84bf-4af2-beab-05be9823ebb2
+metadata:
+  import_document_id: osssaysno:nibzard/awesome-agentic-patterns:root/REDIRECTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:46+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:root/REDIRECTS.md
+    import_slot: root/REDIRECTS.md
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/raw/REDIRECTS.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/REDIRECTS.md
+    role: repository_root_document
+    sha256: 8450d1e7488982125cc1dbc9efed368c5281a7112b3f4f6b58366ca91bf2df39
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/REDIRECTS.md
+    status: downloaded
+    text_sha256: 8450d1e7488982125cc1dbc9efed368c5281a7112b3f4f6b58366ca91bf2df39
+    url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/REDIRECTS.md
+  source_archive:
+    member: texts/a0b6bb6cb32f8f73d1e47bf2c05bd2e27f87a168578996b02c776cb9af0c5601.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8450d1e7488982125cc1dbc9efed368c5281a7112b3f4f6b58366ca91bf2df39
+  url: ''
+name: root/REDIRECTS.md
+path: corpus/dd94b9ffd2f94e2fbe0e75d0714cd789/a0b6bb6cb32f8f73d1e47bf2c05bd2e27f87a168578996b02c776cb9af0c5601.md

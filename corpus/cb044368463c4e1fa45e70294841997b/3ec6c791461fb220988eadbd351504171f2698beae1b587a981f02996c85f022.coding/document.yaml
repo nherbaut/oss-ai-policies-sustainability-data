@@ -1,0 +1,26 @@
+hash: e83698e3b07ed4378f6a4053c3b1989ac3587171076fc1c89fe631cb7209f498
+id: d7ad820b-a84d-420c-9495-0873f62d11ba
+metadata:
+  import_document_id: osssaysno:ktorio/ktor:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:21+00:00'
+    id: osssaysno:github.com/ktorio/ktor:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/ktorio/ktor/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/ktorio/ktor/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: e83698e3b07ed4378f6a4053c3b1989ac3587171076fc1c89fe631cb7209f498
+    snapshot: data/osssaysno/policies/ktorio/ktor/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: e83698e3b07ed4378f6a4053c3b1989ac3587171076fc1c89fe631cb7209f498
+    url: https://raw.githubusercontent.com/ktorio/ktor/main/CHANGELOG.md
+  source_archive:
+    member: texts/3ec6c791461fb220988eadbd351504171f2698beae1b587a981f02996c85f022.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e83698e3b07ed4378f6a4053c3b1989ac3587171076fc1c89fe631cb7209f498
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/cb044368463c4e1fa45e70294841997b/3ec6c791461fb220988eadbd351504171f2698beae1b587a981f02996c85f022.md

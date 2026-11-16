@@ -1,0 +1,26 @@
+hash: 5cffb38611daeb57c497a6f250e744d273cc9249dc8564801e5c4e750414eece
+id: 0bb1f01b-893e-4c4b-ba9d-f5ddec557b16
+metadata:
+  import_document_id: osssaysno:pomerium/pomerium:root/DEBUG.MD
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:43+00:00'
+    id: osssaysno:github.com/pomerium/pomerium:root/DEBUG.MD
+    import_slot: root/DEBUG.MD
+    raw_snapshot: data/osssaysno/policies/pomerium/pomerium/root/raw/DEBUG.md
+    resolved_url: https://raw.githubusercontent.com/pomerium/pomerium/main/DEBUG.MD
+    role: repository_root_document
+    sha256: 5cffb38611daeb57c497a6f250e744d273cc9249dc8564801e5c4e750414eece
+    snapshot: data/osssaysno/policies/pomerium/pomerium/root/DEBUG.MD
+    status: downloaded
+    text_sha256: 5cffb38611daeb57c497a6f250e744d273cc9249dc8564801e5c4e750414eece
+    url: https://raw.githubusercontent.com/pomerium/pomerium/main/DEBUG.MD
+  source_archive:
+    member: texts/9c9e77f3676f7645d62a4dbfdfa4e8bf2f165e52a9e5b4a79e141da98c9a52eb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5cffb38611daeb57c497a6f250e744d273cc9249dc8564801e5c4e750414eece
+  url: ''
+name: root/DEBUG.MD
+path: corpus/674a5f06023d434bbadeacb460629b06/9c9e77f3676f7645d62a4dbfdfa4e8bf2f165e52a9e5b4a79e141da98c9a52eb.md

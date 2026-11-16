@@ -1,0 +1,26 @@
+hash: 02d853bbccd7d847c65eaea8c07bb14135b3f7904a48abf5898de90d5c75cb8e
+id: cf01e5b1-3959-470d-8135-2d0ee478a7bc
+metadata:
+  import_document_id: osssaysno:docker/compose:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:04+00:00'
+    id: osssaysno:github.com/docker/compose:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/docker/compose/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/docker/compose/main/README.md
+    role: repository_root_document
+    sha256: 02d853bbccd7d847c65eaea8c07bb14135b3f7904a48abf5898de90d5c75cb8e
+    snapshot: data/osssaysno/policies/docker/compose/root/README.md
+    status: downloaded
+    text_sha256: 02d853bbccd7d847c65eaea8c07bb14135b3f7904a48abf5898de90d5c75cb8e
+    url: https://raw.githubusercontent.com/docker/compose/main/README.md
+  source_archive:
+    member: texts/7d78bb9c4260f58f3d8fd80846784088ce60f366e68cdb86700284da5832d98d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 02d853bbccd7d847c65eaea8c07bb14135b3f7904a48abf5898de90d5c75cb8e
+  url: ''
+name: root/README.md
+path: corpus/4d323b7645fb4077a9b860ba031bfdc7/7d78bb9c4260f58f3d8fd80846784088ce60f366e68cdb86700284da5832d98d.md

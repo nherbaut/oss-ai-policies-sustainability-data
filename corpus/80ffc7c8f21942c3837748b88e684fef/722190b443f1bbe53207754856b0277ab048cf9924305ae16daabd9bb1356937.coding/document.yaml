@@ -1,0 +1,26 @@
+hash: cdcdf86e6055f8538b0cc19790024c8525f25131cddabe006ad6283eae1373b3
+id: 6cecc0e1-7f4a-40e6-a9c4-506da41782d8
+metadata:
+  import_document_id: osssaysno:code-yeongyu/oh-my-openagent:root/CLA.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:37+00:00'
+    id: osssaysno:github.com/code-yeongyu/oh-my-openagent:root/CLA.md
+    import_slot: root/CLA.md
+    raw_snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/raw/CLA.md
+    resolved_url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/CLA.md
+    role: repository_root_document
+    sha256: cdcdf86e6055f8538b0cc19790024c8525f25131cddabe006ad6283eae1373b3
+    snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/CLA.md
+    status: downloaded
+    text_sha256: cdcdf86e6055f8538b0cc19790024c8525f25131cddabe006ad6283eae1373b3
+    url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/CLA.md
+  source_archive:
+    member: texts/722190b443f1bbe53207754856b0277ab048cf9924305ae16daabd9bb1356937.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cdcdf86e6055f8538b0cc19790024c8525f25131cddabe006ad6283eae1373b3
+  url: ''
+name: root/CLA.md
+path: corpus/80ffc7c8f21942c3837748b88e684fef/722190b443f1bbe53207754856b0277ab048cf9924305ae16daabd9bb1356937.md

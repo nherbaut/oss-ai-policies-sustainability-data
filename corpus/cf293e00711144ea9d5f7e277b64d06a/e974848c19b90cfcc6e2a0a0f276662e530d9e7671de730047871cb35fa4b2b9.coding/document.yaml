@@ -1,0 +1,37 @@
+hash: f7ca9848f48082083fddafa4bb8b7eb66aa838d9973e8cb14a6d5653073b1132
+id: 236af3e1-3c33-481f-ae54-9ca2b34229b3
+metadata:
+  import_document_id: osssaysno:mrkai77/loop:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:00+00:00'
+    id: osssaysno:github.com/mrkai77/loop:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/mrkai77/loop/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/mrkai77/Loop/develop/AI_POLICY.md
+    role: ai_policy
+    sha256: f7ca9848f48082083fddafa4bb8b7eb66aa838d9973e8cb14a6d5653073b1132
+    snapshot: data/osssaysno/policies/mrkai77/loop/ai_policy.md
+    status: downloaded
+    text_sha256: f7ca9848f48082083fddafa4bb8b7eb66aa838d9973e8cb14a6d5653073b1132
+    url: https://github.com/mrkai77/Loop/blob/develop/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:30:00+00:00'
+    id: osssaysno:github.com/mrkai77/loop:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/mrkai77/loop/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/mrkai77/Loop/develop/AI_POLICY.md
+    role: repository_root_document
+    sha256: f7ca9848f48082083fddafa4bb8b7eb66aa838d9973e8cb14a6d5653073b1132
+    snapshot: data/osssaysno/policies/mrkai77/loop/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: f7ca9848f48082083fddafa4bb8b7eb66aa838d9973e8cb14a6d5653073b1132
+    url: https://raw.githubusercontent.com/mrkai77/Loop/develop/AI_POLICY.md
+  source_archive:
+    member: texts/e974848c19b90cfcc6e2a0a0f276662e530d9e7671de730047871cb35fa4b2b9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f7ca9848f48082083fddafa4bb8b7eb66aa838d9973e8cb14a6d5653073b1132
+  url: ''
+name: ai_policy.md
+path: corpus/cf293e00711144ea9d5f7e277b64d06a/e974848c19b90cfcc6e2a0a0f276662e530d9e7671de730047871cb35fa4b2b9.md

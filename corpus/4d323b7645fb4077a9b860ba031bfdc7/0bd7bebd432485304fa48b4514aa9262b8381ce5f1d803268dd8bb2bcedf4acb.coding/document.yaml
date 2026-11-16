@@ -1,0 +1,26 @@
+hash: 68694744374f7b98c6dd284aea8d657267a6f6383e9bd5580f725a3e723a7cd4
+id: 9bc5ab2a-38d5-4652-baef-af4bf442b69f
+metadata:
+  import_document_id: osssaysno:docker/compose:root/BUILDING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:04+00:00'
+    id: osssaysno:github.com/docker/compose:root/BUILDING.md
+    import_slot: root/BUILDING.md
+    raw_snapshot: data/osssaysno/policies/docker/compose/root/raw/BUILDING.md
+    resolved_url: https://raw.githubusercontent.com/docker/compose/main/BUILDING.md
+    role: repository_root_document
+    sha256: 68694744374f7b98c6dd284aea8d657267a6f6383e9bd5580f725a3e723a7cd4
+    snapshot: data/osssaysno/policies/docker/compose/root/BUILDING.md
+    status: downloaded
+    text_sha256: 68694744374f7b98c6dd284aea8d657267a6f6383e9bd5580f725a3e723a7cd4
+    url: https://raw.githubusercontent.com/docker/compose/main/BUILDING.md
+  source_archive:
+    member: texts/0bd7bebd432485304fa48b4514aa9262b8381ce5f1d803268dd8bb2bcedf4acb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 68694744374f7b98c6dd284aea8d657267a6f6383e9bd5580f725a3e723a7cd4
+  url: ''
+name: root/BUILDING.md
+path: corpus/4d323b7645fb4077a9b860ba031bfdc7/0bd7bebd432485304fa48b4514aa9262b8381ce5f1d803268dd8bb2bcedf4acb.md

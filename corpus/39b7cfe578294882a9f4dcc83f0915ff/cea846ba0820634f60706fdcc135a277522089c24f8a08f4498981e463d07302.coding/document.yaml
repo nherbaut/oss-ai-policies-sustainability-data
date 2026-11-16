@@ -1,0 +1,37 @@
+hash: 60e2409b3120d707fa0ea3c5424bc0d50e80cb79019f520d21452e0db62ae1d9
+id: 1a7327b1-2061-4958-88ea-15d7d704a001
+metadata:
+  import_document_id: osssaysno:lmcache/lmcache:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:48+00:00'
+    id: osssaysno:github.com/lmcache/lmcache:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/lmcache/lmcache/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/LMCache/LMCache/dev/AGENTS.md
+    role: repository_root_document
+    sha256: 60e2409b3120d707fa0ea3c5424bc0d50e80cb79019f520d21452e0db62ae1d9
+    snapshot: data/osssaysno/policies/lmcache/lmcache/root/AGENTS.md
+    status: downloaded
+    text_sha256: 60e2409b3120d707fa0ea3c5424bc0d50e80cb79019f520d21452e0db62ae1d9
+    url: https://raw.githubusercontent.com/LMCache/LMCache/dev/AGENTS.md
+  - accessed_at: '2026-11-15T23:29:48+00:00'
+    id: osssaysno:github.com/lmcache/lmcache:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/lmcache/lmcache/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/LMCache/LMCache/dev/AGENTS.md
+    role: repository_root_document
+    sha256: 60e2409b3120d707fa0ea3c5424bc0d50e80cb79019f520d21452e0db62ae1d9
+    snapshot: data/osssaysno/policies/lmcache/lmcache/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 60e2409b3120d707fa0ea3c5424bc0d50e80cb79019f520d21452e0db62ae1d9
+    url: https://raw.githubusercontent.com/LMCache/LMCache/dev/CLAUDE.md
+  source_archive:
+    member: texts/cea846ba0820634f60706fdcc135a277522089c24f8a08f4498981e463d07302.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 60e2409b3120d707fa0ea3c5424bc0d50e80cb79019f520d21452e0db62ae1d9
+  url: ''
+name: root/AGENTS.md
+path: corpus/39b7cfe578294882a9f4dcc83f0915ff/cea846ba0820634f60706fdcc135a277522089c24f8a08f4498981e463d07302.md

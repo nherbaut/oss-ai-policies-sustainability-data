@@ -1,0 +1,26 @@
+hash: 41b78bcddc966200b1d34d36555e82fc03a026a0b4e5592f274dc8c4e426199c
+id: 14adc196-511b-4937-be74-11e6fcd0c413
+metadata:
+  import_document_id: osssaysno:zealdocs/zeal:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:37+00:00'
+    id: osssaysno:github.com/zealdocs/zeal:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/zealdocs/zeal/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/zealdocs/zeal/main/AGENTS.md
+    role: repository_root_document
+    sha256: 41b78bcddc966200b1d34d36555e82fc03a026a0b4e5592f274dc8c4e426199c
+    snapshot: data/osssaysno/policies/zealdocs/zeal/root/AGENTS.md
+    status: downloaded
+    text_sha256: 41b78bcddc966200b1d34d36555e82fc03a026a0b4e5592f274dc8c4e426199c
+    url: https://raw.githubusercontent.com/zealdocs/zeal/main/AGENTS.md
+  source_archive:
+    member: texts/39a6358eb2f85ab4a7008f40f40a45ea5df28ef69813ad103ec042c91b4fb048.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 41b78bcddc966200b1d34d36555e82fc03a026a0b4e5592f274dc8c4e426199c
+  url: ''
+name: root/AGENTS.md
+path: corpus/33f3392e3b2f4980ab65fc9fa85944a8/39a6358eb2f85ab4a7008f40f40a45ea5df28ef69813ad103ec042c91b4fb048.md

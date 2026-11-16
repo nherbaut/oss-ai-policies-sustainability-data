@@ -1,0 +1,26 @@
+hash: fc8a867bf09f319b9288746ab0148faff2e92ed39cd702252ce59161e576c019
+id: c174915b-f8c4-4a7d-ae30-dc24da1687b6
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:34+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/README.md
+    role: repository_root_document
+    sha256: fc8a867bf09f319b9288746ab0148faff2e92ed39cd702252ce59161e576c019
+    snapshot: data/osssaysno/policies/grafana/grafana/root/README.md
+    status: downloaded
+    text_sha256: fc8a867bf09f319b9288746ab0148faff2e92ed39cd702252ce59161e576c019
+    url: https://raw.githubusercontent.com/grafana/grafana/main/README.md
+  source_archive:
+    member: texts/b6fdebcb1cf15455b1d70250df06fc660666da7b342a4e74f1d05e4184ef3d2a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fc8a867bf09f319b9288746ab0148faff2e92ed39cd702252ce59161e576c019
+  url: ''
+name: root/README.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/b6fdebcb1cf15455b1d70250df06fc660666da7b342a4e74f1d05e4184ef3d2a.md

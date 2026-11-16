@@ -1,0 +1,26 @@
+hash: 8d0abdc23937299326e67c639fadac89769fd8f722516be36d40ef209128f968
+id: 1a3b38ca-bec0-471c-9d4d-f2ad2dd44967
+metadata:
+  import_document_id: osssaysno:eigent-ai/eigent:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:12+00:00'
+    id: osssaysno:github.com/eigent-ai/eigent:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/eigent-ai/eigent/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/eigent-ai/eigent/main/SECURITY.md
+    role: repository_root_document
+    sha256: 8d0abdc23937299326e67c639fadac89769fd8f722516be36d40ef209128f968
+    snapshot: data/osssaysno/policies/eigent-ai/eigent/root/SECURITY.md
+    status: downloaded
+    text_sha256: 8d0abdc23937299326e67c639fadac89769fd8f722516be36d40ef209128f968
+    url: https://raw.githubusercontent.com/eigent-ai/eigent/main/SECURITY.md
+  source_archive:
+    member: texts/0c5c34a56f9a33be51b4dedd6bcd8eae21a48182293c782d802614c7dd8e9416.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8d0abdc23937299326e67c639fadac89769fd8f722516be36d40ef209128f968
+  url: ''
+name: root/SECURITY.md
+path: corpus/475a7eeac2ff4de58c61a69be0f918b6/0c5c34a56f9a33be51b4dedd6bcd8eae21a48182293c782d802614c7dd8e9416.md

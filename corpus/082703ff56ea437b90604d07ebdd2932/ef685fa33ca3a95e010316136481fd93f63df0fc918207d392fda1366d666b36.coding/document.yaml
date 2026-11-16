@@ -1,0 +1,26 @@
+hash: b447bea499b1e457d4929aaad53c54c10e6856d5f655cb40d71666952bd03051
+id: 46a83d36-3c4b-4b10-99c1-213c3b2462ef
+metadata:
+  import_document_id: osssaysno:elastic/kibana:root/FAQ.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:41+00:00'
+    id: osssaysno:github.com/elastic/kibana:root/FAQ.md
+    import_slot: root/FAQ.md
+    raw_snapshot: data/osssaysno/policies/elastic/kibana/root/raw/FAQ.md
+    resolved_url: https://raw.githubusercontent.com/elastic/kibana/main/FAQ.md
+    role: repository_root_document
+    sha256: b447bea499b1e457d4929aaad53c54c10e6856d5f655cb40d71666952bd03051
+    snapshot: data/osssaysno/policies/elastic/kibana/root/FAQ.md
+    status: downloaded
+    text_sha256: b447bea499b1e457d4929aaad53c54c10e6856d5f655cb40d71666952bd03051
+    url: https://raw.githubusercontent.com/elastic/kibana/main/FAQ.md
+  source_archive:
+    member: texts/ef685fa33ca3a95e010316136481fd93f63df0fc918207d392fda1366d666b36.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b447bea499b1e457d4929aaad53c54c10e6856d5f655cb40d71666952bd03051
+  url: ''
+name: root/FAQ.md
+path: corpus/082703ff56ea437b90604d07ebdd2932/ef685fa33ca3a95e010316136481fd93f63df0fc918207d392fda1366d666b36.md

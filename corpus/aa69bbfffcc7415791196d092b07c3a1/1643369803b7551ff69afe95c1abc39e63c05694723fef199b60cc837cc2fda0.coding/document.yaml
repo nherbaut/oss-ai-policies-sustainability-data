@@ -1,0 +1,26 @@
+hash: 8d54200434f0ecfcca30e08af093e5be3bfb64d8ad542eaa1164c21cd5ed8da2
+id: 04842f90-5093-43d4-bcd1-412761a6a61b
+metadata:
+  import_document_id: osssaysno:scikit-image/scikit-image:root/CONTRIBUTORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:19+00:00'
+    id: osssaysno:github.com/scikit-image/scikit-image:root/CONTRIBUTORS.md
+    import_slot: root/CONTRIBUTORS.md
+    raw_snapshot: data/osssaysno/policies/scikit-image/scikit-image/root/raw/CONTRIBUTORS.md
+    resolved_url: https://raw.githubusercontent.com/scikit-image/scikit-image/main/CONTRIBUTORS.md
+    role: repository_root_document
+    sha256: cebf7255f0b4a776b23c2cd9296d6ccaafb6c7e44abe3ae5fa0cb1d1012bf873
+    snapshot: data/osssaysno/policies/scikit-image/scikit-image/root/CONTRIBUTORS.md
+    status: downloaded
+    text_sha256: 8d54200434f0ecfcca30e08af093e5be3bfb64d8ad542eaa1164c21cd5ed8da2
+    url: https://raw.githubusercontent.com/scikit-image/scikit-image/main/CONTRIBUTORS.md
+  source_archive:
+    member: texts/1643369803b7551ff69afe95c1abc39e63c05694723fef199b60cc837cc2fda0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8d54200434f0ecfcca30e08af093e5be3bfb64d8ad542eaa1164c21cd5ed8da2
+  url: ''
+name: root/CONTRIBUTORS.md
+path: corpus/aa69bbfffcc7415791196d092b07c3a1/1643369803b7551ff69afe95c1abc39e63c05694723fef199b60cc837cc2fda0.md

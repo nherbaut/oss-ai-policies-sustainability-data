@@ -1,0 +1,26 @@
+hash: 2af6629c480325ab17aec0dcc0a8b062c9e76844f27c1bf5efaea6691278e880
+id: b6de3384-7ea2-49e0-afd8-c3814021b969
+metadata:
+  import_document_id: osssaysno:veloren/veloren:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:43+00:00'
+    id: osssaysno:github.com/veloren/veloren:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/veloren/veloren/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/veloren/veloren/master/README.md
+    role: repository_root_document
+    sha256: 2af6629c480325ab17aec0dcc0a8b062c9e76844f27c1bf5efaea6691278e880
+    snapshot: data/osssaysno/policies/veloren/veloren/root/README.md
+    status: downloaded
+    text_sha256: 2af6629c480325ab17aec0dcc0a8b062c9e76844f27c1bf5efaea6691278e880
+    url: https://raw.githubusercontent.com/veloren/veloren/master/README.md
+  source_archive:
+    member: texts/68eefe0581af3da91b32f1c60cb6e23c37cdf7347a7aa9c72577c6aab21ec371.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2af6629c480325ab17aec0dcc0a8b062c9e76844f27c1bf5efaea6691278e880
+  url: ''
+name: root/README.md
+path: corpus/99d6f495dd9d4f33bf3540a518d359ca/68eefe0581af3da91b32f1c60cb6e23c37cdf7347a7aa9c72577c6aab21ec371.md

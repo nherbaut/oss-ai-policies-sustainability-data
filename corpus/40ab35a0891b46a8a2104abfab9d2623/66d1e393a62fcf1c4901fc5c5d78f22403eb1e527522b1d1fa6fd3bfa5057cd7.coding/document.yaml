@@ -1,0 +1,26 @@
+hash: fbbbe85c3af152c300dff442178fe9e49d2c8bec5ece0475c3020e20528d1cdc
+id: 7ef9c5d0-4dbb-4d82-936b-ec8db7c63cb7
+metadata:
+  import_document_id: osssaysno:analogj/scrutiny:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:16+00:00'
+    id: osssaysno:github.com/analogj/scrutiny:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/analogj/scrutiny/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/README.md
+    role: repository_root_document
+    sha256: fbbbe85c3af152c300dff442178fe9e49d2c8bec5ece0475c3020e20528d1cdc
+    snapshot: data/osssaysno/policies/analogj/scrutiny/root/README.md
+    status: downloaded
+    text_sha256: fbbbe85c3af152c300dff442178fe9e49d2c8bec5ece0475c3020e20528d1cdc
+    url: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/README.md
+  source_archive:
+    member: texts/66d1e393a62fcf1c4901fc5c5d78f22403eb1e527522b1d1fa6fd3bfa5057cd7.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fbbbe85c3af152c300dff442178fe9e49d2c8bec5ece0475c3020e20528d1cdc
+  url: ''
+name: root/README.md
+path: corpus/40ab35a0891b46a8a2104abfab9d2623/66d1e393a62fcf1c4901fc5c5d78f22403eb1e527522b1d1fa6fd3bfa5057cd7.md

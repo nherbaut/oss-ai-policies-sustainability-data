@@ -1,0 +1,26 @@
+hash: aaf6a41acd5f1e9f20a683ce9844ca50005524f549578bccbc57a56545d9f18c
+id: 0150afb8-0b0d-40bc-bca5-611ba29bb00b
+metadata:
+  import_document_id: osssaysno:jaegertracing/jaeger:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:28+00:00'
+    id: osssaysno:github.com/jaegertracing/jaeger:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: aaf6a41acd5f1e9f20a683ce9844ca50005524f549578bccbc57a56545d9f18c
+    snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: aaf6a41acd5f1e9f20a683ce9844ca50005524f549578bccbc57a56545d9f18c
+    url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/CHANGELOG.md
+  source_archive:
+    member: texts/813797043d44028fdbcfb12063cb37cf91843e89bb754309834bc64b8cf5d70f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: aaf6a41acd5f1e9f20a683ce9844ca50005524f549578bccbc57a56545d9f18c
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/d4874f79daba4aeb9c2061c4f44e4aa4/813797043d44028fdbcfb12063cb37cf91843e89bb754309834bc64b8cf5d70f.md

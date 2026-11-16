@@ -1,0 +1,26 @@
+hash: 6effa2d25d194900d06b89cc392ee33d1962feeac0ca71f3ecf7a005873d12a3
+id: beb5aec2-7e33-4553-adef-898bd516f273
+metadata:
+  import_document_id: osssaysno:ankidroid/anki-android:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:56+00:00'
+    id: osssaysno:github.com/ankidroid/anki-android:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/ankidroid/anki-android/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/ankidroid/Anki-Android/main/SECURITY.md
+    role: repository_root_document
+    sha256: 6effa2d25d194900d06b89cc392ee33d1962feeac0ca71f3ecf7a005873d12a3
+    snapshot: data/osssaysno/policies/ankidroid/anki-android/root/SECURITY.md
+    status: downloaded
+    text_sha256: 6effa2d25d194900d06b89cc392ee33d1962feeac0ca71f3ecf7a005873d12a3
+    url: https://raw.githubusercontent.com/ankidroid/Anki-Android/main/SECURITY.md
+  source_archive:
+    member: texts/36e095e8a0dd1523bd3823a8baa2e024fcae8fa72f5e00dfbe2ccc5e2de3a6ba.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6effa2d25d194900d06b89cc392ee33d1962feeac0ca71f3ecf7a005873d12a3
+  url: ''
+name: root/SECURITY.md
+path: corpus/1ddf5182b1604a9998d8888d4fdec3bc/36e095e8a0dd1523bd3823a8baa2e024fcae8fa72f5e00dfbe2ccc5e2de3a6ba.md

@@ -1,0 +1,26 @@
+hash: 91a975e1d2af7e4b66e99483cb5fd470fb2383bc7ae7aeb9975d44cb62578dbf
+id: cccf6037-f099-4a42-9a8b-305278b724dd
+metadata:
+  import_document_id: osssaysno:pgmq/pgmq:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:23+00:00'
+    id: osssaysno:github.com/pgmq/pgmq:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/pgmq/pgmq/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/pgmq/pgmq/main/SECURITY.md
+    role: repository_root_document
+    sha256: 91a975e1d2af7e4b66e99483cb5fd470fb2383bc7ae7aeb9975d44cb62578dbf
+    snapshot: data/osssaysno/policies/pgmq/pgmq/root/SECURITY.md
+    status: downloaded
+    text_sha256: 91a975e1d2af7e4b66e99483cb5fd470fb2383bc7ae7aeb9975d44cb62578dbf
+    url: https://raw.githubusercontent.com/pgmq/pgmq/main/SECURITY.md
+  source_archive:
+    member: texts/f4deca9a1a38cf0f46329da823a849e4dd2bed741871c1d6afac162cdc7ef835.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 91a975e1d2af7e4b66e99483cb5fd470fb2383bc7ae7aeb9975d44cb62578dbf
+  url: ''
+name: root/SECURITY.md
+path: corpus/13d6ecc485f14ac6993fcdb455b09859/f4deca9a1a38cf0f46329da823a849e4dd2bed741871c1d6afac162cdc7ef835.md

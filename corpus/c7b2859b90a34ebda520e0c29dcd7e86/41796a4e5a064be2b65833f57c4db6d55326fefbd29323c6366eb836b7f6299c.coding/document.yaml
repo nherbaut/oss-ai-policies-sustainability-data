@@ -1,0 +1,26 @@
+hash: 7c13fb6af424113479816c263fbae5f5bed81b68deaff6918ab9b3fd6f0f8925
+id: 85a38fa8-0455-460a-9f76-9260f12e0af8
+metadata:
+  import_document_id: osssaysno:vespa-engine/vespa:root/README-cmake.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:04+00:00'
+    id: osssaysno:github.com/vespa-engine/vespa:root/README-cmake.md
+    import_slot: root/README-cmake.md
+    raw_snapshot: data/osssaysno/policies/vespa-engine/vespa/root/raw/README-cmake.md
+    resolved_url: https://raw.githubusercontent.com/vespa-engine/vespa/master/README-cmake.md
+    role: repository_root_document
+    sha256: 7c13fb6af424113479816c263fbae5f5bed81b68deaff6918ab9b3fd6f0f8925
+    snapshot: data/osssaysno/policies/vespa-engine/vespa/root/README-cmake.md
+    status: downloaded
+    text_sha256: 7c13fb6af424113479816c263fbae5f5bed81b68deaff6918ab9b3fd6f0f8925
+    url: https://raw.githubusercontent.com/vespa-engine/vespa/master/README-cmake.md
+  source_archive:
+    member: texts/41796a4e5a064be2b65833f57c4db6d55326fefbd29323c6366eb836b7f6299c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7c13fb6af424113479816c263fbae5f5bed81b68deaff6918ab9b3fd6f0f8925
+  url: ''
+name: root/README-cmake.md
+path: corpus/c7b2859b90a34ebda520e0c29dcd7e86/41796a4e5a064be2b65833f57c4db6d55326fefbd29323c6366eb836b7f6299c.md

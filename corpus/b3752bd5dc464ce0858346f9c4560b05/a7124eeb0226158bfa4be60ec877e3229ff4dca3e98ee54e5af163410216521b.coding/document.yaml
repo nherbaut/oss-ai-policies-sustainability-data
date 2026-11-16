@@ -1,0 +1,26 @@
+hash: fadfe064ef28415d050bac8a401559794f430a4e95de4c5654fce83da6198747
+id: 2644f8ca-eb72-4a2f-beda-bb38f2669535
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:root/docker-ipv6-support.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:21+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/docker-ipv6-support.md
+    import_slot: root/docker-ipv6-support.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/docker-ipv6-support.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/docker-ipv6-support.md
+    role: repository_root_document
+    sha256: fadfe064ef28415d050bac8a401559794f430a4e95de4c5654fce83da6198747
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/docker-ipv6-support.md
+    status: downloaded
+    text_sha256: fadfe064ef28415d050bac8a401559794f430a4e95de4c5654fce83da6198747
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/docker-ipv6-support.md
+  source_archive:
+    member: texts/a7124eeb0226158bfa4be60ec877e3229ff4dca3e98ee54e5af163410216521b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fadfe064ef28415d050bac8a401559794f430a4e95de4c5654fce83da6198747
+  url: ''
+name: root/docker-ipv6-support.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/a7124eeb0226158bfa4be60ec877e3229ff4dca3e98ee54e5af163410216521b.md

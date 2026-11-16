@@ -1,0 +1,37 @@
+hash: d0a6dc1be6a0dc9b5ce353db6c0ddf4832a9aa56b50b0f0d4ad09bc7b2ca02b0
+id: 7c4b23e5-085d-4c58-b7d9-1d13e67b7d66
+metadata:
+  import_document_id: osssaysno:langchain-ai/langchainjs:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:58+00:00'
+    id: osssaysno:github.com/langchain-ai/langchainjs:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/langchain-ai/langchainjs/raw/agent.md
+    resolved_url: https://raw.githubusercontent.com/langchain-ai/langchainjs/main/AGENTS.md
+    role: agent
+    sha256: d0a6dc1be6a0dc9b5ce353db6c0ddf4832a9aa56b50b0f0d4ad09bc7b2ca02b0
+    snapshot: data/osssaysno/policies/langchain-ai/langchainjs/agent.md
+    status: downloaded
+    text_sha256: d0a6dc1be6a0dc9b5ce353db6c0ddf4832a9aa56b50b0f0d4ad09bc7b2ca02b0
+    url: https://github.com/langchain-ai/langchainjs/blob/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:28:58+00:00'
+    id: osssaysno:github.com/langchain-ai/langchainjs:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/langchain-ai/langchainjs/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/langchain-ai/langchainjs/main/AGENTS.md
+    role: repository_root_document
+    sha256: d0a6dc1be6a0dc9b5ce353db6c0ddf4832a9aa56b50b0f0d4ad09bc7b2ca02b0
+    snapshot: data/osssaysno/policies/langchain-ai/langchainjs/root/AGENTS.md
+    status: downloaded
+    text_sha256: d0a6dc1be6a0dc9b5ce353db6c0ddf4832a9aa56b50b0f0d4ad09bc7b2ca02b0
+    url: https://raw.githubusercontent.com/langchain-ai/langchainjs/main/AGENTS.md
+  source_archive:
+    member: texts/e4756c24a40bfdccc7c67937428fb56eaaefe592472e24cc8a55f0b18577a294.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d0a6dc1be6a0dc9b5ce353db6c0ddf4832a9aa56b50b0f0d4ad09bc7b2ca02b0
+  url: ''
+name: agent.md
+path: corpus/d0348a16749e4fb684bf9c0785a95ae0/e4756c24a40bfdccc7c67937428fb56eaaefe592472e24cc8a55f0b18577a294.md

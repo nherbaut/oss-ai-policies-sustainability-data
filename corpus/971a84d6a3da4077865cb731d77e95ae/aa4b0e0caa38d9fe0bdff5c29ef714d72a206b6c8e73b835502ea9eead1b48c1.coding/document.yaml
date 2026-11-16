@@ -1,0 +1,26 @@
+hash: 6aef14f84b1b407760495a60f4a08fedb1d760e00db60a2da53f97d4a9795648
+id: b41c1dc3-86b5-4b35-9447-22f8491ee31b
+metadata:
+  import_document_id: osssaysno:pyrefly-org/pyrefly:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:59+00:00'
+    id: osssaysno:github.com/pyrefly-org/pyrefly:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 6aef14f84b1b407760495a60f4a08fedb1d760e00db60a2da53f97d4a9795648
+    snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 6aef14f84b1b407760495a60f4a08fedb1d760e00db60a2da53f97d4a9795648
+    url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/aa4b0e0caa38d9fe0bdff5c29ef714d72a206b6c8e73b835502ea9eead1b48c1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6aef14f84b1b407760495a60f4a08fedb1d760e00db60a2da53f97d4a9795648
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/971a84d6a3da4077865cb731d77e95ae/aa4b0e0caa38d9fe0bdff5c29ef714d72a206b6c8e73b835502ea9eead1b48c1.md

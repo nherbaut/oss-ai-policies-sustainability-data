@@ -1,0 +1,26 @@
+hash: 2196739eebbc0decf84af0a5a55d06732b000ca2270cf9ded3c8d9f9274aa7b0
+id: 26cfdb4c-0ab8-4c08-ac16-15f673b323fe
+metadata:
+  import_document_id: osssaysno:rukamori/archivetune:root/README_JA.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:37+00:00'
+    id: osssaysno:github.com/rukamori/archivetune:root/README_JA.md
+    import_slot: root/README_JA.md
+    raw_snapshot: data/osssaysno/policies/rukamori/archivetune/root/raw/README_JA.md
+    resolved_url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/README_JA.md
+    role: repository_root_document
+    sha256: 2196739eebbc0decf84af0a5a55d06732b000ca2270cf9ded3c8d9f9274aa7b0
+    snapshot: data/osssaysno/policies/rukamori/archivetune/root/README_JA.md
+    status: downloaded
+    text_sha256: 2196739eebbc0decf84af0a5a55d06732b000ca2270cf9ded3c8d9f9274aa7b0
+    url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/README_JA.md
+  source_archive:
+    member: texts/62f7c69797cf2bcc76a8ba28664346b90efee152b08ee9037c0e4fc3e61d2c37.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2196739eebbc0decf84af0a5a55d06732b000ca2270cf9ded3c8d9f9274aa7b0
+  url: ''
+name: root/README_JA.md
+path: corpus/8b2896af63d64dcd8b27a24a860b8000/62f7c69797cf2bcc76a8ba28664346b90efee152b08ee9037c0e4fc3e61d2c37.md

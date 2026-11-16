@@ -1,0 +1,26 @@
+hash: e5643bb9052213e6e94893948ef39e211b926d445af3d5be01f054083dc73f5e
+id: 5b188523-7d2e-442c-a25f-c11a59442edd
+metadata:
+  import_document_id: osssaysno:modelcontextprotocol/modelcontextprotocol:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:38+00:00'
+    id: osssaysno:github.com/modelcontextprotocol/modelcontextprotocol:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/MAINTAINERS.md
+    role: repository_root_document
+    sha256: e5643bb9052213e6e94893948ef39e211b926d445af3d5be01f054083dc73f5e
+    snapshot: data/osssaysno/policies/modelcontextprotocol/modelcontextprotocol/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: e5643bb9052213e6e94893948ef39e211b926d445af3d5be01f054083dc73f5e
+    url: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/MAINTAINERS.md
+  source_archive:
+    member: texts/64e802fce735849c157068ae08efe6738df1ddf1d37a52b76d41985f692d677c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e5643bb9052213e6e94893948ef39e211b926d445af3d5be01f054083dc73f5e
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/b5d4598700cc49f09b9d1009e0ab6ac5/64e802fce735849c157068ae08efe6738df1ddf1d37a52b76d41985f692d677c.md

@@ -1,0 +1,26 @@
+hash: 07c7731c3fdec27073610fd628cdd51b5097935ef4b048ee931ef487a810d3e8
+id: 1d04740e-b23f-476c-a061-125a252a5f0a
+metadata:
+  import_document_id: osssaysno:grpc/grpc-rust:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:46+00:00'
+    id: osssaysno:github.com/grpc/grpc-rust:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-rust/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-rust/master/README.md
+    role: repository_root_document
+    sha256: 07c7731c3fdec27073610fd628cdd51b5097935ef4b048ee931ef487a810d3e8
+    snapshot: data/osssaysno/policies/grpc/grpc-rust/root/README.md
+    status: downloaded
+    text_sha256: 07c7731c3fdec27073610fd628cdd51b5097935ef4b048ee931ef487a810d3e8
+    url: https://raw.githubusercontent.com/grpc/grpc-rust/master/README.md
+  source_archive:
+    member: texts/eaee2c7feaf235bd50c2944876ed9c256428a7223396536f42a93d763bfc4e6b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 07c7731c3fdec27073610fd628cdd51b5097935ef4b048ee931ef487a810d3e8
+  url: ''
+name: root/README.md
+path: corpus/c2f859f455be4e5294f59d1a1d0008fa/eaee2c7feaf235bd50c2944876ed9c256428a7223396536f42a93d763bfc4e6b.md

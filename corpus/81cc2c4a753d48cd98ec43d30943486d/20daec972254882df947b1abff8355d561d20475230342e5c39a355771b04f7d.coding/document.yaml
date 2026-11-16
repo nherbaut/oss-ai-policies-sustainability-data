@@ -1,0 +1,26 @@
+hash: 04fd46633f7bc92e5f764a497ecabb450c27399dc3e3d871ec4adfb732851bc8
+id: 48599182-48a8-41dd-ad48-f219481f8ade
+metadata:
+  import_document_id: osssaysno:nvidia/openshell:root/WINDOWS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:51+00:00'
+    id: osssaysno:github.com/nvidia/openshell:root/WINDOWS.md
+    import_slot: root/WINDOWS.md
+    raw_snapshot: data/osssaysno/policies/nvidia/openshell/root/raw/WINDOWS.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/WINDOWS.md
+    role: repository_root_document
+    sha256: 04fd46633f7bc92e5f764a497ecabb450c27399dc3e3d871ec4adfb732851bc8
+    snapshot: data/osssaysno/policies/nvidia/openshell/root/WINDOWS.md
+    status: downloaded
+    text_sha256: 04fd46633f7bc92e5f764a497ecabb450c27399dc3e3d871ec4adfb732851bc8
+    url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/WINDOWS.md
+  source_archive:
+    member: texts/20daec972254882df947b1abff8355d561d20475230342e5c39a355771b04f7d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 04fd46633f7bc92e5f764a497ecabb450c27399dc3e3d871ec4adfb732851bc8
+  url: ''
+name: root/WINDOWS.md
+path: corpus/81cc2c4a753d48cd98ec43d30943486d/20daec972254882df947b1abff8355d561d20475230342e5c39a355771b04f7d.md

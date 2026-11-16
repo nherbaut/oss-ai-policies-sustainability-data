@@ -1,0 +1,37 @@
+hash: 7f19c874d3cad414c40c7b961d89da4a356e7cabda6de8a6beb22adcee7bb54e
+id: 8f5770bd-7d65-47c4-a29a-7eede8d60b4d
+metadata:
+  import_document_id: osssaysno:google/elephant-goldfish-model:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:52+00:00'
+    id: osssaysno:github.com/google/elephant-goldfish-model:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/google/elephant-goldfish-model/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 7f19c874d3cad414c40c7b961d89da4a356e7cabda6de8a6beb22adcee7bb54e
+    snapshot: data/osssaysno/policies/google/elephant-goldfish-model/ai_policy.md
+    status: downloaded
+    text_sha256: 7f19c874d3cad414c40c7b961d89da4a356e7cabda6de8a6beb22adcee7bb54e
+    url: https://github.com/google/elephant-goldfish-model/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:37:26+00:00'
+    id: osssaysno:github.com/google/elephant-goldfish-model:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/google/elephant-goldfish-model/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 7f19c874d3cad414c40c7b961d89da4a356e7cabda6de8a6beb22adcee7bb54e
+    snapshot: data/osssaysno/policies/google/elephant-goldfish-model/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 7f19c874d3cad414c40c7b961d89da4a356e7cabda6de8a6beb22adcee7bb54e
+    url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/AI_POLICY.md
+  source_archive:
+    member: texts/a5b8a94b7f074c414e3748154ec9accdbd5602e37808d01f8e0a51c97e373e27.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7f19c874d3cad414c40c7b961d89da4a356e7cabda6de8a6beb22adcee7bb54e
+  url: ''
+name: ai_policy.md
+path: corpus/76d4b344a9f444fd880e6ffcdfc6209e/a5b8a94b7f074c414e3748154ec9accdbd5602e37808d01f8e0a51c97e373e27.md

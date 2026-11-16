@@ -1,0 +1,26 @@
+hash: 9dfbe9648dbc5a31677bda175a0eb5e577b32d499d6dfaf2fbb09b4a5bd63d1a
+id: 7f0b7bde-a3ca-4077-b9d6-f429d5050e6e
+metadata:
+  import_document_id: osssaysno:docker/compose:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:04+00:00'
+    id: osssaysno:github.com/docker/compose:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/docker/compose/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/docker/compose/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 9dfbe9648dbc5a31677bda175a0eb5e577b32d499d6dfaf2fbb09b4a5bd63d1a
+    snapshot: data/osssaysno/policies/docker/compose/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 9dfbe9648dbc5a31677bda175a0eb5e577b32d499d6dfaf2fbb09b4a5bd63d1a
+    url: https://raw.githubusercontent.com/docker/compose/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/4ac18db1b62153b88494578755569403a65090dd61da35b99c0b424ee8320772.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9dfbe9648dbc5a31677bda175a0eb5e577b32d499d6dfaf2fbb09b4a5bd63d1a
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/4d323b7645fb4077a9b860ba031bfdc7/4ac18db1b62153b88494578755569403a65090dd61da35b99c0b424ee8320772.md

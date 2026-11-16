@@ -1,0 +1,37 @@
+hash: aca184b2a826a46333606aaac9e4863fea41f07d47a058ae1ea81acbc6156b94
+id: 99047f03-2516-414e-ae50-98073624202d
+metadata:
+  import_document_id: osssaysno:magnitudedev/magnitude:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:43+00:00'
+    id: osssaysno:github.com/magnitudedev/magnitude:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/magnitudedev/magnitude/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/magnitudedev/magnitude/main/CONTRIBUTING.md
+    role: contributing
+    sha256: aca184b2a826a46333606aaac9e4863fea41f07d47a058ae1ea81acbc6156b94
+    snapshot: data/osssaysno/policies/magnitudedev/magnitude/contributing.md
+    status: downloaded
+    text_sha256: aca184b2a826a46333606aaac9e4863fea41f07d47a058ae1ea81acbc6156b94
+    url: https://github.com/magnitudedev/magnitude/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:39+00:00'
+    id: osssaysno:github.com/magnitudedev/magnitude:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/magnitudedev/magnitude/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/magnitudedev/magnitude/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: aca184b2a826a46333606aaac9e4863fea41f07d47a058ae1ea81acbc6156b94
+    snapshot: data/osssaysno/policies/magnitudedev/magnitude/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: aca184b2a826a46333606aaac9e4863fea41f07d47a058ae1ea81acbc6156b94
+    url: https://raw.githubusercontent.com/magnitudedev/magnitude/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/fcf34200447a5e2c6e0c0b16363407f495742235aafaea9fa7d9765674ce2bb0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: aca184b2a826a46333606aaac9e4863fea41f07d47a058ae1ea81acbc6156b94
+  url: ''
+name: contributing.md
+path: corpus/c11d31c92bfa4743b70483dd2389cd75/fcf34200447a5e2c6e0c0b16363407f495742235aafaea9fa7d9765674ce2bb0.md

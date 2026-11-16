@@ -1,0 +1,48 @@
+hash: 0a745412a1a2315ef5d01bb8240a05a00864c8049401977813eef1014e457b84
+id: 89128770-9459-4484-9119-b90d7a38b898
+metadata:
+  import_document_id: osssaysno:mongodb/node-mongodb-native:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:26+00:00'
+    id: osssaysno:github.com/mongodb/node-mongodb-native:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/raw/agent.md
+    resolved_url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/AGENTS.md
+    role: agent
+    sha256: 0a745412a1a2315ef5d01bb8240a05a00864c8049401977813eef1014e457b84
+    snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/agent.md
+    status: downloaded
+    text_sha256: 0a745412a1a2315ef5d01bb8240a05a00864c8049401977813eef1014e457b84
+    url: https://github.com/mongodb/node-mongodb-native/blob/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:35:20+00:00'
+    id: osssaysno:github.com/mongodb/node-mongodb-native:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/AGENTS.md
+    role: repository_root_document
+    sha256: 0a745412a1a2315ef5d01bb8240a05a00864c8049401977813eef1014e457b84
+    snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/AGENTS.md
+    status: downloaded
+    text_sha256: 0a745412a1a2315ef5d01bb8240a05a00864c8049401977813eef1014e457b84
+    url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:35:20+00:00'
+    id: osssaysno:github.com/mongodb/node-mongodb-native:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/AGENTS.md
+    role: repository_root_document
+    sha256: 0a745412a1a2315ef5d01bb8240a05a00864c8049401977813eef1014e457b84
+    snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 0a745412a1a2315ef5d01bb8240a05a00864c8049401977813eef1014e457b84
+    url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/CLAUDE.md
+  source_archive:
+    member: texts/e5ac56aa77dee90021d3fe35a45cccd78c3145833cca825bdd6116e06ef006bd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0a745412a1a2315ef5d01bb8240a05a00864c8049401977813eef1014e457b84
+  url: ''
+name: agent.md
+path: corpus/aafe5c7bd4f242d4b7243756b141018e/e5ac56aa77dee90021d3fe35a45cccd78c3145833cca825bdd6116e06ef006bd.md

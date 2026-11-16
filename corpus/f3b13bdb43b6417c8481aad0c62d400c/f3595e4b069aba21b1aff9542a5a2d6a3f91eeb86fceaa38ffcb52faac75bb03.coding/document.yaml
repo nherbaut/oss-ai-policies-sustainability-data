@@ -1,0 +1,37 @@
+hash: 77115c037465128d7102119ee3eb3760d9dc02aec5074278cbed1cd0ed4b4c11
+id: 8a9f6b23-f690-46dd-977d-4f8ad3cdff98
+metadata:
+  import_document_id: osssaysno:asciinema/asciinema:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:59+00:00'
+    id: osssaysno:github.com/asciinema/asciinema:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/asciinema/asciinema/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/asciinema/asciinema/develop/CONTRIBUTING.md
+    role: contributing
+    sha256: 77115c037465128d7102119ee3eb3760d9dc02aec5074278cbed1cd0ed4b4c11
+    snapshot: data/osssaysno/policies/asciinema/asciinema/contributing.md
+    status: downloaded
+    text_sha256: 77115c037465128d7102119ee3eb3760d9dc02aec5074278cbed1cd0ed4b4c11
+    url: https://github.com/asciinema/asciinema/blob/develop/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:00+00:00'
+    id: osssaysno:github.com/asciinema/asciinema:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/asciinema/asciinema/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/asciinema/asciinema/develop/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 77115c037465128d7102119ee3eb3760d9dc02aec5074278cbed1cd0ed4b4c11
+    snapshot: data/osssaysno/policies/asciinema/asciinema/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 77115c037465128d7102119ee3eb3760d9dc02aec5074278cbed1cd0ed4b4c11
+    url: https://raw.githubusercontent.com/asciinema/asciinema/develop/CONTRIBUTING.md
+  source_archive:
+    member: texts/f3595e4b069aba21b1aff9542a5a2d6a3f91eeb86fceaa38ffcb52faac75bb03.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 77115c037465128d7102119ee3eb3760d9dc02aec5074278cbed1cd0ed4b4c11
+  url: ''
+name: contributing.md
+path: corpus/f3b13bdb43b6417c8481aad0c62d400c/f3595e4b069aba21b1aff9542a5a2d6a3f91eeb86fceaa38ffcb52faac75bb03.md

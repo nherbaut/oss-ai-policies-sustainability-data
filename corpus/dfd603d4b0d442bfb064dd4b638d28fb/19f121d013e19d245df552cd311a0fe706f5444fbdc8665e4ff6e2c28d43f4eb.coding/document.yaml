@@ -1,0 +1,26 @@
+hash: 6041af483cedd39f9ad98614bf03bc9a87ee441494845425937a98478e01663c
+id: 20f3ccfe-3522-498a-9ea5-fc1fc9301e0c
+metadata:
+  import_document_id: osssaysno:prefix-dev/pixi:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:33+00:00'
+    id: osssaysno:github.com/prefix-dev/pixi:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/prefix-dev/pixi/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/prefix-dev/pixi/main/README.md
+    role: repository_root_document
+    sha256: 6041af483cedd39f9ad98614bf03bc9a87ee441494845425937a98478e01663c
+    snapshot: data/osssaysno/policies/prefix-dev/pixi/root/README.md
+    status: downloaded
+    text_sha256: 6041af483cedd39f9ad98614bf03bc9a87ee441494845425937a98478e01663c
+    url: https://raw.githubusercontent.com/prefix-dev/pixi/main/README.md
+  source_archive:
+    member: texts/19f121d013e19d245df552cd311a0fe706f5444fbdc8665e4ff6e2c28d43f4eb.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6041af483cedd39f9ad98614bf03bc9a87ee441494845425937a98478e01663c
+  url: ''
+name: root/README.md
+path: corpus/dfd603d4b0d442bfb064dd4b638d28fb/19f121d013e19d245df552cd311a0fe706f5444fbdc8665e4ff6e2c28d43f4eb.md

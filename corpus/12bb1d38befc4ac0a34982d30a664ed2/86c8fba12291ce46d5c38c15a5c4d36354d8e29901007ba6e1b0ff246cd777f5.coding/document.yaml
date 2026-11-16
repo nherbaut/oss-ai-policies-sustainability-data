@@ -1,0 +1,26 @@
+hash: bf7687197270d8e30bd47c2ccdb526a29316052b8672f1adfdd05409cdaf4baf
+id: 7693751f-b12d-4d48-90a0-d362e10d02d6
+metadata:
+  import_document_id: osssaysno:kludex/starlette:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:45+00:00'
+    id: osssaysno:github.com/kludex/starlette:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/kludex/starlette/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/Kludex/starlette/main/README.md
+    role: repository_root_document
+    sha256: bf7687197270d8e30bd47c2ccdb526a29316052b8672f1adfdd05409cdaf4baf
+    snapshot: data/osssaysno/policies/kludex/starlette/root/README.md
+    status: downloaded
+    text_sha256: bf7687197270d8e30bd47c2ccdb526a29316052b8672f1adfdd05409cdaf4baf
+    url: https://raw.githubusercontent.com/Kludex/starlette/main/README.md
+  source_archive:
+    member: texts/86c8fba12291ce46d5c38c15a5c4d36354d8e29901007ba6e1b0ff246cd777f5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bf7687197270d8e30bd47c2ccdb526a29316052b8672f1adfdd05409cdaf4baf
+  url: ''
+name: root/README.md
+path: corpus/12bb1d38befc4ac0a34982d30a664ed2/86c8fba12291ce46d5c38c15a5c4d36354d8e29901007ba6e1b0ff246cd777f5.md

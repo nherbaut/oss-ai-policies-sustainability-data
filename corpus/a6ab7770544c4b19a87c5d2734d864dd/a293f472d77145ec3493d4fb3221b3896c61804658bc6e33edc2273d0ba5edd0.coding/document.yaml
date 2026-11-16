@@ -1,0 +1,26 @@
+hash: 18defbb40a1e6b3890af136541c885f5c35f7ddb946aa39d8ae22eaaf43e7b32
+id: 94f3b1d5-d744-48ea-b4c5-6cc3e01e54ee
+metadata:
+  import_document_id: osssaysno:tj/commander.js:root/Readme_zh-CN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:15+00:00'
+    id: osssaysno:github.com/tj/commander.js:root/Readme_zh-CN.md
+    import_slot: root/Readme_zh-CN.md
+    raw_snapshot: data/osssaysno/policies/tj/commander.js/root/raw/Readme_zh-CN.md
+    resolved_url: https://raw.githubusercontent.com/tj/commander.js/master/Readme_zh-CN.md
+    role: repository_root_document
+    sha256: 18defbb40a1e6b3890af136541c885f5c35f7ddb946aa39d8ae22eaaf43e7b32
+    snapshot: data/osssaysno/policies/tj/commander.js/root/Readme_zh-CN.md
+    status: downloaded
+    text_sha256: 18defbb40a1e6b3890af136541c885f5c35f7ddb946aa39d8ae22eaaf43e7b32
+    url: https://raw.githubusercontent.com/tj/commander.js/master/Readme_zh-CN.md
+  source_archive:
+    member: texts/a293f472d77145ec3493d4fb3221b3896c61804658bc6e33edc2273d0ba5edd0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 18defbb40a1e6b3890af136541c885f5c35f7ddb946aa39d8ae22eaaf43e7b32
+  url: ''
+name: root/Readme_zh-CN.md
+path: corpus/a6ab7770544c4b19a87c5d2734d864dd/a293f472d77145ec3493d4fb3221b3896c61804658bc6e33edc2273d0ba5edd0.md

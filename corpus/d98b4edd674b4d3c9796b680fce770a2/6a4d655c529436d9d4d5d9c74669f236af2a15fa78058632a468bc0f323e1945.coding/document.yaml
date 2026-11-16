@@ -1,0 +1,37 @@
+hash: 92347661baa44e4fc974b687073ef4a8390715d1f02c4baceef4c46039173bf4
+id: fa1e2010-616c-4a53-987f-26cc6eae5131
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:25+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 92347661baa44e4fc974b687073ef4a8390715d1f02c4baceef4c46039173bf4
+    snapshot: data/osssaysno/policies/tt-a1i/archify/contributing.md
+    status: downloaded
+    text_sha256: 92347661baa44e4fc974b687073ef4a8390715d1f02c4baceef4c46039173bf4
+    url: https://github.com/tt-a1i/archify/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:03:27+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 92347661baa44e4fc974b687073ef4a8390715d1f02c4baceef4c46039173bf4
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 92347661baa44e4fc974b687073ef4a8390715d1f02c4baceef4c46039173bf4
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/6a4d655c529436d9d4d5d9c74669f236af2a15fa78058632a468bc0f323e1945.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 92347661baa44e4fc974b687073ef4a8390715d1f02c4baceef4c46039173bf4
+  url: ''
+name: contributing.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/6a4d655c529436d9d4d5d9c74669f236af2a15fa78058632a468bc0f323e1945.md

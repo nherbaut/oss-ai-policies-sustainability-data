@@ -1,0 +1,26 @@
+hash: c397343275eb95f159639b59ec2683dc93b88908748234842ed8236d2961ce53
+id: d9c52d33-b7c2-463c-849a-66a7547d31ad
+metadata:
+  import_document_id: osssaysno:ankidroid/anki-android:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:56+00:00'
+    id: osssaysno:github.com/ankidroid/anki-android:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/ankidroid/anki-android/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/ankidroid/Anki-Android/main/README.md
+    role: repository_root_document
+    sha256: c397343275eb95f159639b59ec2683dc93b88908748234842ed8236d2961ce53
+    snapshot: data/osssaysno/policies/ankidroid/anki-android/root/README.md
+    status: downloaded
+    text_sha256: c397343275eb95f159639b59ec2683dc93b88908748234842ed8236d2961ce53
+    url: https://raw.githubusercontent.com/ankidroid/Anki-Android/main/README.md
+  source_archive:
+    member: texts/56dc9415d9e349c547e8bddc54cc1fb55255ed3498f09208a0ea9d18828243c8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c397343275eb95f159639b59ec2683dc93b88908748234842ed8236d2961ce53
+  url: ''
+name: root/README.md
+path: corpus/1ddf5182b1604a9998d8888d4fdec3bc/56dc9415d9e349c547e8bddc54cc1fb55255ed3498f09208a0ea9d18828243c8.md

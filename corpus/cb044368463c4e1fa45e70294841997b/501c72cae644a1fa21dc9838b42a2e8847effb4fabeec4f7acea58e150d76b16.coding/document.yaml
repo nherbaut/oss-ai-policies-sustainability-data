@@ -1,0 +1,26 @@
+hash: 2871cf48f5a72dcd39a9dae983400734eadee1417d5797d5d5ba3140cb3503a8
+id: 8a256d5f-f129-4ade-83a8-9890016ff80f
+metadata:
+  import_document_id: osssaysno:ktorio/ktor:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:23+00:00'
+    id: osssaysno:github.com/ktorio/ktor:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/ktorio/ktor/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/ktorio/ktor/main/README.md
+    role: repository_root_document
+    sha256: 2871cf48f5a72dcd39a9dae983400734eadee1417d5797d5d5ba3140cb3503a8
+    snapshot: data/osssaysno/policies/ktorio/ktor/root/README.md
+    status: downloaded
+    text_sha256: 2871cf48f5a72dcd39a9dae983400734eadee1417d5797d5d5ba3140cb3503a8
+    url: https://raw.githubusercontent.com/ktorio/ktor/main/README.md
+  source_archive:
+    member: texts/501c72cae644a1fa21dc9838b42a2e8847effb4fabeec4f7acea58e150d76b16.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2871cf48f5a72dcd39a9dae983400734eadee1417d5797d5d5ba3140cb3503a8
+  url: ''
+name: root/README.md
+path: corpus/cb044368463c4e1fa45e70294841997b/501c72cae644a1fa21dc9838b42a2e8847effb4fabeec4f7acea58e150d76b16.md

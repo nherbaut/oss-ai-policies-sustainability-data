@@ -1,0 +1,26 @@
+hash: 394376dcf4b4d097cd22cc9d6c42d6942af4b1da0cc5fba4c61bd073af208fa6
+id: f5f762ba-aa8e-4236-95ad-82c99bbc2f42
+metadata:
+  import_document_id: osssaysno:usekaneo/kaneo:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:32+00:00'
+    id: osssaysno:github.com/usekaneo/kaneo:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/usekaneo/kaneo/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/usekaneo/kaneo/main/AGENTS.md
+    role: repository_root_document
+    sha256: 394376dcf4b4d097cd22cc9d6c42d6942af4b1da0cc5fba4c61bd073af208fa6
+    snapshot: data/osssaysno/policies/usekaneo/kaneo/root/AGENTS.md
+    status: downloaded
+    text_sha256: 394376dcf4b4d097cd22cc9d6c42d6942af4b1da0cc5fba4c61bd073af208fa6
+    url: https://raw.githubusercontent.com/usekaneo/kaneo/main/AGENTS.md
+  source_archive:
+    member: texts/2e96da961cdeef7ed88f1308e516f042faab2d7fa5dad5d03f62b60f29a2135c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 394376dcf4b4d097cd22cc9d6c42d6942af4b1da0cc5fba4c61bd073af208fa6
+  url: ''
+name: root/AGENTS.md
+path: corpus/2145b6e7a3134c3798a22fe815d38c6c/2e96da961cdeef7ed88f1308e516f042faab2d7fa5dad5d03f62b60f29a2135c.md

@@ -1,0 +1,26 @@
+hash: e83031786bd87b0d912e7f983146f7e61e7bde54d79637a612fbb151e7045e31
+id: a1a33b16-6f2e-47a5-8c0d-de9949f8400b
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:34+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/MAINTAINERS.md
+    role: repository_root_document
+    sha256: e83031786bd87b0d912e7f983146f7e61e7bde54d79637a612fbb151e7045e31
+    snapshot: data/osssaysno/policies/grafana/grafana/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: e83031786bd87b0d912e7f983146f7e61e7bde54d79637a612fbb151e7045e31
+    url: https://raw.githubusercontent.com/grafana/grafana/main/MAINTAINERS.md
+  source_archive:
+    member: texts/5e4f216116ed20c723482d37f32bd6aa5db44e4a62891052fe47593438f1227a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e83031786bd87b0d912e7f983146f7e61e7bde54d79637a612fbb151e7045e31
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/5e4f216116ed20c723482d37f32bd6aa5db44e4a62891052fe47593438f1227a.md

@@ -1,0 +1,37 @@
+hash: b4b6852bb3fdf8207a9c26cf008eacfe2224cea9b3b32b76b99b056827b63a95
+id: 311d3f4f-ca1c-4a9b-934d-a34271917180
+metadata:
+  import_document_id: osssaysno:googlecloudplatform/agent-starter-pack:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:52+00:00'
+    id: osssaysno:github.com/googlecloudplatform/agent-starter-pack:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/googlecloudplatform/agent-starter-pack/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/GoogleCloudPlatform/agent-starter-pack/main/CONTRIBUTING.md
+    role: contributing
+    sha256: b4b6852bb3fdf8207a9c26cf008eacfe2224cea9b3b32b76b99b056827b63a95
+    snapshot: data/osssaysno/policies/googlecloudplatform/agent-starter-pack/contributing.md
+    status: downloaded
+    text_sha256: b4b6852bb3fdf8207a9c26cf008eacfe2224cea9b3b32b76b99b056827b63a95
+    url: https://github.com/GoogleCloudPlatform/agent-starter-pack/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:37:23+00:00'
+    id: osssaysno:github.com/googlecloudplatform/agent-starter-pack:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/googlecloudplatform/agent-starter-pack/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/GoogleCloudPlatform/agent-starter-pack/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: b4b6852bb3fdf8207a9c26cf008eacfe2224cea9b3b32b76b99b056827b63a95
+    snapshot: data/osssaysno/policies/googlecloudplatform/agent-starter-pack/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: b4b6852bb3fdf8207a9c26cf008eacfe2224cea9b3b32b76b99b056827b63a95
+    url: https://raw.githubusercontent.com/GoogleCloudPlatform/agent-starter-pack/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/8487f9cf9aea4bcf842863ddffd3b5a91889ce3175ee57dd5fbfcf2b0f54bd93.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b4b6852bb3fdf8207a9c26cf008eacfe2224cea9b3b32b76b99b056827b63a95
+  url: ''
+name: contributing.md
+path: corpus/a95ee4ec10124a0aa72cbb9e2a935392/8487f9cf9aea4bcf842863ddffd3b5a91889ce3175ee57dd5fbfcf2b0f54bd93.md

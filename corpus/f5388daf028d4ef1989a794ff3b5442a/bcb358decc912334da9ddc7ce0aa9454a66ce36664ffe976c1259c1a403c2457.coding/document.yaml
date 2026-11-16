@@ -1,0 +1,26 @@
+hash: 803041260cb12bb14ae91ebb115eadd3212373cde5a969d81f7c02b0817b7fdf
+id: ff34083b-096c-4232-ad8e-cea6dcd9567b
+metadata:
+  import_document_id: osssaysno:clap-rs/clap:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:06+00:00'
+    id: osssaysno:github.com/clap-rs/clap:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/clap-rs/clap/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/clap-rs/clap/main/README.md
+    role: repository_root_document
+    sha256: 803041260cb12bb14ae91ebb115eadd3212373cde5a969d81f7c02b0817b7fdf
+    snapshot: data/osssaysno/policies/clap-rs/clap/root/README.md
+    status: downloaded
+    text_sha256: 803041260cb12bb14ae91ebb115eadd3212373cde5a969d81f7c02b0817b7fdf
+    url: https://raw.githubusercontent.com/clap-rs/clap/main/README.md
+  source_archive:
+    member: texts/bcb358decc912334da9ddc7ce0aa9454a66ce36664ffe976c1259c1a403c2457.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 803041260cb12bb14ae91ebb115eadd3212373cde5a969d81f7c02b0817b7fdf
+  url: ''
+name: root/README.md
+path: corpus/f5388daf028d4ef1989a794ff3b5442a/bcb358decc912334da9ddc7ce0aa9454a66ce36664ffe976c1259c1a403c2457.md

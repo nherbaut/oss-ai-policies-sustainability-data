@@ -1,0 +1,26 @@
+hash: af638196bd60afbbb809c14213c865103599855e09efab771edcdd94e846f3e8
+id: 8305a005-11fe-403b-ab9c-196f03353d94
+metadata:
+  import_document_id: osssaysno:tautulli/tautulli:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:18+00:00'
+    id: osssaysno:github.com/tautulli/tautulli:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/tautulli/tautulli/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/Tautulli/Tautulli/nightly/README.md
+    role: repository_root_document
+    sha256: af638196bd60afbbb809c14213c865103599855e09efab771edcdd94e846f3e8
+    snapshot: data/osssaysno/policies/tautulli/tautulli/root/README.md
+    status: downloaded
+    text_sha256: af638196bd60afbbb809c14213c865103599855e09efab771edcdd94e846f3e8
+    url: https://raw.githubusercontent.com/Tautulli/Tautulli/nightly/README.md
+  source_archive:
+    member: texts/0b8059b8d632e512b68298fd139affa3452b36619c14d3815d65e8e1b842059a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: af638196bd60afbbb809c14213c865103599855e09efab771edcdd94e846f3e8
+  url: ''
+name: root/README.md
+path: corpus/20cd2c43bf5d4a07a027c5267f0efcbf/0b8059b8d632e512b68298fd139affa3452b36619c14d3815d65e8e1b842059a.md

@@ -1,0 +1,26 @@
+hash: 24f41640055a19988e76f09532d8601131e64e5da1359e6ebc370ad2b98f3409
+id: 05d86dc1-3e5e-4f3a-bae9-09dbc5aa0eff
+metadata:
+  import_document_id: osssaysno:grpc/grpc-java:root/COMPILING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:58+00:00'
+    id: osssaysno:github.com/grpc/grpc-java:root/COMPILING.md
+    import_slot: root/COMPILING.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-java/root/raw/COMPILING.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-java/master/COMPILING.md
+    role: repository_root_document
+    sha256: 24f41640055a19988e76f09532d8601131e64e5da1359e6ebc370ad2b98f3409
+    snapshot: data/osssaysno/policies/grpc/grpc-java/root/COMPILING.md
+    status: downloaded
+    text_sha256: 24f41640055a19988e76f09532d8601131e64e5da1359e6ebc370ad2b98f3409
+    url: https://raw.githubusercontent.com/grpc/grpc-java/master/COMPILING.md
+  source_archive:
+    member: texts/d8bbdb749add9b78bfaaf036f5e1c72b3bacca24b1e84cf30ab19f669bc2152b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 24f41640055a19988e76f09532d8601131e64e5da1359e6ebc370ad2b98f3409
+  url: ''
+name: root/COMPILING.md
+path: corpus/3e38e7dc201e40588ce69f5f92efec39/d8bbdb749add9b78bfaaf036f5e1c72b3bacca24b1e84cf30ab19f669bc2152b.md

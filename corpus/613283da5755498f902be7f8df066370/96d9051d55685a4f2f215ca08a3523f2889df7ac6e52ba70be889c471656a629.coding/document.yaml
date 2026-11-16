@@ -1,0 +1,26 @@
+hash: a87f60f86a7255e93903072b91ee88aa4a2760f965412709445ec2752e2e250e
+id: 783471a2-452a-48f8-a9bd-668e07167362
+metadata:
+  import_document_id: osssaysno:pypa/pip:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:17+00:00'
+    id: osssaysno:github.com/pypa/pip:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/pypa/pip/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/pypa/pip/main/SECURITY.md
+    role: repository_root_document
+    sha256: a87f60f86a7255e93903072b91ee88aa4a2760f965412709445ec2752e2e250e
+    snapshot: data/osssaysno/policies/pypa/pip/root/SECURITY.md
+    status: downloaded
+    text_sha256: a87f60f86a7255e93903072b91ee88aa4a2760f965412709445ec2752e2e250e
+    url: https://raw.githubusercontent.com/pypa/pip/main/SECURITY.md
+  source_archive:
+    member: texts/96d9051d55685a4f2f215ca08a3523f2889df7ac6e52ba70be889c471656a629.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a87f60f86a7255e93903072b91ee88aa4a2760f965412709445ec2752e2e250e
+  url: ''
+name: root/SECURITY.md
+path: corpus/613283da5755498f902be7f8df066370/96d9051d55685a4f2f215ca08a3523f2889df7ac6e52ba70be889c471656a629.md

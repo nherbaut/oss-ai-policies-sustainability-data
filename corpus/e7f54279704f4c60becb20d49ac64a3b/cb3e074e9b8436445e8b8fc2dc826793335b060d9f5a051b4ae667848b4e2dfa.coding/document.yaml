@@ -1,0 +1,26 @@
+hash: a4437c57b549c48d57aad860c3a2accef1e4142bfaf0f459542f4cf1e8a9a487
+id: ed7cd4e1-761a-4539-9497-5be58baf4c46
+metadata:
+  import_document_id: osssaysno:federico-busato/modern-cpp-programming:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:08+00:00'
+    id: osssaysno:github.com/federico-busato/modern-cpp-programming:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/README.md
+    role: repository_root_document
+    sha256: a4437c57b549c48d57aad860c3a2accef1e4142bfaf0f459542f4cf1e8a9a487
+    snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/root/README.md
+    status: downloaded
+    text_sha256: a4437c57b549c48d57aad860c3a2accef1e4142bfaf0f459542f4cf1e8a9a487
+    url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/README.md
+  source_archive:
+    member: texts/cb3e074e9b8436445e8b8fc2dc826793335b060d9f5a051b4ae667848b4e2dfa.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a4437c57b549c48d57aad860c3a2accef1e4142bfaf0f459542f4cf1e8a9a487
+  url: ''
+name: root/README.md
+path: corpus/e7f54279704f4c60becb20d49ac64a3b/cb3e074e9b8436445e8b8fc2dc826793335b060d9f5a051b4ae667848b4e2dfa.md

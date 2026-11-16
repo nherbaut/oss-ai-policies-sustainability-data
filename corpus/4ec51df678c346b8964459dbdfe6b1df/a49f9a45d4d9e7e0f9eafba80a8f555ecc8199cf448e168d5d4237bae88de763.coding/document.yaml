@@ -1,0 +1,26 @@
+hash: d817ccc006ee271c48a2cf47851cd374b3dba785d13bf596f5c72de75ad07dd3
+id: 9c6b2ad0-ee9f-4c61-b233-59f2b9ba8fa7
+metadata:
+  import_document_id: osssaysno:openclaw/clawhub:root/.ci-policy.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:45+00:00'
+    id: osssaysno:github.com/openclaw/clawhub:root/.ci-policy.md
+    import_slot: root/.ci-policy.md
+    raw_snapshot: data/osssaysno/policies/openclaw/clawhub/root/raw/.ci-policy.md
+    resolved_url: https://raw.githubusercontent.com/openclaw/clawhub/main/.ci-policy.md
+    role: repository_root_document
+    sha256: d817ccc006ee271c48a2cf47851cd374b3dba785d13bf596f5c72de75ad07dd3
+    snapshot: data/osssaysno/policies/openclaw/clawhub/root/.ci-policy.md
+    status: downloaded
+    text_sha256: d817ccc006ee271c48a2cf47851cd374b3dba785d13bf596f5c72de75ad07dd3
+    url: https://raw.githubusercontent.com/openclaw/clawhub/main/.ci-policy.md
+  source_archive:
+    member: texts/a49f9a45d4d9e7e0f9eafba80a8f555ecc8199cf448e168d5d4237bae88de763.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d817ccc006ee271c48a2cf47851cd374b3dba785d13bf596f5c72de75ad07dd3
+  url: ''
+name: root/.ci-policy.md
+path: corpus/4ec51df678c346b8964459dbdfe6b1df/a49f9a45d4d9e7e0f9eafba80a8f555ecc8199cf448e168d5d4237bae88de763.md

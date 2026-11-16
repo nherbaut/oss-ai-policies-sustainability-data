@@ -1,0 +1,26 @@
+hash: fba7af8c516c23dfb5c6c1c82bb8af103aed83684a1a453c4ee9d68126875d03
+id: 91a8ee09-61d4-46fe-8b6d-30d0a2e1e234
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:root/reverse-proxy.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:24+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/reverse-proxy.md
+    import_slot: root/reverse-proxy.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/reverse-proxy.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/reverse-proxy.md
+    role: repository_root_document
+    sha256: fba7af8c516c23dfb5c6c1c82bb8af103aed83684a1a453c4ee9d68126875d03
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/reverse-proxy.md
+    status: downloaded
+    text_sha256: fba7af8c516c23dfb5c6c1c82bb8af103aed83684a1a453c4ee9d68126875d03
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/reverse-proxy.md
+  source_archive:
+    member: texts/450caf887fc0e77cb7a031885af6b6a0234ae09da26063271c84a570da2f533d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fba7af8c516c23dfb5c6c1c82bb8af103aed83684a1a453c4ee9d68126875d03
+  url: ''
+name: root/reverse-proxy.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/450caf887fc0e77cb7a031885af6b6a0234ae09da26063271c84a570da2f533d.md

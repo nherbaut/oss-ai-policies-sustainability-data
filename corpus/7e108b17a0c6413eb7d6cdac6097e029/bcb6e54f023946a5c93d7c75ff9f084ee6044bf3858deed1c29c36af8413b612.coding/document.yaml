@@ -1,0 +1,26 @@
+hash: 98a90a956a73fe858aacee8d5789cc4313d1e68fb2f0ce38e4a7e3cf865f92a0
+id: 5e7abf36-950f-4554-8e0d-933147397a45
+metadata:
+  import_document_id: osssaysno:prusa3d/prusaslicer:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:51+00:00'
+    id: osssaysno:github.com/prusa3d/prusaslicer:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/prusa3d/prusaslicer/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/README.md
+    role: repository_root_document
+    sha256: 98a90a956a73fe858aacee8d5789cc4313d1e68fb2f0ce38e4a7e3cf865f92a0
+    snapshot: data/osssaysno/policies/prusa3d/prusaslicer/root/README.md
+    status: downloaded
+    text_sha256: 98a90a956a73fe858aacee8d5789cc4313d1e68fb2f0ce38e4a7e3cf865f92a0
+    url: https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/README.md
+  source_archive:
+    member: texts/bcb6e54f023946a5c93d7c75ff9f084ee6044bf3858deed1c29c36af8413b612.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 98a90a956a73fe858aacee8d5789cc4313d1e68fb2f0ce38e4a7e3cf865f92a0
+  url: ''
+name: root/README.md
+path: corpus/7e108b17a0c6413eb7d6cdac6097e029/bcb6e54f023946a5c93d7c75ff9f084ee6044bf3858deed1c29c36af8413b612.md

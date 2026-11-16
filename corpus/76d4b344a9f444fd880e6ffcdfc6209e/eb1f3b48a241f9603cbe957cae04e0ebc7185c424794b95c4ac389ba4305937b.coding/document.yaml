@@ -1,0 +1,26 @@
+hash: 5676d8c2e645d595f0ecf11d8a580eaea3fbcdb8be29779674fe2c992bd4951e
+id: 1c7df602-d0c8-4f70-a1d1-a818c6dff961
+metadata:
+  import_document_id: osssaysno:google/elephant-goldfish-model:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:25+00:00'
+    id: osssaysno:github.com/google/elephant-goldfish-model:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/google/elephant-goldfish-model/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/AGENTS.md
+    role: repository_root_document
+    sha256: 5676d8c2e645d595f0ecf11d8a580eaea3fbcdb8be29779674fe2c992bd4951e
+    snapshot: data/osssaysno/policies/google/elephant-goldfish-model/root/AGENTS.md
+    status: downloaded
+    text_sha256: 5676d8c2e645d595f0ecf11d8a580eaea3fbcdb8be29779674fe2c992bd4951e
+    url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/AGENTS.md
+  source_archive:
+    member: texts/eb1f3b48a241f9603cbe957cae04e0ebc7185c424794b95c4ac389ba4305937b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5676d8c2e645d595f0ecf11d8a580eaea3fbcdb8be29779674fe2c992bd4951e
+  url: ''
+name: root/AGENTS.md
+path: corpus/76d4b344a9f444fd880e6ffcdfc6209e/eb1f3b48a241f9603cbe957cae04e0ebc7185c424794b95c4ac389ba4305937b.md

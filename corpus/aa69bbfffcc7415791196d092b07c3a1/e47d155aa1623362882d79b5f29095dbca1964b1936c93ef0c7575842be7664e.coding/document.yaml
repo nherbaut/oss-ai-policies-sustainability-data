@@ -1,0 +1,26 @@
+hash: 3ae03563d15235cb135084b91616c612627bfc3aab0f815e102dc8c7a8ecea8a
+id: 390cd275-c116-4f07-9d06-e267df5e683e
+metadata:
+  import_document_id: osssaysno:scikit-image/scikit-image:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:20+00:00'
+    id: osssaysno:github.com/scikit-image/scikit-image:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/scikit-image/scikit-image/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/scikit-image/scikit-image/main/SECURITY.md
+    role: repository_root_document
+    sha256: 3ae03563d15235cb135084b91616c612627bfc3aab0f815e102dc8c7a8ecea8a
+    snapshot: data/osssaysno/policies/scikit-image/scikit-image/root/SECURITY.md
+    status: downloaded
+    text_sha256: 3ae03563d15235cb135084b91616c612627bfc3aab0f815e102dc8c7a8ecea8a
+    url: https://raw.githubusercontent.com/scikit-image/scikit-image/main/SECURITY.md
+  source_archive:
+    member: texts/e47d155aa1623362882d79b5f29095dbca1964b1936c93ef0c7575842be7664e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3ae03563d15235cb135084b91616c612627bfc3aab0f815e102dc8c7a8ecea8a
+  url: ''
+name: root/SECURITY.md
+path: corpus/aa69bbfffcc7415791196d092b07c3a1/e47d155aa1623362882d79b5f29095dbca1964b1936c93ef0c7575842be7664e.md

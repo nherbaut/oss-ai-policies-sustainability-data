@@ -1,0 +1,37 @@
+hash: 3031e79b5e21904d50f08514fe709f2aba3f8108436d60f6251cd6589862cbfa
+id: fe33c95f-e858-490e-832a-bc92a417ec7f
+metadata:
+  import_document_id: osssaysno:coder/coder:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:02+00:00'
+    id: osssaysno:github.com/coder/coder:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/coder/coder/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/coder/coder/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 3031e79b5e21904d50f08514fe709f2aba3f8108436d60f6251cd6589862cbfa
+    snapshot: data/osssaysno/policies/coder/coder/contributing.md
+    status: downloaded
+    text_sha256: 3031e79b5e21904d50f08514fe709f2aba3f8108436d60f6251cd6589862cbfa
+    url: https://github.com/coder/coder/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:04+00:00'
+    id: osssaysno:github.com/coder/coder:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/coder/coder/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/coder/coder/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 3031e79b5e21904d50f08514fe709f2aba3f8108436d60f6251cd6589862cbfa
+    snapshot: data/osssaysno/policies/coder/coder/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 3031e79b5e21904d50f08514fe709f2aba3f8108436d60f6251cd6589862cbfa
+    url: https://raw.githubusercontent.com/coder/coder/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/60b0a73cd02f3b4a6ce2d186cd07f2aca32545a0b12537c8a8ca30380e6de609.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3031e79b5e21904d50f08514fe709f2aba3f8108436d60f6251cd6589862cbfa
+  url: ''
+name: contributing.md
+path: corpus/cdda71232b0b458eb89ff7a41082126a/60b0a73cd02f3b4a6ce2d186cd07f2aca32545a0b12537c8a8ca30380e6de609.md

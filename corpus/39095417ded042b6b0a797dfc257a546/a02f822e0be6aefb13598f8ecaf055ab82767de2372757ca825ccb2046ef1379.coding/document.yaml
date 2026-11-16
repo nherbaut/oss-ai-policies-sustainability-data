@@ -1,0 +1,26 @@
+hash: 52ce549d046d2668d7914af75f28d6bc67cae788eced7623d2fff102e19f530d
+id: 3e7c2e20-fea9-410a-b6e5-a9edad0da300
+metadata:
+  import_document_id: osssaysno:nvidia-nemo/guardrails:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:55+00:00'
+    id: osssaysno:github.com/nvidia-nemo/guardrails:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/README.md
+    role: repository_root_document
+    sha256: 52ce549d046d2668d7914af75f28d6bc67cae788eced7623d2fff102e19f530d
+    snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/README.md
+    status: downloaded
+    text_sha256: 52ce549d046d2668d7914af75f28d6bc67cae788eced7623d2fff102e19f530d
+    url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/README.md
+  source_archive:
+    member: texts/a02f822e0be6aefb13598f8ecaf055ab82767de2372757ca825ccb2046ef1379.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 52ce549d046d2668d7914af75f28d6bc67cae788eced7623d2fff102e19f530d
+  url: ''
+name: root/README.md
+path: corpus/39095417ded042b6b0a797dfc257a546/a02f822e0be6aefb13598f8ecaf055ab82767de2372757ca825ccb2046ef1379.md

@@ -1,0 +1,26 @@
+hash: 0b6eb5ae5d0a6bb21cafd956eb8032882361d697ae05cf574b1d0c586f04786e
+id: 8da69787-6017-4fab-bdf5-a555a0879084
+metadata:
+  import_document_id: osssaysno:archlinux/archinstall:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:10+00:00'
+    id: osssaysno:github.com/archlinux/archinstall:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/archlinux/archinstall/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/archlinux/archinstall/master/README.md
+    role: repository_root_document
+    sha256: 0b6eb5ae5d0a6bb21cafd956eb8032882361d697ae05cf574b1d0c586f04786e
+    snapshot: data/osssaysno/policies/archlinux/archinstall/root/README.md
+    status: downloaded
+    text_sha256: 0b6eb5ae5d0a6bb21cafd956eb8032882361d697ae05cf574b1d0c586f04786e
+    url: https://raw.githubusercontent.com/archlinux/archinstall/master/README.md
+  source_archive:
+    member: texts/784ca54a97577b2246608eb267cbc5fa162ce308c3d22068fcef682df287ac30.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0b6eb5ae5d0a6bb21cafd956eb8032882361d697ae05cf574b1d0c586f04786e
+  url: ''
+name: root/README.md
+path: corpus/7d8e61ed7df546309e7de197bd377f87/784ca54a97577b2246608eb267cbc5fa162ce308c3d22068fcef682df287ac30.md

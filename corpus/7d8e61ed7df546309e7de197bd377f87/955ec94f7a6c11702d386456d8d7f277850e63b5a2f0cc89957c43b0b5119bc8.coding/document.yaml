@@ -1,0 +1,37 @@
+hash: e68a94de37585bb11fb49605ea2bd0b6848647866da67d64900910052eb7432a
+id: b1e4871c-52b2-48ba-9ebb-8a5bd9cbd735
+metadata:
+  import_document_id: osssaysno:archlinux/archinstall:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:36+00:00'
+    id: osssaysno:github.com/archlinux/archinstall:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/archlinux/archinstall/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/archlinux/archinstall/master/AI_POLICY.md
+    role: ai_policy
+    sha256: e68a94de37585bb11fb49605ea2bd0b6848647866da67d64900910052eb7432a
+    snapshot: data/osssaysno/policies/archlinux/archinstall/ai_policy.md
+    status: downloaded
+    text_sha256: e68a94de37585bb11fb49605ea2bd0b6848647866da67d64900910052eb7432a
+    url: https://github.com/archlinux/archinstall/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:36:09+00:00'
+    id: osssaysno:github.com/archlinux/archinstall:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/archlinux/archinstall/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/archlinux/archinstall/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: e68a94de37585bb11fb49605ea2bd0b6848647866da67d64900910052eb7432a
+    snapshot: data/osssaysno/policies/archlinux/archinstall/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: e68a94de37585bb11fb49605ea2bd0b6848647866da67d64900910052eb7432a
+    url: https://raw.githubusercontent.com/archlinux/archinstall/master/AI_POLICY.md
+  source_archive:
+    member: texts/955ec94f7a6c11702d386456d8d7f277850e63b5a2f0cc89957c43b0b5119bc8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e68a94de37585bb11fb49605ea2bd0b6848647866da67d64900910052eb7432a
+  url: ''
+name: ai_policy.md
+path: corpus/7d8e61ed7df546309e7de197bd377f87/955ec94f7a6c11702d386456d8d7f277850e63b5a2f0cc89957c43b0b5119bc8.md

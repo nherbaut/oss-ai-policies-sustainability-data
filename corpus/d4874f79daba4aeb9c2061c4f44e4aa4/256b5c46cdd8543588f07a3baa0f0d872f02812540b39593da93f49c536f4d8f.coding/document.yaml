@@ -1,0 +1,26 @@
+hash: 7b88433ede228e57f0a509a2f5a6bfdce05e23442f1144a634c178a44dd8bbb4
+id: 2333f111-b5fa-41ff-af1e-fdd81074bb44
+metadata:
+  import_document_id: osssaysno:jaegertracing/jaeger:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:29+00:00'
+    id: osssaysno:github.com/jaegertracing/jaeger:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 7b88433ede228e57f0a509a2f5a6bfdce05e23442f1144a634c178a44dd8bbb4
+    snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 7b88433ede228e57f0a509a2f5a6bfdce05e23442f1144a634c178a44dd8bbb4
+    url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/256b5c46cdd8543588f07a3baa0f0d872f02812540b39593da93f49c536f4d8f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7b88433ede228e57f0a509a2f5a6bfdce05e23442f1144a634c178a44dd8bbb4
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/d4874f79daba4aeb9c2061c4f44e4aa4/256b5c46cdd8543588f07a3baa0f0d872f02812540b39593da93f49c536f4d8f.md

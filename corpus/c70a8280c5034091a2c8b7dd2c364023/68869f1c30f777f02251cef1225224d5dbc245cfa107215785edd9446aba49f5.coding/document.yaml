@@ -1,0 +1,37 @@
+hash: 20e57d2f3a96aae79ae23d64c61c5b10787081c555fa26fe18e17e16954902ce
+id: b0abcd0c-461c-4f20-b596-cd2a1ba0a894
+metadata:
+  import_document_id: osssaysno:sysadminsmedia/homebox:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:44+00:00'
+    id: osssaysno:github.com/sysadminsmedia/homebox:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/sysadminsmedia/homebox/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/sysadminsmedia/homebox/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 20e57d2f3a96aae79ae23d64c61c5b10787081c555fa26fe18e17e16954902ce
+    snapshot: data/osssaysno/policies/sysadminsmedia/homebox/contributing.md
+    status: downloaded
+    text_sha256: 20e57d2f3a96aae79ae23d64c61c5b10787081c555fa26fe18e17e16954902ce
+    url: https://github.com/sysadminsmedia/homebox/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:41+00:00'
+    id: osssaysno:github.com/sysadminsmedia/homebox:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/sysadminsmedia/homebox/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/sysadminsmedia/homebox/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 20e57d2f3a96aae79ae23d64c61c5b10787081c555fa26fe18e17e16954902ce
+    snapshot: data/osssaysno/policies/sysadminsmedia/homebox/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 20e57d2f3a96aae79ae23d64c61c5b10787081c555fa26fe18e17e16954902ce
+    url: https://raw.githubusercontent.com/sysadminsmedia/homebox/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/68869f1c30f777f02251cef1225224d5dbc245cfa107215785edd9446aba49f5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 20e57d2f3a96aae79ae23d64c61c5b10787081c555fa26fe18e17e16954902ce
+  url: ''
+name: contributing.md
+path: corpus/c70a8280c5034091a2c8b7dd2c364023/68869f1c30f777f02251cef1225224d5dbc245cfa107215785edd9446aba49f5.md

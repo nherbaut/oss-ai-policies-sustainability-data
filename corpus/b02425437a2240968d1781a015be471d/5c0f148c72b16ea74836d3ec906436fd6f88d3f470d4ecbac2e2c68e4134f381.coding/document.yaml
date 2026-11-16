@@ -1,0 +1,26 @@
+hash: cebf30ed3426acd250d34126f01599f9831be66499710a631e2ded31250f8fe6
+id: a610a273-3c09-43dd-98f3-317c92a628aa
+metadata:
+  import_document_id: osssaysno:tanstack/query:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:46+00:00'
+    id: osssaysno:github.com/tanstack/query:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/tanstack/query/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/TanStack/query/main/AGENTS.md
+    role: repository_root_document
+    sha256: cebf30ed3426acd250d34126f01599f9831be66499710a631e2ded31250f8fe6
+    snapshot: data/osssaysno/policies/tanstack/query/root/AGENTS.md
+    status: downloaded
+    text_sha256: cebf30ed3426acd250d34126f01599f9831be66499710a631e2ded31250f8fe6
+    url: https://raw.githubusercontent.com/TanStack/query/main/AGENTS.md
+  source_archive:
+    member: texts/5c0f148c72b16ea74836d3ec906436fd6f88d3f470d4ecbac2e2c68e4134f381.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cebf30ed3426acd250d34126f01599f9831be66499710a631e2ded31250f8fe6
+  url: ''
+name: root/AGENTS.md
+path: corpus/b02425437a2240968d1781a015be471d/5c0f148c72b16ea74836d3ec906436fd6f88d3f470d4ecbac2e2c68e4134f381.md

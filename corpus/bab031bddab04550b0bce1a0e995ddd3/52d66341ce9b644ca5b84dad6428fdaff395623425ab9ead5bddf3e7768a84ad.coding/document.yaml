@@ -1,0 +1,26 @@
+hash: 698c13ccb5fea9a1db2c4375674237285b6fcf013b1bad69b7954c600fd915f4
+id: ae0b2e11-533b-40c6-9ad9-f12d7a1f5246
+metadata:
+  import_document_id: osssaysno:babel/babel:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:58+00:00'
+    id: osssaysno:github.com/babel/babel:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/babel/babel/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/babel/babel/main/SECURITY.md
+    role: repository_root_document
+    sha256: 698c13ccb5fea9a1db2c4375674237285b6fcf013b1bad69b7954c600fd915f4
+    snapshot: data/osssaysno/policies/babel/babel/root/SECURITY.md
+    status: downloaded
+    text_sha256: 698c13ccb5fea9a1db2c4375674237285b6fcf013b1bad69b7954c600fd915f4
+    url: https://raw.githubusercontent.com/babel/babel/main/SECURITY.md
+  source_archive:
+    member: texts/52d66341ce9b644ca5b84dad6428fdaff395623425ab9ead5bddf3e7768a84ad.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 698c13ccb5fea9a1db2c4375674237285b6fcf013b1bad69b7954c600fd915f4
+  url: ''
+name: root/SECURITY.md
+path: corpus/bab031bddab04550b0bce1a0e995ddd3/52d66341ce9b644ca5b84dad6428fdaff395623425ab9ead5bddf3e7768a84ad.md

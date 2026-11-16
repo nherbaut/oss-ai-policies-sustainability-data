@@ -1,0 +1,26 @@
+hash: a16bef3c9c1e24b96d9dd8d232d574abe905964632eebd90409ce207166e4690
+id: c9394d36-54bf-4c15-b16c-70390b7cbdf3
+metadata:
+  import_document_id: osssaysno:nirdiamant/genai_agents:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:23+00:00'
+    id: osssaysno:github.com/nirdiamant/genai_agents:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/nirdiamant/genai_agents/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/NirDiamant/GenAI_Agents/main/AGENTS.md
+    role: repository_root_document
+    sha256: a16bef3c9c1e24b96d9dd8d232d574abe905964632eebd90409ce207166e4690
+    snapshot: data/osssaysno/policies/nirdiamant/genai_agents/root/AGENTS.md
+    status: downloaded
+    text_sha256: a16bef3c9c1e24b96d9dd8d232d574abe905964632eebd90409ce207166e4690
+    url: https://raw.githubusercontent.com/NirDiamant/GenAI_Agents/main/AGENTS.md
+  source_archive:
+    member: texts/ade0b3e015e9a281abe072090bb43e8639a334108569f3750d6b6974942a8dcf.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a16bef3c9c1e24b96d9dd8d232d574abe905964632eebd90409ce207166e4690
+  url: ''
+name: root/AGENTS.md
+path: corpus/294f34f2ce06422bb75d78341fe435d8/ade0b3e015e9a281abe072090bb43e8639a334108569f3750d6b6974942a8dcf.md

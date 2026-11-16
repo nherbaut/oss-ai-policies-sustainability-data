@@ -1,0 +1,26 @@
+hash: 5c8911c8fae0912cdbb6a89c66ae0a628ac413475b2d9185ececda05814f94b6
+id: cfceecc8-1b98-407c-9e8e-ee2c69076e60
+metadata:
+  import_document_id: osssaysno:grpc/grpc:root/CONTRIBUTING_STEPS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:54+00:00'
+    id: osssaysno:github.com/grpc/grpc:root/CONTRIBUTING_STEPS.md
+    import_slot: root/CONTRIBUTING_STEPS.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc/root/raw/CONTRIBUTING_STEPS.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc/master/CONTRIBUTING_STEPS.md
+    role: repository_root_document
+    sha256: 5c8911c8fae0912cdbb6a89c66ae0a628ac413475b2d9185ececda05814f94b6
+    snapshot: data/osssaysno/policies/grpc/grpc/root/CONTRIBUTING_STEPS.md
+    status: downloaded
+    text_sha256: 5c8911c8fae0912cdbb6a89c66ae0a628ac413475b2d9185ececda05814f94b6
+    url: https://raw.githubusercontent.com/grpc/grpc/master/CONTRIBUTING_STEPS.md
+  source_archive:
+    member: texts/03fc074e97ad271a3c8c7e2e4ca9ff202070c6970e45171d74b6887d5efe2daa.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5c8911c8fae0912cdbb6a89c66ae0a628ac413475b2d9185ececda05814f94b6
+  url: ''
+name: root/CONTRIBUTING_STEPS.md
+path: corpus/50ff420aff9b4348bca915b7bbde4ec2/03fc074e97ad271a3c8c7e2e4ca9ff202070c6970e45171d74b6887d5efe2daa.md

@@ -1,0 +1,26 @@
+hash: d03f387c1c3404aa26759dc1983b5015b45280a0eaaa86362e39ca433db2978f
+id: 9b644bd1-1ca5-4a55-a02f-9da3c7fa19e1
+metadata:
+  import_document_id: osssaysno:pyinfra-dev/pyinfra:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:45+00:00'
+    id: osssaysno:github.com/pyinfra-dev/pyinfra:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/CLAUDE.md
+    role: repository_root_document
+    sha256: d03f387c1c3404aa26759dc1983b5015b45280a0eaaa86362e39ca433db2978f
+    snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/CLAUDE.md
+    status: downloaded
+    text_sha256: d03f387c1c3404aa26759dc1983b5015b45280a0eaaa86362e39ca433db2978f
+    url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/CLAUDE.md
+  source_archive:
+    member: texts/dae613d882eccfb9f6752f592f6f5e74d500b60c1ddad5c0915b995fed09dc41.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d03f387c1c3404aa26759dc1983b5015b45280a0eaaa86362e39ca433db2978f
+  url: ''
+name: root/CLAUDE.md
+path: corpus/0bfcf1e8ee0f4d319220157c18e18d83/dae613d882eccfb9f6752f592f6f5e74d500b60c1ddad5c0915b995fed09dc41.md

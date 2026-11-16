@@ -1,0 +1,26 @@
+hash: 6ebd18cdf9fd7587ef6c0091e7801c213d62d911603a4ca2dbc5e2e645f771fd
+id: 0e0a31ef-4da2-4033-9800-45ae609c28dc
+metadata:
+  import_document_id: osssaysno:nibzard/awesome-agentic-patterns:root/SCHEMA.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:47+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:root/SCHEMA.md
+    import_slot: root/SCHEMA.md
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/raw/SCHEMA.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/SCHEMA.md
+    role: repository_root_document
+    sha256: 6ebd18cdf9fd7587ef6c0091e7801c213d62d911603a4ca2dbc5e2e645f771fd
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/SCHEMA.md
+    status: downloaded
+    text_sha256: 6ebd18cdf9fd7587ef6c0091e7801c213d62d911603a4ca2dbc5e2e645f771fd
+    url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/SCHEMA.md
+  source_archive:
+    member: texts/d5d4fd0b98119d55d875b8dd5adc5f178e8a6b125432172d4901e0ec3feaf87a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6ebd18cdf9fd7587ef6c0091e7801c213d62d911603a4ca2dbc5e2e645f771fd
+  url: ''
+name: root/SCHEMA.md
+path: corpus/dd94b9ffd2f94e2fbe0e75d0714cd789/d5d4fd0b98119d55d875b8dd5adc5f178e8a6b125432172d4901e0ec3feaf87a.md

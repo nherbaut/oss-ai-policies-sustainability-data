@@ -1,0 +1,26 @@
+hash: 7888e11033ae32f0892efc40406c43af0e56de977dd3c9e9fdec76454ebedd87
+id: 0504eeef-c203-418b-aece-8f3cce0d13d9
+metadata:
+  import_document_id: osssaysno:nvidia-nemo/guardrails:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:54+00:00'
+    id: osssaysno:github.com/nvidia-nemo/guardrails:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 7888e11033ae32f0892efc40406c43af0e56de977dd3c9e9fdec76454ebedd87
+    snapshot: data/osssaysno/policies/nvidia-nemo/guardrails/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 7888e11033ae32f0892efc40406c43af0e56de977dd3c9e9fdec76454ebedd87
+    url: https://raw.githubusercontent.com/NVIDIA-NeMo/Guardrails/develop/CONTRIBUTING.md
+  source_archive:
+    member: texts/3e962b1d096b9981d588c193c56e77facdbc16f67bbc2d5bc5f9025bc71af29a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7888e11033ae32f0892efc40406c43af0e56de977dd3c9e9fdec76454ebedd87
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/39095417ded042b6b0a797dfc257a546/3e962b1d096b9981d588c193c56e77facdbc16f67bbc2d5bc5f9025bc71af29a.md

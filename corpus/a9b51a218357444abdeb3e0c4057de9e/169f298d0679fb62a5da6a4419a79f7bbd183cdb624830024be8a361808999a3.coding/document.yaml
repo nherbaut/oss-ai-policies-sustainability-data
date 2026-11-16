@@ -1,0 +1,26 @@
+hash: c769b8ad6dcbda648e1944af17721285dc4e27b252d2497ee56e3ba033d26e40
+id: c9e6ec34-c54d-448d-acb3-cd14cebe482d
+metadata:
+  import_document_id: osssaysno:stashapp/stash:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:34+00:00'
+    id: osssaysno:github.com/stashapp/stash:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/stashapp/stash/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/stashapp/stash/develop/SECURITY.md
+    role: repository_root_document
+    sha256: c769b8ad6dcbda648e1944af17721285dc4e27b252d2497ee56e3ba033d26e40
+    snapshot: data/osssaysno/policies/stashapp/stash/root/SECURITY.md
+    status: downloaded
+    text_sha256: c769b8ad6dcbda648e1944af17721285dc4e27b252d2497ee56e3ba033d26e40
+    url: https://raw.githubusercontent.com/stashapp/stash/develop/SECURITY.md
+  source_archive:
+    member: texts/169f298d0679fb62a5da6a4419a79f7bbd183cdb624830024be8a361808999a3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c769b8ad6dcbda648e1944af17721285dc4e27b252d2497ee56e3ba033d26e40
+  url: ''
+name: root/SECURITY.md
+path: corpus/a9b51a218357444abdeb3e0c4057de9e/169f298d0679fb62a5da6a4419a79f7bbd183cdb624830024be8a361808999a3.md

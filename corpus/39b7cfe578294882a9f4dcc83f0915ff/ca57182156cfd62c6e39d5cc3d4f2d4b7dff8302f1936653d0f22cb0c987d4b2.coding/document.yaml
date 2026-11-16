@@ -1,0 +1,37 @@
+hash: b7e3703c55e5a5b144e4c8771c2c65d9c88a0522c28dccbd5431a1a2a6440c06
+id: 037af31f-34fa-457c-8e64-dfbc79c54339
+metadata:
+  import_document_id: osssaysno:lmcache/lmcache:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:47+00:00'
+    id: osssaysno:github.com/lmcache/lmcache:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/lmcache/lmcache/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/LMCache/LMCache/dev/CONTRIBUTING.md
+    role: contributing
+    sha256: b7e3703c55e5a5b144e4c8771c2c65d9c88a0522c28dccbd5431a1a2a6440c06
+    snapshot: data/osssaysno/policies/lmcache/lmcache/contributing.md
+    status: downloaded
+    text_sha256: b7e3703c55e5a5b144e4c8771c2c65d9c88a0522c28dccbd5431a1a2a6440c06
+    url: https://github.com/LMCache/LMCache/blob/dev/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:48+00:00'
+    id: osssaysno:github.com/lmcache/lmcache:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/lmcache/lmcache/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/LMCache/LMCache/dev/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: b7e3703c55e5a5b144e4c8771c2c65d9c88a0522c28dccbd5431a1a2a6440c06
+    snapshot: data/osssaysno/policies/lmcache/lmcache/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: b7e3703c55e5a5b144e4c8771c2c65d9c88a0522c28dccbd5431a1a2a6440c06
+    url: https://raw.githubusercontent.com/LMCache/LMCache/dev/CONTRIBUTING.md
+  source_archive:
+    member: texts/ca57182156cfd62c6e39d5cc3d4f2d4b7dff8302f1936653d0f22cb0c987d4b2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b7e3703c55e5a5b144e4c8771c2c65d9c88a0522c28dccbd5431a1a2a6440c06
+  url: ''
+name: contributing.md
+path: corpus/39b7cfe578294882a9f4dcc83f0915ff/ca57182156cfd62c6e39d5cc3d4f2d4b7dff8302f1936653d0f22cb0c987d4b2.md

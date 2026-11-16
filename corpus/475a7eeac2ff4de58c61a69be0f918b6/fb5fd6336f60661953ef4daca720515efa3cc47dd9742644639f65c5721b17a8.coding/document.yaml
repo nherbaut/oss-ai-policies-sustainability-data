@@ -1,0 +1,37 @@
+hash: b4e072f8a96619a1beb563674ee4f955ac0f3bd60a713abb120c2ea81a925308
+id: f30ded7b-d904-4f78-9cae-8ea3b0d84958
+metadata:
+  import_document_id: osssaysno:eigent-ai/eigent:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:09+00:00'
+    id: osssaysno:github.com/eigent-ai/eigent:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/eigent-ai/eigent/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/eigent-ai/eigent/main/CONTRIBUTING.md
+    role: contributing
+    sha256: b4e072f8a96619a1beb563674ee4f955ac0f3bd60a713abb120c2ea81a925308
+    snapshot: data/osssaysno/policies/eigent-ai/eigent/contributing.md
+    status: downloaded
+    text_sha256: b4e072f8a96619a1beb563674ee4f955ac0f3bd60a713abb120c2ea81a925308
+    url: https://github.com/eigent-ai/eigent/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:29:10+00:00'
+    id: osssaysno:github.com/eigent-ai/eigent:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/eigent-ai/eigent/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/eigent-ai/eigent/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: b4e072f8a96619a1beb563674ee4f955ac0f3bd60a713abb120c2ea81a925308
+    snapshot: data/osssaysno/policies/eigent-ai/eigent/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: b4e072f8a96619a1beb563674ee4f955ac0f3bd60a713abb120c2ea81a925308
+    url: https://raw.githubusercontent.com/eigent-ai/eigent/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/fb5fd6336f60661953ef4daca720515efa3cc47dd9742644639f65c5721b17a8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b4e072f8a96619a1beb563674ee4f955ac0f3bd60a713abb120c2ea81a925308
+  url: ''
+name: contributing.md
+path: corpus/475a7eeac2ff4de58c61a69be0f918b6/fb5fd6336f60661953ef4daca720515efa3cc47dd9742644639f65c5721b17a8.md

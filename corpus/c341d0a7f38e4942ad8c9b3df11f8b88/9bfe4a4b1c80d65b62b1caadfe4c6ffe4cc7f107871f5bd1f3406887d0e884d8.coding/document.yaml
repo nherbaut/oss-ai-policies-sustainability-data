@@ -1,0 +1,37 @@
+hash: b5eda5cbc37772858762c01023ee7b87daa363594db5ab9d6c6bf473eef86c38
+id: 8e03788d-b706-43c7-a1d9-efda3ad866b7
+metadata:
+  import_document_id: osssaysno:octoprint/octoprint:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:33+00:00'
+    id: osssaysno:github.com/octoprint/octoprint:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/octoprint/octoprint/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/CONTRIBUTING.md
+    role: contributing
+    sha256: b5eda5cbc37772858762c01023ee7b87daa363594db5ab9d6c6bf473eef86c38
+    snapshot: data/osssaysno/policies/octoprint/octoprint/contributing.md
+    status: downloaded
+    text_sha256: b5eda5cbc37772858762c01023ee7b87daa363594db5ab9d6c6bf473eef86c38
+    url: https://github.com/OctoPrint/OctoPrint/blob/dev/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:35:57+00:00'
+    id: osssaysno:github.com/octoprint/octoprint:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/octoprint/octoprint/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: b5eda5cbc37772858762c01023ee7b87daa363594db5ab9d6c6bf473eef86c38
+    snapshot: data/osssaysno/policies/octoprint/octoprint/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: b5eda5cbc37772858762c01023ee7b87daa363594db5ab9d6c6bf473eef86c38
+    url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/CONTRIBUTING.md
+  source_archive:
+    member: texts/9bfe4a4b1c80d65b62b1caadfe4c6ffe4cc7f107871f5bd1f3406887d0e884d8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b5eda5cbc37772858762c01023ee7b87daa363594db5ab9d6c6bf473eef86c38
+  url: ''
+name: contributing.md
+path: corpus/c341d0a7f38e4942ad8c9b3df11f8b88/9bfe4a4b1c80d65b62b1caadfe4c6ffe4cc7f107871f5bd1f3406887d0e884d8.md

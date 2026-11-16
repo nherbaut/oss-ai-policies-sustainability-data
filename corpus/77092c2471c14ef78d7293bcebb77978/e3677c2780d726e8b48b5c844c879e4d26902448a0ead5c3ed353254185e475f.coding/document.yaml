@@ -1,0 +1,26 @@
+hash: 24731bebaeadcaa411098da33e8d8f9d923ae52f5bb08549281266f3f95b5e23
+id: 26b89d29-dee3-448e-bb1b-4d9d03655820
+metadata:
+  import_document_id: osssaysno:apache/shardingsphere:root/MATURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:44+00:00'
+    id: osssaysno:github.com/apache/shardingsphere:root/MATURITY.md
+    import_slot: root/MATURITY.md
+    raw_snapshot: data/osssaysno/policies/apache/shardingsphere/root/raw/MATURITY.md
+    resolved_url: https://raw.githubusercontent.com/apache/shardingsphere/master/MATURITY.md
+    role: repository_root_document
+    sha256: 24731bebaeadcaa411098da33e8d8f9d923ae52f5bb08549281266f3f95b5e23
+    snapshot: data/osssaysno/policies/apache/shardingsphere/root/MATURITY.md
+    status: downloaded
+    text_sha256: 24731bebaeadcaa411098da33e8d8f9d923ae52f5bb08549281266f3f95b5e23
+    url: https://raw.githubusercontent.com/apache/shardingsphere/master/MATURITY.md
+  source_archive:
+    member: texts/e3677c2780d726e8b48b5c844c879e4d26902448a0ead5c3ed353254185e475f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 24731bebaeadcaa411098da33e8d8f9d923ae52f5bb08549281266f3f95b5e23
+  url: ''
+name: root/MATURITY.md
+path: corpus/77092c2471c14ef78d7293bcebb77978/e3677c2780d726e8b48b5c844c879e4d26902448a0ead5c3ed353254185e475f.md

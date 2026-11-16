@@ -1,0 +1,26 @@
+hash: 3febaa8b38b687b583800724f86b8931b1e88cdf1d2163420d83304f17d45bc8
+id: 22089326-c3e9-4d20-8286-94457f7a5c06
+metadata:
+  import_document_id: osssaysno:getarcaneapp/arcane:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:18+00:00'
+    id: osssaysno:github.com/getarcaneapp/arcane:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/getarcaneapp/arcane/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/getarcaneapp/arcane/main/SECURITY.md
+    role: repository_root_document
+    sha256: 3febaa8b38b687b583800724f86b8931b1e88cdf1d2163420d83304f17d45bc8
+    snapshot: data/osssaysno/policies/getarcaneapp/arcane/root/SECURITY.md
+    status: downloaded
+    text_sha256: 3febaa8b38b687b583800724f86b8931b1e88cdf1d2163420d83304f17d45bc8
+    url: https://raw.githubusercontent.com/getarcaneapp/arcane/main/SECURITY.md
+  source_archive:
+    member: texts/b188114512f5c08da07d5f786dac996621b598ed72b577e6250f78eba76a16f3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3febaa8b38b687b583800724f86b8931b1e88cdf1d2163420d83304f17d45bc8
+  url: ''
+name: root/SECURITY.md
+path: corpus/6bb24d12df494a2c91c1c30957ad7575/b188114512f5c08da07d5f786dac996621b598ed72b577e6250f78eba76a16f3.md

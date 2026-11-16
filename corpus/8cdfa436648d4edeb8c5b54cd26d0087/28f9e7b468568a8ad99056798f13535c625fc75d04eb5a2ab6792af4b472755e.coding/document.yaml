@@ -1,0 +1,26 @@
+hash: 0edd3f406a27946b0eaa057faa106fb2dbb7e3dbac9b818f1161c6d39156496a
+id: 6b7f1f7f-a861-48ab-b65a-aa7950e4142a
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:51+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/GOVERNANCE.md
+    role: repository_root_document
+    sha256: 0edd3f406a27946b0eaa057faa106fb2dbb7e3dbac9b818f1161c6d39156496a
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: 0edd3f406a27946b0eaa057faa106fb2dbb7e3dbac9b818f1161c6d39156496a
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/GOVERNANCE.md
+  source_archive:
+    member: texts/28f9e7b468568a8ad99056798f13535c625fc75d04eb5a2ab6792af4b472755e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0edd3f406a27946b0eaa057faa106fb2dbb7e3dbac9b818f1161c6d39156496a
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/28f9e7b468568a8ad99056798f13535c625fc75d04eb5a2ab6792af4b472755e.md

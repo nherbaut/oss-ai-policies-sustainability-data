@@ -1,0 +1,26 @@
+hash: 80e9bf498a74b5d9f99cf355ea8c155d02b236654069085d70aa1470817651da
+id: 2f4ec168-19fe-4b3e-9810-b7ce3107b3b4
+metadata:
+  import_document_id: osssaysno:alainm23/planify:root/ARCHITECTURE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:01+00:00'
+    id: osssaysno:github.com/alainm23/planify:root/ARCHITECTURE.md
+    import_slot: root/ARCHITECTURE.md
+    raw_snapshot: data/osssaysno/policies/alainm23/planify/root/raw/ARCHITECTURE.md
+    resolved_url: https://raw.githubusercontent.com/alainm23/planify/main/ARCHITECTURE.md
+    role: repository_root_document
+    sha256: 80e9bf498a74b5d9f99cf355ea8c155d02b236654069085d70aa1470817651da
+    snapshot: data/osssaysno/policies/alainm23/planify/root/ARCHITECTURE.md
+    status: downloaded
+    text_sha256: 80e9bf498a74b5d9f99cf355ea8c155d02b236654069085d70aa1470817651da
+    url: https://raw.githubusercontent.com/alainm23/planify/main/ARCHITECTURE.md
+  source_archive:
+    member: texts/d98bf9eecf89e2ea968f2380ac5c73dcc3907cc5cb1c3f2dc56511825f21142b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 80e9bf498a74b5d9f99cf355ea8c155d02b236654069085d70aa1470817651da
+  url: ''
+name: root/ARCHITECTURE.md
+path: corpus/6469a9e253e243008dd2cdf5a22f8ef9/d98bf9eecf89e2ea968f2380ac5c73dcc3907cc5cb1c3f2dc56511825f21142b.md

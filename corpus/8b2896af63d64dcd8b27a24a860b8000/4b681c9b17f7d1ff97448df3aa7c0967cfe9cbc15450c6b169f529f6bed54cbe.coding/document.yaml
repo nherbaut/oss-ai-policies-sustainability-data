@@ -1,0 +1,26 @@
+hash: 572f062623bea0cce74803ad544153dd40bb9cc1af549490509e53aeb201c7bf
+id: 95ec36e1-4e90-4ba0-a9f5-082523cee7d9
+metadata:
+  import_document_id: osssaysno:rukamori/archivetune:root/PRIVACY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:36+00:00'
+    id: osssaysno:github.com/rukamori/archivetune:root/PRIVACY.md
+    import_slot: root/PRIVACY.md
+    raw_snapshot: data/osssaysno/policies/rukamori/archivetune/root/raw/PRIVACY.md
+    resolved_url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/PRIVACY.md
+    role: repository_root_document
+    sha256: 572f062623bea0cce74803ad544153dd40bb9cc1af549490509e53aeb201c7bf
+    snapshot: data/osssaysno/policies/rukamori/archivetune/root/PRIVACY.md
+    status: downloaded
+    text_sha256: 572f062623bea0cce74803ad544153dd40bb9cc1af549490509e53aeb201c7bf
+    url: https://raw.githubusercontent.com/rukamori/ArchiveTune/main/PRIVACY.md
+  source_archive:
+    member: texts/4b681c9b17f7d1ff97448df3aa7c0967cfe9cbc15450c6b169f529f6bed54cbe.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 572f062623bea0cce74803ad544153dd40bb9cc1af549490509e53aeb201c7bf
+  url: ''
+name: root/PRIVACY.md
+path: corpus/8b2896af63d64dcd8b27a24a860b8000/4b681c9b17f7d1ff97448df3aa7c0967cfe9cbc15450c6b169f529f6bed54cbe.md

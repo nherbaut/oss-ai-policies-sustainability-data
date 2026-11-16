@@ -1,0 +1,26 @@
+hash: eb75e7a84f02b333970f8508d5f4f058caaaefb10028a776191a2fc6b422a4ce
+id: c079dcee-f828-49d4-8728-991d6407281e
+metadata:
+  import_document_id: osssaysno:nodejs/node:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:17+00:00'
+    id: osssaysno:github.com/nodejs/node:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/nodejs/node/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/nodejs/node/main/GOVERNANCE.md
+    role: repository_root_document
+    sha256: eb75e7a84f02b333970f8508d5f4f058caaaefb10028a776191a2fc6b422a4ce
+    snapshot: data/osssaysno/policies/nodejs/node/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: eb75e7a84f02b333970f8508d5f4f058caaaefb10028a776191a2fc6b422a4ce
+    url: https://raw.githubusercontent.com/nodejs/node/main/GOVERNANCE.md
+  source_archive:
+    member: texts/7f24d82e2a5e464a578c9fe1138e39f5f775d6458da7c26e9ebfce01dad4b6c3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: eb75e7a84f02b333970f8508d5f4f058caaaefb10028a776191a2fc6b422a4ce
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/77cedc800d4241619f12a7104b9779d7/7f24d82e2a5e464a578c9fe1138e39f5f775d6458da7c26e9ebfce01dad4b6c3.md

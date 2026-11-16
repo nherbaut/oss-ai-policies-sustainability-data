@@ -1,0 +1,26 @@
+hash: 58e17120978318ed03a280482c54f5df45cac593122cc985385a2a219c6f6cbb
+id: a44a321f-86d4-42d3-a6a1-3661b817e938
+metadata:
+  import_document_id: osssaysno:linkerd/linkerd2:root/RELEASE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:13+00:00'
+    id: osssaysno:github.com/linkerd/linkerd2:root/RELEASE.md
+    import_slot: root/RELEASE.md
+    raw_snapshot: data/osssaysno/policies/linkerd/linkerd2/root/raw/RELEASE.md
+    resolved_url: https://raw.githubusercontent.com/linkerd/linkerd2/main/RELEASE.md
+    role: repository_root_document
+    sha256: 58e17120978318ed03a280482c54f5df45cac593122cc985385a2a219c6f6cbb
+    snapshot: data/osssaysno/policies/linkerd/linkerd2/root/RELEASE.md
+    status: downloaded
+    text_sha256: 58e17120978318ed03a280482c54f5df45cac593122cc985385a2a219c6f6cbb
+    url: https://raw.githubusercontent.com/linkerd/linkerd2/main/RELEASE.md
+  source_archive:
+    member: texts/161ddb3793e9da50abb6e567a5ac2df91e645924fdd8304b8240770fefeddb3f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 58e17120978318ed03a280482c54f5df45cac593122cc985385a2a219c6f6cbb
+  url: ''
+name: root/RELEASE.md
+path: corpus/f48c3172f8cd4f868850ba3309586756/161ddb3793e9da50abb6e567a5ac2df91e645924fdd8304b8240770fefeddb3f.md

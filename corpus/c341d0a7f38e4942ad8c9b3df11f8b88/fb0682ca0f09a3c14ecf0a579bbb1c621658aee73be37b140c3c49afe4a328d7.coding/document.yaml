@@ -1,0 +1,26 @@
+hash: 8d901a815f7be92cbf8b1619591aa4c41ba75621baca35f125ddc16ea02b46fb
+id: 736d055d-2986-44fc-bf17-67c77e70b80d
+metadata:
+  import_document_id: osssaysno:octoprint/octoprint:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:57+00:00'
+    id: osssaysno:github.com/octoprint/octoprint:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/octoprint/octoprint/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/README.md
+    role: repository_root_document
+    sha256: 8d901a815f7be92cbf8b1619591aa4c41ba75621baca35f125ddc16ea02b46fb
+    snapshot: data/osssaysno/policies/octoprint/octoprint/root/README.md
+    status: downloaded
+    text_sha256: 8d901a815f7be92cbf8b1619591aa4c41ba75621baca35f125ddc16ea02b46fb
+    url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/README.md
+  source_archive:
+    member: texts/fb0682ca0f09a3c14ecf0a579bbb1c621658aee73be37b140c3c49afe4a328d7.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8d901a815f7be92cbf8b1619591aa4c41ba75621baca35f125ddc16ea02b46fb
+  url: ''
+name: root/README.md
+path: corpus/c341d0a7f38e4942ad8c9b3df11f8b88/fb0682ca0f09a3c14ecf0a579bbb1c621658aee73be37b140c3c49afe4a328d7.md

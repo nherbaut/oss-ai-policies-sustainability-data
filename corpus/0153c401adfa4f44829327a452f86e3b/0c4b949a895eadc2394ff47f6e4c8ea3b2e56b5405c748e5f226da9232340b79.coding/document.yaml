@@ -1,0 +1,37 @@
+hash: 3577c0e049aaf92bf67ef93fc20b79f23257a54bafc82dbbd9077fef49e2af73
+id: 79f93e50-33ea-4622-bb81-9bcf2a8234ad
+metadata:
+  import_document_id: osssaysno:lightgbm-org/lightgbm:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:53+00:00'
+    id: osssaysno:github.com/lightgbm-org/lightgbm:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/lightgbm-org/lightgbm/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 3577c0e049aaf92bf67ef93fc20b79f23257a54bafc82dbbd9077fef49e2af73
+    snapshot: data/osssaysno/policies/lightgbm-org/lightgbm/contributing.md
+    status: downloaded
+    text_sha256: 3577c0e049aaf92bf67ef93fc20b79f23257a54bafc82dbbd9077fef49e2af73
+    url: https://github.com/lightgbm-org/LightGBM/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:28:55+00:00'
+    id: osssaysno:github.com/lightgbm-org/lightgbm:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/lightgbm-org/lightgbm/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 3577c0e049aaf92bf67ef93fc20b79f23257a54bafc82dbbd9077fef49e2af73
+    snapshot: data/osssaysno/policies/lightgbm-org/lightgbm/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 3577c0e049aaf92bf67ef93fc20b79f23257a54bafc82dbbd9077fef49e2af73
+    url: https://raw.githubusercontent.com/lightgbm-org/LightGBM/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/0c4b949a895eadc2394ff47f6e4c8ea3b2e56b5405c748e5f226da9232340b79.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3577c0e049aaf92bf67ef93fc20b79f23257a54bafc82dbbd9077fef49e2af73
+  url: ''
+name: contributing.md
+path: corpus/0153c401adfa4f44829327a452f86e3b/0c4b949a895eadc2394ff47f6e4c8ea3b2e56b5405c748e5f226da9232340b79.md

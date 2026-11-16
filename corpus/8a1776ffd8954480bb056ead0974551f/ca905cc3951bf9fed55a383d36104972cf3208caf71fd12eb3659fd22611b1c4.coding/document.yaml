@@ -1,0 +1,26 @@
+hash: 3778fc101ab0840568300a2fdc3cef5745e4aa1708cdaf203048ffb727031842
+id: 7c7cf6bf-62c3-4b2d-83ab-42af12f4e5e6
+metadata:
+  import_document_id: osssaysno:audacity/audacity:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:57+00:00'
+    id: osssaysno:github.com/audacity/audacity:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/audacity/audacity/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/audacity/audacity/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 3778fc101ab0840568300a2fdc3cef5745e4aa1708cdaf203048ffb727031842
+    snapshot: data/osssaysno/policies/audacity/audacity/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 3778fc101ab0840568300a2fdc3cef5745e4aa1708cdaf203048ffb727031842
+    url: https://raw.githubusercontent.com/audacity/audacity/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/ca905cc3951bf9fed55a383d36104972cf3208caf71fd12eb3659fd22611b1c4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3778fc101ab0840568300a2fdc3cef5745e4aa1708cdaf203048ffb727031842
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/8a1776ffd8954480bb056ead0974551f/ca905cc3951bf9fed55a383d36104972cf3208caf71fd12eb3659fd22611b1c4.md

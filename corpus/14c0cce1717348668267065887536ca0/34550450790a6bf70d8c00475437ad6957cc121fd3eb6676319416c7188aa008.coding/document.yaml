@@ -1,0 +1,26 @@
+hash: ab12a22b083ce7defeeb83919c95d42f18af04153361695ed2f88e091d183562
+id: c98cecc5-bff8-4950-934e-f16729c094fa
+metadata:
+  import_document_id: osssaysno:gentleman-programming/gentle-ai:root/CONTRIBUTORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:28+00:00'
+    id: osssaysno:github.com/gentleman-programming/gentle-ai:root/CONTRIBUTORS.md
+    import_slot: root/CONTRIBUTORS.md
+    raw_snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/root/raw/CONTRIBUTORS.md
+    resolved_url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/CONTRIBUTORS.md
+    role: repository_root_document
+    sha256: ab12a22b083ce7defeeb83919c95d42f18af04153361695ed2f88e091d183562
+    snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/root/CONTRIBUTORS.md
+    status: downloaded
+    text_sha256: ab12a22b083ce7defeeb83919c95d42f18af04153361695ed2f88e091d183562
+    url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/CONTRIBUTORS.md
+  source_archive:
+    member: texts/34550450790a6bf70d8c00475437ad6957cc121fd3eb6676319416c7188aa008.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ab12a22b083ce7defeeb83919c95d42f18af04153361695ed2f88e091d183562
+  url: ''
+name: root/CONTRIBUTORS.md
+path: corpus/14c0cce1717348668267065887536ca0/34550450790a6bf70d8c00475437ad6957cc121fd3eb6676319416c7188aa008.md

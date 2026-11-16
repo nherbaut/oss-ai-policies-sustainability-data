@@ -1,0 +1,26 @@
+hash: 087906667d44cbca6a47a4e198713c7b068c1766c8fe9a80daa9b4e7480eae95
+id: 15d71342-2e72-4a86-b694-66fb142148be
+metadata:
+  import_document_id: osssaysno:triliumnext/trilium:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:02+00:00'
+    id: osssaysno:github.com/triliumnext/trilium:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/triliumnext/trilium/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/TriliumNext/Trilium/main/README.md
+    role: repository_root_document
+    sha256: 087906667d44cbca6a47a4e198713c7b068c1766c8fe9a80daa9b4e7480eae95
+    snapshot: data/osssaysno/policies/triliumnext/trilium/root/README.md
+    status: downloaded
+    text_sha256: 087906667d44cbca6a47a4e198713c7b068c1766c8fe9a80daa9b4e7480eae95
+    url: https://raw.githubusercontent.com/TriliumNext/Trilium/main/README.md
+  source_archive:
+    member: texts/8accef63a42070e601b9a5960fd5c4283c81ebf2b853cf77ca5fa4c1ce07426f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 087906667d44cbca6a47a4e198713c7b068c1766c8fe9a80daa9b4e7480eae95
+  url: ''
+name: root/README.md
+path: corpus/9ef1ce9d9c64436f9984c3023136946d/8accef63a42070e601b9a5960fd5c4283c81ebf2b853cf77ca5fa4c1ce07426f.md

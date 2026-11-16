@@ -1,0 +1,26 @@
+hash: 5ddd33cddfcf7b14996c396556c0bd61f75f120d7bf8fae308e8aded3995de01
+id: 92c7a4a1-0ebd-4bd9-8ba1-31147e0e4d44
+metadata:
+  import_document_id: osssaysno:usekaneo/kaneo:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:32+00:00'
+    id: osssaysno:github.com/usekaneo/kaneo:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/usekaneo/kaneo/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/usekaneo/kaneo/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 5ddd33cddfcf7b14996c396556c0bd61f75f120d7bf8fae308e8aded3995de01
+    snapshot: data/osssaysno/policies/usekaneo/kaneo/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 5ddd33cddfcf7b14996c396556c0bd61f75f120d7bf8fae308e8aded3995de01
+    url: https://raw.githubusercontent.com/usekaneo/kaneo/main/CHANGELOG.md
+  source_archive:
+    member: texts/361665bef499e9d1b7523fcf455532386c30ebc5827dcd5a9b383e83b2c1c683.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5ddd33cddfcf7b14996c396556c0bd61f75f120d7bf8fae308e8aded3995de01
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/2145b6e7a3134c3798a22fe815d38c6c/361665bef499e9d1b7523fcf455532386c30ebc5827dcd5a9b383e83b2c1c683.md

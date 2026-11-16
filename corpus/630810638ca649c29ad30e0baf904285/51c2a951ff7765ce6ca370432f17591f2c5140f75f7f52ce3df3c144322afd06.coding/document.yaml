@@ -1,0 +1,26 @@
+hash: c0b01723eee2db57a398a46202f234973b8430176df100ec383bea289846a1a9
+id: 828d89d3-5838-422c-8d55-1a58c5ce83bb
+metadata:
+  import_document_id: osssaysno:valhalla/valhalla:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:34+00:00'
+    id: osssaysno:github.com/valhalla/valhalla:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/valhalla/valhalla/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/valhalla/valhalla/master/SECURITY.md
+    role: repository_root_document
+    sha256: c0b01723eee2db57a398a46202f234973b8430176df100ec383bea289846a1a9
+    snapshot: data/osssaysno/policies/valhalla/valhalla/root/SECURITY.md
+    status: downloaded
+    text_sha256: c0b01723eee2db57a398a46202f234973b8430176df100ec383bea289846a1a9
+    url: https://raw.githubusercontent.com/valhalla/valhalla/master/SECURITY.md
+  source_archive:
+    member: texts/51c2a951ff7765ce6ca370432f17591f2c5140f75f7f52ce3df3c144322afd06.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c0b01723eee2db57a398a46202f234973b8430176df100ec383bea289846a1a9
+  url: ''
+name: root/SECURITY.md
+path: corpus/630810638ca649c29ad30e0baf904285/51c2a951ff7765ce6ca370432f17591f2c5140f75f7f52ce3df3c144322afd06.md

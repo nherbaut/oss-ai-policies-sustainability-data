@@ -1,0 +1,26 @@
+hash: 96f2d6b601aba674d8c2bd5c115c41af989ea8840fe6c0bd2bde4aea3bcde349
+id: cfad69e2-4ca3-49b4-999b-4e28ac0a580f
+metadata:
+  import_document_id: osssaysno:curl/curl:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:59+00:00'
+    id: osssaysno:github.com/curl/curl:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/curl/curl/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/curl/curl/master/docs/CONTRIBUTE.md
+    role: contributing
+    sha256: 96f2d6b601aba674d8c2bd5c115c41af989ea8840fe6c0bd2bde4aea3bcde349
+    snapshot: data/osssaysno/policies/curl/curl/contributing.md
+    status: downloaded
+    text_sha256: 96f2d6b601aba674d8c2bd5c115c41af989ea8840fe6c0bd2bde4aea3bcde349
+    url: https://raw.githubusercontent.com/curl/curl/master/docs/CONTRIBUTE.md
+  source_archive:
+    member: texts/8b3f85039d28ffd81ac4f77bad7baeff1f723af16454687df21d417fc024991a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 96f2d6b601aba674d8c2bd5c115c41af989ea8840fe6c0bd2bde4aea3bcde349
+  url: ''
+name: contributing.md
+path: corpus/e18557ed82b0429691310db61b83cf3a/8b3f85039d28ffd81ac4f77bad7baeff1f723af16454687df21d417fc024991a.md

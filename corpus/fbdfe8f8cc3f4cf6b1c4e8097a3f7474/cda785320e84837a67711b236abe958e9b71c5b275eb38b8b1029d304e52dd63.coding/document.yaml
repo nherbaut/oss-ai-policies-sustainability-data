@@ -1,0 +1,26 @@
+hash: 76b0c8960cf94c21c9b653cf8305242367eed561a76e26c8ac904e46a75ff75c
+id: 0961dfce-5d66-4def-a869-07931d8221a7
+metadata:
+  import_document_id: osssaysno:quickwit-oss/quickwit:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:09+00:00'
+    id: osssaysno:github.com/quickwit-oss/quickwit:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/README.md
+    role: repository_root_document
+    sha256: 76b0c8960cf94c21c9b653cf8305242367eed561a76e26c8ac904e46a75ff75c
+    snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/README.md
+    status: downloaded
+    text_sha256: 76b0c8960cf94c21c9b653cf8305242367eed561a76e26c8ac904e46a75ff75c
+    url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/README.md
+  source_archive:
+    member: texts/cda785320e84837a67711b236abe958e9b71c5b275eb38b8b1029d304e52dd63.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 76b0c8960cf94c21c9b653cf8305242367eed561a76e26c8ac904e46a75ff75c
+  url: ''
+name: root/README.md
+path: corpus/fbdfe8f8cc3f4cf6b1c4e8097a3f7474/cda785320e84837a67711b236abe958e9b71c5b275eb38b8b1029d304e52dd63.md

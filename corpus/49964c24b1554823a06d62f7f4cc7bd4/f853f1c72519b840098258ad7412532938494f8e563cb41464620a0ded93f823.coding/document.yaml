@@ -1,0 +1,26 @@
+hash: 0bb32ea8e9a99852ba0c669e8b175c5f256fb7984a22041b48ab6adf4dbc7695
+id: 255e48cc-15be-4773-9a65-12ce23ef60a5
+metadata:
+  import_document_id: osssaysno:iv-org/invidious:root/CHANGELOG_legacy.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:20+00:00'
+    id: osssaysno:github.com/iv-org/invidious:root/CHANGELOG_legacy.md
+    import_slot: root/CHANGELOG_legacy.md
+    raw_snapshot: data/osssaysno/policies/iv-org/invidious/root/raw/CHANGELOG_legacy.md
+    resolved_url: https://raw.githubusercontent.com/iv-org/invidious/master/CHANGELOG_legacy.md
+    role: repository_root_document
+    sha256: 0bb32ea8e9a99852ba0c669e8b175c5f256fb7984a22041b48ab6adf4dbc7695
+    snapshot: data/osssaysno/policies/iv-org/invidious/root/CHANGELOG_legacy.md
+    status: downloaded
+    text_sha256: 0bb32ea8e9a99852ba0c669e8b175c5f256fb7984a22041b48ab6adf4dbc7695
+    url: https://raw.githubusercontent.com/iv-org/invidious/master/CHANGELOG_legacy.md
+  source_archive:
+    member: texts/f853f1c72519b840098258ad7412532938494f8e563cb41464620a0ded93f823.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0bb32ea8e9a99852ba0c669e8b175c5f256fb7984a22041b48ab6adf4dbc7695
+  url: ''
+name: root/CHANGELOG_legacy.md
+path: corpus/49964c24b1554823a06d62f7f4cc7bd4/f853f1c72519b840098258ad7412532938494f8e563cb41464620a0ded93f823.md

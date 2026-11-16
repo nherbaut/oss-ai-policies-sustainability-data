@@ -1,0 +1,26 @@
+hash: 66a678950fd46d36952abd7866954e6a79e39e8243f1ffc8612a2f3cfb267013
+id: 4760d38c-8ea8-4436-9ec5-b82685cb7bb3
+metadata:
+  import_document_id: osssaysno:moment/moment:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:47+00:00'
+    id: osssaysno:github.com/moment/moment:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/moment/moment/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/moment/moment/develop/AGENTS.md
+    role: repository_root_document
+    sha256: 66a678950fd46d36952abd7866954e6a79e39e8243f1ffc8612a2f3cfb267013
+    snapshot: data/osssaysno/policies/moment/moment/root/AGENTS.md
+    status: downloaded
+    text_sha256: 66a678950fd46d36952abd7866954e6a79e39e8243f1ffc8612a2f3cfb267013
+    url: https://raw.githubusercontent.com/moment/moment/develop/AGENTS.md
+  source_archive:
+    member: texts/a3227947772718968b56e0efb10bcaa4b7dcd886bc58ea34d13560bf49dbf08e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 66a678950fd46d36952abd7866954e6a79e39e8243f1ffc8612a2f3cfb267013
+  url: ''
+name: root/AGENTS.md
+path: corpus/444b0a48e45f48b6b6f904ea58c0da54/a3227947772718968b56e0efb10bcaa4b7dcd886bc58ea34d13560bf49dbf08e.md

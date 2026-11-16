@@ -1,0 +1,26 @@
+hash: 9919670b3e5813dcd1175cc0fe3cf0fcf5092aa8a2e17446b22d2d7d32eeeb98
+id: a4756b22-01ef-49f1-86cb-a73486bab82b
+metadata:
+  import_document_id: osssaysno:stashapp/stash:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:33+00:00'
+    id: osssaysno:github.com/stashapp/stash:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/stashapp/stash/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/stashapp/stash/develop/README.md
+    role: repository_root_document
+    sha256: 9919670b3e5813dcd1175cc0fe3cf0fcf5092aa8a2e17446b22d2d7d32eeeb98
+    snapshot: data/osssaysno/policies/stashapp/stash/root/README.md
+    status: downloaded
+    text_sha256: 9919670b3e5813dcd1175cc0fe3cf0fcf5092aa8a2e17446b22d2d7d32eeeb98
+    url: https://raw.githubusercontent.com/stashapp/stash/develop/README.md
+  source_archive:
+    member: texts/f2e66d82a90d8a199d47c57f0af480e8fdc0078762e7e01c54710d1ea923cb77.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9919670b3e5813dcd1175cc0fe3cf0fcf5092aa8a2e17446b22d2d7d32eeeb98
+  url: ''
+name: root/README.md
+path: corpus/a9b51a218357444abdeb3e0c4057de9e/f2e66d82a90d8a199d47c57f0af480e8fdc0078762e7e01c54710d1ea923cb77.md

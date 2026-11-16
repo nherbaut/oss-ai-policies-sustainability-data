@@ -1,0 +1,37 @@
+hash: 6688f229df3250f8848f615799791060bb8291aa5ce19c80d6df002eb1e923f3
+id: 1d1a8b62-40aa-465e-8cf6-7ba92ba004ac
+metadata:
+  import_document_id: osssaysno:magnitudedev/magnitude:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:38+00:00'
+    id: osssaysno:github.com/magnitudedev/magnitude:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/magnitudedev/magnitude/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/magnitudedev/magnitude/main/AGENTS.md
+    role: repository_root_document
+    sha256: 6688f229df3250f8848f615799791060bb8291aa5ce19c80d6df002eb1e923f3
+    snapshot: data/osssaysno/policies/magnitudedev/magnitude/root/AGENTS.md
+    status: downloaded
+    text_sha256: 6688f229df3250f8848f615799791060bb8291aa5ce19c80d6df002eb1e923f3
+    url: https://raw.githubusercontent.com/magnitudedev/magnitude/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:36:39+00:00'
+    id: osssaysno:github.com/magnitudedev/magnitude:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/magnitudedev/magnitude/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/magnitudedev/magnitude/main/AGENTS.md
+    role: repository_root_document
+    sha256: 6688f229df3250f8848f615799791060bb8291aa5ce19c80d6df002eb1e923f3
+    snapshot: data/osssaysno/policies/magnitudedev/magnitude/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 6688f229df3250f8848f615799791060bb8291aa5ce19c80d6df002eb1e923f3
+    url: https://raw.githubusercontent.com/magnitudedev/magnitude/main/CLAUDE.md
+  source_archive:
+    member: texts/bd1ba216b38252f296aba9e601e6e025ba2c052e76fb074d6fdee43b65ca75e2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6688f229df3250f8848f615799791060bb8291aa5ce19c80d6df002eb1e923f3
+  url: ''
+name: root/AGENTS.md
+path: corpus/c11d31c92bfa4743b70483dd2389cd75/bd1ba216b38252f296aba9e601e6e025ba2c052e76fb074d6fdee43b65ca75e2.md

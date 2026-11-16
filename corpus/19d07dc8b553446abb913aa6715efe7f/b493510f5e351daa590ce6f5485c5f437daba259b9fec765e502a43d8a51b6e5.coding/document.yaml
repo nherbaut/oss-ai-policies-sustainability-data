@@ -1,0 +1,26 @@
+hash: b5f4a35d86203ca83b296572897966fa1fee445a8afce8f5c4f54fc91845019a
+id: 6e1aa655-18f7-4d56-a461-94df207bee1a
+metadata:
+  import_document_id: osssaysno:lysine-dev/okhttp:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:51+00:00'
+    id: osssaysno:github.com/lysine-dev/okhttp:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/lysine-dev/okhttp/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/lysine-dev/okhttp/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: b5f4a35d86203ca83b296572897966fa1fee445a8afce8f5c4f54fc91845019a
+    snapshot: data/osssaysno/policies/lysine-dev/okhttp/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: b5f4a35d86203ca83b296572897966fa1fee445a8afce8f5c4f54fc91845019a
+    url: https://raw.githubusercontent.com/lysine-dev/okhttp/main/CHANGELOG.md
+  source_archive:
+    member: texts/b493510f5e351daa590ce6f5485c5f437daba259b9fec765e502a43d8a51b6e5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b5f4a35d86203ca83b296572897966fa1fee445a8afce8f5c4f54fc91845019a
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/19d07dc8b553446abb913aa6715efe7f/b493510f5e351daa590ce6f5485c5f437daba259b9fec765e502a43d8a51b6e5.md

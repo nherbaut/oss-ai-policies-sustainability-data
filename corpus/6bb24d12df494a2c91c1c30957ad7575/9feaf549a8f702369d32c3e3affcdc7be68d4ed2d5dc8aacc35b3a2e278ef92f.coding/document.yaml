@@ -1,0 +1,26 @@
+hash: 8ce7dc766b2e05bac664266601c224a341b877f40b059b4841c899b6596a5ff2
+id: a994295b-50e1-44c4-a78d-294890abaf88
+metadata:
+  import_document_id: osssaysno:getarcaneapp/arcane:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:17+00:00'
+    id: osssaysno:github.com/getarcaneapp/arcane:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/getarcaneapp/arcane/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/getarcaneapp/arcane/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 8ce7dc766b2e05bac664266601c224a341b877f40b059b4841c899b6596a5ff2
+    snapshot: data/osssaysno/policies/getarcaneapp/arcane/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 8ce7dc766b2e05bac664266601c224a341b877f40b059b4841c899b6596a5ff2
+    url: https://raw.githubusercontent.com/getarcaneapp/arcane/main/CHANGELOG.md
+  source_archive:
+    member: texts/9feaf549a8f702369d32c3e3affcdc7be68d4ed2d5dc8aacc35b3a2e278ef92f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8ce7dc766b2e05bac664266601c224a341b877f40b059b4841c899b6596a5ff2
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/6bb24d12df494a2c91c1c30957ad7575/9feaf549a8f702369d32c3e3affcdc7be68d4ed2d5dc8aacc35b3a2e278ef92f.md

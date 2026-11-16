@@ -1,0 +1,26 @@
+hash: 45d3c9cdbd4ff9dba64287a59045e99c9ed1ace0a5478bd6c842839ee0df29d8
+id: a20568e8-69e3-4368-839e-914251bd03e0
+metadata:
+  import_document_id: osssaysno:redpanda-data/connect:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:03+00:00'
+    id: osssaysno:github.com/redpanda-data/connect:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/redpanda-data/connect/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/redpanda-data/connect/main/README.md
+    role: repository_root_document
+    sha256: 45d3c9cdbd4ff9dba64287a59045e99c9ed1ace0a5478bd6c842839ee0df29d8
+    snapshot: data/osssaysno/policies/redpanda-data/connect/root/README.md
+    status: downloaded
+    text_sha256: 45d3c9cdbd4ff9dba64287a59045e99c9ed1ace0a5478bd6c842839ee0df29d8
+    url: https://raw.githubusercontent.com/redpanda-data/connect/main/README.md
+  source_archive:
+    member: texts/f2a8d1769489430b7ebc87531807a5a00084e32f1e8e62880a69233ff034cf96.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 45d3c9cdbd4ff9dba64287a59045e99c9ed1ace0a5478bd6c842839ee0df29d8
+  url: ''
+name: root/README.md
+path: corpus/d5d930bb6ecc48fbadd0b6a722f3607b/f2a8d1769489430b7ebc87531807a5a00084e32f1e8e62880a69233ff034cf96.md

@@ -1,0 +1,26 @@
+hash: 080a63fac1f0187f0441b0f056f7d62dd5303c8f4b528ba7272b11090537d9f5
+id: 58ac13ff-3970-4701-8a08-2e7d0ae44481
+metadata:
+  import_document_id: osssaysno:pennyw0rth/netexec:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:48+00:00'
+    id: osssaysno:github.com/pennyw0rth/netexec:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/pennyw0rth/netexec/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/Pennyw0rth/NetExec/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 080a63fac1f0187f0441b0f056f7d62dd5303c8f4b528ba7272b11090537d9f5
+    snapshot: data/osssaysno/policies/pennyw0rth/netexec/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 080a63fac1f0187f0441b0f056f7d62dd5303c8f4b528ba7272b11090537d9f5
+    url: https://raw.githubusercontent.com/Pennyw0rth/NetExec/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/27278efca879e73dbfd6f6597abd70f3fe8ecf4bd595a48f691c3394343844a4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 080a63fac1f0187f0441b0f056f7d62dd5303c8f4b528ba7272b11090537d9f5
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/6a8ec42f793e4952af3c22ef2232fc7c/27278efca879e73dbfd6f6597abd70f3fe8ecf4bd595a48f691c3394343844a4.md

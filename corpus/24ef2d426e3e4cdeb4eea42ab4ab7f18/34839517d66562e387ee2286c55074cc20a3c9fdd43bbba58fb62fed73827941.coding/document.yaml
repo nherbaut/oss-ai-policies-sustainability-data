@@ -1,0 +1,26 @@
+hash: 5bc22eecf1bac971bf380f049d96799f649e54647ec0b9c41fbaeb5a0c3ac696
+id: 60f00945-d934-4224-9e68-b02e9fbb2f90
+metadata:
+  import_document_id: osssaysno:crossplane/crossplane:root/ADOPTERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:50+00:00'
+    id: osssaysno:github.com/crossplane/crossplane:root/ADOPTERS.md
+    import_slot: root/ADOPTERS.md
+    raw_snapshot: data/osssaysno/policies/crossplane/crossplane/root/raw/ADOPTERS.md
+    resolved_url: https://raw.githubusercontent.com/crossplane/crossplane/main/ADOPTERS.md
+    role: repository_root_document
+    sha256: 5bc22eecf1bac971bf380f049d96799f649e54647ec0b9c41fbaeb5a0c3ac696
+    snapshot: data/osssaysno/policies/crossplane/crossplane/root/ADOPTERS.md
+    status: downloaded
+    text_sha256: 5bc22eecf1bac971bf380f049d96799f649e54647ec0b9c41fbaeb5a0c3ac696
+    url: https://raw.githubusercontent.com/crossplane/crossplane/main/ADOPTERS.md
+  source_archive:
+    member: texts/34839517d66562e387ee2286c55074cc20a3c9fdd43bbba58fb62fed73827941.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5bc22eecf1bac971bf380f049d96799f649e54647ec0b9c41fbaeb5a0c3ac696
+  url: ''
+name: root/ADOPTERS.md
+path: corpus/24ef2d426e3e4cdeb4eea42ab4ab7f18/34839517d66562e387ee2286c55074cc20a3c9fdd43bbba58fb62fed73827941.md

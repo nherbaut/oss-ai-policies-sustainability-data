@@ -1,0 +1,26 @@
+hash: 5e6a3e6b5b0e7a8335c2456d2cdd04b2d42f1ff543c75ac6c67dacb4bfba04ac
+id: 968e1642-5d1d-4c18-bdc5-54034faf3df0
+metadata:
+  import_document_id: osssaysno:mealie-recipes/mealie:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:31+00:00'
+    id: osssaysno:github.com/mealie-recipes/mealie:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/mealie-recipes/mealie/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/MAINTAINERS.md
+    role: repository_root_document
+    sha256: 5e6a3e6b5b0e7a8335c2456d2cdd04b2d42f1ff543c75ac6c67dacb4bfba04ac
+    snapshot: data/osssaysno/policies/mealie-recipes/mealie/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: 5e6a3e6b5b0e7a8335c2456d2cdd04b2d42f1ff543c75ac6c67dacb4bfba04ac
+    url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/MAINTAINERS.md
+  source_archive:
+    member: texts/2867830f18258477a5b4d5dab6fbf24184998cead10609c66f5ed820e2642d0c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5e6a3e6b5b0e7a8335c2456d2cdd04b2d42f1ff543c75ac6c67dacb4bfba04ac
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/198a188a7d68473496327592f570250a/2867830f18258477a5b4d5dab6fbf24184998cead10609c66f5ed820e2642d0c.md

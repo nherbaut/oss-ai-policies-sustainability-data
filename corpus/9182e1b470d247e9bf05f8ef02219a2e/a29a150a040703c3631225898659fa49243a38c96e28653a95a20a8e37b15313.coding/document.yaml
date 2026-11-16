@@ -1,0 +1,37 @@
+hash: 655483f1c6a1ddcd4e8833fa0316c95df898d4018aa3fe4129ca230e7b156ad6
+id: 70bff0bb-6f88-4535-b852-410ddafeb579
+metadata:
+  import_document_id: osssaysno:projectcalico/calico:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:45+00:00'
+    id: osssaysno:github.com/projectcalico/calico:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/projectcalico/calico/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/projectcalico/calico/master/AI_POLICY.md
+    role: ai_policy
+    sha256: 655483f1c6a1ddcd4e8833fa0316c95df898d4018aa3fe4129ca230e7b156ad6
+    snapshot: data/osssaysno/policies/projectcalico/calico/ai_policy.md
+    status: downloaded
+    text_sha256: 655483f1c6a1ddcd4e8833fa0316c95df898d4018aa3fe4129ca230e7b156ad6
+    url: https://github.com/projectcalico/calico/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:36:48+00:00'
+    id: osssaysno:github.com/projectcalico/calico:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/projectcalico/calico/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/projectcalico/calico/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: 655483f1c6a1ddcd4e8833fa0316c95df898d4018aa3fe4129ca230e7b156ad6
+    snapshot: data/osssaysno/policies/projectcalico/calico/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 655483f1c6a1ddcd4e8833fa0316c95df898d4018aa3fe4129ca230e7b156ad6
+    url: https://raw.githubusercontent.com/projectcalico/calico/master/AI_POLICY.md
+  source_archive:
+    member: texts/a29a150a040703c3631225898659fa49243a38c96e28653a95a20a8e37b15313.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 655483f1c6a1ddcd4e8833fa0316c95df898d4018aa3fe4129ca230e7b156ad6
+  url: ''
+name: ai_policy.md
+path: corpus/9182e1b470d247e9bf05f8ef02219a2e/a29a150a040703c3631225898659fa49243a38c96e28653a95a20a8e37b15313.md

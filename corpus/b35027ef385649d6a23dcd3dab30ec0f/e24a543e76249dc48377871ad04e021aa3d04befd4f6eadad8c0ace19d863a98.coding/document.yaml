@@ -1,0 +1,26 @@
+hash: 5692e51c84f4b8f71360bf75dece53ed0e3bfeb3f6048fc8e313fb1767f0ab75
+id: f8b1a95d-70da-4ef3-b017-e0a7ae95d132
+metadata:
+  import_document_id: osssaysno:project-monai/monai:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:01+00:00'
+    id: osssaysno:github.com/project-monai/monai:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/project-monai/monai/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/CHANGELOG.md
+    role: repository_root_document
+    sha256: 5692e51c84f4b8f71360bf75dece53ed0e3bfeb3f6048fc8e313fb1767f0ab75
+    snapshot: data/osssaysno/policies/project-monai/monai/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 5692e51c84f4b8f71360bf75dece53ed0e3bfeb3f6048fc8e313fb1767f0ab75
+    url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/CHANGELOG.md
+  source_archive:
+    member: texts/e24a543e76249dc48377871ad04e021aa3d04befd4f6eadad8c0ace19d863a98.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5692e51c84f4b8f71360bf75dece53ed0e3bfeb3f6048fc8e313fb1767f0ab75
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/b35027ef385649d6a23dcd3dab30ec0f/e24a543e76249dc48377871ad04e021aa3d04befd4f6eadad8c0ace19d863a98.md

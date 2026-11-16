@@ -1,0 +1,26 @@
+hash: 4515df633b029372032a72cc4bc0a8ffc0aa50d49c0744531a159e8f95ea299b
+id: e5653d1c-9e3c-4468-938f-9597f485063d
+metadata:
+  import_document_id: osssaysno:motion-canvas/motion-canvas:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:52+00:00'
+    id: osssaysno:github.com/motion-canvas/motion-canvas:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/motion-canvas/motion-canvas/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 4515df633b029372032a72cc4bc0a8ffc0aa50d49c0744531a159e8f95ea299b
+    snapshot: data/osssaysno/policies/motion-canvas/motion-canvas/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 4515df633b029372032a72cc4bc0a8ffc0aa50d49c0744531a159e8f95ea299b
+    url: https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/0f0cebee5b04a746295aee4e8b39fa1dbd4a1cdb32de914f04699b7136feb22a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4515df633b029372032a72cc4bc0a8ffc0aa50d49c0744531a159e8f95ea299b
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/7cf967b29e0143dca58038707173d9b5/0f0cebee5b04a746295aee4e8b39fa1dbd4a1cdb32de914f04699b7136feb22a.md

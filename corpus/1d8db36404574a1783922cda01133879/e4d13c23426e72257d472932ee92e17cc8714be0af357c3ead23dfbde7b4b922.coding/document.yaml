@@ -1,0 +1,26 @@
+hash: 88dc50a97981aa182853d8c94348a1fcdc993d6e0656a3a12aaddd25d52f5f74
+id: 77a421c6-2801-4cd8-a5de-98cce27fda93
+metadata:
+  import_document_id: osssaysno:riot-os/riot:root/LOSTANDFOUND.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:57+00:00'
+    id: osssaysno:github.com/riot-os/riot:root/LOSTANDFOUND.md
+    import_slot: root/LOSTANDFOUND.md
+    raw_snapshot: data/osssaysno/policies/riot-os/riot/root/raw/LOSTANDFOUND.md
+    resolved_url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/LOSTANDFOUND.md
+    role: repository_root_document
+    sha256: 88dc50a97981aa182853d8c94348a1fcdc993d6e0656a3a12aaddd25d52f5f74
+    snapshot: data/osssaysno/policies/riot-os/riot/root/LOSTANDFOUND.md
+    status: downloaded
+    text_sha256: 88dc50a97981aa182853d8c94348a1fcdc993d6e0656a3a12aaddd25d52f5f74
+    url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/LOSTANDFOUND.md
+  source_archive:
+    member: texts/e4d13c23426e72257d472932ee92e17cc8714be0af357c3ead23dfbde7b4b922.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 88dc50a97981aa182853d8c94348a1fcdc993d6e0656a3a12aaddd25d52f5f74
+  url: ''
+name: root/LOSTANDFOUND.md
+path: corpus/1d8db36404574a1783922cda01133879/e4d13c23426e72257d472932ee92e17cc8714be0af357c3ead23dfbde7b4b922.md

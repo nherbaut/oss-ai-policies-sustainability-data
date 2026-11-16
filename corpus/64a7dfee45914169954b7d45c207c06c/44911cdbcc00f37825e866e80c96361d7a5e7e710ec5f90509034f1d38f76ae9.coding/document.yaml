@@ -1,0 +1,26 @@
+hash: ea80931486547a5f03e4470cfa653b1a8a107b71cb16aebeaba8632ddb74c2c0
+id: 885d09c5-e320-4819-adf6-1858bf121c35
+metadata:
+  import_document_id: osssaysno:kunagent/kun:root/DESIGN_MODE_PLAN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:36+00:00'
+    id: osssaysno:github.com/kunagent/kun:root/DESIGN_MODE_PLAN.md
+    import_slot: root/DESIGN_MODE_PLAN.md
+    raw_snapshot: data/osssaysno/policies/kunagent/kun/root/raw/DESIGN_MODE_PLAN.md
+    resolved_url: https://raw.githubusercontent.com/KunAgent/Kun/master/DESIGN_MODE_PLAN.md
+    role: repository_root_document
+    sha256: ea80931486547a5f03e4470cfa653b1a8a107b71cb16aebeaba8632ddb74c2c0
+    snapshot: data/osssaysno/policies/kunagent/kun/root/DESIGN_MODE_PLAN.md
+    status: downloaded
+    text_sha256: ea80931486547a5f03e4470cfa653b1a8a107b71cb16aebeaba8632ddb74c2c0
+    url: https://raw.githubusercontent.com/KunAgent/Kun/master/DESIGN_MODE_PLAN.md
+  source_archive:
+    member: texts/44911cdbcc00f37825e866e80c96361d7a5e7e710ec5f90509034f1d38f76ae9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ea80931486547a5f03e4470cfa653b1a8a107b71cb16aebeaba8632ddb74c2c0
+  url: ''
+name: root/DESIGN_MODE_PLAN.md
+path: corpus/64a7dfee45914169954b7d45c207c06c/44911cdbcc00f37825e866e80c96361d7a5e7e710ec5f90509034f1d38f76ae9.md

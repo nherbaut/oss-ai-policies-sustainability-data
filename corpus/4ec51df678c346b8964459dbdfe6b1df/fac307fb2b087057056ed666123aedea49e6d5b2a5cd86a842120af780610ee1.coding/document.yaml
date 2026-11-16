@@ -1,0 +1,26 @@
+hash: 2f797e57e4e96fae19b045e6f885c23a1561de9f5468969d9fb551063dea3758
+id: aed9417d-ddd0-4ead-a990-2170a704847e
+metadata:
+  import_document_id: osssaysno:openclaw/clawhub:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:48+00:00'
+    id: osssaysno:github.com/openclaw/clawhub:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/openclaw/clawhub/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/openclaw/clawhub/main/README.md
+    role: repository_root_document
+    sha256: 2f797e57e4e96fae19b045e6f885c23a1561de9f5468969d9fb551063dea3758
+    snapshot: data/osssaysno/policies/openclaw/clawhub/root/README.md
+    status: downloaded
+    text_sha256: 2f797e57e4e96fae19b045e6f885c23a1561de9f5468969d9fb551063dea3758
+    url: https://raw.githubusercontent.com/openclaw/clawhub/main/README.md
+  source_archive:
+    member: texts/fac307fb2b087057056ed666123aedea49e6d5b2a5cd86a842120af780610ee1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2f797e57e4e96fae19b045e6f885c23a1561de9f5468969d9fb551063dea3758
+  url: ''
+name: root/README.md
+path: corpus/4ec51df678c346b8964459dbdfe6b1df/fac307fb2b087057056ed666123aedea49e6d5b2a5cd86a842120af780610ee1.md

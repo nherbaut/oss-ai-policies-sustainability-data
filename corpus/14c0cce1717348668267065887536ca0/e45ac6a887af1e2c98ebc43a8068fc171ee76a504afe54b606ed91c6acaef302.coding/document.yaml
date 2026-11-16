@@ -1,0 +1,26 @@
+hash: 9af0d3fe5db3745afe2fe0119c2329770549ceeca6762cadd8a14c795f4db32f
+id: 0dc3026c-6482-48dc-9223-65d78bd07683
+metadata:
+  import_document_id: osssaysno:gentleman-programming/gentle-ai:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:27+00:00'
+    id: osssaysno:github.com/gentleman-programming/gentle-ai:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/AGENTS.md
+    role: repository_root_document
+    sha256: 9af0d3fe5db3745afe2fe0119c2329770549ceeca6762cadd8a14c795f4db32f
+    snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/root/AGENTS.md
+    status: downloaded
+    text_sha256: 9af0d3fe5db3745afe2fe0119c2329770549ceeca6762cadd8a14c795f4db32f
+    url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/AGENTS.md
+  source_archive:
+    member: texts/e45ac6a887af1e2c98ebc43a8068fc171ee76a504afe54b606ed91c6acaef302.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9af0d3fe5db3745afe2fe0119c2329770549ceeca6762cadd8a14c795f4db32f
+  url: ''
+name: root/AGENTS.md
+path: corpus/14c0cce1717348668267065887536ca0/e45ac6a887af1e2c98ebc43a8068fc171ee76a504afe54b606ed91c6acaef302.md

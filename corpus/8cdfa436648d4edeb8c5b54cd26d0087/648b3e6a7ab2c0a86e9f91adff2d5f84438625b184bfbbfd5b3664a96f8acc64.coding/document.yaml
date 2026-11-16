@@ -1,0 +1,26 @@
+hash: cd6470b506974f6484e8ab2e01bcbcb48008e3bebb91bde3d4f61ac151baa989
+id: ca8dff23-ff6a-429e-9d74-17617d31b958
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:root/code-of-conduct.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:54+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/code-of-conduct.md
+    import_slot: root/code-of-conduct.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/code-of-conduct.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/code-of-conduct.md
+    role: repository_root_document
+    sha256: cd6470b506974f6484e8ab2e01bcbcb48008e3bebb91bde3d4f61ac151baa989
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/code-of-conduct.md
+    status: downloaded
+    text_sha256: cd6470b506974f6484e8ab2e01bcbcb48008e3bebb91bde3d4f61ac151baa989
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/code-of-conduct.md
+  source_archive:
+    member: texts/648b3e6a7ab2c0a86e9f91adff2d5f84438625b184bfbbfd5b3664a96f8acc64.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cd6470b506974f6484e8ab2e01bcbcb48008e3bebb91bde3d4f61ac151baa989
+  url: ''
+name: root/code-of-conduct.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/648b3e6a7ab2c0a86e9f91adff2d5f84438625b184bfbbfd5b3664a96f8acc64.md

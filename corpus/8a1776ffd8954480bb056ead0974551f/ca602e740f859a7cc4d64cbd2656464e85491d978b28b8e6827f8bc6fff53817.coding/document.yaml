@@ -1,0 +1,26 @@
+hash: afa9f493a655b7a1c34d535f2e96a2caf7cdd8a45d79aa369fdf02482da0c304
+id: 96d362c8-df56-44cd-a7d5-0421032fc356
+metadata:
+  import_document_id: osssaysno:audacity/audacity:root/BUILDING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:56+00:00'
+    id: osssaysno:github.com/audacity/audacity:root/BUILDING.md
+    import_slot: root/BUILDING.md
+    raw_snapshot: data/osssaysno/policies/audacity/audacity/root/raw/BUILDING.md
+    resolved_url: https://raw.githubusercontent.com/audacity/audacity/master/BUILDING.md
+    role: repository_root_document
+    sha256: afa9f493a655b7a1c34d535f2e96a2caf7cdd8a45d79aa369fdf02482da0c304
+    snapshot: data/osssaysno/policies/audacity/audacity/root/BUILDING.md
+    status: downloaded
+    text_sha256: afa9f493a655b7a1c34d535f2e96a2caf7cdd8a45d79aa369fdf02482da0c304
+    url: https://raw.githubusercontent.com/audacity/audacity/master/BUILDING.md
+  source_archive:
+    member: texts/ca602e740f859a7cc4d64cbd2656464e85491d978b28b8e6827f8bc6fff53817.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: afa9f493a655b7a1c34d535f2e96a2caf7cdd8a45d79aa369fdf02482da0c304
+  url: ''
+name: root/BUILDING.md
+path: corpus/8a1776ffd8954480bb056ead0974551f/ca602e740f859a7cc4d64cbd2656464e85491d978b28b8e6827f8bc6fff53817.md

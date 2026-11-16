@@ -1,0 +1,26 @@
+hash: abbb9a3d2df189d81a75b746a444a1ca36eb8cd571fcd3482435302a1113d09c
+id: 5eb54538-2dd9-4420-85a5-5711fa70ebcf
+metadata:
+  import_document_id: osssaysno:mongodb/node-mongodb-native:root/EXPERIMENTAL_FEATURES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:21+00:00'
+    id: osssaysno:github.com/mongodb/node-mongodb-native:root/EXPERIMENTAL_FEATURES.md
+    import_slot: root/EXPERIMENTAL_FEATURES.md
+    raw_snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/raw/EXPERIMENTAL_FEATURES.md
+    resolved_url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/EXPERIMENTAL_FEATURES.md
+    role: repository_root_document
+    sha256: abbb9a3d2df189d81a75b746a444a1ca36eb8cd571fcd3482435302a1113d09c
+    snapshot: data/osssaysno/policies/mongodb/node-mongodb-native/root/EXPERIMENTAL_FEATURES.md
+    status: downloaded
+    text_sha256: abbb9a3d2df189d81a75b746a444a1ca36eb8cd571fcd3482435302a1113d09c
+    url: https://raw.githubusercontent.com/mongodb/node-mongodb-native/main/EXPERIMENTAL_FEATURES.md
+  source_archive:
+    member: texts/c343333f6bd3e8b48014e493d9e5e2524a5e4eabd667dd6cd97d7c2c942413aa.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: abbb9a3d2df189d81a75b746a444a1ca36eb8cd571fcd3482435302a1113d09c
+  url: ''
+name: root/EXPERIMENTAL_FEATURES.md
+path: corpus/aafe5c7bd4f242d4b7243756b141018e/c343333f6bd3e8b48014e493d9e5e2524a5e4eabd667dd6cd97d7c2c942413aa.md

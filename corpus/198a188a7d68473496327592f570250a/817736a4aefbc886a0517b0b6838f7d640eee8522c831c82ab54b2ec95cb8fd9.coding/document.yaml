@@ -1,0 +1,26 @@
+hash: 7a87d6463aba4d2050b89eb4e069b18e5b25ba268372234edbd8d6e8b34650fc
+id: 2a6905da-f93f-453d-9506-d52efddf2b48
+metadata:
+  import_document_id: osssaysno:mealie-recipes/mealie:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:31+00:00'
+    id: osssaysno:github.com/mealie-recipes/mealie:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/mealie-recipes/mealie/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/README.md
+    role: repository_root_document
+    sha256: 7a87d6463aba4d2050b89eb4e069b18e5b25ba268372234edbd8d6e8b34650fc
+    snapshot: data/osssaysno/policies/mealie-recipes/mealie/root/README.md
+    status: downloaded
+    text_sha256: 7a87d6463aba4d2050b89eb4e069b18e5b25ba268372234edbd8d6e8b34650fc
+    url: https://raw.githubusercontent.com/mealie-recipes/mealie/mealie-next/README.md
+  source_archive:
+    member: texts/817736a4aefbc886a0517b0b6838f7d640eee8522c831c82ab54b2ec95cb8fd9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7a87d6463aba4d2050b89eb4e069b18e5b25ba268372234edbd8d6e8b34650fc
+  url: ''
+name: root/README.md
+path: corpus/198a188a7d68473496327592f570250a/817736a4aefbc886a0517b0b6838f7d640eee8522c831c82ab54b2ec95cb8fd9.md

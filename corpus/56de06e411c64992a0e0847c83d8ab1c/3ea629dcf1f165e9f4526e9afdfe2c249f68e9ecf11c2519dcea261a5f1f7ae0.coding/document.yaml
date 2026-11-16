@@ -1,0 +1,26 @@
+hash: c8334412cb45526d91f08ea432a5d97fb1d87ce8f4611411c1029d7c6cac1bea
+id: 3625aff6-44d1-44af-9cf9-0d611c742422
+metadata:
+  import_document_id: osssaysno:musescore/musescore:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:13+00:00'
+    id: osssaysno:github.com/musescore/musescore:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/musescore/musescore/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/musescore/MuseScore/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: c8334412cb45526d91f08ea432a5d97fb1d87ce8f4611411c1029d7c6cac1bea
+    snapshot: data/osssaysno/policies/musescore/musescore/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: c8334412cb45526d91f08ea432a5d97fb1d87ce8f4611411c1029d7c6cac1bea
+    url: https://raw.githubusercontent.com/musescore/MuseScore/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/3ea629dcf1f165e9f4526e9afdfe2c249f68e9ecf11c2519dcea261a5f1f7ae0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c8334412cb45526d91f08ea432a5d97fb1d87ce8f4611411c1029d7c6cac1bea
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/56de06e411c64992a0e0847c83d8ab1c/3ea629dcf1f165e9f4526e9afdfe2c249f68e9ecf11c2519dcea261a5f1f7ae0.md

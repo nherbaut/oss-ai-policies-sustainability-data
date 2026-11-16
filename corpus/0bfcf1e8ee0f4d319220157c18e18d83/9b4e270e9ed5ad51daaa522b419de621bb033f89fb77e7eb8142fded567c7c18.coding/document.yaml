@@ -1,0 +1,26 @@
+hash: 660ec4b0de91e2635c3b6f3ed4888ba9b111bb2ccb0052657cfacb7999e2501a
+id: 694cb1de-0c90-4484-b136-a33fa61d1a99
+metadata:
+  import_document_id: osssaysno:pyinfra-dev/pyinfra:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:46+00:00'
+    id: osssaysno:github.com/pyinfra-dev/pyinfra:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/README.md
+    role: repository_root_document
+    sha256: 660ec4b0de91e2635c3b6f3ed4888ba9b111bb2ccb0052657cfacb7999e2501a
+    snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/README.md
+    status: downloaded
+    text_sha256: 660ec4b0de91e2635c3b6f3ed4888ba9b111bb2ccb0052657cfacb7999e2501a
+    url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/README.md
+  source_archive:
+    member: texts/9b4e270e9ed5ad51daaa522b419de621bb033f89fb77e7eb8142fded567c7c18.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 660ec4b0de91e2635c3b6f3ed4888ba9b111bb2ccb0052657cfacb7999e2501a
+  url: ''
+name: root/README.md
+path: corpus/0bfcf1e8ee0f4d319220157c18e18d83/9b4e270e9ed5ad51daaa522b419de621bb033f89fb77e7eb8142fded567c7c18.md

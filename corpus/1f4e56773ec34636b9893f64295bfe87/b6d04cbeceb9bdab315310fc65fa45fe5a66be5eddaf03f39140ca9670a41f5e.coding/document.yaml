@@ -1,0 +1,26 @@
+hash: f837b2c6ff79bbd3d19f120ca471dd14b1d1530a5ba6a2e658d5285a40f71c74
+id: 2a59baf7-c7d8-49f7-961b-c11944f38bb0
+metadata:
+  import_document_id: osssaysno:leanprover/lean4:root/RELEASES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:28+00:00'
+    id: osssaysno:github.com/leanprover/lean4:root/RELEASES.md
+    import_slot: root/RELEASES.md
+    raw_snapshot: data/osssaysno/policies/leanprover/lean4/root/raw/RELEASES.md
+    resolved_url: https://raw.githubusercontent.com/leanprover/lean4/master/RELEASES.md
+    role: repository_root_document
+    sha256: f837b2c6ff79bbd3d19f120ca471dd14b1d1530a5ba6a2e658d5285a40f71c74
+    snapshot: data/osssaysno/policies/leanprover/lean4/root/RELEASES.md
+    status: downloaded
+    text_sha256: f837b2c6ff79bbd3d19f120ca471dd14b1d1530a5ba6a2e658d5285a40f71c74
+    url: https://raw.githubusercontent.com/leanprover/lean4/master/RELEASES.md
+  source_archive:
+    member: texts/b6d04cbeceb9bdab315310fc65fa45fe5a66be5eddaf03f39140ca9670a41f5e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f837b2c6ff79bbd3d19f120ca471dd14b1d1530a5ba6a2e658d5285a40f71c74
+  url: ''
+name: root/RELEASES.md
+path: corpus/1f4e56773ec34636b9893f64295bfe87/b6d04cbeceb9bdab315310fc65fa45fe5a66be5eddaf03f39140ca9670a41f5e.md

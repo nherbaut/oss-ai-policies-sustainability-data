@@ -1,0 +1,26 @@
+hash: 9c12c8e0dbd7309c07a028387768210d635eee4f199f3a827bd70439c212e875
+id: 0c3d4d4d-c869-49d9-81a2-0426a9ba0f8c
+metadata:
+  import_document_id: osssaysno:grpc/grpc-go:root/MAINTAINERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:35+00:00'
+    id: osssaysno:github.com/grpc/grpc-go:root/MAINTAINERS.md
+    import_slot: root/MAINTAINERS.md
+    raw_snapshot: data/osssaysno/policies/grpc/grpc-go/root/raw/MAINTAINERS.md
+    resolved_url: https://raw.githubusercontent.com/grpc/grpc-go/master/MAINTAINERS.md
+    role: repository_root_document
+    sha256: 9c12c8e0dbd7309c07a028387768210d635eee4f199f3a827bd70439c212e875
+    snapshot: data/osssaysno/policies/grpc/grpc-go/root/MAINTAINERS.md
+    status: downloaded
+    text_sha256: 9c12c8e0dbd7309c07a028387768210d635eee4f199f3a827bd70439c212e875
+    url: https://raw.githubusercontent.com/grpc/grpc-go/master/MAINTAINERS.md
+  source_archive:
+    member: texts/9c6bb63e4763a8ea57a76be2ea488dd596c70510a846337ddb31fc0684aa0596.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9c12c8e0dbd7309c07a028387768210d635eee4f199f3a827bd70439c212e875
+  url: ''
+name: root/MAINTAINERS.md
+path: corpus/e753c0f47d0a4ea8b2040d3f8326de2d/9c6bb63e4763a8ea57a76be2ea488dd596c70510a846337ddb31fc0684aa0596.md

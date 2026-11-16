@@ -1,0 +1,37 @@
+hash: f87edbea152169bb8fd431bdbfaf160343717ba88e5ccd3c44499d359ba62e94
+id: 4a305a3c-384f-4a93-bb17-2bae6d932bd7
+metadata:
+  import_document_id: osssaysno:greptimeteam/greptimedb:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:50+00:00'
+    id: osssaysno:github.com/greptimeteam/greptimedb:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/greptimeteam/greptimedb/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/GreptimeTeam/greptimedb/main/CONTRIBUTING.md
+    role: contributing
+    sha256: f87edbea152169bb8fd431bdbfaf160343717ba88e5ccd3c44499d359ba62e94
+    snapshot: data/osssaysno/policies/greptimeteam/greptimedb/contributing.md
+    status: downloaded
+    text_sha256: f87edbea152169bb8fd431bdbfaf160343717ba88e5ccd3c44499d359ba62e94
+    url: https://github.com/GreptimeTeam/greptimedb/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:37:13+00:00'
+    id: osssaysno:github.com/greptimeteam/greptimedb:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/greptimeteam/greptimedb/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/GreptimeTeam/greptimedb/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: f87edbea152169bb8fd431bdbfaf160343717ba88e5ccd3c44499d359ba62e94
+    snapshot: data/osssaysno/policies/greptimeteam/greptimedb/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: f87edbea152169bb8fd431bdbfaf160343717ba88e5ccd3c44499d359ba62e94
+    url: https://raw.githubusercontent.com/GreptimeTeam/greptimedb/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/def419a43464995237c432232f01b4b8ee75fa7ed92b670e2e1e39b3bb5fbf28.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f87edbea152169bb8fd431bdbfaf160343717ba88e5ccd3c44499d359ba62e94
+  url: ''
+name: contributing.md
+path: corpus/cad0bf9b00884257beac34cb6997f11e/def419a43464995237c432232f01b4b8ee75fa7ed92b670e2e1e39b3bb5fbf28.md

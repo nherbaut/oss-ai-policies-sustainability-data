@@ -1,0 +1,26 @@
+hash: a70887892060ad9bb736299ec41def1f24783f9e61bb8fec12123489440d71dd
+id: 1c936364-a056-40e0-875d-b8267a68af8f
+metadata:
+  import_document_id: osssaysno:sebastianbergmann/recursion-context:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:53+00:00'
+    id: osssaysno:github.com/sebastianbergmann/recursion-context:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/sebastianbergmann/recursion-context/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/sebastianbergmann/recursion-context/main/.github/CONTRIBUTING.md
+    role: contributing
+    sha256: a70887892060ad9bb736299ec41def1f24783f9e61bb8fec12123489440d71dd
+    snapshot: data/osssaysno/policies/sebastianbergmann/recursion-context/contributing.md
+    status: downloaded
+    text_sha256: a70887892060ad9bb736299ec41def1f24783f9e61bb8fec12123489440d71dd
+    url: https://github.com/sebastianbergmann/recursion-context/blob/main/.github/CONTRIBUTING.md
+  source_archive:
+    member: texts/bb76affec2fc9c86aef9146b1d1abcc1e47b6391e19350224e80ca3d6a1bab14.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a70887892060ad9bb736299ec41def1f24783f9e61bb8fec12123489440d71dd
+  url: ''
+name: contributing.md
+path: corpus/c96c52bbb6b641aaa565a5d59da4aa6c/bb76affec2fc9c86aef9146b1d1abcc1e47b6391e19350224e80ca3d6a1bab14.md

@@ -1,0 +1,26 @@
+hash: c21ce720010a9325dd8e1ad1a15c722f2387b6a2bcd064ce8a586e3ea26f068e
+id: fefc73cc-88be-4f2b-898d-f2afa850786c
+metadata:
+  import_document_id: osssaysno:zeek/zeek:root/SECURITY_MODEL.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:26+00:00'
+    id: osssaysno:github.com/zeek/zeek:root/SECURITY_MODEL.md
+    import_slot: root/SECURITY_MODEL.md
+    raw_snapshot: data/osssaysno/policies/zeek/zeek/root/raw/SECURITY_MODEL.md
+    resolved_url: https://raw.githubusercontent.com/zeek/zeek/master/SECURITY_MODEL.md
+    role: repository_root_document
+    sha256: c21ce720010a9325dd8e1ad1a15c722f2387b6a2bcd064ce8a586e3ea26f068e
+    snapshot: data/osssaysno/policies/zeek/zeek/root/SECURITY_MODEL.md
+    status: downloaded
+    text_sha256: c21ce720010a9325dd8e1ad1a15c722f2387b6a2bcd064ce8a586e3ea26f068e
+    url: https://raw.githubusercontent.com/zeek/zeek/master/SECURITY_MODEL.md
+  source_archive:
+    member: texts/f24d0dc31e88b0946529ba964ca5c644bd4c24dbecffb177ea09a132b1390af4.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c21ce720010a9325dd8e1ad1a15c722f2387b6a2bcd064ce8a586e3ea26f068e
+  url: ''
+name: root/SECURITY_MODEL.md
+path: corpus/abfa89f912db4094a16d6d0d0631a72a/f24d0dc31e88b0946529ba964ca5c644bd4c24dbecffb177ea09a132b1390af4.md

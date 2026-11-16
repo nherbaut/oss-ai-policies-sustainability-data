@@ -1,0 +1,37 @@
+hash: 7192a939208408086826ca24cba62cf6285399f714d0a99c6d57d46ed0669573
+id: a286c363-29e8-41de-b108-edcefa6ee6a6
+metadata:
+  import_document_id: osssaysno:vespa-engine/vespa:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:48+00:00'
+    id: osssaysno:github.com/vespa-engine/vespa:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/vespa-engine/vespa/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/vespa-engine/vespa/master/AI_POLICY.md
+    role: ai_policy
+    sha256: 7192a939208408086826ca24cba62cf6285399f714d0a99c6d57d46ed0669573
+    snapshot: data/osssaysno/policies/vespa-engine/vespa/ai_policy.md
+    status: downloaded
+    text_sha256: 7192a939208408086826ca24cba62cf6285399f714d0a99c6d57d46ed0669573
+    url: https://github.com/vespa-engine/vespa/blob/master/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:37:02+00:00'
+    id: osssaysno:github.com/vespa-engine/vespa:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/vespa-engine/vespa/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/vespa-engine/vespa/master/AI_POLICY.md
+    role: repository_root_document
+    sha256: 7192a939208408086826ca24cba62cf6285399f714d0a99c6d57d46ed0669573
+    snapshot: data/osssaysno/policies/vespa-engine/vespa/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 7192a939208408086826ca24cba62cf6285399f714d0a99c6d57d46ed0669573
+    url: https://raw.githubusercontent.com/vespa-engine/vespa/master/AI_POLICY.md
+  source_archive:
+    member: texts/b37f32bbb9d3c7adff19b4c529b7070533639285ab26146bd474277fdb0012d0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7192a939208408086826ca24cba62cf6285399f714d0a99c6d57d46ed0669573
+  url: ''
+name: ai_policy.md
+path: corpus/c7b2859b90a34ebda520e0c29dcd7e86/b37f32bbb9d3c7adff19b4c529b7070533639285ab26146bd474277fdb0012d0.md

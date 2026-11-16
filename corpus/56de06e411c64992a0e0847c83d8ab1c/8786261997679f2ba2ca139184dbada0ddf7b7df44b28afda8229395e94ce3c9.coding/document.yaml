@@ -1,0 +1,37 @@
+hash: 12a0eb610b5f974825ff0c7d5077b0ddb6c84392fa55143b99aacb12b14e477b
+id: 89ab473e-1c38-4fcb-b20e-56d43faedd5e
+metadata:
+  import_document_id: osssaysno:musescore/musescore:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:12+00:00'
+    id: osssaysno:github.com/musescore/musescore:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/musescore/musescore/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/musescore/MuseScore/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 12a0eb610b5f974825ff0c7d5077b0ddb6c84392fa55143b99aacb12b14e477b
+    snapshot: data/osssaysno/policies/musescore/musescore/ai_policy.md
+    status: downloaded
+    text_sha256: 12a0eb610b5f974825ff0c7d5077b0ddb6c84392fa55143b99aacb12b14e477b
+    url: https://github.com/musescore/MuseScore/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:29:13+00:00'
+    id: osssaysno:github.com/musescore/musescore:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/musescore/musescore/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/musescore/MuseScore/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 12a0eb610b5f974825ff0c7d5077b0ddb6c84392fa55143b99aacb12b14e477b
+    snapshot: data/osssaysno/policies/musescore/musescore/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 12a0eb610b5f974825ff0c7d5077b0ddb6c84392fa55143b99aacb12b14e477b
+    url: https://raw.githubusercontent.com/musescore/MuseScore/main/AI_POLICY.md
+  source_archive:
+    member: texts/8786261997679f2ba2ca139184dbada0ddf7b7df44b28afda8229395e94ce3c9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 12a0eb610b5f974825ff0c7d5077b0ddb6c84392fa55143b99aacb12b14e477b
+  url: ''
+name: ai_policy.md
+path: corpus/56de06e411c64992a0e0847c83d8ab1c/8786261997679f2ba2ca139184dbada0ddf7b7df44b28afda8229395e94ce3c9.md

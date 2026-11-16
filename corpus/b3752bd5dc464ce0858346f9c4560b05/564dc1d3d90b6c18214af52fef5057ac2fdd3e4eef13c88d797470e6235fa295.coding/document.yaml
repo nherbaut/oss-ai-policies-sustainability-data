@@ -1,0 +1,26 @@
+hash: 0c5f2ddd9bb88df72e4bb6cacc30effbf2818890935979406664caacc9ba5469
+id: 2eb4ba3d-6650-4296-8b86-f473b6fc13f7
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:root/multiple-instances.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:23+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/multiple-instances.md
+    import_slot: root/multiple-instances.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/multiple-instances.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/multiple-instances.md
+    role: repository_root_document
+    sha256: 0c5f2ddd9bb88df72e4bb6cacc30effbf2818890935979406664caacc9ba5469
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/multiple-instances.md
+    status: downloaded
+    text_sha256: 0c5f2ddd9bb88df72e4bb6cacc30effbf2818890935979406664caacc9ba5469
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/multiple-instances.md
+  source_archive:
+    member: texts/564dc1d3d90b6c18214af52fef5057ac2fdd3e4eef13c88d797470e6235fa295.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0c5f2ddd9bb88df72e4bb6cacc30effbf2818890935979406664caacc9ba5469
+  url: ''
+name: root/multiple-instances.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/564dc1d3d90b6c18214af52fef5057ac2fdd3e4eef13c88d797470e6235fa295.md

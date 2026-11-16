@@ -1,0 +1,37 @@
+hash: 8faccbbaec942167085eb9cacf91426cddbffe2a085481b31f68555c78e61cbe
+id: 667f2e0e-7b59-4a00-8c67-4cca66f35feb
+metadata:
+  import_document_id: osssaysno:tinyauthapp/tinyauth:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:37+00:00'
+    id: osssaysno:github.com/tinyauthapp/tinyauth:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 8faccbbaec942167085eb9cacf91426cddbffe2a085481b31f68555c78e61cbe
+    snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/ai_policy.md
+    status: downloaded
+    text_sha256: 8faccbbaec942167085eb9cacf91426cddbffe2a085481b31f68555c78e61cbe
+    url: https://github.com/tinyauthapp/tinyauth/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:36:12+00:00'
+    id: osssaysno:github.com/tinyauthapp/tinyauth:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 8faccbbaec942167085eb9cacf91426cddbffe2a085481b31f68555c78e61cbe
+    snapshot: data/osssaysno/policies/tinyauthapp/tinyauth/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 8faccbbaec942167085eb9cacf91426cddbffe2a085481b31f68555c78e61cbe
+    url: https://raw.githubusercontent.com/tinyauthapp/tinyauth/main/AI_POLICY.md
+  source_archive:
+    member: texts/ca4274ddf68fbbb2f8c4806fc4660811effa89a1326efa69a2b9b00c1d94deca.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8faccbbaec942167085eb9cacf91426cddbffe2a085481b31f68555c78e61cbe
+  url: ''
+name: ai_policy.md
+path: corpus/3a57808b6fe34d46b12f63556eb14006/ca4274ddf68fbbb2f8c4806fc4660811effa89a1326efa69a2b9b00c1d94deca.md

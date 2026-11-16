@@ -1,0 +1,26 @@
+hash: 52ff2f5a8f19cde0c999fcb1de0e92d230f949b01b9ee9507b98a2bba68f0fa8
+id: 8a99cf30-fa1d-4440-855a-e352f0b3b050
+metadata:
+  import_document_id: osssaysno:clementtsang/bottom:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:28+00:00'
+    id: osssaysno:github.com/clementtsang/bottom:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/clementtsang/bottom/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/ClementTsang/bottom/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 52ff2f5a8f19cde0c999fcb1de0e92d230f949b01b9ee9507b98a2bba68f0fa8
+    snapshot: data/osssaysno/policies/clementtsang/bottom/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 52ff2f5a8f19cde0c999fcb1de0e92d230f949b01b9ee9507b98a2bba68f0fa8
+    url: https://raw.githubusercontent.com/ClementTsang/bottom/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/7c6de85ea6755add39ff9ebbd3d1429a770f0c2c9cdcb85c983e263939bc7757.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 52ff2f5a8f19cde0c999fcb1de0e92d230f949b01b9ee9507b98a2bba68f0fa8
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/911a9cf6c34541db847b09222b19d7a5/7c6de85ea6755add39ff9ebbd3d1429a770f0c2c9cdcb85c983e263939bc7757.md

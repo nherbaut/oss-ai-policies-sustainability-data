@@ -1,0 +1,26 @@
+hash: fc24a67af6dbf087f1bb3cf90092b71a315eb9b49695a2485cb985264924b49f
+id: 9340f01d-4010-4865-851b-8de8ab38619a
+metadata:
+  import_document_id: osssaysno:aws/aws-sam-cli:root/DESIGN.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:15+00:00'
+    id: osssaysno:github.com/aws/aws-sam-cli:root/DESIGN.md
+    import_slot: root/DESIGN.md
+    raw_snapshot: data/osssaysno/policies/aws/aws-sam-cli/root/raw/DESIGN.md
+    resolved_url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/DESIGN.md
+    role: repository_root_document
+    sha256: fc24a67af6dbf087f1bb3cf90092b71a315eb9b49695a2485cb985264924b49f
+    snapshot: data/osssaysno/policies/aws/aws-sam-cli/root/DESIGN.md
+    status: downloaded
+    text_sha256: fc24a67af6dbf087f1bb3cf90092b71a315eb9b49695a2485cb985264924b49f
+    url: https://raw.githubusercontent.com/aws/aws-sam-cli/develop/DESIGN.md
+  source_archive:
+    member: texts/7467eda70de9668a64ce144df13907b957fbce1e42f5a8afc528b9050d1641f5.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: fc24a67af6dbf087f1bb3cf90092b71a315eb9b49695a2485cb985264924b49f
+  url: ''
+name: root/DESIGN.md
+path: corpus/5b1a32658ea14e7eb3725870becf202e/7467eda70de9668a64ce144df13907b957fbce1e42f5a8afc528b9050d1641f5.md

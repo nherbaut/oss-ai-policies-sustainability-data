@@ -1,0 +1,26 @@
+hash: 187442db4df3afd21f2f0525739fd4beac28a62daaba3ee8d3533f60e7c33ec7
+id: d2b43e80-2569-447c-9e06-140b8f31765c
+metadata:
+  import_document_id: osssaysno:federico-busato/modern-cpp-programming:root/LICENSE-CC-BY-SA.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:07+00:00'
+    id: osssaysno:github.com/federico-busato/modern-cpp-programming:root/LICENSE-CC-BY-SA.md
+    import_slot: root/LICENSE-CC-BY-SA.md
+    raw_snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/root/raw/LICENSE-CC-BY-SA.md
+    resolved_url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/LICENSE-CC-BY-SA.md
+    role: repository_root_document
+    sha256: 187442db4df3afd21f2f0525739fd4beac28a62daaba3ee8d3533f60e7c33ec7
+    snapshot: data/osssaysno/policies/federico-busato/modern-cpp-programming/root/LICENSE-CC-BY-SA.md
+    status: downloaded
+    text_sha256: 187442db4df3afd21f2f0525739fd4beac28a62daaba3ee8d3533f60e7c33ec7
+    url: https://raw.githubusercontent.com/federico-busato/Modern-CPP-Programming/master/LICENSE-CC-BY-SA.md
+  source_archive:
+    member: texts/50378f170f7c235aa7159f49b5aad203e99acfe8abc13eaf4920e6bfc5391002.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 187442db4df3afd21f2f0525739fd4beac28a62daaba3ee8d3533f60e7c33ec7
+  url: ''
+name: root/LICENSE-CC-BY-SA.md
+path: corpus/e7f54279704f4c60becb20d49ac64a3b/50378f170f7c235aa7159f49b5aad203e99acfe8abc13eaf4920e6bfc5391002.md

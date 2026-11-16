@@ -1,0 +1,26 @@
+hash: ca22cab8a9293de0bcd08e55cc61a9f6c5885f3d98ba0f15374c3d92ec1e0791
+id: a3192e59-cdfb-447d-b1a9-c03da765e4fe
+metadata:
+  import_document_id: osssaysno:nvidia/openshell:root/REVIEWERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:49+00:00'
+    id: osssaysno:github.com/nvidia/openshell:root/REVIEWERS.md
+    import_slot: root/REVIEWERS.md
+    raw_snapshot: data/osssaysno/policies/nvidia/openshell/root/raw/REVIEWERS.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/REVIEWERS.md
+    role: repository_root_document
+    sha256: ca22cab8a9293de0bcd08e55cc61a9f6c5885f3d98ba0f15374c3d92ec1e0791
+    snapshot: data/osssaysno/policies/nvidia/openshell/root/REVIEWERS.md
+    status: downloaded
+    text_sha256: ca22cab8a9293de0bcd08e55cc61a9f6c5885f3d98ba0f15374c3d92ec1e0791
+    url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/REVIEWERS.md
+  source_archive:
+    member: texts/2742f7526f7c26c6523edff3e2797f4b260db2675344dc2247699f2785198bd6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ca22cab8a9293de0bcd08e55cc61a9f6c5885f3d98ba0f15374c3d92ec1e0791
+  url: ''
+name: root/REVIEWERS.md
+path: corpus/81cc2c4a753d48cd98ec43d30943486d/2742f7526f7c26c6523edff3e2797f4b260db2675344dc2247699f2785198bd6.md

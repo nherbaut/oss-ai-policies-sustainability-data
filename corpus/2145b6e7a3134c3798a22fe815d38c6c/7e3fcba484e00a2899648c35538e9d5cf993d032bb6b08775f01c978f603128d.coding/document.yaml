@@ -1,0 +1,26 @@
+hash: dc8ad8c5be08bed6b27fca7bc91028321225ece4fe9212701bc9b948cb8bfa8e
+id: 141739ff-391c-49e7-a00c-4764339625f8
+metadata:
+  import_document_id: osssaysno:usekaneo/kaneo:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:33+00:00'
+    id: osssaysno:github.com/usekaneo/kaneo:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/usekaneo/kaneo/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/usekaneo/kaneo/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: dc8ad8c5be08bed6b27fca7bc91028321225ece4fe9212701bc9b948cb8bfa8e
+    snapshot: data/osssaysno/policies/usekaneo/kaneo/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: dc8ad8c5be08bed6b27fca7bc91028321225ece4fe9212701bc9b948cb8bfa8e
+    url: https://raw.githubusercontent.com/usekaneo/kaneo/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/7e3fcba484e00a2899648c35538e9d5cf993d032bb6b08775f01c978f603128d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: dc8ad8c5be08bed6b27fca7bc91028321225ece4fe9212701bc9b948cb8bfa8e
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/2145b6e7a3134c3798a22fe815d38c6c/7e3fcba484e00a2899648c35538e9d5cf993d032bb6b08775f01c978f603128d.md

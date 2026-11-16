@@ -1,0 +1,26 @@
+hash: 93e615840109fff10c9fa51f85641a55f6a7f373378efbdfc9133cbb767b9458
+id: 10428696-1f07-4514-a0c7-e83138c27bc3
+metadata:
+  import_document_id: osssaysno:transact-rs/sqlx:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:02+00:00'
+    id: osssaysno:github.com/transact-rs/sqlx:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/transact-rs/sqlx/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/transact-rs/sqlx/main/README.md
+    role: repository_root_document
+    sha256: 93e615840109fff10c9fa51f85641a55f6a7f373378efbdfc9133cbb767b9458
+    snapshot: data/osssaysno/policies/transact-rs/sqlx/root/README.md
+    status: downloaded
+    text_sha256: 93e615840109fff10c9fa51f85641a55f6a7f373378efbdfc9133cbb767b9458
+    url: https://raw.githubusercontent.com/transact-rs/sqlx/main/README.md
+  source_archive:
+    member: texts/0d9fa84589b7b79d08fad9239ff86b82298b065215c4200d5af6a299c325ba23.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 93e615840109fff10c9fa51f85641a55f6a7f373378efbdfc9133cbb767b9458
+  url: ''
+name: root/README.md
+path: corpus/be22cf71824140cfaddb57be4c43cc7f/0d9fa84589b7b79d08fad9239ff86b82298b065215c4200d5af6a299c325ba23.md

@@ -1,0 +1,26 @@
+hash: 8962c57e41dadb25ff217a5fbd7afd5fc32a65a54dbc2a9cbf83c74c5530eafa
+id: ffc1cd1e-8b86-44a2-8ba2-c6f5e1f9e21e
+metadata:
+  import_document_id: osssaysno:portapack-mayhem/mayhem-firmware:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:08+00:00'
+    id: osssaysno:github.com/portapack-mayhem/mayhem-firmware:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 8962c57e41dadb25ff217a5fbd7afd5fc32a65a54dbc2a9cbf83c74c5530eafa
+    snapshot: data/osssaysno/policies/portapack-mayhem/mayhem-firmware/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 8962c57e41dadb25ff217a5fbd7afd5fc32a65a54dbc2a9cbf83c74c5530eafa
+    url: https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/next/CONTRIBUTING.md
+  source_archive:
+    member: texts/f54149c662eac56bb57b4523cf145867314e7a8874bcaaa50b1dd879e8d76879.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8962c57e41dadb25ff217a5fbd7afd5fc32a65a54dbc2a9cbf83c74c5530eafa
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/ac6b9b8e1000496c93466e23bc3b23c2/f54149c662eac56bb57b4523cf145867314e7a8874bcaaa50b1dd879e8d76879.md

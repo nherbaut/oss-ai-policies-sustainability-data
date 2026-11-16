@@ -1,0 +1,26 @@
+hash: 78cf8b70fbfde43dbc26e91f9b9039b52afcbc5ca0b5b3dcdfb226d275849ee4
+id: bc59f013-75e7-4090-ae5d-a13f41e67ed2
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/NOTICE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:34+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/NOTICE.md
+    import_slot: root/NOTICE.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/NOTICE.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/NOTICE.md
+    role: repository_root_document
+    sha256: 78cf8b70fbfde43dbc26e91f9b9039b52afcbc5ca0b5b3dcdfb226d275849ee4
+    snapshot: data/osssaysno/policies/grafana/grafana/root/NOTICE.md
+    status: downloaded
+    text_sha256: 78cf8b70fbfde43dbc26e91f9b9039b52afcbc5ca0b5b3dcdfb226d275849ee4
+    url: https://raw.githubusercontent.com/grafana/grafana/main/NOTICE.md
+  source_archive:
+    member: texts/17e7e4c4435c5d1ce58f4c668e8416b42ba40410acab9cc494ae1f1a4be8dedc.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 78cf8b70fbfde43dbc26e91f9b9039b52afcbc5ca0b5b3dcdfb226d275849ee4
+  url: ''
+name: root/NOTICE.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/17e7e4c4435c5d1ce58f4c668e8416b42ba40410acab9cc494ae1f1a4be8dedc.md

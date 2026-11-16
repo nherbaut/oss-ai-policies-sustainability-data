@@ -1,0 +1,37 @@
+hash: 445afb2c865ab5b9b7ed8c0fcb3bc1672c8c21c9a918f961ea7faf84408c2bae
+id: 8c5a5de6-d206-484d-ae2e-63b435bd98f5
+metadata:
+  import_document_id: osssaysno:clementtsang/bottom:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:27+00:00'
+    id: osssaysno:github.com/clementtsang/bottom:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/clementtsang/bottom/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/ClementTsang/bottom/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 445afb2c865ab5b9b7ed8c0fcb3bc1672c8c21c9a918f961ea7faf84408c2bae
+    snapshot: data/osssaysno/policies/clementtsang/bottom/ai_policy.md
+    status: downloaded
+    text_sha256: 445afb2c865ab5b9b7ed8c0fcb3bc1672c8c21c9a918f961ea7faf84408c2bae
+    url: https://github.com/ClementTsang/bottom/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:29:27+00:00'
+    id: osssaysno:github.com/clementtsang/bottom:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/clementtsang/bottom/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/ClementTsang/bottom/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 445afb2c865ab5b9b7ed8c0fcb3bc1672c8c21c9a918f961ea7faf84408c2bae
+    snapshot: data/osssaysno/policies/clementtsang/bottom/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 445afb2c865ab5b9b7ed8c0fcb3bc1672c8c21c9a918f961ea7faf84408c2bae
+    url: https://raw.githubusercontent.com/ClementTsang/bottom/main/AI_POLICY.md
+  source_archive:
+    member: texts/a35cc1fdc2c3f9e81775362fefa981df0e7d1b5ffb976b3da800d34c13aca72a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 445afb2c865ab5b9b7ed8c0fcb3bc1672c8c21c9a918f961ea7faf84408c2bae
+  url: ''
+name: ai_policy.md
+path: corpus/911a9cf6c34541db847b09222b19d7a5/a35cc1fdc2c3f9e81775362fefa981df0e7d1b5ffb976b3da800d34c13aca72a.md

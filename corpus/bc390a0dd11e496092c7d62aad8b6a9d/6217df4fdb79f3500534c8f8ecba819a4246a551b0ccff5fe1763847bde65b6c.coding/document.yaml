@@ -1,0 +1,37 @@
+hash: 44aa11e82b4efcf747c3fc95197e5e1bd3c96710379ea65fa1ac7e91ca995fe1
+id: f13c1058-7c74-465e-915f-5d96be7ab2a2
+metadata:
+  import_document_id: osssaysno:analysis-tools-dev/static-analysis:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:15+00:00'
+    id: osssaysno:github.com/analysis-tools-dev/static-analysis:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/analysis-tools-dev/static-analysis/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/analysis-tools-dev/static-analysis/master/AGENTS.md
+    role: repository_root_document
+    sha256: 44aa11e82b4efcf747c3fc95197e5e1bd3c96710379ea65fa1ac7e91ca995fe1
+    snapshot: data/osssaysno/policies/analysis-tools-dev/static-analysis/root/AGENTS.md
+    status: downloaded
+    text_sha256: 44aa11e82b4efcf747c3fc95197e5e1bd3c96710379ea65fa1ac7e91ca995fe1
+    url: https://raw.githubusercontent.com/analysis-tools-dev/static-analysis/master/AGENTS.md
+  - accessed_at: '2026-11-15T23:29:16+00:00'
+    id: osssaysno:github.com/analysis-tools-dev/static-analysis:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/analysis-tools-dev/static-analysis/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/analysis-tools-dev/static-analysis/master/AGENTS.md
+    role: repository_root_document
+    sha256: 44aa11e82b4efcf747c3fc95197e5e1bd3c96710379ea65fa1ac7e91ca995fe1
+    snapshot: data/osssaysno/policies/analysis-tools-dev/static-analysis/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 44aa11e82b4efcf747c3fc95197e5e1bd3c96710379ea65fa1ac7e91ca995fe1
+    url: https://raw.githubusercontent.com/analysis-tools-dev/static-analysis/master/CLAUDE.md
+  source_archive:
+    member: texts/6217df4fdb79f3500534c8f8ecba819a4246a551b0ccff5fe1763847bde65b6c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 44aa11e82b4efcf747c3fc95197e5e1bd3c96710379ea65fa1ac7e91ca995fe1
+  url: ''
+name: root/AGENTS.md
+path: corpus/bc390a0dd11e496092c7d62aad8b6a9d/6217df4fdb79f3500534c8f8ecba819a4246a551b0ccff5fe1763847bde65b6c.md

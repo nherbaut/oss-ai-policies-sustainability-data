@@ -1,0 +1,26 @@
+hash: 5fb112371ee7e47c42828ceacb0a48a2d9db69f5cc5b11847158bd23432250e6
+id: 8844dc0d-f5f3-4f5b-974f-a145ab6e84e6
+metadata:
+  import_document_id: osssaysno:zeek/zeek:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:23+00:00'
+    id: osssaysno:github.com/zeek/zeek:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/zeek/zeek/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/zeek/zeek/master/AGENTS.md
+    role: repository_root_document
+    sha256: 5fb112371ee7e47c42828ceacb0a48a2d9db69f5cc5b11847158bd23432250e6
+    snapshot: data/osssaysno/policies/zeek/zeek/root/AGENTS.md
+    status: downloaded
+    text_sha256: 5fb112371ee7e47c42828ceacb0a48a2d9db69f5cc5b11847158bd23432250e6
+    url: https://raw.githubusercontent.com/zeek/zeek/master/AGENTS.md
+  source_archive:
+    member: texts/04dc988208e883b539b93bd90e8ca76650a62ec2bf8d3c96c2a2fa722eee3f95.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5fb112371ee7e47c42828ceacb0a48a2d9db69f5cc5b11847158bd23432250e6
+  url: ''
+name: root/AGENTS.md
+path: corpus/abfa89f912db4094a16d6d0d0631a72a/04dc988208e883b539b93bd90e8ca76650a62ec2bf8d3c96c2a2fa722eee3f95.md

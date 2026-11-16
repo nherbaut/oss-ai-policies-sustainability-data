@@ -1,0 +1,37 @@
+hash: 2e66ef627c17557c5e70efe339131c84b8bb02a01a54bbc726ed282db0b56968
+id: 289da34b-66f6-4495-8d25-763436868508
+metadata:
+  import_document_id: osssaysno:project-monai/monai:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:34+00:00'
+    id: osssaysno:github.com/project-monai/monai:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/project-monai/monai/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/CONTRIBUTING.md
+    role: contributing
+    sha256: 2e66ef627c17557c5e70efe339131c84b8bb02a01a54bbc726ed282db0b56968
+    snapshot: data/osssaysno/policies/project-monai/monai/contributing.md
+    status: downloaded
+    text_sha256: 2e66ef627c17557c5e70efe339131c84b8bb02a01a54bbc726ed282db0b56968
+    url: https://github.com/Project-MONAI/MONAI/blob/dev/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:36:01+00:00'
+    id: osssaysno:github.com/project-monai/monai:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/project-monai/monai/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 2e66ef627c17557c5e70efe339131c84b8bb02a01a54bbc726ed282db0b56968
+    snapshot: data/osssaysno/policies/project-monai/monai/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 2e66ef627c17557c5e70efe339131c84b8bb02a01a54bbc726ed282db0b56968
+    url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/CONTRIBUTING.md
+  source_archive:
+    member: texts/6612fe01a05733c81a0200f322fc4c0af285d0f002363ec1fc875e24a0918274.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2e66ef627c17557c5e70efe339131c84b8bb02a01a54bbc726ed282db0b56968
+  url: ''
+name: contributing.md
+path: corpus/b35027ef385649d6a23dcd3dab30ec0f/6612fe01a05733c81a0200f322fc4c0af285d0f002363ec1fc875e24a0918274.md

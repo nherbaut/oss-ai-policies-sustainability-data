@@ -1,0 +1,26 @@
+hash: eca3d1fff0ce8e02515d645512d29c05af08a4edeff2d8ad3e79e19e605f1b23
+id: d640e42a-622c-42b6-9b24-5b2e5f5d0637
+metadata:
+  import_document_id: osssaysno:pycaret/pycaret:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:31+00:00'
+    id: osssaysno:github.com/pycaret/pycaret:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/pycaret/pycaret/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/pycaret/pycaret/main/README.md
+    role: repository_root_document
+    sha256: eca3d1fff0ce8e02515d645512d29c05af08a4edeff2d8ad3e79e19e605f1b23
+    snapshot: data/osssaysno/policies/pycaret/pycaret/root/README.md
+    status: downloaded
+    text_sha256: eca3d1fff0ce8e02515d645512d29c05af08a4edeff2d8ad3e79e19e605f1b23
+    url: https://raw.githubusercontent.com/pycaret/pycaret/main/README.md
+  source_archive:
+    member: texts/5fe911f99497e304debaf6284ca627517d0523a5d2b3d6d38d81a283fc9bcd08.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: eca3d1fff0ce8e02515d645512d29c05af08a4edeff2d8ad3e79e19e605f1b23
+  url: ''
+name: root/README.md
+path: corpus/b1fe25fc11f840bda246c908721df056/5fe911f99497e304debaf6284ca627517d0523a5d2b3d6d38d81a283fc9bcd08.md

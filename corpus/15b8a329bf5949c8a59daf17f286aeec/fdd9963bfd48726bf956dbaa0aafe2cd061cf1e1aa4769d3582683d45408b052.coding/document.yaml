@@ -1,0 +1,26 @@
+hash: f3a84bf846d735f23961b8f53b5b892829d64488f9bb7ddf13be379e5c52e199
+id: 9d95bcf9-f0ee-40ee-a498-b42ab3a4f21e
+metadata:
+  import_document_id: osssaysno:biolab/orange3:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:03+00:00'
+    id: osssaysno:github.com/biolab/orange3:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/biolab/orange3/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/biolab/orange3/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: f3a84bf846d735f23961b8f53b5b892829d64488f9bb7ddf13be379e5c52e199
+    snapshot: data/osssaysno/policies/biolab/orange3/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: f3a84bf846d735f23961b8f53b5b892829d64488f9bb7ddf13be379e5c52e199
+    url: https://raw.githubusercontent.com/biolab/orange3/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/fdd9963bfd48726bf956dbaa0aafe2cd061cf1e1aa4769d3582683d45408b052.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f3a84bf846d735f23961b8f53b5b892829d64488f9bb7ddf13be379e5c52e199
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/15b8a329bf5949c8a59daf17f286aeec/fdd9963bfd48726bf956dbaa0aafe2cd061cf1e1aa4769d3582683d45408b052.md

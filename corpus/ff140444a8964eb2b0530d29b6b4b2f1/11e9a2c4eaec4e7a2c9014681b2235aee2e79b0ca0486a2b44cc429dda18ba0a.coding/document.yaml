@@ -1,0 +1,37 @@
+hash: b3ac3bf845d3030f6b2b3670ad974855de30c774f31e3dedd621d54ff412a271
+id: f6ba3ac7-e144-44be-8f50-8eb0e86f7acc
+metadata:
+  import_document_id: osssaysno:azure/azure-sdk-for-python:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:01+00:00'
+    id: osssaysno:github.com/azure/azure-sdk-for-python:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/azure/azure-sdk-for-python/raw/agent.md
+    resolved_url: https://raw.githubusercontent.com/Azure/azure-sdk-for-python/main/AGENTS.md
+    role: agent
+    sha256: b3ac3bf845d3030f6b2b3670ad974855de30c774f31e3dedd621d54ff412a271
+    snapshot: data/osssaysno/policies/azure/azure-sdk-for-python/agent.md
+    status: downloaded
+    text_sha256: b3ac3bf845d3030f6b2b3670ad974855de30c774f31e3dedd621d54ff412a271
+    url: https://github.com/Azure/azure-sdk-for-python/blob/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:38:05+00:00'
+    id: osssaysno:github.com/azure/azure-sdk-for-python:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/azure/azure-sdk-for-python/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/Azure/azure-sdk-for-python/main/AGENTS.md
+    role: repository_root_document
+    sha256: b3ac3bf845d3030f6b2b3670ad974855de30c774f31e3dedd621d54ff412a271
+    snapshot: data/osssaysno/policies/azure/azure-sdk-for-python/root/AGENTS.md
+    status: downloaded
+    text_sha256: b3ac3bf845d3030f6b2b3670ad974855de30c774f31e3dedd621d54ff412a271
+    url: https://raw.githubusercontent.com/Azure/azure-sdk-for-python/main/AGENTS.md
+  source_archive:
+    member: texts/11e9a2c4eaec4e7a2c9014681b2235aee2e79b0ca0486a2b44cc429dda18ba0a.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b3ac3bf845d3030f6b2b3670ad974855de30c774f31e3dedd621d54ff412a271
+  url: ''
+name: agent.md
+path: corpus/ff140444a8964eb2b0530d29b6b4b2f1/11e9a2c4eaec4e7a2c9014681b2235aee2e79b0ca0486a2b44cc429dda18ba0a.md

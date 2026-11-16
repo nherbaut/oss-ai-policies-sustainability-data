@@ -1,0 +1,26 @@
+hash: edc738fc951424ea40ceec56c824bff57caaa47ca79cf6a8334fefed1784b431
+id: 3eae49d8-f842-40b6-b815-ac58ca317416
+metadata:
+  import_document_id: osssaysno:google/elephant-goldfish-model:root/ACCESSIBILITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:25+00:00'
+    id: osssaysno:github.com/google/elephant-goldfish-model:root/ACCESSIBILITY.md
+    import_slot: root/ACCESSIBILITY.md
+    raw_snapshot: data/osssaysno/policies/google/elephant-goldfish-model/root/raw/ACCESSIBILITY.md
+    resolved_url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/ACCESSIBILITY.md
+    role: repository_root_document
+    sha256: edc738fc951424ea40ceec56c824bff57caaa47ca79cf6a8334fefed1784b431
+    snapshot: data/osssaysno/policies/google/elephant-goldfish-model/root/ACCESSIBILITY.md
+    status: downloaded
+    text_sha256: edc738fc951424ea40ceec56c824bff57caaa47ca79cf6a8334fefed1784b431
+    url: https://raw.githubusercontent.com/google/elephant-goldfish-model/main/ACCESSIBILITY.md
+  source_archive:
+    member: texts/73e851508a7b7419711e8d23921ae41d156454bdb6e57a00f5d5adc1b9fef2f1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: edc738fc951424ea40ceec56c824bff57caaa47ca79cf6a8334fefed1784b431
+  url: ''
+name: root/ACCESSIBILITY.md
+path: corpus/76d4b344a9f444fd880e6ffcdfc6209e/73e851508a7b7419711e8d23921ae41d156454bdb6e57a00f5d5adc1b9fef2f1.md

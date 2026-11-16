@@ -1,0 +1,26 @@
+hash: 101f5235c91fa3fb82d78d94cd1be323d5dd3e4cf2bd525b69fa482c6f09044b
+id: 81d1be88-6277-40a2-ade9-ded4b720ef13
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/SUPPORT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:35+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/SUPPORT.md
+    import_slot: root/SUPPORT.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/SUPPORT.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/SUPPORT.md
+    role: repository_root_document
+    sha256: 101f5235c91fa3fb82d78d94cd1be323d5dd3e4cf2bd525b69fa482c6f09044b
+    snapshot: data/osssaysno/policies/grafana/grafana/root/SUPPORT.md
+    status: downloaded
+    text_sha256: 101f5235c91fa3fb82d78d94cd1be323d5dd3e4cf2bd525b69fa482c6f09044b
+    url: https://raw.githubusercontent.com/grafana/grafana/main/SUPPORT.md
+  source_archive:
+    member: texts/6e02e467a5187e2666bc22632b7c1d1b7190a8a9a42aaf06dba6691de628c5b6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 101f5235c91fa3fb82d78d94cd1be323d5dd3e4cf2bd525b69fa482c6f09044b
+  url: ''
+name: root/SUPPORT.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/6e02e467a5187e2666bc22632b7c1d1b7190a8a9a42aaf06dba6691de628c5b6.md

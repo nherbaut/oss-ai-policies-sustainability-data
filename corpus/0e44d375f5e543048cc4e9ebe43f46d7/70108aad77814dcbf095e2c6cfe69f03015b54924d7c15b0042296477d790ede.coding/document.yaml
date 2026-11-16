@@ -1,0 +1,26 @@
+hash: cf22149057af326c2232536c339ed37dbb68fa3baf77f85f24ecbc29d7d81d2d
+id: e5e8af49-02f9-4e68-9040-fc8c834fcc3a
+metadata:
+  import_document_id: osssaysno:redot-engine/redot-engine:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:43+00:00'
+    id: osssaysno:github.com/redot-engine/redot-engine:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/README.md
+    role: repository_root_document
+    sha256: cf22149057af326c2232536c339ed37dbb68fa3baf77f85f24ecbc29d7d81d2d
+    snapshot: data/osssaysno/policies/redot-engine/redot-engine/root/README.md
+    status: downloaded
+    text_sha256: cf22149057af326c2232536c339ed37dbb68fa3baf77f85f24ecbc29d7d81d2d
+    url: https://raw.githubusercontent.com/Redot-Engine/redot-engine/master/README.md
+  source_archive:
+    member: texts/70108aad77814dcbf095e2c6cfe69f03015b54924d7c15b0042296477d790ede.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cf22149057af326c2232536c339ed37dbb68fa3baf77f85f24ecbc29d7d81d2d
+  url: ''
+name: root/README.md
+path: corpus/0e44d375f5e543048cc4e9ebe43f46d7/70108aad77814dcbf095e2c6cfe69f03015b54924d7c15b0042296477d790ede.md

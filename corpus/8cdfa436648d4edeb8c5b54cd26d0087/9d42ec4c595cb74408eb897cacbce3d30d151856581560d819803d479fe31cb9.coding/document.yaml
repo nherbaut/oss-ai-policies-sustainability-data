@@ -1,0 +1,26 @@
+hash: 0cdf360da42f75f2dd698ddf5d376a792b77653df518e735a177700ed5fec69c
+id: c2d7e658-27ae-49cd-8e4b-b7c34c338916
+metadata:
+  import_document_id: osssaysno:cortexproject/cortex:root/GENAI_POLICY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:51+00:00'
+    id: osssaysno:github.com/cortexproject/cortex:root/GENAI_POLICY.md
+    import_slot: root/GENAI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/cortexproject/cortex/root/raw/GENAI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/cortexproject/cortex/master/GENAI_POLICY.md
+    role: repository_root_document
+    sha256: 0cdf360da42f75f2dd698ddf5d376a792b77653df518e735a177700ed5fec69c
+    snapshot: data/osssaysno/policies/cortexproject/cortex/root/GENAI_POLICY.md
+    status: downloaded
+    text_sha256: 0cdf360da42f75f2dd698ddf5d376a792b77653df518e735a177700ed5fec69c
+    url: https://raw.githubusercontent.com/cortexproject/cortex/master/GENAI_POLICY.md
+  source_archive:
+    member: texts/9d42ec4c595cb74408eb897cacbce3d30d151856581560d819803d479fe31cb9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0cdf360da42f75f2dd698ddf5d376a792b77653df518e735a177700ed5fec69c
+  url: ''
+name: root/GENAI_POLICY.md
+path: corpus/8cdfa436648d4edeb8c5b54cd26d0087/9d42ec4c595cb74408eb897cacbce3d30d151856581560d819803d479fe31cb9.md

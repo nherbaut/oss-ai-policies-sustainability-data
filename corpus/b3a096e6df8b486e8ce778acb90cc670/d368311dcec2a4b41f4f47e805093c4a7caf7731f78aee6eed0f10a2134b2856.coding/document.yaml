@@ -1,0 +1,26 @@
+hash: 5c47141717bee505cd3ae55ab135d8846043572bf0c7c2049687498a91ae8edf
+id: b2e2cb20-57f2-426c-b64f-4c6877224f97
+metadata:
+  import_document_id: osssaysno:luanti-org/luanti:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:32+00:00'
+    id: osssaysno:github.com/luanti-org/luanti:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/luanti-org/luanti/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/luanti-org/luanti/master/SECURITY.md
+    role: repository_root_document
+    sha256: 5c47141717bee505cd3ae55ab135d8846043572bf0c7c2049687498a91ae8edf
+    snapshot: data/osssaysno/policies/luanti-org/luanti/root/SECURITY.md
+    status: downloaded
+    text_sha256: 5c47141717bee505cd3ae55ab135d8846043572bf0c7c2049687498a91ae8edf
+    url: https://raw.githubusercontent.com/luanti-org/luanti/master/SECURITY.md
+  source_archive:
+    member: texts/d368311dcec2a4b41f4f47e805093c4a7caf7731f78aee6eed0f10a2134b2856.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5c47141717bee505cd3ae55ab135d8846043572bf0c7c2049687498a91ae8edf
+  url: ''
+name: root/SECURITY.md
+path: corpus/b3a096e6df8b486e8ce778acb90cc670/d368311dcec2a4b41f4f47e805093c4a7caf7731f78aee6eed0f10a2134b2856.md

@@ -1,0 +1,26 @@
+hash: f04241a48eb9d99db722edb639821d03a2f86dc4a2210bc825cc03c6e3aa6357
+id: 72c892ec-c80e-45c8-9f5d-fda59b47ff8c
+metadata:
+  import_document_id: osssaysno:openclaw/clawhub:root/VISION.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:48+00:00'
+    id: osssaysno:github.com/openclaw/clawhub:root/VISION.md
+    import_slot: root/VISION.md
+    raw_snapshot: data/osssaysno/policies/openclaw/clawhub/root/raw/VISION.md
+    resolved_url: https://raw.githubusercontent.com/openclaw/clawhub/main/VISION.md
+    role: repository_root_document
+    sha256: f04241a48eb9d99db722edb639821d03a2f86dc4a2210bc825cc03c6e3aa6357
+    snapshot: data/osssaysno/policies/openclaw/clawhub/root/VISION.md
+    status: downloaded
+    text_sha256: f04241a48eb9d99db722edb639821d03a2f86dc4a2210bc825cc03c6e3aa6357
+    url: https://raw.githubusercontent.com/openclaw/clawhub/main/VISION.md
+  source_archive:
+    member: texts/8f1ac624d89db59e3f92e22ea3bb4247395b889b2ab292eb84fd9b40773f21be.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f04241a48eb9d99db722edb639821d03a2f86dc4a2210bc825cc03c6e3aa6357
+  url: ''
+name: root/VISION.md
+path: corpus/4ec51df678c346b8964459dbdfe6b1df/8f1ac624d89db59e3f92e22ea3bb4247395b889b2ab292eb84fd9b40773f21be.md

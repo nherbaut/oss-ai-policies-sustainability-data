@@ -1,0 +1,37 @@
+hash: 0d4da4d7bc1ec12c4e5658d4d6589075daa6c4c70b26f439c142202a05c8258c
+id: f7aa8f30-49aa-4d9b-bdef-9466ab8af01b
+metadata:
+  import_document_id: osssaysno:nextcloud/all-in-one:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:18+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/CONTRIBUTING.md
+    role: contributing
+    sha256: 0d4da4d7bc1ec12c4e5658d4d6589075daa6c4c70b26f439c142202a05c8258c
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/contributing.md
+    status: downloaded
+    text_sha256: 0d4da4d7bc1ec12c4e5658d4d6589075daa6c4c70b26f439c142202a05c8258c
+    url: https://github.com/nextcloud/all-in-one/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:30:20+00:00'
+    id: osssaysno:github.com/nextcloud/all-in-one:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 0d4da4d7bc1ec12c4e5658d4d6589075daa6c4c70b26f439c142202a05c8258c
+    snapshot: data/osssaysno/policies/nextcloud/all-in-one/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 0d4da4d7bc1ec12c4e5658d4d6589075daa6c4c70b26f439c142202a05c8258c
+    url: https://raw.githubusercontent.com/nextcloud/all-in-one/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/372f6cae915a6aa39f9cdc1d0ae8d353a623df75df8cc1256ac73ab8351928a2.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0d4da4d7bc1ec12c4e5658d4d6589075daa6c4c70b26f439c142202a05c8258c
+  url: ''
+name: contributing.md
+path: corpus/b3752bd5dc464ce0858346f9c4560b05/372f6cae915a6aa39f9cdc1d0ae8d353a623df75df8cc1256ac73ab8351928a2.md

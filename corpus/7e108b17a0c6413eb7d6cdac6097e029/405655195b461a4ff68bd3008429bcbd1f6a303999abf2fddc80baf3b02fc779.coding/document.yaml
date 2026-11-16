@@ -1,0 +1,26 @@
+hash: 868b9c65bb8eece2fa439a0b6b4d60497ef9249ad15725e6a31108493c3ead3a
+id: bde144e6-bb70-413e-886c-e2a1d4605453
+metadata:
+  import_document_id: osssaysno:prusa3d/prusaslicer:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:32+00:00'
+    id: osssaysno:github.com/prusa3d/prusaslicer:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/prusa3d/prusaslicer/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/.github/CONTRIBUTING.md
+    role: contributing
+    sha256: 868b9c65bb8eece2fa439a0b6b4d60497ef9249ad15725e6a31108493c3ead3a
+    snapshot: data/osssaysno/policies/prusa3d/prusaslicer/contributing.md
+    status: downloaded
+    text_sha256: 868b9c65bb8eece2fa439a0b6b4d60497ef9249ad15725e6a31108493c3ead3a
+    url: https://github.com/prusa3d/PrusaSlicer/blob/master/.github/CONTRIBUTING.md
+  source_archive:
+    member: texts/405655195b461a4ff68bd3008429bcbd1f6a303999abf2fddc80baf3b02fc779.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 868b9c65bb8eece2fa439a0b6b4d60497ef9249ad15725e6a31108493c3ead3a
+  url: ''
+name: contributing.md
+path: corpus/7e108b17a0c6413eb7d6cdac6097e029/405655195b461a4ff68bd3008429bcbd1f6a303999abf2fddc80baf3b02fc779.md

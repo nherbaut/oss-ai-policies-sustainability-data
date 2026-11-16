@@ -1,0 +1,26 @@
+hash: a57045087a78daa833312fe2f4f404427985d89457d86eabeb69722df010d109
+id: 2c375161-d01f-43f0-bf97-f744896071c9
+metadata:
+  import_document_id: osssaysno:microsoft/generative-ai-for-beginners:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:21+00:00'
+    id: osssaysno:github.com/microsoft/generative-ai-for-beginners:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/README.md
+    role: repository_root_document
+    sha256: a57045087a78daa833312fe2f4f404427985d89457d86eabeb69722df010d109
+    snapshot: data/osssaysno/policies/microsoft/generative-ai-for-beginners/root/README.md
+    status: downloaded
+    text_sha256: a57045087a78daa833312fe2f4f404427985d89457d86eabeb69722df010d109
+    url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/README.md
+  source_archive:
+    member: texts/5307c18ff0699a8747885cc46f69c123628e6c14d58393fa331f12acb63e6a32.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: a57045087a78daa833312fe2f4f404427985d89457d86eabeb69722df010d109
+  url: ''
+name: root/README.md
+path: corpus/4b61fce5a7204fe59b2dd4c442d24d6f/5307c18ff0699a8747885cc46f69c123628e6c14d58393fa331f12acb63e6a32.md

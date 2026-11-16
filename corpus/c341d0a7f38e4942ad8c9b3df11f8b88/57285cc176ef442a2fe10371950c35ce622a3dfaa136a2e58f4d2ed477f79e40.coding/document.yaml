@@ -1,0 +1,26 @@
+hash: 8977410cd5554ac3b353260888537ad4e18a25e6f7a33702772847bef8fc65c4
+id: dc1ea8f2-b43a-4503-bd66-7fbc942da485
+metadata:
+  import_document_id: osssaysno:octoprint/octoprint:root/SUPPORTERS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:58+00:00'
+    id: osssaysno:github.com/octoprint/octoprint:root/SUPPORTERS.md
+    import_slot: root/SUPPORTERS.md
+    raw_snapshot: data/osssaysno/policies/octoprint/octoprint/root/raw/SUPPORTERS.md
+    resolved_url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/SUPPORTERS.md
+    role: repository_root_document
+    sha256: 8977410cd5554ac3b353260888537ad4e18a25e6f7a33702772847bef8fc65c4
+    snapshot: data/osssaysno/policies/octoprint/octoprint/root/SUPPORTERS.md
+    status: downloaded
+    text_sha256: 8977410cd5554ac3b353260888537ad4e18a25e6f7a33702772847bef8fc65c4
+    url: https://raw.githubusercontent.com/OctoPrint/OctoPrint/dev/SUPPORTERS.md
+  source_archive:
+    member: texts/57285cc176ef442a2fe10371950c35ce622a3dfaa136a2e58f4d2ed477f79e40.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 8977410cd5554ac3b353260888537ad4e18a25e6f7a33702772847bef8fc65c4
+  url: ''
+name: root/SUPPORTERS.md
+path: corpus/c341d0a7f38e4942ad8c9b3df11f8b88/57285cc176ef442a2fe10371950c35ce622a3dfaa136a2e58f4d2ed477f79e40.md

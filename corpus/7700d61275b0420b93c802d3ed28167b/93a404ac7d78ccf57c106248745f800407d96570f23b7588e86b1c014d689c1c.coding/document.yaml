@@ -1,0 +1,26 @@
+hash: 9101e7a145064967402a0e4caabd77981f8666dada1779c94c2a3e9e64058543
+id: f1768646-f771-4de7-810e-5f851bf92590
+metadata:
+  import_document_id: osssaysno:conda/conda:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:44+00:00'
+    id: osssaysno:github.com/conda/conda:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/conda/conda/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/conda/conda/main/AGENTS.md
+    role: repository_root_document
+    sha256: 9101e7a145064967402a0e4caabd77981f8666dada1779c94c2a3e9e64058543
+    snapshot: data/osssaysno/policies/conda/conda/root/AGENTS.md
+    status: downloaded
+    text_sha256: 9101e7a145064967402a0e4caabd77981f8666dada1779c94c2a3e9e64058543
+    url: https://raw.githubusercontent.com/conda/conda/main/AGENTS.md
+  source_archive:
+    member: texts/93a404ac7d78ccf57c106248745f800407d96570f23b7588e86b1c014d689c1c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9101e7a145064967402a0e4caabd77981f8666dada1779c94c2a3e9e64058543
+  url: ''
+name: root/AGENTS.md
+path: corpus/7700d61275b0420b93c802d3ed28167b/93a404ac7d78ccf57c106248745f800407d96570f23b7588e86b1c014d689c1c.md

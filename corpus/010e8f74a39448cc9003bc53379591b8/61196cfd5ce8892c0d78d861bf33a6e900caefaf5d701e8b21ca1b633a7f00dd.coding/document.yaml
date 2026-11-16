@@ -1,0 +1,26 @@
+hash: 147c3b45e67cc26e531a638bf8122069c2c3cdc162ffa1c9d66fbcc8de5abddf
+id: b91cfec9-c64b-45ec-add5-1aa421460e63
+metadata:
+  import_document_id: osssaysno:netalertx/netalertx:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:56+00:00'
+    id: osssaysno:github.com/netalertx/netalertx:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/netalertx/netalertx/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/netalertx/NetAlertX/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 147c3b45e67cc26e531a638bf8122069c2c3cdc162ffa1c9d66fbcc8de5abddf
+    snapshot: data/osssaysno/policies/netalertx/netalertx/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 147c3b45e67cc26e531a638bf8122069c2c3cdc162ffa1c9d66fbcc8de5abddf
+    url: https://raw.githubusercontent.com/netalertx/NetAlertX/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/61196cfd5ce8892c0d78d861bf33a6e900caefaf5d701e8b21ca1b633a7f00dd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 147c3b45e67cc26e531a638bf8122069c2c3cdc162ffa1c9d66fbcc8de5abddf
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/010e8f74a39448cc9003bc53379591b8/61196cfd5ce8892c0d78d861bf33a6e900caefaf5d701e8b21ca1b633a7f00dd.md

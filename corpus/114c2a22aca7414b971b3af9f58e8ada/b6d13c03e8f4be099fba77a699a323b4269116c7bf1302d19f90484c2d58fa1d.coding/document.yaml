@@ -1,0 +1,26 @@
+hash: 1a75f21eb5375d5581401b81feafc33c97a8a0a4bb723402609c24a6f06e5a0a
+id: 8e94743d-d30b-4d9d-aae2-978935c5c244
+metadata:
+  import_document_id: osssaysno:py-pdf/pypdf:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:19+00:00'
+    id: osssaysno:github.com/py-pdf/pypdf:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/py-pdf/pypdf/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/py-pdf/pypdf/main/README.md
+    role: repository_root_document
+    sha256: 1a75f21eb5375d5581401b81feafc33c97a8a0a4bb723402609c24a6f06e5a0a
+    snapshot: data/osssaysno/policies/py-pdf/pypdf/root/README.md
+    status: downloaded
+    text_sha256: 1a75f21eb5375d5581401b81feafc33c97a8a0a4bb723402609c24a6f06e5a0a
+    url: https://raw.githubusercontent.com/py-pdf/pypdf/main/README.md
+  source_archive:
+    member: texts/b6d13c03e8f4be099fba77a699a323b4269116c7bf1302d19f90484c2d58fa1d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1a75f21eb5375d5581401b81feafc33c97a8a0a4bb723402609c24a6f06e5a0a
+  url: ''
+name: root/README.md
+path: corpus/114c2a22aca7414b971b3af9f58e8ada/b6d13c03e8f4be099fba77a699a323b4269116c7bf1302d19f90484c2d58fa1d.md

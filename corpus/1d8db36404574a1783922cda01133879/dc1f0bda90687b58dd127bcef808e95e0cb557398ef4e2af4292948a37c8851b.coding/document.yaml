@@ -1,0 +1,26 @@
+hash: bd3ae42af5d070b1a8976062d42b2e8ba72e37126d7aa132b474878aae851311
+id: 2d8b074a-83e4-4bfb-a42f-e010f6c06c12
+metadata:
+  import_document_id: osssaysno:riot-os/riot:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:58+00:00'
+    id: osssaysno:github.com/riot-os/riot:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/riot-os/riot/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/README.md
+    role: repository_root_document
+    sha256: bd3ae42af5d070b1a8976062d42b2e8ba72e37126d7aa132b474878aae851311
+    snapshot: data/osssaysno/policies/riot-os/riot/root/README.md
+    status: downloaded
+    text_sha256: bd3ae42af5d070b1a8976062d42b2e8ba72e37126d7aa132b474878aae851311
+    url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/README.md
+  source_archive:
+    member: texts/dc1f0bda90687b58dd127bcef808e95e0cb557398ef4e2af4292948a37c8851b.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bd3ae42af5d070b1a8976062d42b2e8ba72e37126d7aa132b474878aae851311
+  url: ''
+name: root/README.md
+path: corpus/1d8db36404574a1783922cda01133879/dc1f0bda90687b58dd127bcef808e95e0cb557398ef4e2af4292948a37c8851b.md

@@ -1,0 +1,26 @@
+hash: bbeccc38c35152e525ee6fae901fcc57fcd9abc0e65c77b74cddc9cc0bc89a3e
+id: fe330618-ec89-4b7d-a787-14443176d9cc
+metadata:
+  import_document_id: osssaysno:zealdocs/zeal:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:38+00:00'
+    id: osssaysno:github.com/zealdocs/zeal:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/zealdocs/zeal/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/zealdocs/zeal/main/README.md
+    role: repository_root_document
+    sha256: bbeccc38c35152e525ee6fae901fcc57fcd9abc0e65c77b74cddc9cc0bc89a3e
+    snapshot: data/osssaysno/policies/zealdocs/zeal/root/README.md
+    status: downloaded
+    text_sha256: bbeccc38c35152e525ee6fae901fcc57fcd9abc0e65c77b74cddc9cc0bc89a3e
+    url: https://raw.githubusercontent.com/zealdocs/zeal/main/README.md
+  source_archive:
+    member: texts/2e9a0df1971355d130e4540762f4ae650fce74ba9373b57f513ce01b987ca5a3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: bbeccc38c35152e525ee6fae901fcc57fcd9abc0e65c77b74cddc9cc0bc89a3e
+  url: ''
+name: root/README.md
+path: corpus/33f3392e3b2f4980ab65fc9fa85944a8/2e9a0df1971355d130e4540762f4ae650fce74ba9373b57f513ce01b987ca5a3.md

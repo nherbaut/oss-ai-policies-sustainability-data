@@ -1,0 +1,26 @@
+hash: 16dd61d9b656933f2c9c9539143f43fcada59e2886c0abb9c66c1c06fc5bf522
+id: 9241cc1d-6329-451e-b33f-05cdff284cb5
+metadata:
+  import_document_id: osssaysno:pyrefly-org/pyrefly:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:00+00:00'
+    id: osssaysno:github.com/pyrefly-org/pyrefly:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/README.md
+    role: repository_root_document
+    sha256: 16dd61d9b656933f2c9c9539143f43fcada59e2886c0abb9c66c1c06fc5bf522
+    snapshot: data/osssaysno/policies/pyrefly-org/pyrefly/root/README.md
+    status: downloaded
+    text_sha256: 16dd61d9b656933f2c9c9539143f43fcada59e2886c0abb9c66c1c06fc5bf522
+    url: https://raw.githubusercontent.com/pyrefly-org/pyrefly/main/README.md
+  source_archive:
+    member: texts/b8f835cd22af49b73d15b085ff84ba0b6781553a14f0c90d5dcd63e8e6254222.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 16dd61d9b656933f2c9c9539143f43fcada59e2886c0abb9c66c1c06fc5bf522
+  url: ''
+name: root/README.md
+path: corpus/971a84d6a3da4077865cb731d77e95ae/b8f835cd22af49b73d15b085ff84ba0b6781553a14f0c90d5dcd63e8e6254222.md

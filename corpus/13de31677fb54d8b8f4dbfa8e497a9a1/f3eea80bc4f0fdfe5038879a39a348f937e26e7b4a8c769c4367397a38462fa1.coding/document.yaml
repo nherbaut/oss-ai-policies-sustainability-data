@@ -1,0 +1,26 @@
+hash: f84c575853120416d40616034eee47fbf6a3d285921a8ccec11c05cfbe06d44f
+id: 965f43e7-aa8a-4e68-8628-66a2a1e64f9c
+metadata:
+  import_document_id: osssaysno:monogame/monogame:root/REQUIREMENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:19+00:00'
+    id: osssaysno:github.com/monogame/monogame:root/REQUIREMENTS.md
+    import_slot: root/REQUIREMENTS.md
+    raw_snapshot: data/osssaysno/policies/monogame/monogame/root/raw/REQUIREMENTS.md
+    resolved_url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/REQUIREMENTS.md
+    role: repository_root_document
+    sha256: f84c575853120416d40616034eee47fbf6a3d285921a8ccec11c05cfbe06d44f
+    snapshot: data/osssaysno/policies/monogame/monogame/root/REQUIREMENTS.md
+    status: downloaded
+    text_sha256: f84c575853120416d40616034eee47fbf6a3d285921a8ccec11c05cfbe06d44f
+    url: https://raw.githubusercontent.com/MonoGame/MonoGame/develop/REQUIREMENTS.md
+  source_archive:
+    member: texts/f3eea80bc4f0fdfe5038879a39a348f937e26e7b4a8c769c4367397a38462fa1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f84c575853120416d40616034eee47fbf6a3d285921a8ccec11c05cfbe06d44f
+  url: ''
+name: root/REQUIREMENTS.md
+path: corpus/13de31677fb54d8b8f4dbfa8e497a9a1/f3eea80bc4f0fdfe5038879a39a348f937e26e7b4a8c769c4367397a38462fa1.md

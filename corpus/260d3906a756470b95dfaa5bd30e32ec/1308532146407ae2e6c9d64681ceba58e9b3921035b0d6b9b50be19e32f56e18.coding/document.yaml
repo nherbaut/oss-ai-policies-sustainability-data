@@ -1,0 +1,26 @@
+hash: 7bd2a4d5ee4d1725cd579e9bb71048ea2e93b4ff96535bd94ad1746a0abe337f
+id: 31c9d92d-6c89-4622-af76-1fb5fd4f534d
+metadata:
+  import_document_id: osssaysno:grafana/grafana:root/HALL_OF_FAME.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:33+00:00'
+    id: osssaysno:github.com/grafana/grafana:root/HALL_OF_FAME.md
+    import_slot: root/HALL_OF_FAME.md
+    raw_snapshot: data/osssaysno/policies/grafana/grafana/root/raw/HALL_OF_FAME.md
+    resolved_url: https://raw.githubusercontent.com/grafana/grafana/main/HALL_OF_FAME.md
+    role: repository_root_document
+    sha256: 7bd2a4d5ee4d1725cd579e9bb71048ea2e93b4ff96535bd94ad1746a0abe337f
+    snapshot: data/osssaysno/policies/grafana/grafana/root/HALL_OF_FAME.md
+    status: downloaded
+    text_sha256: 7bd2a4d5ee4d1725cd579e9bb71048ea2e93b4ff96535bd94ad1746a0abe337f
+    url: https://raw.githubusercontent.com/grafana/grafana/main/HALL_OF_FAME.md
+  source_archive:
+    member: texts/1308532146407ae2e6c9d64681ceba58e9b3921035b0d6b9b50be19e32f56e18.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7bd2a4d5ee4d1725cd579e9bb71048ea2e93b4ff96535bd94ad1746a0abe337f
+  url: ''
+name: root/HALL_OF_FAME.md
+path: corpus/260d3906a756470b95dfaa5bd30e32ec/1308532146407ae2e6c9d64681ceba58e9b3921035b0d6b9b50be19e32f56e18.md

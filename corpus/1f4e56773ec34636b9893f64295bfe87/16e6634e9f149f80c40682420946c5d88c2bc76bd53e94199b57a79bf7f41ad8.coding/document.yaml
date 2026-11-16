@@ -1,0 +1,26 @@
+hash: 0e6af638fd5c19432395f8874498be337b378a5f1cc37d7732be7229cb140733
+id: a4c60b09-f9ff-4786-a4f0-c56acf285315
+metadata:
+  import_document_id: osssaysno:leanprover/lean4:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:28+00:00'
+    id: osssaysno:github.com/leanprover/lean4:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/leanprover/lean4/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/leanprover/lean4/master/README.md
+    role: repository_root_document
+    sha256: 0e6af638fd5c19432395f8874498be337b378a5f1cc37d7732be7229cb140733
+    snapshot: data/osssaysno/policies/leanprover/lean4/root/README.md
+    status: downloaded
+    text_sha256: 0e6af638fd5c19432395f8874498be337b378a5f1cc37d7732be7229cb140733
+    url: https://raw.githubusercontent.com/leanprover/lean4/master/README.md
+  source_archive:
+    member: texts/16e6634e9f149f80c40682420946c5d88c2bc76bd53e94199b57a79bf7f41ad8.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 0e6af638fd5c19432395f8874498be337b378a5f1cc37d7732be7229cb140733
+  url: ''
+name: root/README.md
+path: corpus/1f4e56773ec34636b9893f64295bfe87/16e6634e9f149f80c40682420946c5d88c2bc76bd53e94199b57a79bf7f41ad8.md

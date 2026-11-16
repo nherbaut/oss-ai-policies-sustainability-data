@@ -1,0 +1,26 @@
+hash: 5cba3d05e48cb53d89acaf701ff727bc09a571b0b35f2ce71c9737a79901ab1b
+id: b041c833-62f1-45d9-9947-dff9dcb2217c
+metadata:
+  import_document_id: osssaysno:code-yeongyu/oh-my-openagent:root/THIRD-PARTY-NOTICES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:43+00:00'
+    id: osssaysno:github.com/code-yeongyu/oh-my-openagent:root/THIRD-PARTY-NOTICES.md
+    import_slot: root/THIRD-PARTY-NOTICES.md
+    raw_snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/raw/THIRD-PARTY-NOTICES.md
+    resolved_url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/THIRD-PARTY-NOTICES.md
+    role: repository_root_document
+    sha256: 5cba3d05e48cb53d89acaf701ff727bc09a571b0b35f2ce71c9737a79901ab1b
+    snapshot: data/osssaysno/policies/code-yeongyu/oh-my-openagent/root/THIRD-PARTY-NOTICES.md
+    status: downloaded
+    text_sha256: 5cba3d05e48cb53d89acaf701ff727bc09a571b0b35f2ce71c9737a79901ab1b
+    url: https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/THIRD-PARTY-NOTICES.md
+  source_archive:
+    member: texts/600ae35127c94a7eed2bc96f2a7a4da7e19438b29880fbdd23dfd674ec6e0fd3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5cba3d05e48cb53d89acaf701ff727bc09a571b0b35f2ce71c9737a79901ab1b
+  url: ''
+name: root/THIRD-PARTY-NOTICES.md
+path: corpus/80ffc7c8f21942c3837748b88e684fef/600ae35127c94a7eed2bc96f2a7a4da7e19438b29880fbdd23dfd674ec6e0fd3.md

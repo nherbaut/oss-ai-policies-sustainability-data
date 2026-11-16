@@ -1,0 +1,26 @@
+hash: 5c370af92f0b4ef3141325e85679d1727eaef80f77cb9470bbb4e7dec9914247
+id: 58a8ac15-24f1-4264-a6e5-0abfa16940f4
+metadata:
+  import_document_id: osssaysno:nteract/papermill:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:29+00:00'
+    id: osssaysno:github.com/nteract/papermill:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/nteract/papermill/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/nteract/papermill/main/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: 5c370af92f0b4ef3141325e85679d1727eaef80f77cb9470bbb4e7dec9914247
+    snapshot: data/osssaysno/policies/nteract/papermill/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: 5c370af92f0b4ef3141325e85679d1727eaef80f77cb9470bbb4e7dec9914247
+    url: https://raw.githubusercontent.com/nteract/papermill/main/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/49024a891919cc955f719809d23dac50198745662c7288978967a9103f86b665.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5c370af92f0b4ef3141325e85679d1727eaef80f77cb9470bbb4e7dec9914247
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/8c0f6131b7f04a69a24737184848e55e/49024a891919cc955f719809d23dac50198745662c7288978967a9103f86b665.md

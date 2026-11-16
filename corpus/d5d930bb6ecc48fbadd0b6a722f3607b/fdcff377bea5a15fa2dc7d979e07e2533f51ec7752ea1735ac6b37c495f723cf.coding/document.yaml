@@ -1,0 +1,26 @@
+hash: e5cdeb6fb7385557d4187e296fd4a580d2f01f04c599f7bdca9b1622434a324f
+id: 1e8af775-3010-40e5-a80c-02208cac65e7
+metadata:
+  import_document_id: osssaysno:redpanda-data/connect:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:02+00:00'
+    id: osssaysno:github.com/redpanda-data/connect:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/redpanda-data/connect/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/redpanda-data/connect/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: e5cdeb6fb7385557d4187e296fd4a580d2f01f04c599f7bdca9b1622434a324f
+    snapshot: data/osssaysno/policies/redpanda-data/connect/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: e5cdeb6fb7385557d4187e296fd4a580d2f01f04c599f7bdca9b1622434a324f
+    url: https://raw.githubusercontent.com/redpanda-data/connect/main/CHANGELOG.md
+  source_archive:
+    member: texts/fdcff377bea5a15fa2dc7d979e07e2533f51ec7752ea1735ac6b37c495f723cf.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e5cdeb6fb7385557d4187e296fd4a580d2f01f04c599f7bdca9b1622434a324f
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/d5d930bb6ecc48fbadd0b6a722f3607b/fdcff377bea5a15fa2dc7d979e07e2533f51ec7752ea1735ac6b37c495f723cf.md

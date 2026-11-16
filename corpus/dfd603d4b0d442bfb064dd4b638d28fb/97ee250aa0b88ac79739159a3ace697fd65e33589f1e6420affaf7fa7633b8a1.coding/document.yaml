@@ -1,0 +1,26 @@
+hash: 076e46a16a67e32a3ae281f1d30053acc231a527391cbb49efc82b1aa7f12987
+id: 42b81166-eef6-4135-b7d8-4b0a6166d74a
+metadata:
+  import_document_id: osssaysno:prefix-dev/pixi:root/RELEASE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:33+00:00'
+    id: osssaysno:github.com/prefix-dev/pixi:root/RELEASE.md
+    import_slot: root/RELEASE.md
+    raw_snapshot: data/osssaysno/policies/prefix-dev/pixi/root/raw/RELEASE.md
+    resolved_url: https://raw.githubusercontent.com/prefix-dev/pixi/main/RELEASE.md
+    role: repository_root_document
+    sha256: 076e46a16a67e32a3ae281f1d30053acc231a527391cbb49efc82b1aa7f12987
+    snapshot: data/osssaysno/policies/prefix-dev/pixi/root/RELEASE.md
+    status: downloaded
+    text_sha256: 076e46a16a67e32a3ae281f1d30053acc231a527391cbb49efc82b1aa7f12987
+    url: https://raw.githubusercontent.com/prefix-dev/pixi/main/RELEASE.md
+  source_archive:
+    member: texts/97ee250aa0b88ac79739159a3ace697fd65e33589f1e6420affaf7fa7633b8a1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 076e46a16a67e32a3ae281f1d30053acc231a527391cbb49efc82b1aa7f12987
+  url: ''
+name: root/RELEASE.md
+path: corpus/dfd603d4b0d442bfb064dd4b638d28fb/97ee250aa0b88ac79739159a3ace697fd65e33589f1e6420affaf7fa7633b8a1.md

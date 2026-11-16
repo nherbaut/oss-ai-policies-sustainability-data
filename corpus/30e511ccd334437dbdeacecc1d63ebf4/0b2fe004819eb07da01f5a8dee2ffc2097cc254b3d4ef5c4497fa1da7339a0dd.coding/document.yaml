@@ -1,0 +1,26 @@
+hash: 969da92acac05741d61fab82099ae2a85cdd307e79bb6c6d63a1a5c6055378c6
+id: e5d98dbc-0a79-4d72-a03e-00e2a6809462
+metadata:
+  import_document_id: osssaysno:joomla/joomla-cms:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:06+00:00'
+    id: osssaysno:github.com/joomla/joomla-cms:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/joomla/joomla-cms/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/joomla/joomla-cms/6.2-dev/.github/CONTRIBUTING.md
+    role: contributing
+    sha256: 969da92acac05741d61fab82099ae2a85cdd307e79bb6c6d63a1a5c6055378c6
+    snapshot: data/osssaysno/policies/joomla/joomla-cms/contributing.md
+    status: downloaded
+    text_sha256: 969da92acac05741d61fab82099ae2a85cdd307e79bb6c6d63a1a5c6055378c6
+    url: https://github.com/joomla/joomla-cms/blob/6.2-dev/.github/CONTRIBUTING.md
+  source_archive:
+    member: texts/0b2fe004819eb07da01f5a8dee2ffc2097cc254b3d4ef5c4497fa1da7339a0dd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 969da92acac05741d61fab82099ae2a85cdd307e79bb6c6d63a1a5c6055378c6
+  url: ''
+name: contributing.md
+path: corpus/30e511ccd334437dbdeacecc1d63ebf4/0b2fe004819eb07da01f5a8dee2ffc2097cc254b3d4ef5c4497fa1da7339a0dd.md

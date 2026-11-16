@@ -1,0 +1,37 @@
+hash: 7ddbea5da099f77aae8f2110ecaaabb1f7ff66707c001a43f61e5bb5b1eeb6e3
+id: 41094699-c910-4b5b-956a-0af4d57e0ee7
+metadata:
+  import_document_id: osssaysno:quickwit-oss/quickwit:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:06+00:00'
+    id: osssaysno:github.com/quickwit-oss/quickwit:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/quickwit-oss/quickwit/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/AI_POLICY.md
+    role: ai_policy
+    sha256: 7ddbea5da099f77aae8f2110ecaaabb1f7ff66707c001a43f61e5bb5b1eeb6e3
+    snapshot: data/osssaysno/policies/quickwit-oss/quickwit/ai_policy.md
+    status: downloaded
+    text_sha256: 7ddbea5da099f77aae8f2110ecaaabb1f7ff66707c001a43f61e5bb5b1eeb6e3
+    url: https://github.com/quickwit-oss/quickwit/blob/main/AI_POLICY.md
+  - accessed_at: '2026-11-15T23:30:07+00:00'
+    id: osssaysno:github.com/quickwit-oss/quickwit:root/AI_POLICY.md
+    import_slot: root/AI_POLICY.md
+    raw_snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/raw/AI_POLICY.md
+    resolved_url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/AI_POLICY.md
+    role: repository_root_document
+    sha256: 7ddbea5da099f77aae8f2110ecaaabb1f7ff66707c001a43f61e5bb5b1eeb6e3
+    snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/AI_POLICY.md
+    status: downloaded
+    text_sha256: 7ddbea5da099f77aae8f2110ecaaabb1f7ff66707c001a43f61e5bb5b1eeb6e3
+    url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/AI_POLICY.md
+  source_archive:
+    member: texts/eb166f2f16efd97ef25c045be50c893d7d2b8bdbf3ff1fbd224b3855ea12bdb3.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7ddbea5da099f77aae8f2110ecaaabb1f7ff66707c001a43f61e5bb5b1eeb6e3
+  url: ''
+name: ai_policy.md
+path: corpus/fbdfe8f8cc3f4cf6b1c4e8097a3f7474/eb166f2f16efd97ef25c045be50c893d7d2b8bdbf3ff1fbd224b3855ea12bdb3.md

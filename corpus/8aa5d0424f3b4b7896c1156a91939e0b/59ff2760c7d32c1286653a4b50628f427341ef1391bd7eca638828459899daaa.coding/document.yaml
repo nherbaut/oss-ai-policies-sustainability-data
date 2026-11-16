@@ -1,0 +1,26 @@
+hash: c4053d3ba456b05c3f707424db1693deba8b0abdec22c8cb1744006f6d0807a9
+id: 1aaa82c1-7405-4780-8827-54266ad5b6dd
+metadata:
+  import_document_id: osssaysno:yuin/goldmark:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:37+00:00'
+    id: osssaysno:github.com/yuin/goldmark:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/yuin/goldmark/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/yuin/goldmark/v2/README.md
+    role: repository_root_document
+    sha256: c4053d3ba456b05c3f707424db1693deba8b0abdec22c8cb1744006f6d0807a9
+    snapshot: data/osssaysno/policies/yuin/goldmark/root/README.md
+    status: downloaded
+    text_sha256: c4053d3ba456b05c3f707424db1693deba8b0abdec22c8cb1744006f6d0807a9
+    url: https://raw.githubusercontent.com/yuin/goldmark/v2/README.md
+  source_archive:
+    member: texts/59ff2760c7d32c1286653a4b50628f427341ef1391bd7eca638828459899daaa.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c4053d3ba456b05c3f707424db1693deba8b0abdec22c8cb1744006f6d0807a9
+  url: ''
+name: root/README.md
+path: corpus/8aa5d0424f3b4b7896c1156a91939e0b/59ff2760c7d32c1286653a4b50628f427341ef1391bd7eca638828459899daaa.md

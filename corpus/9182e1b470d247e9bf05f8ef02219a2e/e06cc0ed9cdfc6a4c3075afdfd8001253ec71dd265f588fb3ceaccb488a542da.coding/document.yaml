@@ -1,0 +1,26 @@
+hash: ee0e13b36f370bd8326fb88f9e3d027997f274ef97aedf27a4aac4c921b2caae
+id: 86207b43-3361-40f1-90c7-82ce5319cafd
+metadata:
+  import_document_id: osssaysno:projectcalico/calico:root/AUTHORS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:48+00:00'
+    id: osssaysno:github.com/projectcalico/calico:root/AUTHORS.md
+    import_slot: root/AUTHORS.md
+    raw_snapshot: data/osssaysno/policies/projectcalico/calico/root/raw/AUTHORS.md
+    resolved_url: https://raw.githubusercontent.com/projectcalico/calico/master/AUTHORS.md
+    role: repository_root_document
+    sha256: ee0e13b36f370bd8326fb88f9e3d027997f274ef97aedf27a4aac4c921b2caae
+    snapshot: data/osssaysno/policies/projectcalico/calico/root/AUTHORS.md
+    status: downloaded
+    text_sha256: ee0e13b36f370bd8326fb88f9e3d027997f274ef97aedf27a4aac4c921b2caae
+    url: https://raw.githubusercontent.com/projectcalico/calico/master/AUTHORS.md
+  source_archive:
+    member: texts/e06cc0ed9cdfc6a4c3075afdfd8001253ec71dd265f588fb3ceaccb488a542da.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ee0e13b36f370bd8326fb88f9e3d027997f274ef97aedf27a4aac4c921b2caae
+  url: ''
+name: root/AUTHORS.md
+path: corpus/9182e1b470d247e9bf05f8ef02219a2e/e06cc0ed9cdfc6a4c3075afdfd8001253ec71dd265f588fb3ceaccb488a542da.md

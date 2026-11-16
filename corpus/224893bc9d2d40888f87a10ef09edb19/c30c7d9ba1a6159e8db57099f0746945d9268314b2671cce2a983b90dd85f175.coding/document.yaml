@@ -1,0 +1,26 @@
+hash: 4687d975e869882c4c7c77a3d419933463d7d05e76b0424f330dc3c2494159b0
+id: 7e82f35c-d9a6-4065-83d0-5e7fc292ec05
+metadata:
+  import_document_id: osssaysno:databendlabs/databend:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:35:49+00:00'
+    id: osssaysno:github.com/databendlabs/databend:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/databendlabs/databend/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/databendlabs/databend/main/AGENTS.md
+    role: repository_root_document
+    sha256: 4687d975e869882c4c7c77a3d419933463d7d05e76b0424f330dc3c2494159b0
+    snapshot: data/osssaysno/policies/databendlabs/databend/root/AGENTS.md
+    status: downloaded
+    text_sha256: 4687d975e869882c4c7c77a3d419933463d7d05e76b0424f330dc3c2494159b0
+    url: https://raw.githubusercontent.com/databendlabs/databend/main/AGENTS.md
+  source_archive:
+    member: texts/c30c7d9ba1a6159e8db57099f0746945d9268314b2671cce2a983b90dd85f175.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 4687d975e869882c4c7c77a3d419933463d7d05e76b0424f330dc3c2494159b0
+  url: ''
+name: root/AGENTS.md
+path: corpus/224893bc9d2d40888f87a10ef09edb19/c30c7d9ba1a6159e8db57099f0746945d9268314b2671cce2a983b90dd85f175.md

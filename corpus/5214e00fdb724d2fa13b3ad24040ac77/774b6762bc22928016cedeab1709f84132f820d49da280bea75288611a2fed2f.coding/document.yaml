@@ -1,0 +1,26 @@
+hash: 3b3d8b57fe0543a224225da098a6b02567d996539bb5d22f84378833455f2c3b
+id: a00b7550-bee1-4e27-a7f2-33b0acbd271d
+metadata:
+  import_document_id: osssaysno:heroui-inc/heroui:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:09+00:00'
+    id: osssaysno:github.com/heroui-inc/heroui:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/heroui-inc/heroui/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/AGENTS.md
+    role: repository_root_document
+    sha256: 3b3d8b57fe0543a224225da098a6b02567d996539bb5d22f84378833455f2c3b
+    snapshot: data/osssaysno/policies/heroui-inc/heroui/root/AGENTS.md
+    status: downloaded
+    text_sha256: 3b3d8b57fe0543a224225da098a6b02567d996539bb5d22f84378833455f2c3b
+    url: https://raw.githubusercontent.com/heroui-inc/heroui/v3/AGENTS.md
+  source_archive:
+    member: texts/774b6762bc22928016cedeab1709f84132f820d49da280bea75288611a2fed2f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 3b3d8b57fe0543a224225da098a6b02567d996539bb5d22f84378833455f2c3b
+  url: ''
+name: root/AGENTS.md
+path: corpus/5214e00fdb724d2fa13b3ad24040ac77/774b6762bc22928016cedeab1709f84132f820d49da280bea75288611a2fed2f.md

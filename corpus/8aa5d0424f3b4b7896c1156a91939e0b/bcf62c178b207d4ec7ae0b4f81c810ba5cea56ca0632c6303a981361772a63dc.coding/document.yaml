@@ -1,0 +1,37 @@
+hash: cce0eb1855e936c189a71932ac5897d59b40cd65cd4aa73129a542fc8819fce3
+id: 64659fbe-6400-4140-89e4-2402e755a207
+metadata:
+  import_document_id: osssaysno:yuin/goldmark:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:36+00:00'
+    id: osssaysno:github.com/yuin/goldmark:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/yuin/goldmark/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/yuin/goldmark/v2/AGENTS.md
+    role: repository_root_document
+    sha256: cce0eb1855e936c189a71932ac5897d59b40cd65cd4aa73129a542fc8819fce3
+    snapshot: data/osssaysno/policies/yuin/goldmark/root/AGENTS.md
+    status: downloaded
+    text_sha256: cce0eb1855e936c189a71932ac5897d59b40cd65cd4aa73129a542fc8819fce3
+    url: https://raw.githubusercontent.com/yuin/goldmark/v2/AGENTS.md
+  - accessed_at: '2026-11-15T23:04:37+00:00'
+    id: osssaysno:github.com/yuin/goldmark:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/yuin/goldmark/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/yuin/goldmark/v2/AGENTS.md
+    role: repository_root_document
+    sha256: cce0eb1855e936c189a71932ac5897d59b40cd65cd4aa73129a542fc8819fce3
+    snapshot: data/osssaysno/policies/yuin/goldmark/root/CLAUDE.md
+    status: downloaded
+    text_sha256: cce0eb1855e936c189a71932ac5897d59b40cd65cd4aa73129a542fc8819fce3
+    url: https://raw.githubusercontent.com/yuin/goldmark/v2/CLAUDE.md
+  source_archive:
+    member: texts/bcf62c178b207d4ec7ae0b4f81c810ba5cea56ca0632c6303a981361772a63dc.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: cce0eb1855e936c189a71932ac5897d59b40cd65cd4aa73129a542fc8819fce3
+  url: ''
+name: root/AGENTS.md
+path: corpus/8aa5d0424f3b4b7896c1156a91939e0b/bcf62c178b207d4ec7ae0b4f81c810ba5cea56ca0632c6303a981361772a63dc.md

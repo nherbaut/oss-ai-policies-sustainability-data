@@ -1,0 +1,26 @@
+hash: ae3b6133e0ab95b215fbae4a8d2ff2d06aa4f5fb2716e0995b4e869ef1b8292a
+id: 2d4b4308-71c3-4af5-97d5-4e7f0cb7de25
+metadata:
+  import_document_id: osssaysno:apache/shardingsphere:root/RELEASE-NOTES.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:45+00:00'
+    id: osssaysno:github.com/apache/shardingsphere:root/RELEASE-NOTES.md
+    import_slot: root/RELEASE-NOTES.md
+    raw_snapshot: data/osssaysno/policies/apache/shardingsphere/root/raw/RELEASE-NOTES.md
+    resolved_url: https://raw.githubusercontent.com/apache/shardingsphere/master/RELEASE-NOTES.md
+    role: repository_root_document
+    sha256: ae3b6133e0ab95b215fbae4a8d2ff2d06aa4f5fb2716e0995b4e869ef1b8292a
+    snapshot: data/osssaysno/policies/apache/shardingsphere/root/RELEASE-NOTES.md
+    status: downloaded
+    text_sha256: ae3b6133e0ab95b215fbae4a8d2ff2d06aa4f5fb2716e0995b4e869ef1b8292a
+    url: https://raw.githubusercontent.com/apache/shardingsphere/master/RELEASE-NOTES.md
+  source_archive:
+    member: texts/0d8a3d7c843323921b1882c95b2436cd3976d84057f835f5486effa71f550ee0.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: ae3b6133e0ab95b215fbae4a8d2ff2d06aa4f5fb2716e0995b4e869ef1b8292a
+  url: ''
+name: root/RELEASE-NOTES.md
+path: corpus/77092c2471c14ef78d7293bcebb77978/0d8a3d7c843323921b1882c95b2436cd3976d84057f835f5486effa71f550ee0.md

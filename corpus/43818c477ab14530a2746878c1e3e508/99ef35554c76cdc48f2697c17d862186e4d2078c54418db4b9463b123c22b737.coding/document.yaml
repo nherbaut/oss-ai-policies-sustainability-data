@@ -1,0 +1,37 @@
+hash: 329a094b3e936521d6f69f86dbb7e4323d67932ec8a02352b849b22caf6a8dd9
+id: bf799419-0520-4d62-bc00-5b8f9bbe0e4d
+metadata:
+  import_document_id: osssaysno:jashkenas/backbone:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:15+00:00'
+    id: osssaysno:github.com/jashkenas/backbone:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/jashkenas/backbone/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/jashkenas/backbone/master/CONTRIBUTING.md
+    role: contributing
+    sha256: 329a094b3e936521d6f69f86dbb7e4323d67932ec8a02352b849b22caf6a8dd9
+    snapshot: data/osssaysno/policies/jashkenas/backbone/contributing.md
+    status: downloaded
+    text_sha256: 329a094b3e936521d6f69f86dbb7e4323d67932ec8a02352b849b22caf6a8dd9
+    url: https://github.com/jashkenas/backbone/blob/master/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:28:16+00:00'
+    id: osssaysno:github.com/jashkenas/backbone:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/jashkenas/backbone/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/jashkenas/backbone/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 329a094b3e936521d6f69f86dbb7e4323d67932ec8a02352b849b22caf6a8dd9
+    snapshot: data/osssaysno/policies/jashkenas/backbone/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 329a094b3e936521d6f69f86dbb7e4323d67932ec8a02352b849b22caf6a8dd9
+    url: https://raw.githubusercontent.com/jashkenas/backbone/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/99ef35554c76cdc48f2697c17d862186e4d2078c54418db4b9463b123c22b737.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 329a094b3e936521d6f69f86dbb7e4323d67932ec8a02352b849b22caf6a8dd9
+  url: ''
+name: contributing.md
+path: corpus/43818c477ab14530a2746878c1e3e508/99ef35554c76cdc48f2697c17d862186e4d2078c54418db4b9463b123c22b737.md

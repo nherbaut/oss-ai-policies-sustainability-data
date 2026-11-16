@@ -1,0 +1,26 @@
+hash: 006e5a4ee9e3905cd791e380ac3b78e3a74487357bae667f6eb27d030c881395
+id: 9013d604-b3ac-421f-969d-7e7f8ddf8668
+metadata:
+  import_document_id: osssaysno:nvidia/openshell:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:48+00:00'
+    id: osssaysno:github.com/nvidia/openshell:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/nvidia/openshell/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/GOVERNANCE.md
+    role: repository_root_document
+    sha256: 006e5a4ee9e3905cd791e380ac3b78e3a74487357bae667f6eb27d030c881395
+    snapshot: data/osssaysno/policies/nvidia/openshell/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: 006e5a4ee9e3905cd791e380ac3b78e3a74487357bae667f6eb27d030c881395
+    url: https://raw.githubusercontent.com/NVIDIA/OpenShell/main/GOVERNANCE.md
+  source_archive:
+    member: texts/95c0ff5b66bd93c024534fb22e4001e5ed819e17452ab78c097dcb2261860ff6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 006e5a4ee9e3905cd791e380ac3b78e3a74487357bae667f6eb27d030c881395
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/81cc2c4a753d48cd98ec43d30943486d/95c0ff5b66bd93c024534fb22e4001e5ed819e17452ab78c097dcb2261860ff6.md

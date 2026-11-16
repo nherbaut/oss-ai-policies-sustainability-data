@@ -1,0 +1,26 @@
+hash: 1af99d488ccd47683b705b3360063b8d53145e898b762eca25aa855badd8c2a6
+id: f33006b4-2f6b-4924-8591-5c6e081be74f
+metadata:
+  import_document_id: osssaysno:project-monai/monai:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:02+00:00'
+    id: osssaysno:github.com/project-monai/monai:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/project-monai/monai/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/SECURITY.md
+    role: repository_root_document
+    sha256: 1af99d488ccd47683b705b3360063b8d53145e898b762eca25aa855badd8c2a6
+    snapshot: data/osssaysno/policies/project-monai/monai/root/SECURITY.md
+    status: downloaded
+    text_sha256: 1af99d488ccd47683b705b3360063b8d53145e898b762eca25aa855badd8c2a6
+    url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/SECURITY.md
+  source_archive:
+    member: texts/bf074b21a220390c1fda234ba57e0eeeb4933708d5d62be29623eced7befed30.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 1af99d488ccd47683b705b3360063b8d53145e898b762eca25aa855badd8c2a6
+  url: ''
+name: root/SECURITY.md
+path: corpus/b35027ef385649d6a23dcd3dab30ec0f/bf074b21a220390c1fda234ba57e0eeeb4933708d5d62be29623eced7befed30.md

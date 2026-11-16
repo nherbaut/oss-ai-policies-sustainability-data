@@ -1,0 +1,26 @@
+hash: 388a493fd137dfc59c85b43cf534f70c3a4b3ec480c650f1cbfa489362053447
+id: 98ff8bb9-287e-4b4e-b022-55277a44fa38
+metadata:
+  import_document_id: osssaysno:f3d-app/f3d:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:50+00:00'
+    id: osssaysno:github.com/f3d-app/f3d:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/f3d-app/f3d/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/f3d-app/f3d/master/SECURITY.md
+    role: repository_root_document
+    sha256: 388a493fd137dfc59c85b43cf534f70c3a4b3ec480c650f1cbfa489362053447
+    snapshot: data/osssaysno/policies/f3d-app/f3d/root/SECURITY.md
+    status: downloaded
+    text_sha256: 388a493fd137dfc59c85b43cf534f70c3a4b3ec480c650f1cbfa489362053447
+    url: https://raw.githubusercontent.com/f3d-app/f3d/master/SECURITY.md
+  source_archive:
+    member: texts/80fa09c2adb515013403491b1002bc7f3528e504cbc39e4ecd86ab4bb3db9c93.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 388a493fd137dfc59c85b43cf534f70c3a4b3ec480c650f1cbfa489362053447
+  url: ''
+name: root/SECURITY.md
+path: corpus/9085e779d17747f293366cb695d0ba8c/80fa09c2adb515013403491b1002bc7f3528e504cbc39e4ecd86ab4bb3db9c93.md

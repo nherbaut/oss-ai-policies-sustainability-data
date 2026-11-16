@@ -1,0 +1,26 @@
+hash: 010f1fea3f694ea9cba6e7fa2ecc47249a91de9745f4907761f4fad465cc240a
+id: 03b96eaf-757e-4944-ab25-6870d87917e7
+metadata:
+  import_document_id: osssaysno:projectcalico/calico:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:49+00:00'
+    id: osssaysno:github.com/projectcalico/calico:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/projectcalico/calico/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/projectcalico/calico/master/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: 010f1fea3f694ea9cba6e7fa2ecc47249a91de9745f4907761f4fad465cc240a
+    snapshot: data/osssaysno/policies/projectcalico/calico/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: 010f1fea3f694ea9cba6e7fa2ecc47249a91de9745f4907761f4fad465cc240a
+    url: https://raw.githubusercontent.com/projectcalico/calico/master/CONTRIBUTING.md
+  source_archive:
+    member: texts/b11958ea4134a0d69d55cdd4d96f003b7a4e83e94ceef100081ca2bf1b6c2bcf.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 010f1fea3f694ea9cba6e7fa2ecc47249a91de9745f4907761f4fad465cc240a
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/9182e1b470d247e9bf05f8ef02219a2e/b11958ea4134a0d69d55cdd4d96f003b7a4e83e94ceef100081ca2bf1b6c2bcf.md

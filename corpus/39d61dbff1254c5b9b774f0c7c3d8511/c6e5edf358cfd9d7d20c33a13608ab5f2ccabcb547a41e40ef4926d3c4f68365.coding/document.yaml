@@ -1,0 +1,37 @@
+hash: 6603ff7422cf37345c3022e86798e7825da19d28a280afa2229c5688590efccd
+id: 4e7067c7-2557-4d24-9b89-d80f59eb574a
+metadata:
+  import_document_id: osssaysno:guaguastandup/zotero-pdf2zh:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:40+00:00'
+    id: osssaysno:github.com/guaguastandup/zotero-pdf2zh:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/guaguastandup/zotero-pdf2zh/raw/ai_policy.md
+    resolved_url: https://raw.githubusercontent.com/guaguastandup/zotero-pdf2zh/main/README.md
+    role: ai_policy
+    sha256: 6603ff7422cf37345c3022e86798e7825da19d28a280afa2229c5688590efccd
+    snapshot: data/osssaysno/policies/guaguastandup/zotero-pdf2zh/ai_policy.md
+    status: downloaded
+    text_sha256: 6603ff7422cf37345c3022e86798e7825da19d28a280afa2229c5688590efccd
+    url: https://github.com/guaguastandup/zotero-pdf2zh/blob/main/README.md
+  - accessed_at: '2026-11-15T23:36:26+00:00'
+    id: osssaysno:github.com/guaguastandup/zotero-pdf2zh:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/guaguastandup/zotero-pdf2zh/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/guaguastandup/zotero-pdf2zh/main/README.md
+    role: repository_root_document
+    sha256: 6603ff7422cf37345c3022e86798e7825da19d28a280afa2229c5688590efccd
+    snapshot: data/osssaysno/policies/guaguastandup/zotero-pdf2zh/root/README.md
+    status: downloaded
+    text_sha256: 6603ff7422cf37345c3022e86798e7825da19d28a280afa2229c5688590efccd
+    url: https://raw.githubusercontent.com/guaguastandup/zotero-pdf2zh/main/README.md
+  source_archive:
+    member: texts/c6e5edf358cfd9d7d20c33a13608ab5f2ccabcb547a41e40ef4926d3c4f68365.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6603ff7422cf37345c3022e86798e7825da19d28a280afa2229c5688590efccd
+  url: ''
+name: ai_policy.md
+path: corpus/39d61dbff1254c5b9b774f0c7c3d8511/c6e5edf358cfd9d7d20c33a13608ab5f2ccabcb547a41e40ef4926d3c4f68365.md

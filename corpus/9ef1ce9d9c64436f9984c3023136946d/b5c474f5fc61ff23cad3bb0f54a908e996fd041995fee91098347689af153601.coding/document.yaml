@@ -1,0 +1,26 @@
+hash: 7f4e1b8616788f2adca567cc342ad628e5d73daacb370cb318db067c47386f80
+id: 71bff4f1-48fe-42bb-8853-c44f4cdf224c
+metadata:
+  import_document_id: osssaysno:triliumnext/trilium:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:02+00:00'
+    id: osssaysno:github.com/triliumnext/trilium:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/triliumnext/trilium/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/TriliumNext/Trilium/main/SECURITY.md
+    role: repository_root_document
+    sha256: 7f4e1b8616788f2adca567cc342ad628e5d73daacb370cb318db067c47386f80
+    snapshot: data/osssaysno/policies/triliumnext/trilium/root/SECURITY.md
+    status: downloaded
+    text_sha256: 7f4e1b8616788f2adca567cc342ad628e5d73daacb370cb318db067c47386f80
+    url: https://raw.githubusercontent.com/TriliumNext/Trilium/main/SECURITY.md
+  source_archive:
+    member: texts/b5c474f5fc61ff23cad3bb0f54a908e996fd041995fee91098347689af153601.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7f4e1b8616788f2adca567cc342ad628e5d73daacb370cb318db067c47386f80
+  url: ''
+name: root/SECURITY.md
+path: corpus/9ef1ce9d9c64436f9984c3023136946d/b5c474f5fc61ff23cad3bb0f54a908e996fd041995fee91098347689af153601.md

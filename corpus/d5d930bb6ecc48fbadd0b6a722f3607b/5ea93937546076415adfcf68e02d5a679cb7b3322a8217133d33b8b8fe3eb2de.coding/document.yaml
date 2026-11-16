@@ -1,0 +1,26 @@
+hash: 9721ac9ba024981d2f47cf4654fd71ec50839caa130a28848cbaa7426df814d6
+id: a62954a8-c4a1-4024-ae2f-9230e5a5e8d6
+metadata:
+  import_document_id: osssaysno:redpanda-data/connect:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:04+00:00'
+    id: osssaysno:github.com/redpanda-data/connect:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/redpanda-data/connect/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/redpanda-data/connect/main/SECURITY.md
+    role: repository_root_document
+    sha256: 9721ac9ba024981d2f47cf4654fd71ec50839caa130a28848cbaa7426df814d6
+    snapshot: data/osssaysno/policies/redpanda-data/connect/root/SECURITY.md
+    status: downloaded
+    text_sha256: 9721ac9ba024981d2f47cf4654fd71ec50839caa130a28848cbaa7426df814d6
+    url: https://raw.githubusercontent.com/redpanda-data/connect/main/SECURITY.md
+  source_archive:
+    member: texts/5ea93937546076415adfcf68e02d5a679cb7b3322a8217133d33b8b8fe3eb2de.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9721ac9ba024981d2f47cf4654fd71ec50839caa130a28848cbaa7426df814d6
+  url: ''
+name: root/SECURITY.md
+path: corpus/d5d930bb6ecc48fbadd0b6a722f3607b/5ea93937546076415adfcf68e02d5a679cb7b3322a8217133d33b8b8fe3eb2de.md

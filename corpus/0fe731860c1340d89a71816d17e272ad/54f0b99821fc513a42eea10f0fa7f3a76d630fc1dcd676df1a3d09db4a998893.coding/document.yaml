@@ -1,0 +1,26 @@
+hash: b39912f3e9df90ea4dc46e06c7a1471b23e9566d31db9f767c6003fd7df663c0
+id: 7b9b9577-17ab-4671-bf00-9602e2504b1d
+metadata:
+  import_document_id: osssaysno:cordx56/rustowl:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:26+00:00'
+    id: osssaysno:github.com/cordx56/rustowl:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/cordx56/rustowl/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/cordx56/rustowl/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: b39912f3e9df90ea4dc46e06c7a1471b23e9566d31db9f767c6003fd7df663c0
+    snapshot: data/osssaysno/policies/cordx56/rustowl/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: b39912f3e9df90ea4dc46e06c7a1471b23e9566d31db9f767c6003fd7df663c0
+    url: https://raw.githubusercontent.com/cordx56/rustowl/main/CHANGELOG.md
+  source_archive:
+    member: texts/54f0b99821fc513a42eea10f0fa7f3a76d630fc1dcd676df1a3d09db4a998893.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b39912f3e9df90ea4dc46e06c7a1471b23e9566d31db9f767c6003fd7df663c0
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/0fe731860c1340d89a71816d17e272ad/54f0b99821fc513a42eea10f0fa7f3a76d630fc1dcd676df1a3d09db4a998893.md

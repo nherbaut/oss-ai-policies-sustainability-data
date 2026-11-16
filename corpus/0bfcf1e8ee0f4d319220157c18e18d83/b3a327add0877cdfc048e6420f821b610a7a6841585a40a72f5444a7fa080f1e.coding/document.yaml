@@ -1,0 +1,26 @@
+hash: be9409fce7cc22c0df41ff62429f7cb8badbb81b3c1bc18dc266e3541cfec00b
+id: 6e4e6c83-61a9-401c-b800-f1f60784b29e
+metadata:
+  import_document_id: osssaysno:pyinfra-dev/pyinfra:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:46+00:00'
+    id: osssaysno:github.com/pyinfra-dev/pyinfra:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: be9409fce7cc22c0df41ff62429f7cb8badbb81b3c1bc18dc266e3541cfec00b
+    snapshot: data/osssaysno/policies/pyinfra-dev/pyinfra/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: be9409fce7cc22c0df41ff62429f7cb8badbb81b3c1bc18dc266e3541cfec00b
+    url: https://raw.githubusercontent.com/pyinfra-dev/pyinfra/3.x/CONTRIBUTING.md
+  source_archive:
+    member: texts/b3a327add0877cdfc048e6420f821b610a7a6841585a40a72f5444a7fa080f1e.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: be9409fce7cc22c0df41ff62429f7cb8badbb81b3c1bc18dc266e3541cfec00b
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/0bfcf1e8ee0f4d319220157c18e18d83/b3a327add0877cdfc048e6420f821b610a7a6841585a40a72f5444a7fa080f1e.md

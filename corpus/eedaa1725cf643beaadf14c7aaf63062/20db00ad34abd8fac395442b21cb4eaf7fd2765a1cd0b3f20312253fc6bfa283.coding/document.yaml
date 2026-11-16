@@ -1,0 +1,26 @@
+hash: df33d596e31c756715dd279d3faae88a0f8d2b0b7c8ed6b10dc663403ad7707b
+id: 279d3f9c-66c5-4c51-9b75-0f0e1b1b383a
+metadata:
+  import_document_id: osssaysno:bookorbit/bookorbit:root/CONTRIBUTING.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:00+00:00'
+    id: osssaysno:github.com/bookorbit/bookorbit:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/bookorbit/bookorbit/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/bookorbit/bookorbit/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: df33d596e31c756715dd279d3faae88a0f8d2b0b7c8ed6b10dc663403ad7707b
+    snapshot: data/osssaysno/policies/bookorbit/bookorbit/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: df33d596e31c756715dd279d3faae88a0f8d2b0b7c8ed6b10dc663403ad7707b
+    url: https://raw.githubusercontent.com/bookorbit/bookorbit/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/20db00ad34abd8fac395442b21cb4eaf7fd2765a1cd0b3f20312253fc6bfa283.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: df33d596e31c756715dd279d3faae88a0f8d2b0b7c8ed6b10dc663403ad7707b
+  url: ''
+name: root/CONTRIBUTING.md
+path: corpus/eedaa1725cf643beaadf14c7aaf63062/20db00ad34abd8fac395442b21cb4eaf7fd2765a1cd0b3f20312253fc6bfa283.md

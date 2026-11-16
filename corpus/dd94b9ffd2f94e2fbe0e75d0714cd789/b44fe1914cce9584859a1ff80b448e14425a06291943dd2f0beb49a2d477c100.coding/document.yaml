@@ -1,0 +1,26 @@
+hash: 272fba43c51c9ebf50ec31327659c0c6480dd2354ff1248b61cd4286151ec0fc
+id: 1cb43530-8d60-4d7e-ba5e-bdcf26db7c33
+metadata:
+  import_document_id: osssaysno:nibzard/awesome-agentic-patterns:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:04:45+00:00'
+    id: osssaysno:github.com/nibzard/awesome-agentic-patterns:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 272fba43c51c9ebf50ec31327659c0c6480dd2354ff1248b61cd4286151ec0fc
+    snapshot: data/osssaysno/policies/nibzard/awesome-agentic-patterns/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 272fba43c51c9ebf50ec31327659c0c6480dd2354ff1248b61cd4286151ec0fc
+    url: https://raw.githubusercontent.com/nibzard/awesome-agentic-patterns/main/CHANGELOG.md
+  source_archive:
+    member: texts/b44fe1914cce9584859a1ff80b448e14425a06291943dd2f0beb49a2d477c100.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 272fba43c51c9ebf50ec31327659c0c6480dd2354ff1248b61cd4286151ec0fc
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/dd94b9ffd2f94e2fbe0e75d0714cd789/b44fe1914cce9584859a1ff80b448e14425a06291943dd2f0beb49a2d477c100.md

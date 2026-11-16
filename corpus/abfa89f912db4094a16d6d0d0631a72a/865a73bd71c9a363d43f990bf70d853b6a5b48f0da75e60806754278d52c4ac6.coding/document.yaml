@@ -1,0 +1,26 @@
+hash: 7e93593c448329a76dcbd9c27d4ac2653f7279440308029db64443060680d164
+id: c129ddc0-19ae-4fb9-ab9d-87d073c4d954
+metadata:
+  import_document_id: osssaysno:zeek/zeek:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:25+00:00'
+    id: osssaysno:github.com/zeek/zeek:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/zeek/zeek/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/zeek/zeek/master/README.md
+    role: repository_root_document
+    sha256: 7e93593c448329a76dcbd9c27d4ac2653f7279440308029db64443060680d164
+    snapshot: data/osssaysno/policies/zeek/zeek/root/README.md
+    status: downloaded
+    text_sha256: 7e93593c448329a76dcbd9c27d4ac2653f7279440308029db64443060680d164
+    url: https://raw.githubusercontent.com/zeek/zeek/master/README.md
+  source_archive:
+    member: texts/865a73bd71c9a363d43f990bf70d853b6a5b48f0da75e60806754278d52c4ac6.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7e93593c448329a76dcbd9c27d4ac2653f7279440308029db64443060680d164
+  url: ''
+name: root/README.md
+path: corpus/abfa89f912db4094a16d6d0d0631a72a/865a73bd71c9a363d43f990bf70d853b6a5b48f0da75e60806754278d52c4ac6.md

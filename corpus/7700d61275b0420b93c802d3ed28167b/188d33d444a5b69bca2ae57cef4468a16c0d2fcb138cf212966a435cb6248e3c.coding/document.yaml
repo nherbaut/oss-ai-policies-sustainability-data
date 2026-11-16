@@ -1,0 +1,26 @@
+hash: 73414ec47b9e2f57174646f006be944e2478066185a138c97236d596240a203e
+id: 3dd9bb7b-2f0f-4970-9dc6-b9e37e2a4cc7
+metadata:
+  import_document_id: osssaysno:conda/conda:root/CLAUDE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:46+00:00'
+    id: osssaysno:github.com/conda/conda:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/conda/conda/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/conda/conda/main/CLAUDE.md
+    role: repository_root_document
+    sha256: 73414ec47b9e2f57174646f006be944e2478066185a138c97236d596240a203e
+    snapshot: data/osssaysno/policies/conda/conda/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 73414ec47b9e2f57174646f006be944e2478066185a138c97236d596240a203e
+    url: https://raw.githubusercontent.com/conda/conda/main/CLAUDE.md
+  source_archive:
+    member: texts/188d33d444a5b69bca2ae57cef4468a16c0d2fcb138cf212966a435cb6248e3c.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 73414ec47b9e2f57174646f006be944e2478066185a138c97236d596240a203e
+  url: ''
+name: root/CLAUDE.md
+path: corpus/7700d61275b0420b93c802d3ed28167b/188d33d444a5b69bca2ae57cef4468a16c0d2fcb138cf212966a435cb6248e3c.md

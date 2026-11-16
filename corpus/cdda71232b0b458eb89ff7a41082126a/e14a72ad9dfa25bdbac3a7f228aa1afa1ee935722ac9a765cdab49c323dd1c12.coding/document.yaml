@@ -1,0 +1,37 @@
+hash: 6909313e8430e89431c5b7cf781cdfc8f228bdf5e427eec219c1f3734993a5c4
+id: 8a7a83a9-850b-4687-ab4c-91178d179f42
+metadata:
+  import_document_id: osssaysno:coder/coder:root/AGENTS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:03+00:00'
+    id: osssaysno:github.com/coder/coder:root/AGENTS.md
+    import_slot: root/AGENTS.md
+    raw_snapshot: data/osssaysno/policies/coder/coder/root/raw/AGENTS.md
+    resolved_url: https://raw.githubusercontent.com/coder/coder/main/AGENTS.md
+    role: repository_root_document
+    sha256: 6909313e8430e89431c5b7cf781cdfc8f228bdf5e427eec219c1f3734993a5c4
+    snapshot: data/osssaysno/policies/coder/coder/root/AGENTS.md
+    status: downloaded
+    text_sha256: 6909313e8430e89431c5b7cf781cdfc8f228bdf5e427eec219c1f3734993a5c4
+    url: https://raw.githubusercontent.com/coder/coder/main/AGENTS.md
+  - accessed_at: '2026-11-15T23:29:03+00:00'
+    id: osssaysno:github.com/coder/coder:root/CLAUDE.md
+    import_slot: root/CLAUDE.md
+    raw_snapshot: data/osssaysno/policies/coder/coder/root/raw/CLAUDE.md
+    resolved_url: https://raw.githubusercontent.com/coder/coder/main/AGENTS.md
+    role: repository_root_document
+    sha256: 6909313e8430e89431c5b7cf781cdfc8f228bdf5e427eec219c1f3734993a5c4
+    snapshot: data/osssaysno/policies/coder/coder/root/CLAUDE.md
+    status: downloaded
+    text_sha256: 6909313e8430e89431c5b7cf781cdfc8f228bdf5e427eec219c1f3734993a5c4
+    url: https://raw.githubusercontent.com/coder/coder/main/CLAUDE.md
+  source_archive:
+    member: texts/e14a72ad9dfa25bdbac3a7f228aa1afa1ee935722ac9a765cdab49c323dd1c12.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6909313e8430e89431c5b7cf781cdfc8f228bdf5e427eec219c1f3734993a5c4
+  url: ''
+name: root/AGENTS.md
+path: corpus/cdda71232b0b458eb89ff7a41082126a/e14a72ad9dfa25bdbac3a7f228aa1afa1ee935722ac9a765cdab49c323dd1c12.md

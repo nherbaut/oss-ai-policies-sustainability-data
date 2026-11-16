@@ -1,0 +1,26 @@
+hash: 2df7558db001ef016490b0e84f11f587c4c738c3827fcb2d9f7d23dc38df028d
+id: 3ab913c1-1187-40b6-a529-f71ac9ac48a8
+metadata:
+  import_document_id: osssaysno:jaegertracing/jaeger:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:30+00:00'
+    id: osssaysno:github.com/jaegertracing/jaeger:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/GOVERNANCE.md
+    role: repository_root_document
+    sha256: 2df7558db001ef016490b0e84f11f587c4c738c3827fcb2d9f7d23dc38df028d
+    snapshot: data/osssaysno/policies/jaegertracing/jaeger/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: 2df7558db001ef016490b0e84f11f587c4c738c3827fcb2d9f7d23dc38df028d
+    url: https://raw.githubusercontent.com/jaegertracing/jaeger/main/GOVERNANCE.md
+  source_archive:
+    member: texts/7db82a699bff23c34e1de8b72e917973d0d806973b0818ee7a8d584ff0b2ef52.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 2df7558db001ef016490b0e84f11f587c4c738c3827fcb2d9f7d23dc38df028d
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/d4874f79daba4aeb9c2061c4f44e4aa4/7db82a699bff23c34e1de8b72e917973d0d806973b0818ee7a8d584ff0b2ef52.md

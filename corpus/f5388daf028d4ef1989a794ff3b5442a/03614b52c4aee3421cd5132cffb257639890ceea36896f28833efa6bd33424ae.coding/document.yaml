@@ -1,0 +1,26 @@
+hash: d9e5178495d41f09a67ff1973a9d0259d5398330cf41aa16861898f4d3ddc5c8
+id: ca38ef72-633e-48de-b8ce-0af70d80bd34
+metadata:
+  import_document_id: osssaysno:clap-rs/clap:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:29:05+00:00'
+    id: osssaysno:github.com/clap-rs/clap:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/clap-rs/clap/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/clap-rs/clap/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: d9e5178495d41f09a67ff1973a9d0259d5398330cf41aa16861898f4d3ddc5c8
+    snapshot: data/osssaysno/policies/clap-rs/clap/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: d9e5178495d41f09a67ff1973a9d0259d5398330cf41aa16861898f4d3ddc5c8
+    url: https://raw.githubusercontent.com/clap-rs/clap/main/CHANGELOG.md
+  source_archive:
+    member: texts/03614b52c4aee3421cd5132cffb257639890ceea36896f28833efa6bd33424ae.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: d9e5178495d41f09a67ff1973a9d0259d5398330cf41aa16861898f4d3ddc5c8
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/f5388daf028d4ef1989a794ff3b5442a/03614b52c4aee3421cd5132cffb257639890ceea36896f28833efa6bd33424ae.md

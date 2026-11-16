@@ -1,0 +1,26 @@
+hash: 7681763f93f602adf917a88f97de0bf912c59fb2caa1d832154a98012962eba5
+id: c357d9ba-9293-46c8-8ec4-3f35cfb65d97
+metadata:
+  import_document_id: osssaysno:tt-a1i/archify:root/ROADMAP.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:29+00:00'
+    id: osssaysno:github.com/tt-a1i/archify:root/ROADMAP.md
+    import_slot: root/ROADMAP.md
+    raw_snapshot: data/osssaysno/policies/tt-a1i/archify/root/raw/ROADMAP.md
+    resolved_url: https://raw.githubusercontent.com/tt-a1i/archify/main/ROADMAP.md
+    role: repository_root_document
+    sha256: 7681763f93f602adf917a88f97de0bf912c59fb2caa1d832154a98012962eba5
+    snapshot: data/osssaysno/policies/tt-a1i/archify/root/ROADMAP.md
+    status: downloaded
+    text_sha256: 7681763f93f602adf917a88f97de0bf912c59fb2caa1d832154a98012962eba5
+    url: https://raw.githubusercontent.com/tt-a1i/archify/main/ROADMAP.md
+  source_archive:
+    member: texts/baf58f27a6abfe267ef9743f96a8c57a4df416aa8498546ad299b23aec8fdcad.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 7681763f93f602adf917a88f97de0bf912c59fb2caa1d832154a98012962eba5
+  url: ''
+name: root/ROADMAP.md
+path: corpus/d98b4edd674b4d3c9796b680fce770a2/baf58f27a6abfe267ef9743f96a8c57a4df416aa8498546ad299b23aec8fdcad.md

@@ -1,0 +1,37 @@
+hash: c91172f80ad8a9559c26b6296a9cd66d1d0ab90b86b96aa1dfb1b72f71be4598
+id: e461bbfb-89f4-4ac8-98bf-1988d6050dca
+metadata:
+  import_document_id: osssaysno:elastic/kibana:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:40+00:00'
+    id: osssaysno:github.com/elastic/kibana:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/elastic/kibana/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/elastic/kibana/main/CONTRIBUTING.md
+    role: contributing
+    sha256: c91172f80ad8a9559c26b6296a9cd66d1d0ab90b86b96aa1dfb1b72f71be4598
+    snapshot: data/osssaysno/policies/elastic/kibana/contributing.md
+    status: downloaded
+    text_sha256: c91172f80ad8a9559c26b6296a9cd66d1d0ab90b86b96aa1dfb1b72f71be4598
+    url: https://github.com/elastic/kibana/blob/main/CONTRIBUTING.md
+  - accessed_at: '2026-11-15T23:28:41+00:00'
+    id: osssaysno:github.com/elastic/kibana:root/CONTRIBUTING.md
+    import_slot: root/CONTRIBUTING.md
+    raw_snapshot: data/osssaysno/policies/elastic/kibana/root/raw/CONTRIBUTING.md
+    resolved_url: https://raw.githubusercontent.com/elastic/kibana/main/CONTRIBUTING.md
+    role: repository_root_document
+    sha256: c91172f80ad8a9559c26b6296a9cd66d1d0ab90b86b96aa1dfb1b72f71be4598
+    snapshot: data/osssaysno/policies/elastic/kibana/root/CONTRIBUTING.md
+    status: downloaded
+    text_sha256: c91172f80ad8a9559c26b6296a9cd66d1d0ab90b86b96aa1dfb1b72f71be4598
+    url: https://raw.githubusercontent.com/elastic/kibana/main/CONTRIBUTING.md
+  source_archive:
+    member: texts/49ce7862a2426ebcf9b90371eeb27f9ca84f70b095ac556fcc7f2e636eaa0867.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: c91172f80ad8a9559c26b6296a9cd66d1d0ab90b86b96aa1dfb1b72f71be4598
+  url: ''
+name: contributing.md
+path: corpus/082703ff56ea437b90604d07ebdd2932/49ce7862a2426ebcf9b90371eeb27f9ca84f70b095ac556fcc7f2e636eaa0867.md

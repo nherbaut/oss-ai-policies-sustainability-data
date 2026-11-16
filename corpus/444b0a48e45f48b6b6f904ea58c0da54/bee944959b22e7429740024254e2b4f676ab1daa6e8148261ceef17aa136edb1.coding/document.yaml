@@ -1,0 +1,26 @@
+hash: 434ee3015f7039f6526b4cf64776a778329d2ce2df6c67f7618f9ae7a5b4b3f7
+id: 6d548f5f-0e36-4cc4-b945-feec4c6d717e
+metadata:
+  import_document_id: osssaysno:moment/moment:root/SECURITY.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:03:49+00:00'
+    id: osssaysno:github.com/moment/moment:root/SECURITY.md
+    import_slot: root/SECURITY.md
+    raw_snapshot: data/osssaysno/policies/moment/moment/root/raw/SECURITY.md
+    resolved_url: https://raw.githubusercontent.com/moment/moment/develop/SECURITY.md
+    role: repository_root_document
+    sha256: 434ee3015f7039f6526b4cf64776a778329d2ce2df6c67f7618f9ae7a5b4b3f7
+    snapshot: data/osssaysno/policies/moment/moment/root/SECURITY.md
+    status: downloaded
+    text_sha256: 434ee3015f7039f6526b4cf64776a778329d2ce2df6c67f7618f9ae7a5b4b3f7
+    url: https://raw.githubusercontent.com/moment/moment/develop/SECURITY.md
+  source_archive:
+    member: texts/bee944959b22e7429740024254e2b4f676ab1daa6e8148261ceef17aa136edb1.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 434ee3015f7039f6526b4cf64776a778329d2ce2df6c67f7618f9ae7a5b4b3f7
+  url: ''
+name: root/SECURITY.md
+path: corpus/444b0a48e45f48b6b6f904ea58c0da54/bee944959b22e7429740024254e2b4f676ab1daa6e8148261ceef17aa136edb1.md

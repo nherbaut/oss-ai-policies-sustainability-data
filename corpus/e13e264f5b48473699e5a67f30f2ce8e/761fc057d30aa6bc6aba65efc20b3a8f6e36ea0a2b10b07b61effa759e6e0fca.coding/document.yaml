@@ -1,0 +1,26 @@
+hash: 5c82e7af5acfc146b9009f86f60c048feb7b5f7a247553368c0ad4d622965511
+id: d8dd0047-3433-40b1-ad9a-05173d3a23ec
+metadata:
+  import_document_id: osssaysno:hatchet-dev/hatchet:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:20+00:00'
+    id: osssaysno:github.com/hatchet-dev/hatchet:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/hatchet-dev/hatchet/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/hatchet-dev/hatchet/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 5c82e7af5acfc146b9009f86f60c048feb7b5f7a247553368c0ad4d622965511
+    snapshot: data/osssaysno/policies/hatchet-dev/hatchet/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 5c82e7af5acfc146b9009f86f60c048feb7b5f7a247553368c0ad4d622965511
+    url: https://raw.githubusercontent.com/hatchet-dev/hatchet/main/CHANGELOG.md
+  source_archive:
+    member: texts/761fc057d30aa6bc6aba65efc20b3a8f6e36ea0a2b10b07b61effa759e6e0fca.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 5c82e7af5acfc146b9009f86f60c048feb7b5f7a247553368c0ad4d622965511
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/e13e264f5b48473699e5a67f30f2ce8e/761fc057d30aa6bc6aba65efc20b3a8f6e36ea0a2b10b07b61effa759e6e0fca.md

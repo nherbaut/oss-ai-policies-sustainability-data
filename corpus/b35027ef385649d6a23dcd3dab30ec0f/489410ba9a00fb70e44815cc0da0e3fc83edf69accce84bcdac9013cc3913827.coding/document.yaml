@@ -1,0 +1,26 @@
+hash: e0481bb5fd170a0f45eef017e1c05db6d6355efe60a90888452aa6facaa754fa
+id: 21a2226a-2cf0-485e-9ebf-3182079bf90c
+metadata:
+  import_document_id: osssaysno:project-monai/monai:root/CODE_OF_CONDUCT.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:01+00:00'
+    id: osssaysno:github.com/project-monai/monai:root/CODE_OF_CONDUCT.md
+    import_slot: root/CODE_OF_CONDUCT.md
+    raw_snapshot: data/osssaysno/policies/project-monai/monai/root/raw/CODE_OF_CONDUCT.md
+    resolved_url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/CODE_OF_CONDUCT.md
+    role: repository_root_document
+    sha256: e0481bb5fd170a0f45eef017e1c05db6d6355efe60a90888452aa6facaa754fa
+    snapshot: data/osssaysno/policies/project-monai/monai/root/CODE_OF_CONDUCT.md
+    status: downloaded
+    text_sha256: e0481bb5fd170a0f45eef017e1c05db6d6355efe60a90888452aa6facaa754fa
+    url: https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/CODE_OF_CONDUCT.md
+  source_archive:
+    member: texts/489410ba9a00fb70e44815cc0da0e3fc83edf69accce84bcdac9013cc3913827.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: e0481bb5fd170a0f45eef017e1c05db6d6355efe60a90888452aa6facaa754fa
+  url: ''
+name: root/CODE_OF_CONDUCT.md
+path: corpus/b35027ef385649d6a23dcd3dab30ec0f/489410ba9a00fb70e44815cc0da0e3fc83edf69accce84bcdac9013cc3913827.md

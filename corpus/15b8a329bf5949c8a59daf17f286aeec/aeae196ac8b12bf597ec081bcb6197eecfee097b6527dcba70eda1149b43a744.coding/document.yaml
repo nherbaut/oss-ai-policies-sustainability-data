@@ -1,0 +1,26 @@
+hash: b71985b3c84f1400705ca9a53d37bf12c224969d9df3c088d1518f9b1da8aeda
+id: 8dedb23f-9cb9-4e09-aa71-b01d3fa0c7e6
+metadata:
+  import_document_id: osssaysno:biolab/orange3:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:38:03+00:00'
+    id: osssaysno:github.com/biolab/orange3:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/biolab/orange3/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/biolab/orange3/master/CHANGELOG.md
+    role: repository_root_document
+    sha256: b71985b3c84f1400705ca9a53d37bf12c224969d9df3c088d1518f9b1da8aeda
+    snapshot: data/osssaysno/policies/biolab/orange3/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: b71985b3c84f1400705ca9a53d37bf12c224969d9df3c088d1518f9b1da8aeda
+    url: https://raw.githubusercontent.com/biolab/orange3/master/CHANGELOG.md
+  source_archive:
+    member: texts/aeae196ac8b12bf597ec081bcb6197eecfee097b6527dcba70eda1149b43a744.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b71985b3c84f1400705ca9a53d37bf12c224969d9df3c088d1518f9b1da8aeda
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/15b8a329bf5949c8a59daf17f286aeec/aeae196ac8b12bf597ec081bcb6197eecfee097b6527dcba70eda1149b43a744.md

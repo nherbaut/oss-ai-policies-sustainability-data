@@ -1,0 +1,26 @@
+hash: 9ebe8aced9179032287791d80626121be604e37f164c3871d7649a07d46f81a7
+id: 33f6c878-1b99-4ce7-9e10-113cde70b915
+metadata:
+  import_document_id: osssaysno:riot-os/riot:root/GOVERNANCE.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:57+00:00'
+    id: osssaysno:github.com/riot-os/riot:root/GOVERNANCE.md
+    import_slot: root/GOVERNANCE.md
+    raw_snapshot: data/osssaysno/policies/riot-os/riot/root/raw/GOVERNANCE.md
+    resolved_url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/GOVERNANCE.md
+    role: repository_root_document
+    sha256: 9ebe8aced9179032287791d80626121be604e37f164c3871d7649a07d46f81a7
+    snapshot: data/osssaysno/policies/riot-os/riot/root/GOVERNANCE.md
+    status: downloaded
+    text_sha256: 9ebe8aced9179032287791d80626121be604e37f164c3871d7649a07d46f81a7
+    url: https://raw.githubusercontent.com/RIOT-OS/RIOT/master/GOVERNANCE.md
+  source_archive:
+    member: texts/e5c4e4ce8713d65d13049e3a6c564b5a99f55961b72399259d1d8b5ed821007d.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 9ebe8aced9179032287791d80626121be604e37f164c3871d7649a07d46f81a7
+  url: ''
+name: root/GOVERNANCE.md
+path: corpus/1d8db36404574a1783922cda01133879/e5c4e4ce8713d65d13049e3a6c564b5a99f55961b72399259d1d8b5ed821007d.md

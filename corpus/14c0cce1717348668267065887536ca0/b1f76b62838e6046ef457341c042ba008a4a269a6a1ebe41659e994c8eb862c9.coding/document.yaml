@@ -1,0 +1,26 @@
+hash: 6293e870f6ac6eb89aaa1d5bed03c670f2aa1dec56da1f1866ff6979442d3314
+id: e8325041-1779-4987-a044-5df037d6e1b5
+metadata:
+  import_document_id: osssaysno:gentleman-programming/gentle-ai:root/PRD-AGENT-BUILDER.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:36:29+00:00'
+    id: osssaysno:github.com/gentleman-programming/gentle-ai:root/PRD-AGENT-BUILDER.md
+    import_slot: root/PRD-AGENT-BUILDER.md
+    raw_snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/root/raw/PRD-AGENT-BUILDER.md
+    resolved_url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/PRD-AGENT-BUILDER.md
+    role: repository_root_document
+    sha256: 6293e870f6ac6eb89aaa1d5bed03c670f2aa1dec56da1f1866ff6979442d3314
+    snapshot: data/osssaysno/policies/gentleman-programming/gentle-ai/root/PRD-AGENT-BUILDER.md
+    status: downloaded
+    text_sha256: 6293e870f6ac6eb89aaa1d5bed03c670f2aa1dec56da1f1866ff6979442d3314
+    url: https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/PRD-AGENT-BUILDER.md
+  source_archive:
+    member: texts/b1f76b62838e6046ef457341c042ba008a4a269a6a1ebe41659e994c8eb862c9.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 6293e870f6ac6eb89aaa1d5bed03c670f2aa1dec56da1f1866ff6979442d3314
+  url: ''
+name: root/PRD-AGENT-BUILDER.md
+path: corpus/14c0cce1717348668267065887536ca0/b1f76b62838e6046ef457341c042ba008a4a269a6a1ebe41659e994c8eb862c9.md

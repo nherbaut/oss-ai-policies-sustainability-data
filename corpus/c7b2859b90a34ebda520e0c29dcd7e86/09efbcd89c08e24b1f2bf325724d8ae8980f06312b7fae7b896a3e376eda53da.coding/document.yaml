@@ -1,0 +1,26 @@
+hash: 69d89184de9636b718ce79dc199d49bd15a21bfbd9dd7797e0e1426f7581e914
+id: 65977db5-5760-41bd-957c-347e9fa4519e
+metadata:
+  import_document_id: osssaysno:vespa-engine/vespa:root/ATTRIBUTIONS.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:37:03+00:00'
+    id: osssaysno:github.com/vespa-engine/vespa:root/ATTRIBUTIONS.md
+    import_slot: root/ATTRIBUTIONS.md
+    raw_snapshot: data/osssaysno/policies/vespa-engine/vespa/root/raw/ATTRIBUTIONS.md
+    resolved_url: https://raw.githubusercontent.com/vespa-engine/vespa/master/ATTRIBUTIONS.md
+    role: repository_root_document
+    sha256: 69d89184de9636b718ce79dc199d49bd15a21bfbd9dd7797e0e1426f7581e914
+    snapshot: data/osssaysno/policies/vespa-engine/vespa/root/ATTRIBUTIONS.md
+    status: downloaded
+    text_sha256: 69d89184de9636b718ce79dc199d49bd15a21bfbd9dd7797e0e1426f7581e914
+    url: https://raw.githubusercontent.com/vespa-engine/vespa/master/ATTRIBUTIONS.md
+  source_archive:
+    member: texts/09efbcd89c08e24b1f2bf325724d8ae8980f06312b7fae7b896a3e376eda53da.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 69d89184de9636b718ce79dc199d49bd15a21bfbd9dd7797e0e1426f7581e914
+  url: ''
+name: root/ATTRIBUTIONS.md
+path: corpus/c7b2859b90a34ebda520e0c29dcd7e86/09efbcd89c08e24b1f2bf325724d8ae8980f06312b7fae7b896a3e376eda53da.md

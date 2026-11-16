@@ -1,0 +1,26 @@
+hash: f45e09354ef50a277cbe7958c7a7c2651515d7554f23b8ffd2096bedff424766
+id: 654fb12b-31ce-45ff-87f2-125b55bccf57
+metadata:
+  import_document_id: osssaysno:apache/shardingsphere:root/README.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:28:45+00:00'
+    id: osssaysno:github.com/apache/shardingsphere:root/README.md
+    import_slot: root/README.md
+    raw_snapshot: data/osssaysno/policies/apache/shardingsphere/root/raw/README.md
+    resolved_url: https://raw.githubusercontent.com/apache/shardingsphere/master/README.md
+    role: repository_root_document
+    sha256: f45e09354ef50a277cbe7958c7a7c2651515d7554f23b8ffd2096bedff424766
+    snapshot: data/osssaysno/policies/apache/shardingsphere/root/README.md
+    status: downloaded
+    text_sha256: f45e09354ef50a277cbe7958c7a7c2651515d7554f23b8ffd2096bedff424766
+    url: https://raw.githubusercontent.com/apache/shardingsphere/master/README.md
+  source_archive:
+    member: texts/9714437f7f656f280bbe08c5b855471cc27b4378c2ccbfd0c71636de37fb521f.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: f45e09354ef50a277cbe7958c7a7c2651515d7554f23b8ffd2096bedff424766
+  url: ''
+name: root/README.md
+path: corpus/77092c2471c14ef78d7293bcebb77978/9714437f7f656f280bbe08c5b855471cc27b4378c2ccbfd0c71636de37fb521f.md

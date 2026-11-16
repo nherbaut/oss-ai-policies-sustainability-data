@@ -1,0 +1,26 @@
+hash: b965df7f54738f7fdadbab4540583776c7402ebb5259e67a01c76499b39585b5
+id: 402da297-e564-4c72-b13c-7ece745cb5fa
+metadata:
+  import_document_id: osssaysno:cordx56/rustowl:policy
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:31:04+00:00'
+    id: osssaysno:github.com/cordx56/rustowl:policy
+    import_slot: policy
+    raw_snapshot: data/osssaysno/policies/cordx56/rustowl/raw/contributing.md
+    resolved_url: https://raw.githubusercontent.com/cordx56/rustowl/main/docs/CONTRIBUTING.md
+    role: contributing
+    sha256: b965df7f54738f7fdadbab4540583776c7402ebb5259e67a01c76499b39585b5
+    snapshot: data/osssaysno/policies/cordx56/rustowl/contributing.md
+    status: downloaded
+    text_sha256: b965df7f54738f7fdadbab4540583776c7402ebb5259e67a01c76499b39585b5
+    url: https://github.com/cordx56/rustowl/blob/main/docs/CONTRIBUTING.md
+  source_archive:
+    member: texts/f77b87eb8d60fcc464ea2764e8f53dafae295ed60765d642120e58966613cbbd.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: b965df7f54738f7fdadbab4540583776c7402ebb5259e67a01c76499b39585b5
+  url: ''
+name: contributing.md
+path: corpus/0fe731860c1340d89a71816d17e272ad/f77b87eb8d60fcc464ea2764e8f53dafae295ed60765d642120e58966613cbbd.md

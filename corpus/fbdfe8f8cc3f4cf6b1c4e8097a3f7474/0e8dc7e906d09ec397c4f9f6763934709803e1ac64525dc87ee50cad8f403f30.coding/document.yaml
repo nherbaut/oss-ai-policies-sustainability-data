@@ -1,0 +1,26 @@
+hash: 14c75bbf44766c1e0520d20f447d1a2ac0c5c04e6f16663138607bf6beac0288
+id: d7ef386b-3b90-4a15-8526-7de163f228aa
+metadata:
+  import_document_id: osssaysno:quickwit-oss/quickwit:root/CHANGELOG.md
+  notes: from osssaysno
+  origin: OSSSAYSNO
+  provenance:
+  - accessed_at: '2026-11-15T23:30:07+00:00'
+    id: osssaysno:github.com/quickwit-oss/quickwit:root/CHANGELOG.md
+    import_slot: root/CHANGELOG.md
+    raw_snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/raw/CHANGELOG.md
+    resolved_url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/CHANGELOG.md
+    role: repository_root_document
+    sha256: 14c75bbf44766c1e0520d20f447d1a2ac0c5c04e6f16663138607bf6beac0288
+    snapshot: data/osssaysno/policies/quickwit-oss/quickwit/root/CHANGELOG.md
+    status: downloaded
+    text_sha256: 14c75bbf44766c1e0520d20f447d1a2ac0c5c04e6f16663138607bf6beac0288
+    url: https://raw.githubusercontent.com/quickwit-oss/quickwit/main/CHANGELOG.md
+  source_archive:
+    member: texts/0e8dc7e906d09ec397c4f9f6763934709803e1ac64525dc87ee50cad8f403f30.md
+    name: corpus-additions.zip
+    sha256: 8b83ff06dabad0139eb2e2cea5e54f07599a74bfa95ffe557f1330acfe41e394
+  text_sha256: 14c75bbf44766c1e0520d20f447d1a2ac0c5c04e6f16663138607bf6beac0288
+  url: ''
+name: root/CHANGELOG.md
+path: corpus/fbdfe8f8cc3f4cf6b1c4e8097a3f7474/0e8dc7e906d09ec397c4f9f6763934709803e1ac64525dc87ee50cad8f403f30.md
