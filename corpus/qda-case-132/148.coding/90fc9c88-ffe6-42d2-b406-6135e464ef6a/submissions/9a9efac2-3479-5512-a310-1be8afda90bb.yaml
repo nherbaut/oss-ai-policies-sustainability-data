@@ -1,0 +1,123 @@
+annotations:
+- codes:
+  - ac13d4ef-5ba9-5d59-8386-2dfe9fde8745
+  - a2b2241e-136e-40fa-87bd-08ae0a16a22c
+  end: 548
+  id: 24b4f414-4836-41fc-bd12-d04cf609faf8
+  memo: ''
+  selected_text: frugal AI
+  start: 539
+- codes:
+  - 91ad62c7-bb9a-5c6e-aae2-b01379c7aa66
+  - e8235199-9933-44ef-9359-16962820ebc8
+  end: 674
+  id: 013a58ce-cda1-428c-8228-18b90181d0f2
+  memo: ''
+  selected_text: submissions that they fully understand, that they have thoroughly
+    reviewed and tested
+  start: 589
+- codes:
+  - 85140496-29fa-51d3-9a81-90b4baf0edad
+  - a2b2241e-136e-40fa-87bd-08ae0a16a22c
+  end: 1670
+  id: 6842e1bd-4030-4b9f-9175-135bbd6844bb
+  memo: ''
+  selected_text: ' limited accessibility to the technology for the unprivileged'
+  start: 1609
+- codes:
+  - 28b0fd7f-b976-5129-994b-07756cc1fdeb
+  - a2b2241e-136e-40fa-87bd-08ae0a16a22c
+  end: 1784
+  id: 333de2d7-decf-49af-8517-4e5801701acb
+  memo: ''
+  selected_text: carbon footprint,
+  start: 1767
+- codes:
+  - c4eb675a-13ab-5d8b-acfc-317e62b8fc37
+  - a2b2241e-136e-40fa-87bd-08ae0a16a22c
+  end: 1926
+  id: 70f0f0eb-c512-4742-8669-31946e4c0377
+  memo: ''
+  selected_text: copyright:** both potential violations of acquiring training data
+    and in the output of AI
+  start: 1837
+- codes:
+  - a2b2241e-136e-40fa-87bd-08ae0a16a22c
+  - 43e917f6-1e21-54c7-9aac-d9dcf17a2c46
+  - 28b0fd7f-b976-5129-994b-07756cc1fdeb
+  - ac13d4ef-5ba9-5d59-8386-2dfe9fde8745
+  - 15e8bf16-c2ea-4f23-a3b1-591a51ca6775
+  - 062751b1-0cf0-420f-a247-003e769b5684
+  end: 2711
+  id: 610eb13a-6d9b-46b6-ab01-29bd383347ed
+  memo: ''
+  selected_text: FreeCAD as a project wants to raise awareness of alternatives to
+    the large LLMs that can only be trained by large organizations. Examples are frugal
+    AI initiatives and fully open source AI models such as Apertus that is trained
+    on fully open data in a carbon-neutral and water-neutral data center
+  start: 2415
+- codes:
+  - dad954d2-7090-4d89-9014-ec08d8356555
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - 6173a999-3194-544e-b937-f80cf68a718c
+  - 43e917f6-1e21-54c7-9aac-d9dcf17a2c46
+  - 89d5d2d3-96f1-58d9-a745-408e37ac3518
+  - 91a6df3f-8851-57d9-b15f-8a6b2f3db631
+  end: 3184
+  id: fd5e2e30-5bc2-42fd-9db4-4e0f2f30f5ed
+  memo: ''
+  selected_text: Reviewers must know that when talking with contributors, they talk
+    to someone who can take responsibility for the contributions, knows how the code
+    works, and who is eager to learn and improve.
+  start: 2991
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - dad954d2-7090-4d89-9014-ec08d8356555
+  end: 3497
+  id: f0f6b2ef-45b6-4d01-ac37-884b36b5606e
+  memo: ''
+  selected_text: We want to help the contributor improve their skills and learn how
+    their input can cause real change.
+  start: 3396
+- codes:
+  - e8235199-9933-44ef-9359-16962820ebc8
+  end: 4065
+  id: 9f92350b-8293-4acf-9890-5e19d1c7a8b4
+  memo: ''
+  selected_text: we will not accept pull requests with clearly AI-generated code,
+    commit messages, PR descriptions, and responses to reviewer feedback.
+  start: 3931
+case:
+  key: qda-case-132
+  metadata:
+    attributes: []
+    caseid: 132
+    date: '2026-11-05 22:19:55'
+    memo: 'Project case for dataset entry: freecad/freecad
+
+      Documents grouped by dataset label; no analytical classification implied.'
+    name: freecad/freecad
+    owner: NicolasH
+  name: freecad/freecad
+codebook:
+  base: b254df4c-9bd1-5479-b4d2-468eed18f225
+  hash: 61eac11f2aceb2ba49958698c9002320fda370477ec774c370253553b3a182ae
+  path: codebook/coders/90fc9c88-ffe6-42d2-b406-6135e464ef6a/61eac11f2aceb2ba49958698c9002320fda370477ec774c370253553b3a182ae.yaml
+coder:
+  id: 90fc9c88-ffe6-42d2-b406-6135e464ef6a
+  name: Gael
+created: '2026-11-23T18:11:21.546381+00:00'
+document:
+  hash: a7eccda58eb2e0d5306085c21170bc20fd0023dafddc41bd58ed0e76a7b9fcc8
+  id: qda-source-148@qda-case-132
+  path: corpus/qda-case-132/148.txt
+id: 9a9efac2-3479-5512-a310-1be8afda90bb
+instructions:
+  content:
+    guidelines: []
+    research_questions: []
+    version: 1
+  id: d2d09a6d-225d-5ed5-a9fa-cf08fd38d8a1
+no_findings: false
+offset_encoding: UTF-16
+version: 1
