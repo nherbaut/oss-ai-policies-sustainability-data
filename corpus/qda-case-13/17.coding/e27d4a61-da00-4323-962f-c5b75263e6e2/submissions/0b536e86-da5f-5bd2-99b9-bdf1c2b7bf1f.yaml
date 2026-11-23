@@ -1,0 +1,80 @@
+annotations:
+- codes:
+  - 8e7c3a9a-eb97-4640-aefd-7b4fc1594743
+  end: 7335
+  id: 684b6a6a-1b9d-4380-9148-f5a30eb5fa89
+  memo: ''
+  selected_text: 'Check before sharing**: thoroughly check all content for correctness,
+    and ensure no unintended information has been included, and that any content attributed
+    to a person, for instance in minutes, reflects what they actually said.'
+  start: 7106
+- codes:
+  - 2fc2f90b-8277-4ada-b3dd-9123ccd8d0aa
+  end: 7549
+  id: fb604479-b38a-4d75-b07a-b75c9943fd12
+  memo: ''
+  selected_text: 'Clearly label LLM output**: when content is primarily output from
+    an LLM, label it as such. This helps collaborators evaluate the content. For instance,
+    introduce output with “I got the following from an AI:”.'
+  start: 7340
+- codes:
+  - f51c12d5-07dc-4096-941d-98006d076dfc
+  end: 7720
+  id: 68fc8a00-c58e-4e4e-9048-1b2a2980775e
+  memo: ''
+  selected_text: 'Assume full responsibility for the content**: when content is (partially)
+    output from an LLM, it is upon the person sharing the content to take responsibility
+    for it.'
+  start: 7554
+- codes:
+  - ac13d4ef-5ba9-5d59-8386-2dfe9fde8745
+  end: 7850
+  id: 78a1fe4e-c679-4863-872e-c6b71af340f3
+  memo: ''
+  selected_text: 'Prefer smaller and more task-specific models over large and general-purpose
+    models**: smaller models usually use less energy.'
+  start: 7725
+- codes:
+  - 5a065616-b081-51fa-97ba-f8f8225409ef
+  - 09dfd6cc-1182-5f12-8636-d99aa85dbedb
+  end: 8077
+  id: a75acadd-e410-4a5e-9596-0db80cdb247b
+  memo: avoid LLM instead of discussions with community for deliberation
+  selected_text: 'Embrace thoughtful discussions**: avoid using LLMs instead of deliberation.
+    For instance, in asynchronous discussions, writing can help the thought process,
+    while generating replies with an LLM would sidestep that process.'
+  start: 7855
+case:
+  key: qda-case-13
+  metadata:
+    attributes: []
+    caseid: 13
+    date: '2026-11-05 22:19:55'
+    memo: 'Project case for dataset entry: W3C
+
+      Documents grouped by dataset label; no analytical classification implied.'
+    name: W3C
+    owner: NicolasH
+  name: W3C
+codebook:
+  base: b254df4c-9bd1-5479-b4d2-468eed18f225
+  hash: afa63e68da6bf460a88266c810854949156b9d54b59554182e7e3db9c35cd390
+  path: codebook/coders/e27d4a61-da00-4323-962f-c5b75263e6e2/afa63e68da6bf460a88266c810854949156b9d54b59554182e7e3db9c35cd390.yaml
+coder:
+  id: e27d4a61-da00-4323-962f-c5b75263e6e2
+  name: Nicholas Journet
+created: '2026-11-23T14:14:16.099420+00:00'
+document:
+  hash: 5c596481219c2a4b4e4e35c3dccbaeeeb2466c365fcf02e8ff93851835880309
+  id: qda-source-17@qda-case-13
+  path: corpus/qda-case-13/17.txt
+id: 0b536e86-da5f-5bd2-99b9-bdf1c2b7bf1f
+instructions:
+  content:
+    guidelines: []
+    research_questions: []
+    version: 1
+  id: d2d09a6d-225d-5ed5-a9fa-cf08fd38d8a1
+no_findings: false
+offset_encoding: UTF-16
+version: 1

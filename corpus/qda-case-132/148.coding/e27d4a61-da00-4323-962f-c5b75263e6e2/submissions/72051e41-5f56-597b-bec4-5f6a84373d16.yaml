@@ -1,0 +1,176 @@
+annotations:
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - f0b387f4-6129-541a-9043-08352164dfd3
+  - fde7a31d-d03a-5d50-8aa5-b9fa307b00f8
+  - a8fd83df-385d-566d-b9f3-8e1246fe8506
+  end: 675
+  id: 171b11ed-d77e-41a3-982a-7cd61f88f287
+  memo: ''
+  selected_text: submissions that they fully understand, that they have thoroughly
+    reviewed and tested,
+  start: 589
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - c4e3d82e-d332-5366-a7c5-aeffdd0f9ea1
+  end: 710
+  id: d05f1ea2-711d-44d2-bae0-648421f3b04c
+  memo: disclosure of AI using
+  selected_text: disclosure of AI assistance, and
+  start: 678
+- codes:
+  - 9ad29276-04e2-596b-9287-e516ab1f0844
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - 3fe19606-21c5-5e4f-aaa1-1f7e0e19a56d
+  - 09dfd6cc-1182-5f12-8636-d99aa85dbedb
+  end: 1233
+  id: 58c02fdb-55d6-4614-8a63-8810bdd575f0
+  memo: 'a reference to a potential danger posed by AI to contributors and users,
+    without specifying what that danger is '
+  selected_text: This policy acknowledges the harmful sides of AI with respect to
+    communities - this policy tries to avoid that for the FreeCAD community.
+  start: 1096
+- codes:
+  - 659cc83b-23ca-5368-8278-889841ae57f4
+  - 85140496-29fa-51d3-9a81-90b4baf0edad
+  end: 1735
+  id: bc4a5ebb-28ba-433f-9f04-59b90ced531a
+  memo: premier test ...
+  selected_text: privilege:** only large organizations can effectively train and operate
+    high-performance LLMs, limited accessibility to the technology for the unprivileged,
+    and bias in the datasets and outputs in favor of the privileged
+  start: 1515
+- codes:
+  - 28b0fd7f-b976-5129-994b-07756cc1fdeb
+  - 6b9ae83f-f282-55b8-856d-55cdf1b30a8a
+  - 32bad831-6ef4-4229-9337-609c58dd9504
+  end: 1832
+  id: 24974007-32e8-423b-9cb6-cab39a98b9de
+  memo: ''
+  selected_text: environmental:** land use, carbon footprint, and water use for cooling
+    of large data centers
+  start: 1740
+- codes:
+  - c4e3d82e-d332-5366-a7c5-aeffdd0f9ea1
+  - c4eb675a-13ab-5d8b-acfc-317e62b8fc37
+  end: 1993
+  id: 85391f25-22ef-4f89-b5c1-d3e243dbbbb6
+  memo: ''
+  selected_text: copyright:** both potential violations of acquiring training data
+    and in the output of AI, and the challenges to claim copyright on raw generative-AI
+    output
+  start: 1837
+- codes:
+  - aaf947be-81e0-44d5-99de-3ab039ca6f7b
+  end: 2083
+  id: da647fd5-8b0b-40ba-a9bd-264ff9b2b625
+  memo: exploit workers for content moderation
+  selected_text: societal:** exploiting workers for content moderation, affecting
+    the learning process
+  start: 1998
+- codes:
+  - 644db4fc-3d94-59ee-a2a7-a47d3e382582
+  end: 2274
+  id: 25f4e043-2499-4afa-a432-cea5c133bf88
+  memo: health of devloppers and maintainers if they have to maintain vibe-coded source
+  selected_text: open source projects:** high-volume of low-quality vibe-coded PRs,
+    interaction with AI chatbots, unclear decision process in agentic AI, and increased
+    burden on reviewers and maintainers
+  start: 2088
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  end: 2274
+  id: a55ca7bf-8b84-48bb-b943-c795e41cd162
+  memo: ''
+  selected_text: open source projects:** high-volume of low-quality vibe-coded PRs,
+    interaction with AI chatbots, unclear decision process in agentic AI, and increased
+    burden on reviewers and maintainers
+  start: 2088
+- codes:
+  - 32bad831-6ef4-4229-9337-609c58dd9504
+  - 28b0fd7f-b976-5129-994b-07756cc1fdeb
+  end: 2711
+  id: 314fdced-c367-4ce8-bf02-9f5c6949bf11
+  memo: 'willingness to consider the use of frugal and neutral models '
+  selected_text: Although the problems with AI regarding open source projects don’t
+    disappear with alternatives, FreeCAD as a project wants to raise awareness of
+    alternatives to the large LLMs that can only be trained by large organizations.
+    Examples are frugal AI initiatives and fully open source AI models such as Apertus
+    that is trained on fully open data in a carbon-neutral and water-neutral data
+    center
+  start: 2319
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - 89d5d2d3-96f1-58d9-a745-408e37ac3518
+  - 43e917f6-1e21-54c7-9aac-d9dcf17a2c46
+  - b5cc0904-0ce4-5526-97e7-43056a6b7b54
+  - 2a7965ce-3d9b-5b47-844a-f61c2e16e376
+  end: 4065
+  id: 8484cfdc-a891-4295-a14f-c1aaa1e6302a
+  memo: ''
+  selected_text: That's why for each contribution we expect it to have human behind
+    the wheel throughout the whole process and be presented by humans, not AI tools.
+    While it won't be possible to verify that fully, we trust our community to do
+    the right thing and contribute in a good faith with these values in mind. In particular,
+    we will not accept pull requests with clearly AI-generated code, commit messages,
+    PR descriptions, and responses to reviewer feedback.
+  start: 3616
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - 89d5d2d3-96f1-58d9-a745-408e37ac3518
+  - 2fc2f90b-8277-4ada-b3dd-9123ccd8d0aa
+  end: 4798
+  id: 8c66c027-bf27-4fa5-bffb-7db49beced38
+  memo: ''
+  selected_text: We ask the contributor in the Pull Request template to mark a required
+    checkbox that says “This PR is not unverified AI output, I take responsibility
+    for it, and all communication from my side in this PR is done by me personally.”.
+    Don't be afraid that your English is not perfect - we are mostly non-native speakers.
+    We don't recommend using machine translation, but if you do - add original text
+    too.
+  start: 4396
+- codes:
+  - 5a065616-b081-51fa-97ba-f8f8225409ef
+  - fde7a31d-d03a-5d50-8aa5-b9fa307b00f8
+  end: 5061
+  id: 873f5304-3892-4ce2-9263-712ddb4426a4
+  memo: By default, unknown contributors will be tagged as “unverified code.”
+  selected_text: PRs from outside the Developers group will be marked as "Unverified"
+    to help us find potential violations.  After several successful contributions
+    we will add new contributors to the groups - but don't hesitate to ask us to do
+    it sooner.
+  start: 4824
+case:
+  key: qda-case-132
+  metadata:
+    attributes: []
+    caseid: 132
+    date: '2026-11-05 22:19:55'
+    memo: 'Project case for dataset entry: freecad/freecad
+
+      Documents grouped by dataset label; no analytical classification implied.'
+    name: freecad/freecad
+    owner: NicolasH
+  name: freecad/freecad
+codebook:
+  base: b254df4c-9bd1-5479-b4d2-468eed18f225
+  hash: afa63e68da6bf460a88266c810854949156b9d54b59554182e7e3db9c35cd390
+  path: codebook/coders/e27d4a61-da00-4323-962f-c5b75263e6e2/afa63e68da6bf460a88266c810854949156b9d54b59554182e7e3db9c35cd390.yaml
+coder:
+  id: e27d4a61-da00-4323-962f-c5b75263e6e2
+  name: Nicholas Journet
+created: '2026-11-23T14:13:49.023291+00:00'
+document:
+  hash: a7eccda58eb2e0d5306085c21170bc20fd0023dafddc41bd58ed0e76a7b9fcc8
+  id: qda-source-148@qda-case-132
+  path: corpus/qda-case-132/148.txt
+id: 72051e41-5f56-597b-bec4-5f6a84373d16
+instructions:
+  content:
+    guidelines: []
+    research_questions: []
+    version: 1
+  id: d2d09a6d-225d-5ed5-a9fa-cf08fd38d8a1
+no_findings: false
+offset_encoding: UTF-16
+version: 1

@@ -1,0 +1,146 @@
+annotations:
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - 91a6df3f-8851-57d9-b15f-8a6b2f3db631
+  - 89d5d2d3-96f1-58d9-a745-408e37ac3518
+  - 43e917f6-1e21-54c7-9aac-d9dcf17a2c46
+  - fde7a31d-d03a-5d50-8aa5-b9fa307b00f8
+  - f57c07fe-a7fc-5591-8d3e-f65d755a4efc
+  end: 4693
+  id: 666ada29-3a90-4739-82e3-2681dd323979
+  memo: AI totally forbidden
+  selected_text: 'Important
+
+
+    We forbid the use of generative AI tools in Nura.
+
+
+    The following is not allowed in Nura:
+
+
+    - Submitting contributions fully or in part created by generative AI tools to
+    Nura.
+
+
+    - Recommending generative AI tools to other community members for solving problems
+    in the Nura space.
+
+
+    If somebody keeps on violating these rules, we may escalate the situation according
+    to the [Code of Conduct Enforcement Guidelines](../community/code-of-conduct.html#coc-enforcement-guidelines)
+    with warnings and temporary/permanent bans.'
+  start: 4167
+- codes:
+  - 32bad831-6ef4-4229-9337-609c58dd9504
+  - ac13d4ef-5ba9-5d59-8386-2dfe9fde8745
+  end: 4832
+  id: 3f061e72-0d1d-476b-9143-677c2f2296a6
+  memo: ''
+  selected_text: hey require an unreasonable amount of energy[^1] and water[^2] to
+    build and operate,
+  start: 4748
+- codes:
+  - aaf947be-81e0-44d5-99de-3ab039ca6f7b
+  end: 4929
+  id: 1b0ab6ef-ec5d-4d0a-9eff-a02614fefac1
+  memo: ''
+  selected_text: part with heavily exploited workers in unacceptable working conditions
+  start: 4859
+- codes:
+  - 95d546d7-1a28-5011-9827-135db56fcce6
+  end: 5104
+  id: acd2261f-7f93-42ae-a8da-a3fd394b9555
+  memo: ''
+  selected_text: ' oftentimes causing DDoS attacks against FOSS infrastructure in
+    the process[^5] ('
+  start: 5023
+- codes:
+  - 47f117c5-5903-4dfa-892e-c71147ff1b37
+  end: 5315
+  id: 7bbcdcd5-faf6-4de3-97cc-32b45d2f85f4
+  memo: ''
+  selected_text: Furthermore, they are being used to undermine labor and justify layoffs[^7].
+  start: 5239
+- codes:
+  - 09dfd6cc-1182-5f12-8636-d99aa85dbedb
+  end: 5391
+  id: e4562221-39fb-47d3-9650-5e21cae60ff5
+  memo: ''
+  selected_text: that we do not want to perpetuate, even if only indirectly.
+  start: 5332
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - aaf947be-81e0-44d5-99de-3ab039ca6f7b
+  end: 5493
+  id: 8bb9a16d-cba1-4e5f-a491-a606d50268a1
+  memo: 'maintainer burden '
+  selected_text: he maintainer burden an
+  start: 5470
+- codes:
+  - 2a7965ce-3d9b-5b47-844a-f61c2e16e376
+  - b5cc0904-0ce4-5526-97e7-43056a6b7b54
+  end: 5677
+  id: 20c82fd3-079f-49d8-9fd2-d0c0711b999d
+  memo: ''
+  selected_text: 'Understanding completely how the code in their contribution works.
+
+
+    - Describing the change accurately in the commit message.'
+  start: 5552
+- codes:
+  - 2a7965ce-3d9b-5b47-844a-f61c2e16e376
+  end: 5741
+  id: e89781c8-5da9-4b73-af07-6f6430c13a3a
+  memo: ''
+  selected_text: Testing the contribution and ensuring it works as described.
+  start: 5681
+- codes:
+  - 95d546d7-1a28-5011-9827-135db56fcce6
+  end: 5828
+  id: 8863065f-12fa-48c1-a3a8-41dc246a4484
+  memo: ''
+  selected_text: Making sure their patches are unlikely to introduce bugs, especially
+    security bugs.
+  start: 5745
+- codes:
+  - c4eb675a-13ab-5d8b-acfc-317e62b8fc37
+  end: 5915
+  id: 2a27dfc5-0c36-4d79-a6d1-0e641e04326f
+  memo: ''
+  selected_text: Not violating copyright (such as software licenses, creative commons
+    or any other).
+  start: 5832
+case:
+  key: qda-case-262
+  metadata:
+    attributes: []
+    caseid: 262
+    date: '2026-11-05 22:19:55'
+    memo: 'Project case for dataset entry: postmarketOS
+
+      Documents grouped by dataset label; no analytical classification implied.'
+    name: postmarketOS
+    owner: NicolasH
+  name: postmarketOS
+codebook:
+  base: b254df4c-9bd1-5479-b4d2-468eed18f225
+  hash: afa63e68da6bf460a88266c810854949156b9d54b59554182e7e3db9c35cd390
+  path: codebook/coders/e27d4a61-da00-4323-962f-c5b75263e6e2/afa63e68da6bf460a88266c810854949156b9d54b59554182e7e3db9c35cd390.yaml
+coder:
+  id: e27d4a61-da00-4323-962f-c5b75263e6e2
+  name: Nicholas Journet
+created: '2026-11-23T14:14:09.582396+00:00'
+document:
+  hash: de3d4800ca4b52a0d2f8fff77944cff3d6d8e5d1fac3f1a0f942439a91699356
+  id: qda-source-284@qda-case-262
+  path: corpus/qda-case-262/284.txt
+id: f63bb508-8ed5-530d-a637-46e2795a2f5a
+instructions:
+  content:
+    guidelines: []
+    research_questions: []
+    version: 1
+  id: d2d09a6d-225d-5ed5-a9fa-cf08fd38d8a1
+no_findings: false
+offset_encoding: UTF-16
+version: 1

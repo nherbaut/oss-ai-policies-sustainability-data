@@ -1,0 +1,35 @@
+annotations: []
+case:
+  key: qda-case-262
+  metadata:
+    attributes: []
+    caseid: 262
+    date: '2026-11-05 22:19:55'
+    memo: 'Project case for dataset entry: postmarketOS
+
+      Documents grouped by dataset label; no analytical classification implied.'
+    name: postmarketOS
+    owner: NicolasH
+  name: postmarketOS
+codebook:
+  base: b254df4c-9bd1-5479-b4d2-468eed18f225
+  hash: afa63e68da6bf460a88266c810854949156b9d54b59554182e7e3db9c35cd390
+  path: codebook/coders/e27d4a61-da00-4323-962f-c5b75263e6e2/afa63e68da6bf460a88266c810854949156b9d54b59554182e7e3db9c35cd390.yaml
+coder:
+  id: e27d4a61-da00-4323-962f-c5b75263e6e2
+  name: Nicholas Journet
+created: '2026-11-23T14:14:09.582396+00:00'
+document:
+  hash: e221bb415ac8f57d1e6fcb0dc9e51b9061c3a8c73875de481c2dedd07191130f
+  id: qda-source-310@qda-case-262
+  path: corpus/qda-case-262/310.txt
+id: f63bb508-8ed5-530d-a637-46e2795a2f5a
+instructions:
+  content:
+    guidelines: []
+    research_questions: []
+    version: 1
+  id: d2d09a6d-225d-5ed5-a9fa-cf08fd38d8a1
+no_findings: false
+offset_encoding: UTF-16
+version: 1

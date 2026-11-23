@@ -1,0 +1,35 @@
+annotations: []
+case:
+  key: qda-case-13
+  metadata:
+    attributes: []
+    caseid: 13
+    date: '2026-11-05 22:19:55'
+    memo: 'Project case for dataset entry: W3C
+
+      Documents grouped by dataset label; no analytical classification implied.'
+    name: W3C
+    owner: NicolasH
+  name: W3C
+codebook:
+  base: b254df4c-9bd1-5479-b4d2-468eed18f225
+  hash: afa63e68da6bf460a88266c810854949156b9d54b59554182e7e3db9c35cd390
+  path: codebook/coders/e27d4a61-da00-4323-962f-c5b75263e6e2/afa63e68da6bf460a88266c810854949156b9d54b59554182e7e3db9c35cd390.yaml
+coder:
+  id: e27d4a61-da00-4323-962f-c5b75263e6e2
+  name: Nicholas Journet
+created: '2026-11-23T14:14:16.099420+00:00'
+document:
+  hash: ac13d7754a98a6b36862a8e6383f41b0f2a69896dab56362cad3205fdcf9d283
+  id: qda-source-303@qda-case-13
+  path: corpus/qda-case-13/303.txt
+id: 0b536e86-da5f-5bd2-99b9-bdf1c2b7bf1f
+instructions:
+  content:
+    guidelines: []
+    research_questions: []
+    version: 1
+  id: d2d09a6d-225d-5ed5-a9fa-cf08fd38d8a1
+no_findings: false
+offset_encoding: UTF-16
+version: 1
