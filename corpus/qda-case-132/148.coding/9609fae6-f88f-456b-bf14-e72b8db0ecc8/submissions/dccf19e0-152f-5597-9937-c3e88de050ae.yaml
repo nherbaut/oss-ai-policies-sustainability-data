@@ -1,0 +1,194 @@
+annotations:
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  end: 760
+  id: a58e09ec-a67f-4a43-a976-9bc195d03798
+  memo: ''
+  selected_text: 'We expect from our contributors:
+
+
+    - submissions that they fully understand, that they have thoroughly reviewed and
+    tested,
+
+    - disclosure of AI assistance, and
+
+    - comments and descriptions made by contributors.'
+  start: 553
+- codes:
+  - b1dd27ee-4ada-4010-93c2-0826db0eac0d
+  - 9ad29276-04e2-596b-9287-e516ab1f0844
+  - 5a065616-b081-51fa-97ba-f8f8225409ef
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  end: 1094
+  id: 059a3457-5e9f-44b1-a008-a0ca5d88cadd
+  memo: ''
+  selected_text: That's why we feel that it is important to put the community and
+    the people associated with the project in any way in the first row
+  start: 963
+- codes:
+  - 85140496-29fa-51d3-9a81-90b4baf0edad
+  end: 1670
+  id: d8db860f-0a2e-4eca-9c1c-af9c52e125c6
+  memo: explicit inequality in access to AI tech
+  selected_text: limited accessibility to the technology for the unprivileged
+  start: 1610
+- codes:
+  - c4e3d82e-d332-5366-a7c5-aeffdd0f9ea1
+  end: 1735
+  id: a781e56c-acc4-4a11-842c-fe1fd05a9e6b
+  memo: biaas favoring priviledged group
+  selected_text: bias in the datasets and outputs in favor of the privileged
+  start: 1676
+- codes:
+  - 6b9ae83f-f282-55b8-856d-55cdf1b30a8a
+  end: 1832
+  id: f9f025a9-68d7-4364-be5d-46493b37d961
+  memo: ''
+  selected_text: land use, carbon footprint, and water use for cooling of large data
+    centers
+  start: 1757
+- codes:
+  - 28b0fd7f-b976-5129-994b-07756cc1fdeb
+  end: 1783
+  id: 1b7685b0-efe8-4561-b75f-dca55a07c0b1
+  memo: ''
+  selected_text: carbon footprint
+  start: 1767
+- codes:
+  - c4eb675a-13ab-5d8b-acfc-317e62b8fc37
+  end: 1993
+  id: 99c362ee-4917-458b-9bd5-d026a9e0a92f
+  memo: copyright and ownership concerns
+  selected_text: potential violations of acquiring training data and in the output
+    of AI, and the challenges to claim copyright on raw generative-AI output
+  start: 1855
+- codes:
+  - c4e3d82e-d332-5366-a7c5-aeffdd0f9ea1
+  end: 2051
+  id: f8eabdb1-684a-45e9-b264-1b63f577d29b
+  memo: ''
+  selected_text: exploiting workers for content moderation
+  start: 2010
+- codes:
+  - 08c7c55a-f225-5023-9c22-83fd386c3bde
+  end: 2083
+  id: e5764f52-0bc9-47a4-a625-719527cc02a6
+  memo: ''
+  selected_text: affecting the learning process
+  start: 2053
+- codes:
+  - 659cc83b-23ca-5368-8278-889841ae57f4
+  - 43e917f6-1e21-54c7-9aac-d9dcf17a2c46
+  - f0b387f4-6129-541a-9043-08352164dfd3
+  end: 2274
+  id: 5f68d949-54d6-4ba9-ba13-cface5b5372e
+  memo: ''
+  selected_text: high-volume of low-quality vibe-coded PRs, interaction with AI chatbots,
+    unclear decision process in agentic AI, and increased burden on reviewers and
+    maintainers
+  start: 2112
+- codes:
+  - a35c46b6-e988-5f01-bb2a-5b47efb79172
+  end: 2223
+  id: d5e51fde-339f-4812-bd3b-4e596c243086
+  memo: the capacity, condition, or state of acting or of exerting power  (https://www.merriam-webster.com/dictionary/agency)
+  selected_text: unclear decision process in agentic AI
+  start: 2185
+- codes:
+  - 85140496-29fa-51d3-9a81-90b4baf0edad
+  end: 2542
+  id: 049835cd-a689-497e-8b0a-700cbe9e4780
+  memo: ''
+  selected_text: ' the large LLMs that can only be trained by large organizations'
+  start: 2479
+- codes:
+  - 76d2ee81-91c6-5b55-877f-a9032f1805da
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  end: 3259
+  id: a8145dd2-26ad-4fba-9270-f0402e5f8ce3
+  memo: openness of the project
+  selected_text: 'The project is open to all people: domain experts and new developers
+    alike'
+  start: 3185
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - 08c7c55a-f225-5023-9c22-83fd386c3bde
+  end: 3497
+  id: f12a7fe6-5f6c-43eb-88d6-329e0bd3d30b
+  memo: commitment to contributor learning
+  selected_text: We want to help the contributor improve their skills and learn how
+    their input can cause real change.
+  start: 3396
+- codes:
+  - a35c46b6-e988-5f01-bb2a-5b47efb79172
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  end: 3762
+  id: a4e384b4-5182-43fd-9508-54655c3306e6
+  memo: human control
+  selected_text: ' we expect it to have human behind the wheel throughout the whole
+    process and be presented by humans, not AI tools'
+  start: 3648
+- codes:
+  - 43e917f6-1e21-54c7-9aac-d9dcf17a2c46
+  - 89d5d2d3-96f1-58d9-a745-408e37ac3518
+  - f57c07fe-a7fc-5591-8d3e-f65d755a4efc
+  end: 4065
+  id: d2de888c-754c-48ee-808e-d075f920fd16
+  memo: ''
+  selected_text: ' we will not accept pull requests with clearly AI-generated code,
+    commit messages, PR descriptions, and responses to reviewer feedback.'
+  start: 3930
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - 76d2ee81-91c6-5b55-877f-a9032f1805da
+  end: 4714
+  id: fd495ca9-b3e0-4261-8193-e95b11990a83
+  memo: no language barrier that would justify AI use
+  selected_text: 'Don''t be afraid that your English is not perfect - we are mostly
+    non-native speakers. '
+  start: 4628
+- codes:
+  - de0ba345-0c14-5cdb-9594-d58e42f55232
+  - 6173a999-3194-544e-b937-f80cf68a718c
+  end: 5061
+  id: 36a9f460-196a-4030-914d-37954befbf98
+  memo: trust and screening mechanism
+  selected_text: PRs from outside the Developers group will be marked as "Unverified"
+    to help us find potential violations.  After several successful contributions
+    we will add new contributors to the groups - but don't hesitate to ask us to do
+    it sooner.
+  start: 4824
+case:
+  key: qda-case-132
+  metadata:
+    attributes: []
+    caseid: 132
+    date: '2026-11-05 22:19:55'
+    memo: 'Project case for dataset entry: freecad/freecad
+
+      Documents grouped by dataset label; no analytical classification implied.'
+    name: freecad/freecad
+    owner: NicolasH
+  name: freecad/freecad
+codebook:
+  base: b254df4c-9bd1-5479-b4d2-468eed18f225
+  hash: 56b991b101a4468663759d9996e4f76e899c1b84cc1c654d5085a61a03d00bbc
+  path: codebook/coders/9609fae6-f88f-456b-bf14-e72b8db0ecc8/56b991b101a4468663759d9996e4f76e899c1b84cc1c654d5085a61a03d00bbc.yaml
+coder:
+  id: 9609fae6-f88f-456b-bf14-e72b8db0ecc8
+  name: NIcolas Herbaut
+created: '2026-11-24T15:55:04.217422+00:00'
+document:
+  hash: a7eccda58eb2e0d5306085c21170bc20fd0023dafddc41bd58ed0e76a7b9fcc8
+  id: qda-source-148@qda-case-132
+  path: corpus/qda-case-132/148.txt
+id: dccf19e0-152f-5597-9937-c3e88de050ae
+instructions:
+  content:
+    guidelines: []
+    research_questions: []
+    version: 1
+  id: d2d09a6d-225d-5ed5-a9fa-cf08fd38d8a1
+no_findings: false
+offset_encoding: UTF-16
+version: 1

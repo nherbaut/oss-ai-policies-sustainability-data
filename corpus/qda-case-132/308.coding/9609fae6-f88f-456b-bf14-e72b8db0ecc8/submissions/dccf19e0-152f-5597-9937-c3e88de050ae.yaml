@@ -1,0 +1,35 @@
+annotations: []
+case:
+  key: qda-case-132
+  metadata:
+    attributes: []
+    caseid: 132
+    date: '2026-11-05 22:19:55'
+    memo: 'Project case for dataset entry: freecad/freecad
+
+      Documents grouped by dataset label; no analytical classification implied.'
+    name: freecad/freecad
+    owner: NicolasH
+  name: freecad/freecad
+codebook:
+  base: b254df4c-9bd1-5479-b4d2-468eed18f225
+  hash: 56b991b101a4468663759d9996e4f76e899c1b84cc1c654d5085a61a03d00bbc
+  path: codebook/coders/9609fae6-f88f-456b-bf14-e72b8db0ecc8/56b991b101a4468663759d9996e4f76e899c1b84cc1c654d5085a61a03d00bbc.yaml
+coder:
+  id: 9609fae6-f88f-456b-bf14-e72b8db0ecc8
+  name: NIcolas Herbaut
+created: '2026-11-24T15:55:04.217422+00:00'
+document:
+  hash: 5b8148d0f52f40714c33095c46905b52a1c12b891ee22e10e51033e9da92d141
+  id: qda-source-308@qda-case-132
+  path: corpus/qda-case-132/308.txt
+id: dccf19e0-152f-5597-9937-c3e88de050ae
+instructions:
+  content:
+    guidelines: []
+    research_questions: []
+    version: 1
+  id: d2d09a6d-225d-5ed5-a9fa-cf08fd38d8a1
+no_findings: false
+offset_encoding: UTF-16
+version: 1
