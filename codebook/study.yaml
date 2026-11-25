@@ -64527,9 +64527,18 @@ instructions:
       questions: []
       text: The goal of the classification is to provide answers to the research questions
       title: goal
-    research_questions: []
+    research_questions:
+    - id: 39965a18-bb6d-43e2-b3e8-725dc6afdf1f
+      label: RQ1
+      position: 0
+      text: Is sustainability addressed in the stated purpose (*raison d'être*) of
+        open source projects?
+    - id: f0238bd9-bc8f-43cb-a931-d1cea076fcef
+      label: RQ2
+      position: 0
+      text: Is sustainability addressed in the AI policies of open source projects?
     version: 1
-  id: 984e0fda-e95f-598c-80d5-8e898311d3b9
+  id: 20f7be17-4164-53fb-9831-adb911c8ff1a
 shared_codebook:
   hash: 838b480810d663bdb515ad51fda0075a01ed222c01ed5d1cb8be296c4e8adaf3
   initial_hash: 838b480810d663bdb515ad51fda0075a01ed222c01ed5d1cb8be296c4e8adaf3
