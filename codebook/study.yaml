@@ -64537,8 +64537,17 @@ instructions:
       label: RQ2
       position: 0
       text: Is sustainability addressed in the AI policies of open source projects?
+    - id: f940a329-3614-47fe-b832-3fcf4524a2d9
+      label: RQ3
+      position: 0
+      text: Which definitions and characteristics of sustainability are addressed
+        in these AI policies?
+    - id: 1673d97f-48e0-4c46-8155-8468fa10e270
+      label: RQ4
+      position: 0
+      text: Do these definitions provide frameworks leading to strong sustainability?
     version: 1
-  id: 20f7be17-4164-53fb-9831-adb911c8ff1a
+  id: 7a0ef09a-d069-5194-b912-18671b0ebc4d
 shared_codebook:
   hash: 838b480810d663bdb515ad51fda0075a01ed222c01ed5d1cb8be296c4e8adaf3
   initial_hash: 838b480810d663bdb515ad51fda0075a01ed222c01ed5d1cb8be296c4e8adaf3
