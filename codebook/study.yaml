@@ -64521,10 +64521,15 @@ documents:
 initial_commit: 812de38929d7d7c63a13beaa3fcd87303fa0afbd
 instructions:
   content:
-    guidelines: []
+    guidelines:
+    - id: 5c0d6c1e-7103-40b8-b67f-a103ca7e4ba1
+      position: 0
+      questions: []
+      text: The goal of the classification is to provide answers to the research questions
+      title: goal
     research_questions: []
     version: 1
-  id: d2d09a6d-225d-5ed5-a9fa-cf08fd38d8a1
+  id: 984e0fda-e95f-598c-80d5-8e898311d3b9
 shared_codebook:
   hash: 838b480810d663bdb515ad51fda0075a01ed222c01ed5d1cb8be296c4e8adaf3
   initial_hash: 838b480810d663bdb515ad51fda0075a01ed222c01ed5d1cb8be296c4e8adaf3
